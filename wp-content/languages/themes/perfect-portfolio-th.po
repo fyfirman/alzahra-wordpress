@@ -1,0 +1,1850 @@
+# Translation of Themes - Perfect Portfolio in Thai
+# This file is distributed under the same license as the Themes - Perfect Portfolio package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-03 10:44:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: th\n"
+"Project-Id-Version: Themes - Perfect Portfolio\n"
+
+#. Description of the theme
+msgid "Perfect Portfolio is a free portfolio WordPress theme that will help you stand out from the crowd. This premium looking free theme is ideal for freelancers, photographers, digital marketers, agencies, graphic designers, video producers, web designers, web developers, and professional bloggers that want to depict their work in a beautiful layout. If you want to create an easy to use website to showcase your work, case studies, and achievement without writing a single line of code, this theme is perfect for you. Create a perfect portfolio with Perfect Portfolio WordPress theme. The theme also has an eye-catching blog layout which will help you show your expertise on your field through informative content. Perfect Portfolio comes with Schema friendly, Speed Optimized code topped with fully mobile-friendly layout that makes the theme ultra SEO ready, which means Google will love your website. The advanced features like Call To Action, services section, social media integration, WooCommerce integration, and so on is backed with quick human support whenever you face any issues. You will also get free demo content that you can import with a click with this theme. Check the demo at https://rarathemes.com/previews/?theme=perfect-portfolio/, documentation at https://docs.rarathemes.com/docs/perfect-portfolio/ and get support at https://rarathemes.com/support-forum/."
+msgstr "Perfect Portfolio เป็นธีมเวิร์ดเพรสสำหรับสร้างฟอตโฟลิโอ้ที่ฟรีไม่ต้องจ่ายเงิน ที่จะช่วยให้คุณโดดเด่นเหนือคู่แข่ง ธีมที่ดูพรีเมียมนี้เหมาะสำหรับ ฟรีแลนซ์ ช่างภาพ ดิจิตอลมาเกตเตอร์ เอเจนซี่ นักออกแบบกราฟฟิก ผู้กำกับวีดีโอ นักออกแบบเวปไซต์ และบลอกเกอร์มืออาชีพ ที่ต้องการแสดงผลงานบนเลเอาต์ที่สวยงาม หากคุณต้องการสร้างเวปไซต์ง่ายๆ เพื่อแสดงผลงาน, กรณีศึกษา, และความสำเร็จของคุณ โดยไม่ต้องมีความสามาถในการเขียนโค้ดเลย ธีมนี้เป็นธีมที่เหมาะกับคุณ สร้างฟอตโฟลิโอ้ที่สมบูรณ์แบบด้วย ธีม Perfect Portfolio ธีมนี้ยังประกอบด้วย เลเอาท์สำหรับการเขียนบล้อกที่สะดุดตา ที่จะช่วยให้คุณแบ่งปันความรู้ความสามารถผ่านเนื้อหาที่อัดแน่นไปด้วยข้อมูล Perfect Portfolio มีความเป็นมิตรกับผู้ใช้ มาพร้อมกับสมรรถนะความเร็วในการโหลดให้สูงสุดเท่าที่จะเป็น และมีความเป็นมิตรกับมือถือ เพิ่มความพร้อมให้กับ ซีอีโอ นั่นหมายถึง กูเกิ้ลรักและจะหาเวปไซต์ของคุณได้ง่าย ฟีเจอร์ล้ำๆ เช่น Call to Action, ส่วนบริการ, อินติเกชันกับ โซเซียลมีเดีย และ WooCommerce และอื่นๆ พร้อมด้วยความช่วยเหลือจากมนุษย์ ช่วยให้คุณวางใจได้ว่า คุณได้รับความช่วยเหลืออย่างเหลือพอสำหรับปัญหาที่คุณอาจจะเผชิญ คุณตะได้รับฟรีดีโม ซึ่งคุณสามารถอิมพอร์ตด้วยการคลิกเพียงหนึ่งครั้งด้วยธีมนี้ ทดสอบดีโมได้ที่ https://rarathemes.com/previews/?theme=perfect-portfolio/ ดูข้อมูลวิธีการใช้ที่ https://docs.rarathemes.com/docs/perfect-portfolio/ และขอความช่วยเหลือได้ที่ https://rarathemes.com/support-forum/"
+
+#. Theme Name of the theme
+msgid "Perfect Portfolio"
+msgstr "พอตโพลิโอสมบูรณ์แบบ (Perfect Portfolio)"
+
+#: inc/template-functions.php:112
+msgid "Mobile"
+msgstr "มือถือ"
+
+#: inc/custom-functions.php:304 inc/custom-functions.php:308
+msgid "Name"
+msgstr "ชื่อ"
+
+#. translators: 1: string, 2: preview url, 3: string
+#: inc/customizer/info.php:30
+msgid "https://rarathemes.com/previews/?theme=perfect-portfolio/"
+msgstr "https://rarathemes.com/previews/?theme=perfect-portfolio/"
+
+#: inc/custom-functions.php:305 inc/custom-functions.php:310
+msgid "Email"
+msgstr "อีเมล"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:109
+msgid "Jetpack Portfolio"
+msgstr "พอร์ตโฟลิโอ Jetpack"
+
+#: inc/getting-started/tabs/plugins-panel.php:34
+msgid "These Free Plugins might be handy for you."
+msgstr "ปลั๊กอินฟรีเหล่านี้อาจเป็นประโยชน์สำหรับคุณ"
+
+#: inc/getting-started/getting-started.php:16
+#: inc/getting-started/getting-started.php:17
+#: inc/getting-started/getting-started.php:127
+msgid "Getting Started"
+msgstr "เริ่มต้นใช้งาน"
+
+#: inc/getting-started/getting-started.php:105
+msgid "Getting started with %1$s v%2$s"
+msgstr "เริ่มต้นกับ%1$s v%2$s"
+
+#: inc/getting-started/getting-started.php:106
+msgid "You will find everything you need to get started with %1$s below."
+msgstr "คุณจะพบทุกสิ่งที่คุณต้องการเพื่อเริ่มต้นกับ%1$s ด้านล่างนี้"
+
+#: inc/getting-started/getting-started.php:136
+msgid "FAQ's &amp; Support"
+msgstr "คำถามที่พบบ่อย & amp; สนับสนุน"
+
+#: inc/getting-started/getting-started.php:145
+msgid "Free Vs Pro"
+msgstr "ฟรี Vs โปร"
+
+#: inc/custom-functions.php:489
+msgid "Congratulations!"
+msgstr "ยินดีด้วย!"
+
+#: inc/custom-functions.php:490
+msgid "%1$s is now installed and ready to use. Click below to see theme documentation, plugins to install and other details to get started."
+msgstr "ติดตั้ง%1$s แล้ว และพร้อมใช้งาน คลิกด้านล่างเพื่อดูเอกสารเกี่ยวกับธีมปลั๊กอินสำหรับติดตั้งและรายละเอียดอื่น ๆ เพื่อเริ่มต้น"
+
+#: inc/getting-started/tabs/plugins-panel.php:12
+msgid "Here is a list of recommended plugins you should install to get most out of the %1$s. Though every plugin is optional, we recommend you to at least install %2$sRaraTheme Companion%3$s, %2$sRara One Click Demo Import%3$s & %2$sContact Form 7%3$s to create a website similar to the %1$s demo and also to ensure every feature of the theme works correctly."
+msgstr "นี่คือรายการปลั๊กอินที่แนะนำที่คุณควรติดตั้งเพื่อใช้ประโยชน์สูงสุดจาก%1$s แม้ว่าปลั๊กอินทุกตัวจะเป็นทางเลือก แต่เราขอแนะนำให้คุณติดตั้ง%2$s RaraTheme Companion%3$s,%2$s Rara One Click Demo Import%3$s &%2$s แบบฟอร์มการติดต่อ 7%3$s เป็นอย่างน้อยเพื่อสร้างเว็บไซต์ คล้ายกับการสาธิต%1$s และเพื่อให้แน่ใจว่าคุณลักษณะทั้งหมดของธีมทำงานได้อย่างถูกต้อง"
+
+#: inc/custom-functions.php:491
+msgid "Go to the getting started."
+msgstr "ไปที่การเริ่มต้นใช้งาน"
+
+#: inc/custom-functions.php:492
+msgid "Dismiss"
+msgstr "ปิด"
+
+#: inc/getting-started/getting-started.php:118
+#: inc/getting-started/tabs/plugins-panel.php:10
+msgid "Recommended Plugins"
+msgstr "ปลั๊กอินที่แนะนำ"
+
+#: inc/getting-started/tabs/support-panel.php:54
+msgid "Also, when you submit the support ticket, please try to provide maximum details so that we can look into your issue in detail and solve it in minimum time. We recommend you to send us a screenshot(s) with issues explained and your website's address (URL)."
+msgstr "นอกจากนี้เมื่อคุณส่งตั๋วเพื่อขอความสนับสนุน โปรดพยายามให้รายละเอียดให้มากที่สุด เพื่อให้เราจะสามารถตรวจสอบปัญหาของคุณโดยละเอียดและแก้ไขได้ในเวลาที่น้อยที่สุด เราขอแนะนำให้คุณส่งภาพหน้าจอพร้อมกับอธิบายปัญหาและที่อยู่เว็บไซต์ของคุณ (URL)"
+
+#: inc/getting-started/tabs/support-panel.php:51
+msgid "How can I solve my issues quickly and get faster support?"
+msgstr "ฉันจะแก้ปัญหาอย่างรวดเร็วและรับการสนับสนุนที่เร็วขึ้นได้อย่างไร"
+
+#: inc/getting-started/tabs/support-panel.php:45
+msgid "To solve the issue, deactivate all the plugins first, except the ones recommended by the theme. Then, hard reload your website using %1$s\"Ctrl+Shift+R\"%2$s on Windows and %1$s\"Cmd+Shift+R\"%2$s on Mac. If the issues are fixed, start activating the plugins one by one, and reload and check your site each time. This will help you find out the plugin that is causing the problem."
+msgstr "ในการแก้ปัญหานี้ให้ปิดการใช้งานปลั๊กอินทั้งหมดก่อน ยกเว้นปลั๊กอินที่แนะนำโดยธีม จากนั้นโหลดเว็บไซต์ของคุณซ้ำโดยใช้%1$s \"Ctrl + Shift + R\"%2$s บน Windows และ%1$s \"Cmd + Shift + R\"%2$s บน Mac หากปัญหาได้รับการแก้ไขแล้ว ให้เริ่มเปิดใช้งานปลั๊กอินทีละรายการจากนั้นโหลดใหม่และตรวจสอบไซต์ของคุณทุกครั้ง วิธีนี้จะช่วยคุณค้นหาปลั๊กอินที่เป็นสาเหตุของปัญหา"
+
+#: inc/getting-started/tabs/support-panel.php:42
+msgid "Why is my theme not working well?"
+msgstr "เหตุใดธีมของฉันจึงทำงานได้ไม่ดี"
+
+#: inc/getting-started/tabs/support-panel.php:37
+msgid "You can change the copyright text going to %1$sAppearance > Customize > Footer Settings%2$s. However, if you want to hide the author credit text, please %3$supgrade to the Pro version%4$s."
+msgstr "คุณสามารถเปลี่ยนข้อความลิขสิทธิ์ไปที่%1$sAppearance> Customize> Footer Settings%2$s อย่างไรก็ตามหากคุณต้องการซ่อนข้อความเครดิตผู้แต่งโปรด%3$supgrade เป็นรุ่น โปร%4$s"
+
+#: inc/getting-started/tabs/support-panel.php:35
+msgid "How do I change the copyright text?"
+msgstr "ฉันจะเปลี่ยนข้อความลิขสิทธิ์ได้อย่างไร?"
+
+#: inc/getting-started/tabs/plugins-panel.php:33
+msgid "Free Plugins"
+msgstr "ปลั๊กอินฟรี"
+
+#: inc/getting-started/tabs/support-panel.php:53
+msgid "Please ensure that you have updated to the latest version of the theme before you submit a support ticket for any issue. We might have already fixed the bug in the previous theme update."
+msgstr "โปรดตรวจสอบให้แน่ใจว่าคุณได้อัปเดตธีมเป็นเวอร์ชันล่าสุดก่อนที่คุณจะส่งตั๋วขอความสนับสนุนเพื่อแก้ปัญหาใด ๆ เราอาจได้แก้ไขข้อบกพร่องในการอัปเดตธีมก่อนหน้านี้แล้ว"
+
+#: inc/getting-started/tabs/support-panel.php:44
+msgid "If your customizer is not loading properly or you are having issues with the theme, it might be due to the plugin conflict."
+msgstr "หากเครื่องมือปรับแต่งของคุณโหลดไม่ถูกต้อง หรือคุณกำลังมีปัญหากับธีมอาจเป็นเพราะความขัดแย้งของปลั๊กอิน"
+
+#: inc/getting-started/tabs/support-panel.php:46
+msgid "If this didn't help, please contact us via our %1$sSupport Ticket%2$s."
+msgstr "หากวิธีนี้ไม่ได้ผลโปรดติดต่อเราผ่านทาง%1$sSupport Ticket%2$s"
+
+#: inc/getting-started/tabs/support-panel.php:30
+msgid "The Pro version is built with lots of flexibility in mind for future upgrades. Therefore, it is slightly different than the free theme but extremely flexible and easy-to-use."
+msgstr "รุ่นโปร สร้างขึ้นโดยคำนึงถึงความยืดหยุ่นมากมายสำหรับการอัพเกรดในอนาคต ดังนั้นจึงแตกต่างจากธีมฟรีเล็กน้อย แต่มีความยืดหยุ่นและใช้งานง่ายมาก"
+
+#: inc/getting-started/tabs/support-panel.php:29
+msgid "However, since the Pro version comes with added features and settings, you will need to set up the additional features in the customizer. This process is simple and only takes a few minutes."
+msgstr "อย่างไรก็ตามเนื่องจากเวอร์ชัน โปร มาพร้อมกับคุณสมบัติ และการตั้งค่าเพิ่มเติม คุณจะต้องตั้งค่าคุณสมบัติเพิ่มเติมในเครื่องมือปรับแต่ง ขั้นตอนนี้ง่ายและใช้เวลาเพียงไม่กี่นาที"
+
+#: inc/getting-started/tabs/support-panel.php:21
+msgid "Along with the additional features and regular updates, you get dedicated and quick support with the premium theme. If you run into any issue while creating a website with the premium theme, you will get a quicker response compared to the free support."
+msgstr "นอกเหนือจากคุณสมบัติเพิ่มเติมและการอัปเดตปกติแล้วคุณจะได้รับการสนับสนุนโดยเฉพาะและรวดเร็วด้วยธีมพรีเมียม หากคุณประสบปัญหาใด ๆ ในขณะที่สร้างเว็บไซต์ด้วยธีมพรีเมียมคุณจะได้รับการตอบกลับที่รวดเร็วกว่าเมื่อเทียบกับการสนับสนุนฟรี"
+
+#: inc/getting-started/tabs/support-panel.php:26
+msgid "Upgrading to the Pro version- will I lose my changes?"
+msgstr "การอัปเกรดเป็นเวอร์ชันโปร จะทำให้การเปลี่ยนแปลงหายไปหรือไม่?"
+
+#: inc/getting-started/tabs/support-panel.php:28
+msgid "When you upgrade to the Pro theme, your posts, pages, media, categories, and other data will remain intact-- all your data is saved."
+msgstr "เมื่อคุณอัปเกรดเป็นธีมโปร โพสต์ เพจ มีเดีย หมวดหมู่ และข้อมูลอื่น ๆ ของคุณจะยังคงอยู่ - ข้อมูลทั้งหมดของคุณถูกบันทึกไว้แล้ว"
+
+#: inc/getting-started/tabs/support-panel.php:19
+msgid "What are the perks of upgrading to the Premium version?"
+msgstr "ข้อดีของการอัปเกรดเป็นเวอร์ชันพรีเมียมมีอะไรบ้าง?"
+
+#: inc/getting-started/tabs/support-panel.php:14
+msgid "Overall, you will have more control over the customization and editing of your website with the Pro version."
+msgstr "โดยรวมแล้วคุณจะสามารถควบคุมการปรับแต่งและแก้ไขเว็บไซต์ของคุณด้วยเวอร์ชันโปร ได้มากขึ้น"
+
+#: inc/getting-started/tabs/support-panel.php:13
+msgid "Both the Free and Pro version of the themes are coded well and are developed with best coding practices. However, the Pro version of the theme comes with extended features and dedicated support team to help you solve your queries. The Pro theme comes with multiple layouts to help you create a unique and attractive website. Also, the Pro themes are fully compatible with Polylang and WPML plugin to help you create a multilingual blog and get wide reach."
+msgstr "ธีมทั้งเวอร์ชันฟรีและเวอร์ชันโปร ได้รับการเข้ารหัสอย่างดีและได้รับการพัฒนาด้วยแนวทางปฏิบัติในการเขียนโค้ดที่ดีที่สุด อย่างไรก็ตามธีมเวอร์ชันโปร มาพร้อมกับคุณสมบัติเพิ่มเติมและทีมสนับสนุนเฉพาะเพื่อช่วยคุณแก้ไขข้อสงสัยของคุณ ธีมโปร  มาพร้อมกับเลย์เอาต์ที่หลากหลายเพื่อช่วยให้คุณสร้างเว็บไซต์ที่ไม่เหมือนใครและน่าดึงดูด นอกจากนี้ธีมโปร  ยังเข้ากันได้อย่างสมบูรณ์กับปลั๊กอิน Polylang และ WPML เพื่อช่วยให้คุณสร้างบล็อกหลายภาษาและเข้าถึงได้กว้าง"
+
+#: inc/getting-started/tabs/plugins-panel.php:44
+msgid "Version %s"
+msgstr "รุ่น %s"
+
+#: inc/getting-started/tabs/support-panel.php:11
+msgid "What is the difference between Free and Pro?"
+msgstr "ความแตกต่างระหว่าง ฟรี และ โปร คืออะไร?"
+
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the knowledge base"
+msgstr "เยี่ยมชมฐานความรู้"
+
+#: inc/getting-started/tabs/link-panel.php:21
+msgid "Our documentation comes with a step-by-step guide from installing WordPress to customizing our theme to creating an attractive and engaging website."
+msgstr "เอกสารของเรามาพร้อมกับคำแนะนำทีละขั้นตอนตั้งแต่การติดตั้ง WordPress ไปจนถึงการปรับแต่งธีมของเราไปจนถึงการสร้างเว็บไซต์ที่น่าดึงดูดและน่าสนใจ"
+
+#: inc/getting-started/tabs/link-panel.php:20
+msgid "Need help with WordPress and our theme as quickly as possible? Visit our well-organized documentation."
+msgstr "ต้องการความช่วยเหลือเกี่ยวกับ WordPress และธีมของเราโดยเร็วที่สุดหรือไม่? เยี่ยมชมเอกสารที่มีการจัดระเบียบอย่างดีของเรา"
+
+#: inc/getting-started/tabs/link-panel.php:19
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the Knowledge Base"
+msgstr "ไปที่ฐานความรู้"
+
+#: inc/getting-started/tabs/link-panel.php:14
+msgid "Read more about the features here"
+msgstr "อ่านเพิ่มเติมเกี่ยวกับคุณสมบัติที่นี่"
+
+#: inc/getting-started/tabs/link-panel.php:12
+msgid "Also, the premium theme gets regular updates and has a dedicated support team to solve your queries."
+msgstr "นอกจากนี้ธีมพรีเมียมยังได้รับการอัปเดตเป็นประจำ และมีทีมสนับสนุนเฉพาะเพื่อแก้ไขข้อสงสัยของคุณ"
+
+#: inc/getting-started/tabs/link-panel.php:11
+msgid "The Pro version of the theme allows you to change the look and feel of the website with just a few clicks. You can easily change the color, background image and pattern, as well as fonts of the website with the Pro theme. The Pro version comes with multiple layouts to help you create an attractive and engaging website. Furthermore, the premium themes are WPML and Polylang compatible to allow you to create a multilingual website with ease."
+msgstr "ธีมเวอร์ชันโปร ช่วยให้คุณสามารถเปลี่ยนรูปลักษณ์ของเว็บไซต์ได้ด้วยการคลิกเพียงไม่กี่ครั้ง คุณสามารถเปลี่ยนสีภาพพื้นหลังและรูปแบบรวมถึงแบบอักษรของเว็บไซต์ด้วยธีมโปร ได้อย่างง่ายดาย เวอร์ชันโปร มาพร้อมกับเลย์เอาต์ที่หลากหลายเพื่อช่วยให้คุณสร้างเว็บไซต์ที่น่าสนใจและมีส่วนร่วม นอกจากนี้ธีมพรีเมี่ยมยังรองรับ WPML และ Polylang เพื่อให้คุณสร้างเว็บไซต์หลายภาษาได้อย่างง่ายดาย"
+
+#: inc/getting-started/tabs/link-panel.php:10
+msgid "Upgrade To Pro"
+msgstr "อัปเกรดเป็น โปร"
+
+#: inc/getting-started/tabs/help-panel.php:32
+msgid "View Demo"
+msgstr "ดูการสาธิต"
+
+#: inc/getting-started/tabs/help-panel.php:31
+msgid "Visit the Demo"
+msgstr "เยี่ยมชมการสาธิต"
+
+#: inc/getting-started/tabs/help-panel.php:30
+msgid "Visit the demo to get more idea about our theme design and its features."
+msgstr "เยี่ยมชมการสาธิตเพื่อรับแนวคิดเพิ่มเติมเกี่ยวกับการออกแบบธีมและคุณสมบัติต่างๆของเรา"
+
+#: inc/getting-started/tabs/help-panel.php:29
+msgid "View Our %1$s Demo"
+msgstr "ดูการสาธิต%1$s ของเรา"
+
+#: inc/getting-started/tabs/help-panel.php:24
+msgid "Contact Support"
+msgstr "ติดต่อฝ่ายสนับสนุน"
+
+#: inc/getting-started/tabs/help-panel.php:23
+msgid "Visit the Support"
+msgstr "ไปที่การสนับสนุน"
+
+#: inc/getting-started/tabs/help-panel.php:22
+msgid "If the Documentation Guide didn't help you, contact us via our %1$sSupport Ticket%2$s. We reply to all the support queries within one business day, except on the weekends."
+msgstr "หากคู่มือเอกสารไม่สามารถช่วยคุณได้โปรดติดต่อเราผ่านทาง%1$sSupport Ticket%2$s เราตอบกลับคำถามการสนับสนุนทั้งหมดภายในหนึ่งวันทำการยกเว้นวันหยุดสุดสัปดาห์"
+
+#: inc/getting-started/tabs/help-panel.php:21
+msgid "It's always better to visit our %1$sDocumentation Guide%2$s before you send us a support query."
+msgstr "ควรไปที่%1$sDocumentation Guide%2$s ก่อนที่คุณจะส่งคำถามสนับสนุนถึงเรา"
+
+#: inc/getting-started/tabs/help-panel.php:20
+msgid "Support Ticket"
+msgstr "ตั๋วรับการสนับสนุน"
+
+#: inc/getting-started/tabs/help-panel.php:15
+msgid "View Documentation"
+msgstr "ดูเอกสาร"
+
+#: inc/getting-started/tabs/help-panel.php:14
+msgid "Visit the Documentation"
+msgstr "ไปที่เอกสาร"
+
+#: inc/getting-started/tabs/help-panel.php:13
+msgid "Are you new to the WordPress world? Our step by step easy documentation guide will help you create an attractive and engaging website without any prior coding knowledge or experience."
+msgstr "คุณยังใหม่กับโลกของ WordPress หรือไม่? คู่มือเอกสารอย่างง่ายทีละขั้นตอนของเราจะช่วยให้คุณสร้างเว็บไซต์ที่น่าดึงดูดและมีส่วนร่วมโดยไม่ต้องมีความรู้หรือประสบการณ์ด้านการเขียนโค้ด"
+
+#: inc/getting-started/tabs/help-panel.php:12
+msgid "View Our Documentation Link"
+msgstr "ดูลิงค์เอกสารของเรา"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:13
+msgid "View Pro"
+msgstr "ดู Pro"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:12
+#: inc/getting-started/tabs/link-panel.php:13
+msgid "View Premium Version"
+msgstr "ดูเวอร์ชันพรีเมียม"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:11
+msgid "Free vs Pro"
+msgstr "ฟรีเทียบกับโปร"
+
+#: inc/template-functions.php:42
+msgid "Skip to content (Press Enter)"
+msgstr "ข้ามไปที่เนื้อหา (กด Enter)"
+
+#: inc/widgets.php:19
+msgid "Add \"Rara:Icon Text\" widget for about section."
+msgstr "เพิ่มวิดเจ็ต \"Rara: Icon Text\" สำหรับส่วนเกี่ยวกับ"
+
+#: inc/tgmpa/recommended-plugins.php:62
+msgid "Contact Form 7"
+msgstr "แบบฟอร์มติดต่อ 7"
+
+#. translators: 1: list of tags.
+#: inc/extras.php:107
+msgid "Tags :"
+msgstr "ป้ายกำกับ:"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "ปลั๊กอินที่แนะนำต่อไปนี้ไม่ได้ใช้งานอยู่ในขณะนี้: %1$s"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "ปลั๊กอินที่จำเป็นต่อไปนี้ไม่ได้ใช้งานอยู่ในขณะนี้: %1$s"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "มีรายการอัปเดตสำหรับ: %1$s"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "ต้องอัปเดตปลั๊กอินต่อไปนี้ให้เป็นรุ่นล่าสุดเพื่อให้แน่ใจว่าจะใช้ร่วมกับธีมนี้ได้ดีที่สุด: %1$s"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "ธีมนี้แนะนำให้ใช้ปลั๊กอินต่อไปนี้: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "ธีมนี้ต้องใช้ปลั๊กอินต่อไปนี้: %1$s."
+
+#: inc/template-functions.php:719
+msgid "Perfect Portfolio | Developed By "
+msgstr "พอร์ตโฟลิโอที่สมบูรณ์แบบ | พัฒนาโดย"
+
+#: inc/custom-functions.php:451
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "ค้นหา..."
+
+#: inc/custom-functions.php:450
+msgid "Search for:"
+msgstr "ค้นหา:"
+
+#: inc/custom-functions.php:452
+msgctxt "submit button"
+msgid "Search"
+msgstr "ค้นหา"
+
+#. Template Name of the theme
+msgid "Portfolio Template"
+msgstr "เทมเพลตพอร์ตโฟลิโอ"
+
+#: template-parts/content-none.php:48
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "ดูเหมือนว่าเราจะไม่พบสิ่งที่คุณกำลังมองหา บางทีการค้นหาอาจช่วยได้"
+
+#: template-parts/content-none.php:42
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ขออภัยไม่มีสิ่งใดตรงกับคำค้นหาของคุณ โปรดลองอีกครั้ง โดยใช้คำหลักอื่น"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:28
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "พร้อมที่จะเผยแพร่โพสต์แรกของคุณแล้วหรือยัง? <a href=\"%1$s\"> เริ่มต้นที่นี่ </a>"
+
+#: template-parts/content-none.php:17
+msgid "Nothing Found"
+msgstr "ไม่พบสิ่งใด"
+
+#: template-parts/content-none.php:15
+msgid "Add More Posts"
+msgstr "เพิ่มโพสต์เพิ่มเติม"
+
+#: inc/woocommerce-functions.php:102 inc/woocommerce-functions.php:118
+msgid "View your shopping cart"
+msgstr "ดูตะกร้าสินค้าของคุณ"
+
+#: inc/woocommerce-functions.php:41
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr "แถบด้านข้างแสดงเฉพาะในเพจ woocommerce"
+
+#: inc/woocommerce-functions.php:39
+msgid "Shop Sidebar"
+msgstr "แถบด้านข้างของร้านค้า"
+
+#: inc/widgets.php:49
+msgid "Add footer three widgets here."
+msgstr "เพิ่มส่วนท้ายสามวิดเจ็ตที่นี่"
+
+#: inc/widgets.php:47
+msgid "Footer Three"
+msgstr "ส่วนท้ายสาม"
+
+#: inc/widgets.php:44
+msgid "Add footer two widgets here."
+msgstr "เพิ่มส่วนท้ายสองวิดเจ็ตที่นี่"
+
+#: inc/widgets.php:42
+msgid "Footer Two"
+msgstr "ส่วนท้ายสอง"
+
+#: inc/typography.php:349
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr "Lucida Sans Unicode, Lucida Grande"
+
+#: inc/typography.php:348
+msgid "Impact, Charcoal"
+msgstr "Impact, Charcoal"
+
+#: inc/typography.php:347
+msgid "Comic Sans MS, cursive"
+msgstr "Comic Sans MS, cursive"
+
+#: inc/typography.php:346
+msgid "Arial Black, Gadget"
+msgstr "Arial Black, Gadget"
+
+#: inc/typography.php:345
+msgid "Arial, Helvetica"
+msgstr "Arial, Helvetica"
+
+#: inc/typography.php:344
+msgid "Times New Roman, Times"
+msgstr "Times New Roman, Times"
+
+#: inc/typography.php:343
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr "Palatino Linotype, Book Antiqua, Palatino"
+
+#: inc/typography.php:342
+msgid "Georgia"
+msgstr "Georgia"
+
+#: inc/typography.php:25
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "บน"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: inc/typography.php:24
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "บน"
+
+#: inc/tgmpa/recommended-plugins.php:57
+msgid "Rara One Click Demo Import"
+msgstr "คลิกเพื่ออิมพอร์ต Rara One เดโม"
+
+#: inc/tgmpa/recommended-plugins.php:52
+msgid "RaraTheme Companion"
+msgstr "คู่มือ RaraTheme"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "การติดตั้งปลั๊กอิน%1$s (%2$d /%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "การติดตั้งทั้งหมดเสร็จสมบูรณ์แล้ว"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "ติดตั้ง %1$s เรียบร้อยแล้ว"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "ไม่ได้เลือกปลั๊กอินที่จะอัปเดต ไม่มีการดำเนินการใดๆ"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "ไม่ได้เลือกปลั๊กอินที่จะติดตั้ง ไม่มีการดำเนินการใดๆ"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "การอัพเดต"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "ติดตั้ง"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "อัปเกรดข้อความจากผู้เขียนปลั๊กอิน:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "เปิดใช้งาน %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "อัปเดต %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "ติดตั้ง %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "สถานะ"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "รุ่น"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "ชนิด"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "ที่มา"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "ปลั๊กอิน"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "ไม่มีปลั๊กอินที่จะติดตั้ง อัปเดต หรือเปิดใช้งาน"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "รุ่นที่พร้อมติดตั้ง:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "แหล่งที่มาภายนอก"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "พื้นที่จัดเก็บ WordPress"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "แนะนำ"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "ต้องการ"
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1121
+#: inc/tgmpa/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "และ"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "ชุดปลั๊กอินระยะไกลประกอบด้วยไฟล์มากกว่าหนึ่งไฟล์ แต่ไม่ได้จัดไฟล์รวมกันเป็นโฟลเดอร์"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "โปรดติดต่อผู้ให้บริการปลั๊กอินและขอให้จัดชุดปลั๊กอินตามแนวทางของ WordPress"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "ชุดปลั๊กอินระยะไกลไม่มีโฟลเดอร์ที่มี slug ที่ต้องการ ละการเปลี่ยนชื่อไม่สามารถทำได้"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "จำเป็นต้องอัปเดต"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "จะต้องอัปเดตปลั๊กอินนี้เพื่อให้ใช้ได้กับธีมของคุณ"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "โปรดติดต่อผู้ควบคุมเว็บนี้เพื่อขอความช่วยเหลือ"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "มีหนึ่งปลั๊กอินขึ้นไปที่จำเป็นหรือแนะนำให้ติดตั้ง อัปเดต หรือเปิดใช้งาน"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "ปิดข้อความเตือน"
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "ติดตั้งและเปิดใช้งานปลั๊กอินทั้งหมดเรียบร้อยแล้ว %1$s"
+
+#: inc/template-functions.php:722
+msgid " Powered by %s"
+msgstr "ขับเคลื่อนโดย%s"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-functions.php:455
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "แก้ไข<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/template-functions.php:434
+msgid "Page"
+msgstr "หน้า"
+
+#: inc/template-functions.php:433
+msgid "Next"
+msgstr "ถัดไป"
+
+#: inc/template-functions.php:432
+msgid "Previous"
+msgstr "ก่อนหน้า"
+
+#: inc/template-functions.php:420
+msgid "Post Navigation"
+msgstr "เมนูนำทางเรื่อง"
+
+#: inc/template-functions.php:412
+msgid "Next Article"
+msgstr "บทความต่อไป"
+
+#: inc/template-functions.php:404
+msgid "Previous Article"
+msgstr "บทความที่แล้ว"
+
+#: inc/template-functions.php:372
+msgid "Pages:"
+msgstr "หน้า:"
+
+#: inc/template-functions.php:216
+msgid "Search Results"
+msgstr "ผลการค้นหา"
+
+#: inc/template-functions.php:205
+msgid "Portfolio Category"
+msgstr "หมวดหมู่พอร์ตโฟลิโอ"
+
+#: inc/template-functions.php:199
+msgid "Tag"
+msgstr "ป้ายกำกับ"
+
+#: inc/template-functions.php:194
+msgid "Category"
+msgstr "หมวดหมู่"
+
+#: inc/template-functions.php:185 inc/template-functions.php:493
+msgid "All Posts by"
+msgstr "เรื่องทั้งหมดโดย"
+
+#: inc/template-functions.php:168
+msgid "Blog"
+msgstr "บล็อก"
+
+#: inc/extras.php:164
+msgid "Related Projects"
+msgstr "โปรเจ็คที่เกี่ยวข้อง"
+
+#: inc/extras.php:131
+msgid "Recent Posts"
+msgstr "โพสต์ล่าสุด"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/extras.php:89
+msgid ", "
+msgstr ","
+
+#. translators: %s: post title
+#: inc/extras.php:66
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "เขียนความเห็น<span class=\"screen-reader-text\"> on %s</span>"
+
+#. translators: %s: post author.
+#: inc/extras.php:48
+msgctxt "post author"
+msgid "By %s"
+msgstr "โดย %s"
+
+#: inc/extras.php:19
+msgid "updated on "
+msgstr "อัปเดตเมื่อ"
+
+#: inc/extras.php:14
+msgid "on "
+msgstr "บน"
+
+#: inc/customizer-plugin-recommend/plugin-install/class-plugin-install-helper.php:110
+#: inc/getting-started/getting-started.php:40
+msgid "Activating "
+msgstr "กำลังเปิดใช้งาน"
+
+#: inc/customizer-plugin-recommend/plugin-install/class-plugin-install-helper.php:59
+#: inc/getting-started/class-getting-start-plugin-helper.php:85
+msgid "Install and activate"
+msgstr "ติดตั้งและเปิดใช้งาน"
+
+#: inc/customizer-plugin-recommend/customizer-notice/class-customizer-notice.php:144
+msgid "Activating"
+msgstr "กำลังเปิดใช้งาน"
+
+#: inc/customizer/site.php:43
+msgid "Site title and tagline font."
+msgstr "ชื่อไซต์และแบบอักษรสโลแกน"
+
+#: inc/customizer/site.php:42
+msgid "Site Title Font"
+msgstr "แบบอักษรชื่อไซต์"
+
+#: inc/customizer/layout.php:109
+msgid "This is the general sidebar layout for posts. You can override the sidebar layout for individual post in repective post."
+msgstr "นี่คือเค้าโครงแถบด้านข้างทั่วไปสำหรับโพสต์ คุณสามารถแทนที่เค้าโครงแถบด้านข้างสำหรับแต่ละโพสต์ในโพสต์ที่ซ่อมซ้ำได้"
+
+#: inc/customizer/layout.php:108
+msgid "Post Sidebar Layout"
+msgstr "โพสต์เค้าโครงแถบด้านข้าง"
+
+#: inc/customizer/layout.php:82
+msgid "This is the general sidebar layout for pages. You can override the sidebar layout for individual page in repective page."
+msgstr "นี่คือเค้าโครงแถบด้านข้างทั่วไปสำหรับเพจ คุณสามารถแทนที่เค้าโครงแถบด้านข้างสำหรับแต่ละหน้าในหน้าที่ซ่อมแซมได้"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "กระบวนการติดตั้งกำลังจะเริ่มขึ้น ขั้นตอนนี้อาจใช้เวลาสักครู่ในโฮสต์บางกรณี โปรดอดใจรอ"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "กำลังติดตั้งและเปิดใช้งานปลั๊กอิน %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "การติดตั้งและเปิดใช้งานทั้งหมดเสร็จสมบูรณ์"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "ซ่อนรายละเอียด"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "แสดงรายละเอียด"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "ติดตั้งและเปิดใช้งาน %1$s เรียบร้อยแล้ว"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "กระบวนการติดตั้งและเปิดใช้งานกำลังจะเริ่มขึ้น ขั้นตอนนี้อาจใช้เวลาสักครู่ในโฮสต์บางกรณี โปรดอดใจรอ"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "การติดตั้ง %1$s ล้มเหลว"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "เกิดข้อผิดพลาดขณะติดตั้ง %1$s: <strong>%2$s</strong>"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "กำลังอัปเดตปลั๊กอิน %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "การเปิดใช้งานปลั๊กอินล้มเหลว"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "ไม่มีปลั๊กอินที่จะเปิดใช้งานในเวลานี้"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "ไม่ได้เลือกปลั๊กอินที่จะเปิดใช้งาน ไม่มีการดำเนินการใดๆ"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "ไม่มีปลั๊กอินที่จะอัปเดตในเวลานี้"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "ไม่มีปลั๊กอินที่จะติดตั้งในเวลานี้"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "ไม่ได้เปิดใช้งานปลั๊กอิน ต้องใช้ %s รุ่นสูงกว่านี้สำหรับธีมนี้ โปรดอัปเดตปลั๊กอิน"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "ไม่มีการดำเนินการใดๆ ปลั๊กอิน %1$s เปิดใช้งานอยู่แล้ว"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "เปิดใช้งานปลั๊กอินต่อไปนี้เรียบร้อยแล้ว:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "เปิดใช้งานปลั๊กอินสำเร็จแล้ว"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:827
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: inc/tgmpa/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "กลับไปยังหน้าควบคุม"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "กลับสู่โปรแกรมติดตั้งปลั๊กอินที่จำเป็น"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "เริ่มเปิดใช้งานปลั๊กอิน"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "เริ่มอัปเดตปลั๊กอิน"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "เริ่มการติดตั้งปลั๊กอิน"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "ขออภัย เกิดความผิดพลาดกับ API ปลั๊กอิน"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "กำลังอัปเดตปลั๊กอิน: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "ติดตั้งปลั๊กอิน: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "ติดตั้งปลั๊กอิน"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "ติดตั้งปลั๊กอินที่จำเป็น"
+
+#: inc/template-functions.php:722
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: inc/customizer/layout.php:81
+msgid "Page Sidebar Layout"
+msgstr "เค้าโครงแถบด้านข้างของเพจ"
+
+#: inc/customizer/layout.php:60
+msgid "General Sidebar Layout"
+msgstr "เค้าโครงแถบด้านข้างทั่วไป"
+
+#: inc/customizer/layout.php:45
+msgid "Blog Page Layout"
+msgstr "เค้าโครงบล็อก"
+
+#: inc/customizer/layout.php:46
+msgid "This is the layout for blog index page."
+msgstr "นี่คือเค้าโครงสำหรับดัชนีบล็อก"
+
+#: inc/customizer/layout.php:24
+msgid "Blog Layout"
+msgstr "เค้าโครงบล็อก"
+
+#: inc/customizer/layout.php:15
+msgid "Layout Settings"
+msgstr "การตั้งค่าเค้าโครง"
+
+#: inc/customizer/info.php:136
+msgid "VIEW PRO THEME"
+msgstr "ดูธีมโปร"
+
+#: inc/customizer/info.php:134
+msgid "Pro Available"
+msgstr "มีโปร"
+
+#. translators: 1: string, 2: documentation url, 3: string
+#: inc/customizer/info.php:35
+msgid "Documentation Link : "
+msgstr "ลิงค์เอกสาร:"
+
+#. translators: 1: string, 2: preview url, 3: string
+#. translators: 1: string, 2: documentation url, 3: string
+#: inc/customizer/info.php:30 inc/customizer/info.php:35
+msgid "Click here."
+msgstr "คลิ้กที่นี่"
+
+#. translators: 1: string, 2: preview url, 3: string
+#: inc/customizer/info.php:30
+msgid "Demo Link : "
+msgstr "ลิงค์สาธิต:"
+
+#: inc/customizer/info.php:15
+msgid "Demo & Documentation"
+msgstr "การสาธิตและเอกสาร"
+
+#: inc/customizer/general.php:441
+msgid "Enable to hide featured image in post detail (single post page)."
+msgstr "เปิดใช้งานเพื่อซ่อนรูปภาพเด่นในรายละเอียดโพสต์ (หน้าโพสต์เดียว)"
+
+#: inc/customizer/general.php:440
+msgid "Hide Featured Image"
+msgstr "ซ่อนรูปภาพเด่น"
+
+#: inc/customizer/general.php:420
+msgid "Enable to hide posted date."
+msgstr "เปิดใช้งานเพื่อซ่อนวันที่โพสต์"
+
+#: inc/customizer/general.php:225
+msgid "Enable to show excerpt or disable to show full post content."
+msgstr "เปิดใช้งานเพื่อแสดงข้อความที่ตัดตอนมาหรือปิดใช้งานเพื่อแสดงเนื้อหาโพสต์แบบเต็ม"
+
+#: inc/customizer/general.php:224
+msgid "Enable Blog Excerpt"
+msgstr "เปิดใช้งาน Blog Excerpt"
+
+#: inc/customizer/general.php:203
+msgid "Posts(Blog) & Pages Settings"
+msgstr "โพสต์ (บล็อก) และการตั้งค่าเพจ"
+
+#: inc/customizer/general.php:192
+msgid "Enable to show last updated post date on listing as well as in single post."
+msgstr "เปิดใช้งานเพื่อแสดงวันที่โพสต์ที่อัปเดตล่าสุดในรายการและในโพสต์เดียว"
+
+#: inc/customizer/general.php:191
+msgid "Enable Last Update Post Date"
+msgstr "เปิดใช้งานวันที่โพสต์การอัปเดตล่าสุด"
+
+#: inc/customizer/general.php:170
+msgid "SEO Settings"
+msgstr "การตั้งค่า SEO"
+
+#: inc/customizer/general.php:158
+msgid "links"
+msgstr "ลิงก์"
+
+#: inc/customizer/general.php:153
+msgid "Example: http://facebook.com"
+msgstr "ตัวอย่าง: http://facebook.com"
+
+#: inc/customizer/general.php:152
+msgid "Link"
+msgstr "ลิงก์"
+
+#: inc/customizer/general.php:148
+msgid "Example: fa-bell"
+msgstr "ตัวอย่าง: fa-bell"
+
+#: inc/customizer/general.php:147
+msgid "Font Awesome Icon"
+msgstr "ไอคอน Font Awesome"
+
+#: inc/customizer/general.php:143
+msgid "Social Links"
+msgstr "โซเซียลลิงค์"
+
+#: inc/customizer/general.php:121
+msgid "Enable to show social links at header."
+msgstr "เปิดใช้งานเพื่อแสดงลิงค์โซเชียลที่ส่วนหัว"
+
+#: inc/customizer/general.php:120
+msgid "Enable Social Links"
+msgstr "เปิดใช้งานลิงค์โซเชียล"
+
+#: inc/customizer/general.php:99
+msgid "Social Media Settings"
+msgstr "การตั้งค่าโซเชียลมีเดีย"
+
+#: inc/customizer/frontpage.php:117
+msgid "View More Label Url"
+msgstr "ดู URL ป้ายกำกับเพิ่มเติม"
+
+#: inc/customizer/frontpage.php:93
+msgid "View More Label"
+msgstr "ดูป้ายกำกับเพิ่มเติม"
+
+#: inc/customizer/frontpage.php:84 inc/partials.php:84 sections/gallery.php:9
+msgid "View More"
+msgstr "ดูเพิ่มเติม"
+
+#: inc/customizer/frontpage.php:47
+msgid "Enable to show Portfolio section."
+msgstr "เปิดใช้งานเพื่อแสดงส่วนพอร์ตโฟลิโอ"
+
+#: inc/customizer/frontpage.php:68
+msgid "Number Of Portfolio"
+msgstr "จำนวนพอร์ตโฟลิโอ"
+
+#: inc/customizer/frontpage.php:69
+msgid "Set number of latest portfolios to show in portfolio section."
+msgstr "กำหนดจำนวนพอร์ตโฟลิโอสุดเพื่อแสดงในส่วนพอร์ตโฟลิโอ"
+
+#: inc/customizer/frontpage.php:46
+msgid "Enable Portfolio Section"
+msgstr "เปิดใช้งานส่วนพอร์ตโฟลิโอ"
+
+#: inc/customizer/frontpage.php:26
+msgid "Portfolio Section"
+msgstr "ส่วนพอร์ตโฟลิโอ"
+
+#: inc/customizer/frontpage.php:18
+msgid "Customize About, Gallery, Services, Call To Action, Latest Posts, settings."
+msgstr "ปรับแต่งเกี่ยวกับ แกลเลอรี บริการ คำกระตุ้นการตัดสินใจ โพสต์ล่าสุด การตั้งค่า"
+
+#: inc/customizer/frontpage.php:17
+msgid "Front Page Settings"
+msgstr "การตั้งค่าหน้าแรก"
+
+#: inc/customizer/footer.php:34
+msgid "Add Copyright Text Here."
+msgstr "เพิ่มข้อความลิขสิทธิ์ที่นี่"
+
+#: inc/customizer/footer.php:33
+msgid "Footer Copyright Text"
+msgstr "ข้อความลิขสิทธิ์ส่วนท้าย"
+
+#: inc/customizer/footer.php:14
+msgid "Footer Settings"
+msgstr "การตั้งค่าส่วนท้าย"
+
+#: inc/customizer/customizer.php:67
+#: inc/getting-started/class-getting-start-plugin-helper.php:104
+msgid "Deactivate"
+msgstr "ปิดการใช้งาน"
+
+#: inc/customizer-plugin-recommend/plugin-install/class-plugin-install-helper.php:75
+#: inc/customizer/customizer.php:66
+#: inc/getting-started/class-getting-start-plugin-helper.php:89
+#: inc/getting-started/class-getting-start-plugin-helper.php:109
+#: inc/tgmpa/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "เปิดใช้งาน"
+
+#: inc/custom-controls/typography/class-typography-control.php:89
+msgid "Height"
+msgstr "ความสูง"
+
+#: inc/custom-controls/typography/class-typography-control.php:88
+msgid "Size"
+msgstr "ขนาด"
+
+#: inc/custom-controls/typography/class-typography-control.php:87
+msgid "Style"
+msgstr "สไตล์"
+
+#: inc/custom-controls/typography/class-typography-control.php:86
+msgid "Variant"
+msgstr "ตัวแปร"
+
+#: inc/custom-controls/typography/class-typography-control.php:85
+msgid "Select a font-family"
+msgstr "เลือกตระกูลแบบอักษร"
+
+#: inc/custom-controls/typography/class-typography-control.php:84
+msgid "Color"
+msgstr "สี"
+
+#: inc/custom-controls/typography/class-typography-control.php:83
+msgid "Justify"
+msgstr "เต็มแนว"
+
+#: inc/custom-controls/typography/class-typography-control.php:82
+msgid "Center"
+msgstr "ตรงกลาง"
+
+#: inc/custom-controls/typography/class-typography-control.php:81
+msgid "Right"
+msgstr "ขวา"
+
+#: inc/custom-controls/typography/class-typography-control.php:80
+msgid "Left"
+msgstr "ซ้าย"
+
+#: inc/custom-controls/typography/class-typography-control.php:79
+msgid "Bottom"
+msgstr "ด้านล่าง"
+
+#: inc/custom-controls/typography/class-typography-control.php:78
+msgid "Top"
+msgstr "ด้านบน"
+
+#: inc/custom-controls/typography/class-typography-control.php:77
+msgid "Lowercase"
+msgstr "ตัวพิมพ์เล็ก"
+
+#: inc/custom-controls/typography/class-typography-control.php:76
+msgid "Uppercase"
+msgstr "ตัวพิมพ์ใหญ่"
+
+#: inc/custom-controls/typography/class-typography-control.php:75
+msgid "None"
+msgstr "ไม่มี"
+
+#: inc/custom-controls/typography/class-typography-control.php:59
+msgid "Bengali"
+msgstr "เบงกาลี"
+
+#: inc/custom-controls/typography/class-typography-control.php:58
+msgid "Arabic"
+msgstr "ภาษาอาหรับ"
+
+#: inc/custom-controls/typography/class-typography-control.php:57
+msgid "Hebrew"
+msgstr "ภาษาฮีบรู"
+
+#: inc/custom-controls/typography/class-typography-control.php:56
+msgid "Vietnamese"
+msgstr "ภาษาเวียดนาม"
+
+#: inc/custom-controls/typography/class-typography-control.php:55
+msgid "Latin Extended"
+msgstr "ภาษาละตินขยาย"
+
+#: inc/custom-controls/typography/class-typography-control.php:54
+msgid "Latin"
+msgstr "ละติน"
+
+#: inc/custom-controls/typography/class-typography-control.php:53
+msgid "Khmer"
+msgstr "ภาษาเขมร"
+
+#: inc/custom-controls/typography/class-typography-control.php:52
+msgid "Greek Extended"
+msgstr "ภาษากรีก ขยาย"
+
+#: inc/custom-controls/typography/class-typography-control.php:51
+msgid "Greek"
+msgstr "ภาษากรีก"
+
+#: inc/custom-controls/typography/class-typography-control.php:50
+msgid "Devanagari"
+msgstr "ภาษาเทวนาครี"
+
+#: inc/custom-controls/typography/class-typography-control.php:49
+msgid "Cyrillic Extended"
+msgstr "Cyrillic Extended"
+
+#: inc/custom-controls/typography/class-typography-control.php:48
+msgid "Cyrillic"
+msgstr "Cyrillic "
+
+#: inc/custom-controls/typography/class-typography-control.php:47
+#: inc/extras.php:519
+msgid "All"
+msgstr "ทั้งหมด"
+
+#: inc/custom-controls/typography/class-typography-control.php:46
+msgid "OFF"
+msgstr "ปิด"
+
+#: inc/custom-controls/typography/class-typography-control.php:45
+msgid "ON"
+msgstr "เปิด"
+
+#: inc/custom-controls/typography/class-fonts.php:198
+#: inc/custom-controls/typography/class-typography-control.php:92
+msgid "Ultra-Light 100 Italic"
+msgstr "อัลตร้าไลท์ 100 ตัวเอียง"
+
+#: inc/custom-controls/typography/class-fonts.php:199
+#: inc/custom-controls/typography/class-typography-control.php:93
+msgid "Light 200"
+msgstr "ไลท์ (บาง) 200"
+
+#: inc/custom-controls/typography/class-fonts.php:197
+#: inc/custom-controls/typography/class-typography-control.php:91
+msgid "Ultra-Light 100"
+msgstr "อัลตร้าไลท์ 100 "
+
+#: inc/custom-controls/typography/class-fonts.php:144
+msgctxt "font style"
+msgid "Lucida Console, Monaco"
+msgstr "Lucida Console, Monaco"
+
+#: inc/custom-controls/typography/class-fonts.php:140
+msgctxt "font style"
+msgid "Courier New, Courier"
+msgstr "Courier New, Courier"
+
+#: inc/custom-controls/typography/class-fonts.php:136
+msgctxt "font style"
+msgid "Verdana, Geneva"
+msgstr "Verdana, Geneva"
+
+#: inc/custom-controls/typography/class-fonts.php:132
+msgctxt "font style"
+msgid "Trebuchet MS, Helvetica"
+msgstr "Trebuchet MS, Helvetica"
+
+#: inc/custom-controls/typography/class-fonts.php:128
+msgctxt "font style"
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+#: inc/custom-controls/typography/class-fonts.php:124
+msgctxt "font style"
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr "Lucida Sans Unicode, Lucida Grande"
+
+#: inc/custom-controls/typography/class-fonts.php:120
+msgctxt "font style"
+msgid "Impact, Charcoal"
+msgstr "Impact, Charcoal"
+
+#: inc/custom-controls/typography/class-fonts.php:116
+msgctxt "font style"
+msgid "Comic Sans MS, cursive"
+msgstr "Comic Sans MS, cursive"
+
+#: inc/custom-controls/typography/class-fonts.php:112
+msgctxt "font style"
+msgid "Arial Black, Gadget"
+msgstr "Arial Black, Gadget"
+
+#: inc/custom-controls/typography/class-fonts.php:108
+msgctxt "font style"
+msgid "Arial, Helvetica"
+msgstr "Arial, Helvetica"
+
+#: inc/custom-controls/typography/class-fonts.php:104
+msgctxt "font style"
+msgid "Times New Roman, Times"
+msgstr "Times New Roman, Times"
+
+#: inc/custom-controls/typography/class-fonts.php:100
+msgctxt "font style"
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr "Palatino Linotype, Book Antiqua, Palatino"
+
+#: 404.php:21
+msgid "Can not find what you need? Take a moment and do a search below or start from our Homepage."
+msgstr "ไม่พบสิ่งที่คุณต้องการ? ใช้เวลาสักครู่แล้วค้นหาด้านล่าง หรือเริ่มจากโฮมเพจของเรา"
+
+#: 404.php:20
+msgid "Sorry, The Page is Not Found."
+msgstr "ขออภัยไม่พบหน้านี้"
+
+#: 404.php:17
+msgid "404."
+msgstr "404."
+
+#: inc/widgets.php:39
+msgid "Add footer one widgets here."
+msgstr "เพิ่มส่วนท้ายหนึ่งวิดเจ็ตที่นี่"
+
+#: inc/widgets.php:37
+msgid "Footer One"
+msgstr "ส่วนท้ายหนึ่ง"
+
+#: inc/widgets.php:34
+msgid "Add \"Rara:Call To Action\" widget in footer of specific pages."
+msgstr "เพิ่มวิดเจ็ต \"Rara: Call To Action\" ในส่วนท้ายของเพจที่ต้องการ"
+
+#: inc/widgets.php:32
+msgid "Call To Action Footer"
+msgstr "ส่วนท้ายของคำกระตุ้นการตัดสินใจ"
+
+#: inc/widgets.php:29
+msgid "Add \"Rara:Icon Text\" widget for service section."
+msgstr "เพิ่มวิดเจ็ต \"Rara: Icon Text\" สำหรับส่วนบริการ"
+
+#: inc/widgets.php:27
+msgid "Services Section"
+msgstr "ส่วนบริการ"
+
+#: inc/widgets.php:24
+msgid "Add \"Rara:Call To Action\" widget for Call to Action section."
+msgstr "เพิ่มวิดเจ็ต \"Rara: Call To Action\" สำหรับส่วน Call to Action"
+
+#: inc/widgets.php:22
+msgid "Call To Action Section"
+msgstr "ส่วนคำกระตุ้นการตัดสินใจ"
+
+#: inc/widgets.php:17
+msgid "About Section"
+msgstr "ส่วน เกี่ยวกับ"
+
+#: inc/widgets.php:12
+msgid "Sidebar"
+msgstr "แถบด้านข้าง"
+
+#: inc/typography.php:354
+msgid "Lucida Console, Monaco"
+msgstr "Lucida Console, Monaco"
+
+#: inc/typography.php:353
+msgid "Courier New, Courier"
+msgstr "Courier New, Courier"
+
+#: inc/typography.php:352
+msgid "Verdana, Geneva"
+msgstr "Verdana, Geneva"
+
+#: inc/typography.php:351
+msgid "Trebuchet MS, Helvetica"
+msgstr "Trebuchet MS, Helvetica"
+
+#: inc/typography.php:350
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+#: inc/partials.php:55
+msgid "Y"
+msgstr "Y"
+
+#: inc/partials.php:54
+msgid "&copy; Copyright "
+msgstr "&สำเนา; ลิขสิทธิ์"
+
+#: inc/metabox.php:57
+msgid "Choose Sidebar Template"
+msgstr "เลือกเทมเพลตแถบด้านข้าง"
+
+#: inc/metabox.php:47
+msgid "Right Sidebar"
+msgstr "แถบด้านข้างขวา"
+
+#: inc/metabox.php:42
+msgid "Left Sidebar"
+msgstr "แถบด้านข้างซ้าย"
+
+#: inc/metabox.php:37
+msgid "Full Width Centered"
+msgstr "ความกว้างเต็มกึ่งกลาง"
+
+#: inc/metabox.php:32
+msgid "Full Width"
+msgstr "เต็มความกว้าง"
+
+#: inc/metabox.php:27 inc/widgets.php:14
+msgid "Default Sidebar"
+msgstr "แถบด้านข้างเริ่มต้น"
+
+#: inc/metabox.php:14
+msgid "Sidebar Layout"
+msgstr "เค้าโครงแถบด้านข้าง"
+
+#: inc/extras.php:419
+msgid " -- Choose -- "
+msgstr "- เลือก -"
+
+#: inc/extras.php:313
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: inc/extras.php:311
+msgid "Posted on"
+msgstr "เขียนเมื่อ"
+
+#: inc/extras.php:309
+msgid "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s</b> <span class=\"says\">says:</span>"
+msgstr "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s</b> <span class=\"says\">says:</span>"
+
+#: inc/extras.php:306
+msgid "Your comment is awaiting moderation."
+msgstr "ความเห็นของคุณกำลังรอตรวจสอบ"
+
+#: inc/extras.php:238
+msgid "Click here to add a menu"
+msgstr "คลิกที่นี่เพื่อเพิ่มเมนู"
+
+#: inc/customizer/general.php:88
+msgid "Add short description on menu."
+msgstr "เพิ่มคำอธิบายสั้น ๆ ในเมนู"
+
+#: inc/customizer/general.php:87
+msgid "Menu Description"
+msgstr "คำอธิบายเมนู"
+
+#: inc/customizer/general.php:69
+msgid "Enable to show Search button in header."
+msgstr "เปิดใช้งานเพื่อแสดงปุ่มค้นหาในส่วนหัว"
+
+#: inc/customizer/general.php:68
+msgid "Enable Header Search"
+msgstr "เปิดใช้งานการค้นหาส่วนหัว"
+
+#: inc/customizer/general.php:47
+msgid "Enable to show cart in header."
+msgstr "เปิดใช้งานเพื่อแสดงรถเข็นในส่วนหัว"
+
+#: inc/customizer/general.php:46
+msgid "Enable Cart"
+msgstr "เปิดใช้งานรถเข็น"
+
+#: inc/customizer/general.php:25
+msgid "Header Settings"
+msgstr "การตั้งค่าส่วนหัว"
+
+#: inc/customizer/general.php:17
+msgid "General Settings"
+msgstr "ตั้งค่าทั่วไป"
+
+#: inc/customizer/frontpage.php:197
+msgid "View All Label"
+msgstr "ดูป้ายกำกับทั้งหมด"
+
+#: inc/customizer/frontpage.php:188 inc/partials.php:75 sections/blog.php:10
+msgid "View All"
+msgstr "ดูทั้งหมด"
+
+#: inc/customizer/frontpage.php:170
+msgid "Blog Title"
+msgstr "หัวข้อบล็อก"
+
+#: inc/customizer/frontpage.php:160 inc/partials.php:66 sections/blog.php:8
+msgid "Articles"
+msgstr "บทความ"
+
+#: inc/customizer/frontpage.php:150
+msgid "Enable to show blog section."
+msgstr "เปิดใช้งานเพื่อแสดงส่วนบล็อก"
+
+#: inc/customizer/frontpage.php:149
+msgid "Enable Blog Section"
+msgstr "เปิดใช้งานส่วนบล็อก"
+
+#: inc/customizer/frontpage.php:129
+msgid "Blog Section"
+msgstr "ส่วนบล็อก"
+
+#: inc/custom-controls/typography/class-typography-control.php:74
+msgid "Text Transform"
+msgstr "การแปลงข้อความ"
+
+#: inc/custom-controls/typography/class-typography-control.php:73
+msgid "Text Align"
+msgstr "จัดแนวข้อความ"
+
+#: inc/custom-controls/typography/class-typography-control.php:72
+msgid "Letter Spacing"
+msgstr "ระยะห่างของตัวอักษร"
+
+#: inc/custom-controls/typography/class-typography-control.php:71
+msgid "Font Style"
+msgstr "รูปแบบตัวอักษร"
+
+#: inc/custom-controls/typography/class-typography-control.php:70
+msgid "Line Height"
+msgstr "ความสูงของเส้น"
+
+#: inc/custom-controls/typography/class-typography-control.php:69
+msgid "Font Weight"
+msgstr "น้ำหนักตัวอักษร"
+
+#: inc/custom-controls/typography/class-typography-control.php:68
+msgid "Font Size"
+msgstr "ขนาดตัวอักษร"
+
+#: inc/custom-controls/typography/class-typography-control.php:67
+msgid "Font Family"
+msgstr "ตระกูลฟอนต์"
+
+#: inc/custom-controls/typography/class-typography-control.php:65
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: inc/custom-controls/typography/class-typography-control.php:66
+msgctxt "font style"
+msgid "Monospace"
+msgstr "Monospace"
+
+#: inc/custom-controls/typography/class-typography-control.php:64
+msgctxt "font style"
+msgid "Serif"
+msgstr "Serif"
+
+#: inc/custom-controls/typography/class-typography-control.php:63
+msgid "Thai"
+msgstr "ภาษาไทย"
+
+#: inc/custom-controls/typography/class-typography-control.php:62
+msgid "Telugu"
+msgstr "Telugu"
+
+#: inc/custom-controls/typography/class-typography-control.php:61
+msgid "Tamil"
+msgstr "Tamil"
+
+#: inc/custom-controls/typography/class-typography-control.php:60
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: inc/custom-controls/typography/class-fonts.php:96
+msgctxt "font style"
+msgid "Georgia"
+msgstr "Georgia"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:441
+#: inc/custom-controls/repeater/class-control-repeater.php:443
+msgid "Change File"
+msgstr "เปลี่ยนไฟล์"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:441
+#: inc/custom-controls/repeater/class-control-repeater.php:445
+msgid "Add File"
+msgstr "เพิ่มไฟล์"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:430
+#: inc/custom-controls/repeater/class-control-repeater.php:435
+msgid "No File Selected"
+msgstr "ยังไม่มีการเลือกไฟล์"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:405
+#: inc/custom-controls/repeater/class-control-repeater.php:407
+msgid "Change Image"
+msgstr "เปลี่ยนรูปภาพ"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:405
+#: inc/custom-controls/repeater/class-control-repeater.php:409
+msgid "Add Image"
+msgstr "เพิ่มรูปภาพ"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:404
+#: inc/custom-controls/repeater/class-control-repeater.php:469
+msgid "Remove"
+msgstr "ลบ"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:394
+#: inc/custom-controls/repeater/class-control-repeater.php:399
+msgid "No Image Selected"
+msgstr "ยังไม่มีการเลือกรูปภาพ"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:369
+msgid "Hex Value"
+msgstr "Hex Value"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:239
+msgid "Limit: %s rows"
+msgstr "จำกัด :%s แถว"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:83
+msgid "Add new %s"
+msgstr "เพิ่ม%sใหม่"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:75
+msgid "row"
+msgstr "แถว"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "ปิดรับความเห็นแล้ว"
+
+#. translators: 1: comment count number.
+#: comments.php:32
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s ความเห็น"
+
+#: archive.php:15 search.php:15
+msgid "Showing %1$s Result(s)"
+msgstr "กำลังแสดง%1$s ผลลัพธ์"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "รุ่นต่ำที่สุดที่จำเป็น:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "รุ่นที่ติดตั้ง:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "ไม่รู้จัก"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "สำหรับเปิดใช้งาน <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "มีการอัปเดตใหม่แล้ว <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "สำหรับติดตั้ง <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "ทั้งหมด <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "การอัปเดตที่แนะนำ"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "ต้องอัปเดต"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "ไม่มีการอัปเดตที่จำเป็น"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "ใช้งาน"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "ติดตั้งแล้วแต่ไม่ได้เปิดใช้งาน"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "ไม่ได้ติดตั้ง"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "แบบจัดชุดไว้แล้ว"
+
+#: inc/customizer/customizer.php:65
+msgid "Install and Activate"
+msgstr "ติดตั้งและเปิดใช้งาน"
+
+#: inc/customizer/customizer.php:64
+msgid "Recommended Plugin"
+msgstr "ปลั๊กอินที่แนะนำ"
+
+#. translators: %s: plugin name
+#: inc/customizer/customizer.php:60
+msgid "If you want to take full advantage of the features this theme has to offer, please install and activate %s plugin."
+msgstr "หากคุณต้องการใช้ประโยชน์อย่างเต็มที่จากคุณสมบัติที่ธีมนี้มีให้โปรดติดตั้งและเปิดใช้งานปลั๊กอิน%s"
+
+#: inc/customizer/appearance.php:47
+msgid "Primary font of the site."
+msgstr "แบบอักษรหลักของไซต์"
+
+#: inc/customizer/appearance.php:46
+msgid "Primary Font"
+msgstr "แบบอักษรหลัก"
+
+#: inc/customizer/appearance.php:26
+msgid "Typography"
+msgstr "วิชาการพิมพ์"
+
+#: inc/customizer/appearance.php:18
+msgid "Customize Typography, Header Image & Background Image"
+msgstr "ปรับแต่งการพิมพ์ภาพส่วนหัวและภาพพื้นหลัง"
+
+#: inc/customizer/appearance.php:17
+msgid "Appearance Settings"
+msgstr "การตั้งค่าลักษณะที่ปรากฏ"
+
+#: inc/custom-functions.php:325
+msgid "Comment"
+msgstr "ความเห็น"
+
+#: inc/custom-functions.php:312
+msgid "Website"
+msgstr "เว็บไซท์"
+
+#: inc/custom-functions.php:305
+msgid "Email*"
+msgstr "อีเมล*"
+
+#: inc/custom-functions.php:304
+msgid "Name*"
+msgstr "ชื่อ*"
+
+#: inc/custom-functions.php:45 inc/custom-functions.php:109
+msgid "Primary"
+msgstr "หลัก"
+
+#: inc/custom-controls/typography/class-typography-control.php:109
+msgid "Invalid Value"
+msgstr "ค่าไม่ถูกต้อง"
+
+#: inc/custom-controls/typography/class-typography-control.php:90
+msgid "Spacing"
+msgstr "ระยะห่าง"
+
+#: inc/customizer/general.php:419
+msgid "Hide Posted Date"
+msgstr "ซ่อนวันที่โพสต์"
+
+#: inc/customizer/general.php:395
+msgid "Related Posts Section Title"
+msgstr "หัวข้อกระทู้ที่เกี่ยวข้อง"
+
+#: inc/customizer/general.php:384 inc/extras.php:140 inc/partials.php:31
+msgid "You may also like..."
+msgstr "คุณอาจชอบ ..."
+
+#: inc/customizer/general.php:375
+msgid "Enable to show related posts in single page."
+msgstr "เปิดใช้งานเพื่อแสดงโพสต์ที่เกี่ยวข้องในหน้าเดียว"
+
+#: inc/customizer/general.php:374
+msgid "Show Related Posts"
+msgstr "แสดงเรื่องที่เกี่ยวข้อง"
+
+#: inc/customizer/general.php:350
+msgid "Popular Posts Section Title"
+msgstr "หัวข้อกระทู้ยอดนิยม"
+
+#: inc/customizer/general.php:339 inc/extras.php:155 inc/partials.php:40
+msgid "Popular Posts"
+msgstr "โพต์ยอดนิยม"
+
+#: inc/customizer/general.php:330
+msgid "Enable to show popular posts in single page."
+msgstr "เปิดใช้งานเพื่อแสดงโพสต์ยอดนิยมในหน้าเดียว"
+
+#: inc/customizer/general.php:329
+msgid "Show Popular Posts"
+msgstr "แสดงกระทู้ยอดนิยม"
+
+#: inc/customizer/general.php:309
+msgid "Enable to hide author section."
+msgstr "เปิดใช้งานเพื่อซ่อนส่วนผู้เขียน"
+
+#: inc/customizer/general.php:308
+msgid "Hide Author"
+msgstr "ซ่อนผู้เขียน"
+
+#: inc/customizer/general.php:269
+msgid "Blog Desciption"
+msgstr "คำอธิบายบล็อก"
+
+#: inc/customizer/general.php:246
+msgid "Automatically generated excerpt length (in words)."
+msgstr "สร้างความยาวที่ตัดตอนมาโดยอัตโนมัติ (เป็นคำ)"
+
+#: inc/customizer/general.php:245
+msgid "Excerpt Length"
+msgstr "ความยาวที่ตัดตอนมา"
+
+#: inc/custom-controls/typography/class-fonts.php:212
+#: inc/custom-controls/typography/class-typography-control.php:106
+msgid "Extra-Bold 800 Italic"
+msgstr "ตัวเอียง หนาพิเศษ 900"
+
+#: inc/custom-controls/typography/class-fonts.php:211
+#: inc/custom-controls/typography/class-typography-control.php:105
+msgid "Extra-Bold 800"
+msgstr "หนาพิเศษ 800"
+
+#: inc/custom-controls/typography/class-fonts.php:209
+#: inc/custom-controls/typography/class-typography-control.php:103
+msgid "Bold 700"
+msgstr "ตัวหนา 700"
+
+#: inc/custom-controls/typography/class-fonts.php:210
+#: inc/custom-controls/typography/class-typography-control.php:104
+msgid "Bold 700 Italic"
+msgstr "ตัวหนา 700 ตัวเอียง"
+
+#: inc/custom-controls/typography/class-fonts.php:213
+#: inc/custom-controls/typography/class-typography-control.php:107
+msgid "Ultra-Bold 900"
+msgstr "ตัวหนาพิเศษ 900"
+
+#: inc/custom-controls/typography/class-fonts.php:214
+#: inc/custom-controls/typography/class-typography-control.php:108
+msgid "Ultra-Bold 900 Italic"
+msgstr "ตัวเอียง ตัวหนาพิเศษ 900"
+
+#: inc/custom-controls/typography/class-fonts.php:208
+#: inc/custom-controls/typography/class-typography-control.php:102
+msgid "Semi-Bold 600 Italic"
+msgstr "ตัวกึ่งหนา 600 ตัวเอียง"
+
+#: inc/custom-controls/typography/class-fonts.php:207
+#: inc/custom-controls/typography/class-typography-control.php:101
+msgid "Semi-Bold 600"
+msgstr "ตัวกึ่งหนา 600"
+
+#: inc/custom-controls/typography/class-fonts.php:206
+#: inc/custom-controls/typography/class-typography-control.php:100
+msgid "Medium 500 Italic"
+msgstr "ตัวเอียง ปานกลาง 500"
+
+#: inc/custom-controls/typography/class-fonts.php:205
+#: inc/custom-controls/typography/class-typography-control.php:99
+msgid "Medium 500"
+msgstr "ตัวปานกลาง 500"
+
+#: inc/custom-controls/typography/class-fonts.php:204
+#: inc/custom-controls/typography/class-typography-control.php:98
+msgid "Normal 400 Italic"
+msgstr "ตัวปกติ 400 ตัวเอียง"
+
+#: inc/custom-controls/typography/class-fonts.php:203
+#: inc/custom-controls/typography/class-typography-control.php:97
+msgid "Normal 400"
+msgstr "ตัวปกติ 400"
+
+#: inc/custom-controls/typography/class-fonts.php:202
+#: inc/custom-controls/typography/class-typography-control.php:96
+msgid "Book 300 Italic"
+msgstr "หนังสือ 300 ตัวเอียง"
+
+#: inc/custom-controls/typography/class-fonts.php:201
+#: inc/custom-controls/typography/class-typography-control.php:95
+msgid "Book 300"
+msgstr "ตัวหนังสือ 300"
+
+#: inc/custom-controls/typography/class-fonts.php:200
+#: inc/custom-controls/typography/class-typography-control.php:94
+msgid "Light 200 Italic"
+msgstr "ตัวบาง 200 ตัวเอียง"
+
+#: inc/customizer/general.php:288
+msgid "<hr/>These options affect your individual posts."
+msgstr "<hr/>ตัวเลือกเหล่านี้มีผลกระทบกับเรื่องของคุณ"
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#: inc/template-functions.php:720
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/perfect-portfolio/"
+msgstr "https://rarathemes.com/wordpress-themes/perfect-portfolio/"

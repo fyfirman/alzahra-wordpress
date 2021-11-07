@@ -1,0 +1,159 @@
+{
+    "key": "group_58cba114a9d33",
+    "title": "[Widget] Twitter",
+    "fields": [
+        {
+            "key": "field_58cba1bbf5a6d",
+            "label": "Number of Tweets",
+            "name": "twt_max_tweets",
+            "type": "number",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": 1,
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 1,
+            "max": "",
+            "step": ""
+        },
+        {
+            "key": "field_58cba1daf5a6e",
+            "label": "Cache Time",
+            "name": "twt_cache_time",
+            "type": "number",
+            "instructions": "Cache time in minutes.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": 30,
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": "",
+            "max": "",
+            "step": ""
+        },
+        {
+            "key": "field_58cba234f5a6f",
+            "label": "Twitter API Access",
+            "name": "",
+            "type": "message",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "<h3>Step 1:<\/h3>\r\n<p>Go to the <a href=\"https:\/\/dev.twitter.com\/apps\">My applications page<\/a> on the Twitter website to set up your website as a new Twitter 'application'. You may need to log-in using your Twitter user name and password.<\/p>\r\n\r\n<h3>Step 2:<\/h3>\r\n<p>If you don't already have a suitable 'application' that you can use for your website, set one up on the <a href=\"https:\/\/dev.twitter.com\/apps\/new\">Create an Application page<\/a>.<\/p>\r\n<p>It's normally best to use the name, description and website URL of the website where you plan to use this widget.<\/p>\r\n<p>You don't need a Callback URL.<\/p>\r\n\r\n<h3>Step 3:<\/h3>\r\n<p>After clicking <strong>Create your Twitter application<\/strong>, on the following page, click on <strong>Create my access token<\/strong>.<\/p>\r\n\r\n<h3>Step 4:<\/h3>\r\n<p>Copy the <strong>Consumer key<\/strong>, <strong>Consumer secret<\/strong>, <strong>Access token<\/strong> and <strong>Access token secret<\/strong> from your Twitter application page into the settings below.<\/p>\r\n\r\n<h3>Step 5:<\/h3>\r\n<p>Click on Save Changes.<\/p>",
+            "new_lines": "",
+            "esc_html": 0
+        },
+        {
+            "key": "field_58cba275f5a70",
+            "label": "Consumer Key",
+            "name": "twt_consumer_key",
+            "type": "text",
+            "instructions": "",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_58cba27ff5a73",
+            "label": "Consumer Secret",
+            "name": "twt_consumer_secret",
+            "type": "text",
+            "instructions": "",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_58cba27ef5a72",
+            "label": "Access Token",
+            "name": "twt_access_token",
+            "type": "text",
+            "instructions": "",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_58cba27ef5a71",
+            "label": "Access Token Secret",
+            "name": "twt_access_token_secret",
+            "type": "text",
+            "instructions": "",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "widget",
+                "operator": "==",
+                "value": "vinero_widget_twitter"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1498128277
+}

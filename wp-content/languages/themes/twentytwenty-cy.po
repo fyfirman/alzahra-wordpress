@@ -1,0 +1,637 @@
+# Translation of Themes - Twenty Twenty in Welsh
+# This file is distributed under the same license as the Themes - Twenty Twenty package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-14 11:09:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: cy_GB\n"
+"Project-Id-Version: Themes - Twenty Twenty\n"
+
+#. Description of the theme
+msgid "Our default theme for 2020 is designed to take full advantage of the flexibility of the block editor. Organizations and businesses have the ability to create dynamic landing pages with endless layouts using the group and column blocks. The centered content column and fine-tuned typography also makes it perfect for traditional blogs. Complete editor styles give you a good idea of what your content will look like, even before you publish. You can give your site a personal touch by changing the background colors and the accent color in the Customizer. The colors of all elements on your site are automatically calculated based on the colors you pick, ensuring a high, accessible color contrast for your visitors."
+msgstr "Cynlluniwyd ein thema rhagoodedig ar gyfer 2020 i fanteisio'n llawn ar hyblygrwydd y golygydd bloc. Mae gan sefydliadau a busnesau'r gallu i greu tudalennau glanio deinamig gyda chynlluniau diddiwedd gan ddefnyddio'r blociau grŵp a cholofn. Mae'r golofn cynnwys canolog a theipograffeg manwl hefyd yn ei gwneud yn berffaith ar gyfer blogiau traddodiadol. Mae arddulliau golygydd cyflawn yn rhoi syniad da i chi o sut olwg fydd ar eich cynnwys, hyd yn oed cyn i chi gyhoeddi. Gallwch roi cyffyrddiad personol i'ch gwefan trwy newid y lliwiau cefndir a'r lliw acen yn y Cyfaddaswr. Mae lliwiau'r holl elfennau ar eich gwefan yn cael eu cyfrif yn awtomatig yn seiliedig ar y lliwiau rydych chi'n eu dewis, gan sicrhau cyferbyniad lliw uchel, hygyrch i'ch ymwelwyr."
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:20
+msgid "Twenty Twenty"
+msgstr "Twenty Twenty"
+
+#: classes/class-twentytwenty-customize.php:126
+msgctxt "color"
+msgid "Custom"
+msgstr "Cyfaddas"
+
+#: classes/class-twentytwenty-customize.php:125
+msgctxt "color"
+msgid "Default"
+msgstr "Rhagosodedig"
+
+#: inc/block-patterns.php:197
+msgid "With seven floors of striking architecture, UMoMA shows exhibitions of international contemporary art, sometimes along with art historical retrospectives. Existential, political, and philosophical issues are intrinsic to our program. As visitor, you are invited to guided tours artist talks, lectures, film screenings, and other events with free admission."
+msgstr "Gyda saith llawr o bensaernïaeth drawiadol, mae UMoMA yn dangos arddangosfeydd o gelf gyfoes ryngwladol, weithiau ynghyd ag ôl-weithredol hanesyddol celf. Mae materion dirfodol, gwleidyddol ac athronyddol yn gynhenid i'n rhaglen. Fe'ch gwahoddir fel ymwelydd i deithiau tywys, sgyrsiau gan artistiaid, darlithoedd, dangosiadau ffilm a digwyddiadau eraill gyda mynediad am ddim"
+
+#: inc/block-patterns.php:194
+msgid "The Premier Destination for Modern Art in Sweden"
+msgstr "Y Brif Gyrchfan ar gyfer Celf Fodern yng Ngogledd Sweden."
+
+#: inc/block-patterns.php:187
+msgid "Introduction"
+msgstr "Cyflwyniad"
+
+#: inc/block-patterns.php:157 inc/block-patterns.php:171
+msgid "August 1 — December 1"
+msgstr "Awst 1 - Rhagfyr 1"
+
+#: inc/block-patterns.php:151 inc/block-patterns.php:165
+msgid "Abstract Rectangles"
+msgstr "Petryalau Haniaethol"
+
+#: inc/block-patterns.php:142
+msgid "Featured Content"
+msgstr "Cynnwys Nodwedd"
+
+#: inc/block-patterns.php:128
+msgid "<em>Price</em><br>Included"
+msgstr "<em>Pris</em><br>Wedi'i gynnwys"
+
+#: inc/block-patterns.php:123
+msgid "<em>Location</em><br>Exhibit Hall B"
+msgstr "<em>Lleoliad</em><br>Neuadd Arddangos B."
+
+#: inc/block-patterns.php:118
+msgid "<em>Dates</em><br>Aug 1 — Dec 1"
+msgstr "<em>Dyddiadau</em><br>Awst 1 — Rhag 1"
+
+#: inc/block-patterns.php:108
+msgid "Event Details"
+msgstr "Manylion y Digwyddiad"
+
+#: inc/block-patterns.php:93
+msgid "Shop Now"
+msgstr "Siopa Nawr"
+
+#: inc/block-patterns.php:89
+msgid "An awe-inspiring collection of books, prints, and gifts from our exhibitions."
+msgstr "Casgliad syfrdanol o lyfrau, printiau, ac anrhegion o'n harddangosfeydd."
+
+#: inc/block-patterns.php:86
+msgid "The Store"
+msgstr "Y Siop"
+
+#: inc/block-patterns.php:74
+msgid "Award-winning exhibitions featuring internationally-renowned artists."
+msgstr "Arddangosfeydd arobryn yn cynnwys artistiaid o fri rhyngwladol."
+
+#: inc/block-patterns.php:71
+msgid "The Museum"
+msgstr "Yr Amgueddfa"
+
+#: inc/block-patterns.php:61
+msgid "Double Call to Action"
+msgstr "Galwad Ddwbl i Weithredu"
+
+#: inc/block-patterns.php:48
+msgid "Become a Member"
+msgstr "Dewch yn Aelod"
+
+#: inc/block-patterns.php:42
+msgid "Support the Museum and Get Exclusive Offers"
+msgstr "Cefnogwch yr Amgueddfa a Cael Cynigion Unigryw"
+
+#: inc/block-patterns.php:33
+msgid "Call to Action"
+msgstr "Galwad i Weithredu"
+
+#: template-parts/modal-menu.php:73
+msgctxt "menu"
+msgid "Mobile"
+msgstr "Symudol"
+
+#: template-parts/modal-menu.php:48
+msgctxt "menu"
+msgid "Expanded"
+msgstr "Ehangwyd"
+
+#: header.php:88
+msgctxt "menu"
+msgid "Horizontal"
+msgstr "Llorweddol"
+
+#: header.php:53 header.php:157
+msgctxt "toggle text"
+msgid "Search"
+msgstr "Chwilio"
+
+#: functions.php:498
+msgctxt "color"
+msgid "Secondary"
+msgstr "Eilaidd"
+
+#: functions.php:493
+msgctxt "color"
+msgid "Primary"
+msgstr "Cynradd"
+
+#: index.php:51
+msgid "Nothing Found"
+msgstr "Heb Ganfod Dim"
+
+#: classes/class-twentytwenty-customize.php:246
+msgid "Show author bio"
+msgstr "Dangos cyflwyniad yr awdur"
+
+#: template-parts/entry-author-bio.php:29
+msgid "View Archive <span aria-hidden=\"true\">&rarr;</span>"
+msgstr "Gweld yr Archif <span aria-hidden=\"true\">→</span>"
+
+#: inc/starter-content.php:39
+msgctxt "Theme starter content"
+msgid "The New UMoMA Opens its Doors"
+msgstr "Mae'r UMoMA Newydd yn Agor ei Ddrysau"
+
+#: inc/template-tags.php:396
+msgctxt "A string that is output before one or more categories"
+msgid "In"
+msgstr "Yn"
+
+#: inc/starter-content.php:151
+msgid "Join the Club"
+msgstr "Ymunwch â'r Clwb"
+
+#: inc/block-patterns.php:45 inc/starter-content.php:148
+msgid "Members get access to exclusive exhibits and sales. Our memberships cost $99.99 and are billed annually."
+msgstr "Mae aelodau'n cael mynediad at arddangosfeydd a gwerthiannau unigryw. Mae ein haelodaeth yn costio $99.99 ac yn cael ei filio bob blwyddyn."
+
+#: inc/starter-content.php:145
+msgid "Become a Member and Get Exclusive Offers!"
+msgstr "Dewch yn Aelod a Chael Gynigion Unigryw!"
+
+#: inc/starter-content.php:137
+msgid "The exhibitions are produced by UMoMA in collaboration with artists and museums around the world and they often attract international attention. UMoMA has received a Special Commendation from the European Museum of the Year, and was among the top candidates for the Swedish Museum of the Year Award as well as for the Council of Europe Museum Prize."
+msgstr "Cynhyrchir yr arddangosfeydd gan UMoMA mewn cydweithrediad ag artistiaid ac amgueddfeydd ledled y byd ac maent yn aml yn denu sylw rhyngwladol. Mae UMoMA wedi derbyn Canmoliaeth Arbennig gan Amgueddfa'r Flwyddyn Ewropeaidd, ac roedd ymhlith yr ymgeiswyr gorau ar gyfer Gwobr Amgueddfa'r Flwyddyn Sweden yn ogystal ag ar gyfer Gwobr Amgueddfa Cyngor Ewrop."
+
+#: inc/starter-content.php:134
+msgid "With seven floors of striking architecture, UMoMA shows exhibitions of international contemporary art, sometimes along with art historical retrospectives. Existential, political and philosophical issues are intrinsic to our programme. As visitor you are invited to guided tours artist talks, lectures, film screenings and other events with free admission"
+msgstr "Gyda saith llawr o bensaernïaeth drawiadol, mae UMoMA yn dangos arddangosfeydd o gelf gyfoes ryngwladol, weithiau ynghyd ag ôl-weithredol hanesyddol celf. Mae materion dirfodol, gwleidyddol ac athronyddol yn gynhenid i'n rhaglen. Fe'ch gwahoddir fel ymwelydd i deithiau tywys, sgyrsiau gan artistiaid, darlithoedd, dangosiadau ffilm a digwyddiadau eraill gyda mynediad am ddim"
+
+#: inc/starter-content.php:130
+msgid "&#8220;Cyborgs, as the philosopher Donna Haraway established, are not reverent. They do not remember the cosmos.&#8221;"
+msgstr "&#8220; Nid yw Cyborgs, fel y darganfyddodd yr athronydd Donna Haraway, yn barchus. Nid ydynt yn cofio'r cosmos.&#8221;"
+
+#: inc/starter-content.php:114
+msgid "From Signac to Matisse"
+msgstr "O Signac i Matisse"
+
+#: inc/block-patterns.php:168 inc/starter-content.php:99
+msgid "The Life I Deserve"
+msgstr "Y Bywyd rwyf yn ei Haeddu"
+
+#: inc/starter-content.php:85 inc/starter-content.php:117
+msgid "October 1 -- December 1"
+msgstr "Hydref 1 - Rhagfyr 1"
+
+#: inc/starter-content.php:82
+msgid "Theatre of Operations"
+msgstr "Theatr Gweithrediadau"
+
+#: inc/block-patterns.php:78 inc/block-patterns.php:160
+#: inc/block-patterns.php:174 inc/starter-content.php:73
+#: inc/starter-content.php:88 inc/starter-content.php:105
+#: inc/starter-content.php:120
+msgid "Read More"
+msgstr "Darllen Rhagor"
+
+#: inc/starter-content.php:70 inc/starter-content.php:102
+msgid "August 1 -- December 1"
+msgstr "Awst 1 - Rhagfyr 1"
+
+#: inc/block-patterns.php:154 inc/starter-content.php:67
+msgid "Works and Days"
+msgstr "Gweithiau a Dyddiau"
+
+#: inc/starter-content.php:56
+msgid "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+msgstr "Y brif gyrchfan ar gyfer celf fodern yng Ngogledd Sweden. Ar agor rhwng 10 AM a 6 PM bob dydd yn ystod misoedd yr haf."
+
+#: inc/starter-content.php:48
+msgid "The New UMoMA Opens its Doors"
+msgstr "Mae'r UMoMA Newydd yn Agor ei Drysau"
+
+#: classes/class-twentytwenty-customize.php:395
+msgid "Overlay Opacity"
+msgstr "Didreiddedd Troshaen"
+
+#: classes/class-twentytwenty-customize.php:375
+msgid "The color used for the text in the overlay."
+msgstr "Y lliw a ddefnyddir ar gyfer y testun yn y troshaen."
+
+#: classes/class-twentytwenty-customize.php:374
+msgid "Overlay Text Color"
+msgstr "Lliw Testun Troshaen"
+
+#: classes/class-twentytwenty-customize.php:353
+msgid "The color used for the overlay. Defaults to the accent color."
+msgstr "Y lliw a ddefnyddir ar gyfer y troshaen. Diffygion i'r lliw acennu."
+
+#: classes/class-twentytwenty-customize.php:352
+msgid "Overlay Background Color"
+msgstr "Lliw Cefndir Troshaen"
+
+#: classes/class-twentytwenty-customize.php:283
+msgid "Settings for the \"Cover Template\" page template. Add a featured image to use as background."
+msgstr "Gosodiadau ar gyfer y templed tudalen \"Templed Clawr\". Ychwanegwch ddelwedd dan sylw i'w defnyddio fel cefndir."
+
+#: classes/class-twentytwenty-customize.php:183
+msgid "Apply a custom color for links, buttons, featured images."
+msgstr "Defnyddiwch liw cyfaddas wedi'i deilwra ar gyfer dolenni, botymau, delweddau nodwedd."
+
+#: classes/class-twentytwenty-customize.php:123
+msgid "Primary Color"
+msgstr "Prif Liw"
+
+#: template-parts/modal-search.php:20 searchform.php:24
+msgid "Search for:"
+msgstr "Chwilio am:"
+
+#: index.php:101
+msgid "search again"
+msgstr "chwilio eto"
+
+#. translators: %s: Number of search results.
+#: index.php:39
+msgid "We found %s result for your search."
+msgid_plural "We found %s results for your search."
+msgstr[0] "Gwelsom %s canlyniad o'ch chwilio."
+msgstr[1] "Gwelsom %s canlyniad o'ch chwilio."
+msgstr[2] "Gwelsom %s canlyniad o'ch chwilio."
+msgstr[3] "Gwelsom %s canlyniad o'ch chwilio."
+
+#. translators: %s: HTML character for up arrow.
+#: footer.php:49
+msgid "Up %s"
+msgstr "I fyny %s"
+
+#. translators: %s: HTML character for up arrow.
+#: footer.php:43
+msgid "To the top %s"
+msgstr "I'r %s uchaf"
+
+#. translators: Copyright date format, see
+#. https://www.php.net/manual/datetime.format.php
+#: footer.php:25
+msgctxt "copyright date format"
+msgid "Y"
+msgstr "B"
+
+#: 404.php:24
+msgid "404 not found"
+msgstr "404 heb ei ganfod"
+
+#. Template Name of the theme
+msgid "Full Width Template"
+msgstr "Templed Lled Llawn"
+
+#: template-parts/pagination.php:25
+msgid "Older <span class=\"nav-short\">Posts</span>"
+msgstr "<span class=\"nav-short\">Cofnodion</span> Hŷn"
+
+#: template-parts/pagination.php:21
+msgid "Newer <span class=\"nav-short\">Posts</span>"
+msgstr "<span class=\"nav-short\">Cofnodion</span> Newydd"
+
+#: template-parts/navigation.php:25
+msgid "Post"
+msgstr "Cofnod"
+
+#: template-parts/modal-search.php:26
+msgid "Close search"
+msgstr "Cau'r chwilio"
+
+#: template-parts/modal-menu.php:117
+msgid "Expanded Social links"
+msgstr "Dolenni cymdeithasol estynedig"
+
+#: template-parts/modal-menu.php:21
+msgid "Close Menu"
+msgstr "Cau'r Ddewislen"
+
+#: template-parts/footer-menus-widgets.php:57
+msgid "Social links"
+msgstr "Dolenni cymdeithasol"
+
+#: template-parts/footer-menus-widgets.php:37
+msgid "Footer"
+msgstr "Troedyn"
+
+#. translators: %s: Author name.
+#: template-parts/entry-author-bio.php:20 inc/template-tags.php:357
+msgid "By %s"
+msgstr "Gan %s"
+
+#: template-parts/content.php:48 template-parts/content-cover.php:138
+msgid "Pages:"
+msgstr "Tudalennau:"
+
+#: template-parts/content.php:48 template-parts/content-cover.php:138
+msgid "Page"
+msgstr "Tudalen"
+
+#: template-parts/content-cover.php:88
+msgid "Scroll Down"
+msgstr "Sgrolio i Lawr"
+
+#: searchform.php:27
+msgctxt "submit button"
+msgid "Search"
+msgstr "Chwilio"
+
+#: searchform.php:25
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Chwilio &hellip;"
+
+#: index.php:48
+msgid "We could not find any results for your search. You can give it another try through the search form below."
+msgstr "Nid ydym wedi gallu dod o hyd i unrhyw ganlyniadau o'ch chwilio. Gallwch roi cynnig arall arno trwy'r ffurflen chwilio isod."
+
+#: index.php:32
+msgid "Search:"
+msgstr "Chwilio:"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:207
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Golygu<span class=\"screen-reader-text\"> %s</span>"
+
+#: inc/template-tags.php:448
+msgid "Sticky post"
+msgstr "Cofnod gludiog"
+
+#: inc/template-tags.php:410
+msgid "Tags"
+msgstr "Tagiau"
+
+#: template-parts/content-cover.php:70 template-parts/entry-header.php:36
+#: inc/template-tags.php:392
+msgid "Categories"
+msgstr "Categorïau"
+
+#: inc/template-tags.php:374
+msgid "Post date"
+msgstr "Dyddiad cofnod"
+
+#: inc/template-tags.php:350
+msgid "Post author"
+msgstr "Awdur cofnod"
+
+#: inc/starter-content.php:197
+msgid "Social Links Menu"
+msgstr "Dewislen Dolenni Cymdeithasol"
+
+#: inc/starter-content.php:177 inc/starter-content.php:187
+msgid "Primary"
+msgstr "Cynradd"
+
+#: header.php:76 header.php:137
+msgid "Menu"
+msgstr "Dewislen"
+
+#: template-parts/content.php:36
+msgid "Continue reading"
+msgstr "Parhau i ddarllen"
+
+#: functions.php:550
+msgctxt "Short name of the larger font size in the block editor."
+msgid "XL"
+msgstr "MWY"
+
+#: functions.php:549
+msgctxt "Name of the larger font size in the block editor"
+msgid "Larger"
+msgstr "Mwy"
+
+#: functions.php:544
+msgctxt "Short name of the large font size in the block editor."
+msgid "L"
+msgstr "MAWR"
+
+#: functions.php:543
+msgctxt "Name of the large font size in the block editor"
+msgid "Large"
+msgstr "Mawr"
+
+#: functions.php:538
+msgctxt "Short name of the regular font size in the block editor."
+msgid "M"
+msgstr "ARF"
+
+#: functions.php:537
+msgctxt "Name of the regular font size in the block editor"
+msgid "Regular"
+msgstr "Arferol"
+
+#: functions.php:532
+msgctxt "Short name of the small font size in the block editor."
+msgid "S"
+msgstr "BACH"
+
+#: functions.php:531
+msgctxt "Name of the small font size in the block editor"
+msgid "Small"
+msgstr "Bach"
+
+#: functions.php:516
+msgid "Background Color"
+msgstr "Lliw Cefndir"
+
+#: functions.php:503
+msgid "Subtle Background"
+msgstr "Cefndir Cynnil"
+
+#: functions.php:488
+msgid "Accent Color"
+msgstr "Lliw Acennog"
+
+#: functions.php:383
+msgid "Widgets in this area will be displayed in the second column in the footer."
+msgstr "Bydd teclynnau yn yr ardal hon yn cael eu harddangos yn yr ail golofn yn y troedyn."
+
+#: functions.php:381
+msgid "Footer #2"
+msgstr "Troedyn #2"
+
+#: functions.php:371
+msgid "Widgets in this area will be displayed in the first column in the footer."
+msgstr "Bydd teclynnau yn yr ardal hon yn cael eu harddangos yn y golofn gyntaf yn y troedyn."
+
+#: functions.php:369
+msgid "Footer #1"
+msgstr "Troedyn #1"
+
+#: functions.php:344
+msgid "Skip to the content"
+msgstr "Symud i'r cynnwys"
+
+#: functions.php:266
+msgid "Social Menu"
+msgstr "Dewislen Cymdeithasol"
+
+#: functions.php:265
+msgid "Footer Menu"
+msgstr "Dewislen y Troedyn"
+
+#: functions.php:264
+msgid "Mobile Menu"
+msgstr "Dewislen Symudol"
+
+#: functions.php:263
+msgid "Desktop Expanded Menu"
+msgstr "Dewislen Ehangedig Bwrdd Gwaith"
+
+#: functions.php:262
+msgid "Desktop Horizontal Menu"
+msgstr "Dewislen Llorweddol Bwrdd Desg"
+
+#: footer.php:33
+msgid "Powered by WordPress"
+msgstr "Grym WordPress"
+
+#: comments.php:127
+msgid "Comments are closed."
+msgstr "Mae'r sylwadau wedi cau."
+
+#: comments.php:88
+msgid "Comments"
+msgstr "Sylwadau"
+
+#: comments.php:75
+msgid "Older Comments"
+msgstr "Sylwadau Hŷn"
+
+#: comments.php:74
+msgid "Newer Comments"
+msgstr "Sylwadau Diweddaraf"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s atebion ar &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s ateb ar &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s ateb ar &ldquo;%2$s&rdquo;"
+msgstr[3] "%1$s ateb ar &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Post title.
+#: comments.php:37
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr "Un ateb ar &ldquo;%s&rdquo;"
+
+#: comments.php:34
+msgid "Leave a comment"
+msgstr "Gadael sylw"
+
+#: classes/class-twentytwenty-walker-page.php:107 inc/template-tags.php:558
+msgid "Show sub menu"
+msgstr "Dangos is-ddewislen"
+
+#. translators: %d: ID of a post.
+#: classes/class-twentytwenty-walker-page.php:70
+msgid "#%d (no title)"
+msgstr "#%d (dim teitl)"
+
+#: classes/class-twentytwenty-walker-comment.php:133
+msgid "By Post Author"
+msgstr "Yn Ôl Awdur y Cofnod"
+
+#: classes/class-twentytwenty-walker-comment.php:98
+msgid "Your comment is awaiting moderation."
+msgstr "Mae eich sylw yn aros i gael ei gymedroli."
+
+#: classes/class-twentytwenty-walker-comment.php:82
+msgid "Edit"
+msgstr "Golygu"
+
+#. translators: 1: Comment date, 2: Comment time.
+#: classes/class-twentytwenty-walker-comment.php:68
+msgid "%1$s at %2$s"
+msgstr "%1$s yn %2$s"
+
+#: classes/class-twentytwenty-walker-comment.php:56
+msgid "says:"
+msgstr "yn dweud:"
+
+#: classes/class-twentytwenty-customize.php:396
+msgid "Make sure that the contrast is high enough so that the text is readable."
+msgstr "Sicrhewch fod y cyferbyniad yn ddigon uchel fel bod y testun yn ddarllenadwy."
+
+#: classes/class-twentytwenty-customize.php:306
+msgid "Creates a parallax effect when the visitor scrolls."
+msgstr "Yn creu effaith parallacs pan fydd yr ymwelydd yn sgrolio."
+
+#: classes/class-twentytwenty-customize.php:305
+msgid "Fixed Background Image"
+msgstr "Delwedd Cefndir Sefydlog"
+
+#. Template Name of the theme
+#: classes/class-twentytwenty-customize.php:281
+msgid "Cover Template"
+msgstr "Templed Clawr"
+
+#: classes/class-twentytwenty-customize.php:270
+msgid "Summary"
+msgstr "Crynodeb"
+
+#: classes/class-twentytwenty-customize.php:269
+msgid "Full text"
+msgstr "Testun llawn"
+
+#: classes/class-twentytwenty-customize.php:267
+msgid "On archive pages, posts show:"
+msgstr "Ar dudalennau archif, mae cofnodion yn dangos:"
+
+#: classes/class-twentytwenty-customize.php:225
+msgid "Show search in header"
+msgstr "Dangos chwilio yn y pennawd"
+
+#: classes/class-twentytwenty-customize.php:202
+msgid "Theme Options"
+msgstr "Opsiynau Thema"
+
+#: classes/class-twentytwenty-customize.php:101
+msgid "Header &amp; Footer Background Color"
+msgstr "Pennawd &amp; Lliw Cefndir Troedyn"
+
+#: classes/class-twentytwenty-customize.php:82
+msgid "Scales the logo to half its uploaded size, making it sharp on high-res screens."
+msgstr "Yn lleihau'r logo i hanner ei faint wedi'i lwytho, gan ei wneud yn siarp ar sgriniau cydraniad uchel."
+
+#: classes/class-twentytwenty-customize.php:81
+msgid "Retina logo"
+msgstr "Logo retina"
+
+#: 404.php:19
+msgid "The page you were looking for could not be found. It might have been removed, renamed, or did not exist in the first place."
+msgstr "Nid oedd modd dod o hyd i'r dudalen yr oeddech yn edrych amdani. Efallai ei bod wedi'i symud, ei hailenwi, neu heb fodoli o gwbl."
+
+#: 404.php:17
+msgid "Page Not Found"
+msgstr "Heb Ganfod y Dudalen"
+
+#. Author URI of the theme
+#: footer.php:32
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "tîm WordPress"
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentytwenty/"
+msgstr "https://wordpress.org/themes/twentytwenty/"

@@ -1,0 +1,1863 @@
+# Translation of Themes - Perfect Portfolio in Ukrainian
+# This file is distributed under the same license as the Themes - Perfect Portfolio package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-06-18 07:12:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Themes - Perfect Portfolio\n"
+
+#. Description of the theme
+msgid "Perfect Portfolio is a free portfolio WordPress theme that will help you stand out from the crowd. This premium looking free theme is ideal for freelancers, photographers, digital marketers, agencies, graphic designers, video producers, web designers, web developers, and professional bloggers that want to depict their work in a beautiful layout. If you want to create an easy to use website to showcase your work, case studies, and achievement without writing a single line of code, this theme is perfect for you. Create a perfect portfolio with Perfect Portfolio WordPress theme. The theme also has an eye-catching blog layout which will help you show your expertise on your field through informative content. Perfect Portfolio comes with Schema friendly, Speed Optimized code topped with fully mobile-friendly layout that makes the theme ultra SEO ready, which means Google will love your website. The advanced features like Call To Action, services section, social media integration, WooCommerce integration, and so on is backed with quick human support whenever you face any issues. You will also get free demo content that you can import with a click with this theme. Check the demo at https://rarathemes.com/previews/?theme=perfect-portfolio/, documentation at https://docs.rarathemes.com/docs/perfect-portfolio/ and get support at https://rarathemes.com/support-forum/."
+msgstr "Perfect Portfolio - це безкоштовна тематична WordPress тема, яка допоможе вам виділитися з натовпу. Ця безкоштовна тема ідеально підходить для фрілансерів, фотографів, цифрових маркетологів, агентств, графічних дизайнерів, відеопродюсерів, веб-дизайнерів, веб-розробників та професійних блогерів, які хочуть зобразити свою роботу у красивому макеті. Якщо ви хочете створити простий у використанні веб-сайт для демонстрації вашої роботи, тематичних досліджень та досягнень, не написавши жодного рядка коду, ця тема ідеально підходить для вас. Створіть ідеальне портфоліо за допомогою теми Perfect Portfolio WordPress. Тема також має привабливий макет блогу, який допоможе вам показати свій досвід у своїй галузі за допомогою інформаційного змісту. Perfect Portfolio постачається із Schema дружнім кодом, оптимізованою під швидкість, укомплектована повністю мобільним макетом, що робить тему ультра SEO готовою, а значить, Google сподобається ваш веб-сайт. Розширені функції, такі як Заклик до дії, розділ послуг, інтеграція соціальних медіа, інтеграція WooCommerce тощо, підтримуються швидкою людською підтримкою, коли ви стикаєтесь з будь-якими проблемами. Ви також отримаєте безкоштовний демо-контент, який ви можете імпортувати, натиснувши цю тему. Перевірте демонстрацію на https://demo.rarathemes.com/perfect-portfolio/, документацію на https://docs.rarathemes.com/docs/perfect-portfolio/ та отримайте підтримку на веб-сайті https://rarathemes.com/support-forum/."
+
+#. Theme Name of the theme
+msgid "Perfect Portfolio"
+msgstr "Perfect Portfolio"
+
+#: inc/getting-started/getting-started.php:118
+#: inc/getting-started/tabs/plugins-panel.php:10
+msgid "Recommended Plugins"
+msgstr "Рекомендовані плагіни"
+
+#: inc/getting-started/tabs/support-panel.php:51
+msgid "How can I solve my issues quickly and get faster support?"
+msgstr "Як швидко вирішити свої проблеми та отримати швидшу підтримку?"
+
+#: inc/getting-started/tabs/support-panel.php:44
+msgid "If your customizer is not loading properly or you are having issues with the theme, it might be due to the plugin conflict."
+msgstr "Якщо ваш налаштовувач не завантажується належним чином або у вас виникають проблеми з темою, це може бути пов’язано з конфліктом плагіну."
+
+#: inc/getting-started/tabs/support-panel.php:42
+msgid "Why is my theme not working well?"
+msgstr "Чому моя тема не працює добре?"
+
+#: inc/getting-started/tabs/support-panel.php:37
+msgid "You can change the copyright text going to %1$sAppearance > Customize > Footer Settings%2$s. However, if you want to hide the author credit text, please %3$supgrade to the Pro version%4$s."
+msgstr "Ви можете змінити текст авторських прав, перейшовши на %1$sВид > Налаштування > Налаштування підвалу%2$s. Однак якщо ви хочете приховати текст авторського права, будь ласка, %3$sоновіться до Pro версії%4$s."
+
+#: inc/getting-started/tabs/support-panel.php:45
+msgid "To solve the issue, deactivate all the plugins first, except the ones recommended by the theme. Then, hard reload your website using %1$s\"Ctrl+Shift+R\"%2$s on Windows and %1$s\"Cmd+Shift+R\"%2$s on Mac. If the issues are fixed, start activating the plugins one by one, and reload and check your site each time. This will help you find out the plugin that is causing the problem."
+msgstr "Щоб вирішити проблему, спочатку вимкніть усі плагіни, окрім рекомендованих темою. Потім перезавантажте веб-сайт, використовуючи %1$s\"Ctrl+Shift+R\"%2$s у Windows та %1$s\"Cmd+Shift+R\"%2$s на Mac. Якщо проблеми виправлені, починайте активувати плагіни по черзі та щоразу перезавантажуйте та перевіряйте свій сайт. Це допоможе вам знайти плагін, який викликає проблему."
+
+#: inc/getting-started/tabs/support-panel.php:35
+msgid "How do I change the copyright text?"
+msgstr "Як змінити текст авторського права?"
+
+#: inc/getting-started/tabs/support-panel.php:30
+msgid "The Pro version is built with lots of flexibility in mind for future upgrades. Therefore, it is slightly different than the free theme but extremely flexible and easy-to-use."
+msgstr "Версія Pro побудована з великою гнучкістю з думкою про майбутні оновленя. Тому вона трохи відрізняється від безкоштовної теми, але надзвичайно гнучка і проста у використанні."
+
+#: inc/getting-started/tabs/support-panel.php:29
+msgid "However, since the Pro version comes with added features and settings, you will need to set up the additional features in the customizer. This process is simple and only takes a few minutes."
+msgstr "Однак, оскільки Pro версія оснащена додатковими функціями та налаштуваннями, вам потрібно буде встановити додаткові функції у налаштуваннях. Цей процес простий і займає лише кілька хвилин."
+
+#: inc/getting-started/tabs/support-panel.php:28
+msgid "When you upgrade to the Pro theme, your posts, pages, media, categories, and other data will remain intact-- all your data is saved."
+msgstr "Після оновлення до теми Pro ваші записи, сторінки, медіа, категорії та інші дані залишаться недоторканими - всі ваші дані будуть збережені."
+
+#: inc/getting-started/tabs/support-panel.php:26
+msgid "Upgrading to the Pro version- will I lose my changes?"
+msgstr "Оновлення до версії Pro - чи втрачу я свої налаштування?"
+
+#: inc/custom-functions.php:492
+msgid "Dismiss"
+msgstr "Сховати"
+
+#: inc/custom-functions.php:491
+msgid "Go to the getting started."
+msgstr "Перейдіть до початку роботи."
+
+#: inc/custom-functions.php:490
+msgid "%1$s is now installed and ready to use. Click below to see theme documentation, plugins to install and other details to get started."
+msgstr "%1$s зараз встановлено та готове до використання. Клацніть нижче, щоб переглянути документацію теми, додатки для встановлення та інші деталі, щоб розпочати роботу."
+
+#: inc/custom-functions.php:489
+msgid "Congratulations!"
+msgstr "Вітання!"
+
+#: inc/getting-started/getting-started.php:145
+msgid "Free Vs Pro"
+msgstr "Free проти Pro"
+
+#: inc/getting-started/getting-started.php:136
+msgid "FAQ's &amp; Support"
+msgstr "ЧаПи та Підтримка"
+
+#: inc/getting-started/getting-started.php:106
+msgid "You will find everything you need to get started with %1$s below."
+msgstr "Ви знайдете все, що потрібно для початку роботи з %1$s нижче."
+
+#: inc/getting-started/getting-started.php:105
+msgid "Getting started with %1$s v%2$s"
+msgstr "Почніть працювати з %1$s в%2$s"
+
+#: inc/getting-started/getting-started.php:16
+#: inc/getting-started/getting-started.php:17
+#: inc/getting-started/getting-started.php:127
+msgid "Getting Started"
+msgstr "Початок роботи"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:109
+msgid "Jetpack Portfolio"
+msgstr "Jetpack портфоліо "
+
+#: inc/getting-started/tabs/plugins-panel.php:44
+msgid "Version %s"
+msgstr "Версія %s"
+
+#: inc/getting-started/tabs/plugins-panel.php:34
+msgid "These Free Plugins might be handy for you."
+msgstr "Ці безкоштовні плагіни можуть бути корисними для вас."
+
+#: inc/getting-started/tabs/plugins-panel.php:33
+msgid "Free Plugins"
+msgstr "Безкоштовні плагіни"
+
+#: inc/getting-started/tabs/support-panel.php:53
+msgid "Please ensure that you have updated to the latest version of the theme before you submit a support ticket for any issue. We might have already fixed the bug in the previous theme update."
+msgstr "Будь ласка, переконайтеся, що ви оновили сайт до останньої версії теми, перш ніж надсилати запит на підтримку з будь-якого питання. Ми могли вже виправити помилку в попередньому оновлення теми."
+
+#: inc/getting-started/tabs/support-panel.php:46
+msgid "If this didn't help, please contact us via our %1$sSupport Ticket%2$s."
+msgstr "Якщо це не допомогло, зв’яжіться з нами за допомогою нашого %1$sЗапита в підтримку%2$s."
+
+#: inc/getting-started/tabs/support-panel.php:21
+msgid "Along with the additional features and regular updates, you get dedicated and quick support with the premium theme. If you run into any issue while creating a website with the premium theme, you will get a quicker response compared to the free support."
+msgstr "Поряд з додатковими функціями та регулярними оновленнями ви отримуєте віддану та швидку підтримку з преміальною темою. Якщо ви зіткнетесь з будь-якою проблемою під час створення веб-сайту з преміальною темою, ви отримаєте швидшу відповідь порівняно з безкоштовною підтримкою."
+
+#: inc/getting-started/tabs/support-panel.php:19
+msgid "What are the perks of upgrading to the Premium version?"
+msgstr "Які переваги є оновлення до версії Premium?"
+
+#: inc/getting-started/tabs/support-panel.php:14
+msgid "Overall, you will have more control over the customization and editing of your website with the Pro version."
+msgstr "Загалом, ви матимете більше контролю над налаштуванням та редагуванням свого веб-сайту за допомогою версії Pro."
+
+#: inc/getting-started/tabs/plugins-panel.php:12
+msgid "Here is a list of recommended plugins you should install to get most out of the %1$s. Though every plugin is optional, we recommend you to at least install %2$sRaraTheme Companion%3$s, %2$sRara One Click Demo Import%3$s & %2$sContact Form 7%3$s to create a website similar to the %1$s demo and also to ensure every feature of the theme works correctly."
+msgstr "Ось список рекомендованих плагінів, які слід встановити, щоб отримати максимальну користь від %1$s. Хоча кожен плагін необов’язковий, ми рекомендуємо вам принаймні встановити %2$sRaraTheme Companion%3$s, %2$sRara One Click Demo Import%3$s та %2$sContact Form 7%3$s для створення веб-сайту, схожого на демонстрацію %1$s, а також для забезпечення правильної роботи кожної функції теми."
+
+#: inc/getting-started/tabs/support-panel.php:54
+msgid "Also, when you submit the support ticket, please try to provide maximum details so that we can look into your issue in detail and solve it in minimum time. We recommend you to send us a screenshot(s) with issues explained and your website's address (URL)."
+msgstr "Також, надсилаючи запит на підтримку, будь ласка, спробуйте надати максимально можливі деталі, щоб ми могли детально вивчити вашу проблему та вирішити її за мінімальний час. Ми рекомендуємо надіслати нам знімки екрана з поясненими проблемами та адресою вашого веб-сайту (URL)."
+
+#: inc/getting-started/tabs/support-panel.php:13
+msgid "Both the Free and Pro version of the themes are coded well and are developed with best coding practices. However, the Pro version of the theme comes with extended features and dedicated support team to help you solve your queries. The Pro theme comes with multiple layouts to help you create a unique and attractive website. Also, the Pro themes are fully compatible with Polylang and WPML plugin to help you create a multilingual blog and get wide reach."
+msgstr "Безкоштовна і Pro версія тем добре закодована і розроблена з найкращими методами кодування. Однак версія Pro має тему з розширеними функціями та спеціальною командою підтримки, яка допоможе вам вирішити запити. Тема Pro має кілька макетів, які допоможуть вам створити унікальний та привабливий веб-сайт. Також теми Pro повністю сумісні з плагіном Polylang та WPML, щоб допомогти вам створити багатомовний блог та отримати широкий доступ."
+
+#: inc/getting-started/tabs/support-panel.php:11
+msgid "What is the difference between Free and Pro?"
+msgstr "Яка різниця між Безкоштовною та Про?"
+
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the knowledge base"
+msgstr "Відвідайте нашу базу знань"
+
+#: inc/getting-started/tabs/link-panel.php:19
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the Knowledge Base"
+msgstr "Відвідайте нашу базу знань"
+
+#: inc/getting-started/tabs/link-panel.php:21
+msgid "Our documentation comes with a step-by-step guide from installing WordPress to customizing our theme to creating an attractive and engaging website."
+msgstr "Наша документація містить покрокове керівництво від встановлення WordPress до налаштування нашої теми та створення привабливого та захоплюючого веб-сайту."
+
+#: inc/getting-started/tabs/link-panel.php:20
+msgid "Need help with WordPress and our theme as quickly as possible? Visit our well-organized documentation."
+msgstr "Вам потрібна допомога з використанням WordPress та нашою темою якомога швидше? Відвідайте нашу добре організовану базу знань!"
+
+#: inc/getting-started/tabs/link-panel.php:14
+msgid "Read more about the features here"
+msgstr "Детальніше про функції читайте тут"
+
+#: inc/getting-started/tabs/link-panel.php:12
+msgid "Also, the premium theme gets regular updates and has a dedicated support team to solve your queries."
+msgstr "Також версія Pro регулярно оновлюється та має спеціалізовану службу підтримки, яка вирішує ваші запити."
+
+#: inc/getting-started/tabs/link-panel.php:11
+msgid "The Pro version of the theme allows you to change the look and feel of the website with just a few clicks. You can easily change the color, background image and pattern, as well as fonts of the website with the Pro theme. The Pro version comes with multiple layouts to help you create an attractive and engaging website. Furthermore, the premium themes are WPML and Polylang compatible to allow you to create a multilingual website with ease."
+msgstr "Професійна версія теми дозволяє лише змінити вигляд веб-сайту за допомогою декількох клацань миші. Ви можете легко змінити колір, фонове зображення та візерунок, а також шрифти веб-сайту з темою Pro. Версія Pro постачається з декількома макетами, щоб допомогти вам створити привабливий та привабливий веб-сайт. Крім того, преміум-теми сумісні з WPML та Polylang, що дозволяють легко створювати багатомовний веб-сайт."
+
+#: inc/getting-started/tabs/help-panel.php:24
+msgid "Contact Support"
+msgstr "Зв'язатися з тех. підтримкою"
+
+#: inc/getting-started/tabs/help-panel.php:23
+msgid "Visit the Support"
+msgstr "Відвідайте підтримку"
+
+#: inc/getting-started/tabs/help-panel.php:20
+msgid "Support Ticket"
+msgstr "Запит на підтримку"
+
+#: inc/getting-started/tabs/help-panel.php:15
+msgid "View Documentation"
+msgstr "Переглянути документацію"
+
+#: inc/getting-started/tabs/help-panel.php:14
+msgid "Visit the Documentation"
+msgstr "Відвідайте Документацію"
+
+#: inc/getting-started/tabs/help-panel.php:12
+msgid "View Our Documentation Link"
+msgstr "Перегляньте посилання на нашу документацію"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:13
+msgid "View Pro"
+msgstr "Ознайомитись з Pro"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:12
+#: inc/getting-started/tabs/link-panel.php:13
+msgid "View Premium Version"
+msgstr "Переглянути Преміум версію"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:11
+msgid "Free vs Pro"
+msgstr "Free проти Pro"
+
+#: inc/getting-started/tabs/link-panel.php:10
+msgid "Upgrade To Pro"
+msgstr "Оновитися до Pro"
+
+#: inc/getting-started/tabs/help-panel.php:32
+msgid "View Demo"
+msgstr "Подивитися демо"
+
+#: inc/getting-started/tabs/help-panel.php:31
+msgid "Visit the Demo"
+msgstr "Переглянути демо"
+
+#: inc/getting-started/tabs/help-panel.php:30
+msgid "Visit the demo to get more idea about our theme design and its features."
+msgstr "Відвідайте демонстрацію, щоб отримати більше уявлення про наш дизайн теми та його особливості."
+
+#: inc/getting-started/tabs/help-panel.php:29
+msgid "View Our %1$s Demo"
+msgstr "Перегляньте наше демо %1$s"
+
+#: inc/getting-started/tabs/help-panel.php:22
+msgid "If the Documentation Guide didn't help you, contact us via our %1$sSupport Ticket%2$s. We reply to all the support queries within one business day, except on the weekends."
+msgstr "Якщо Посібник з документації не допоміг вам, зв’яжіться з нами через %1$sЗапит підтримки%2$s. Ми відповідаємо на всі запити щодо підтримки протягом одного робочого дня, крім вихідних."
+
+#: inc/getting-started/tabs/help-panel.php:21
+msgid "It's always better to visit our %1$sDocumentation Guide%2$s before you send us a support query."
+msgstr "Завжди краще відвідати наш %1$sПосібник з документації%2$s, перш ніж надіслати нам запит на підтримку."
+
+#: inc/getting-started/tabs/help-panel.php:13
+msgid "Are you new to the WordPress world? Our step by step easy documentation guide will help you create an attractive and engaging website without any prior coding knowledge or experience."
+msgstr "Ви новачок у світі WordPress? Наш покроковий простий посібник з документації допоможе вам створити привабливий та дивовижний веб-сайт без попередніх знань чи досвіду кодування."
+
+#: inc/tgmpa/recommended-plugins.php:62
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#. translators: 1: list of tags.
+#: inc/extras.php:107
+msgid "Tags :"
+msgstr "Позначки:"
+
+#: inc/template-functions.php:42
+msgid "Skip to content (Press Enter)"
+msgstr "Перейти до вмісту (натисніть Enter)"
+
+#: inc/widgets.php:19
+msgid "Add \"Rara:Icon Text\" widget for about section."
+msgstr "Додайте віджет \"Rara:Іконка текст\" у розділ \"Про нас\"."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Наступний рекомендований плагін наразі неактивен: %1$s."
+msgstr[1] "Наступний рекомендований плагін наразі неактивен: %1$s."
+msgstr[2] "Наступний рекомендований плагін наразі неактивен: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Наступний необхідний плагін наразі неактивен: %1$s."
+msgstr[1] "Наступний необхідний плагін наразі неактивен: %1$s."
+msgstr[2] "Наступний необхідний плагін наразі неактивен: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Є оновлення для: %1$s."
+msgstr[1] "Є оновлення для: %1$s."
+msgstr[2] "Є оновлення для: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ця тема рекомендує наступний плагін: %1$s."
+msgstr[1] "Ця тема рекомендує наступний плагін: %1$s."
+msgstr[2] "Ця тема рекомендує наступний плагін: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ця тема потребує наступного плагіна: %1$s."
+msgstr[1] "Ця тема потребує наступного плагіна: %1$s."
+msgstr[2] "Ця тема потребує наступного плагіна: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Наступний плагін повинен бути оновлений до останньої версії для забезпечення максимальної сумісності з цією темою: %1$s."
+msgstr[1] "Наступний плагін повинен бути оновлений до останньої версії для забезпечення максимальної сумісності з цією темою: %1$s."
+msgstr[2] "Наступний плагін повинен бути оновлений до останньої версії для забезпечення максимальної сумісності з цією темою: %1$s."
+
+#: inc/template-functions.php:719
+msgid "Perfect Portfolio | Developed By "
+msgstr "Perfect Portfolio | Розроблена "
+
+#: inc/custom-functions.php:452
+msgctxt "submit button"
+msgid "Search"
+msgstr "Шукати"
+
+#: inc/custom-functions.php:451
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "Пошук..."
+
+#: inc/custom-functions.php:450
+msgid "Search for:"
+msgstr "Пошук:"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:430
+#: inc/custom-controls/repeater/class-control-repeater.php:435
+msgid "No File Selected"
+msgstr "Файл не вибрано"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:405
+#: inc/custom-controls/repeater/class-control-repeater.php:407
+msgid "Change Image"
+msgstr "Змінити зображення"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:405
+#: inc/custom-controls/repeater/class-control-repeater.php:409
+msgid "Add Image"
+msgstr "Додати зображення"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:404
+#: inc/custom-controls/repeater/class-control-repeater.php:469
+msgid "Remove"
+msgstr "Видалити"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:394
+#: inc/custom-controls/repeater/class-control-repeater.php:399
+msgid "No Image Selected"
+msgstr "Зображення не вибрано"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:369
+msgid "Hex Value"
+msgstr "HEX-код"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:239
+msgid "Limit: %s rows"
+msgstr "Обмеження: %s рядків"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:83
+msgid "Add new %s"
+msgstr "Додати нове %s"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:75
+msgid "row"
+msgstr "рядок"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "Коментарі закриті."
+
+#. translators: 1: comment count number.
+#: comments.php:32
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s коментар"
+msgstr[1] "%1$s коментар"
+msgstr[2] "%1$s коментар"
+
+#: 404.php:17
+msgid "404."
+msgstr "404."
+
+#: inc/custom-controls/typography/class-fonts.php:144
+msgctxt "font style"
+msgid "Lucida Console, Monaco"
+msgstr "Lucida Console, Monaco"
+
+#: inc/custom-controls/typography/class-fonts.php:140
+msgctxt "font style"
+msgid "Courier New, Courier"
+msgstr "Courier New, Courier"
+
+#: inc/custom-controls/typography/class-fonts.php:136
+msgctxt "font style"
+msgid "Verdana, Geneva"
+msgstr "Verdana, Geneva"
+
+#: inc/custom-controls/typography/class-fonts.php:132
+msgctxt "font style"
+msgid "Trebuchet MS, Helvetica"
+msgstr "Trebuchet MS, Helvetica"
+
+#: inc/custom-controls/typography/class-fonts.php:128
+msgctxt "font style"
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+#: inc/custom-controls/typography/class-fonts.php:124
+msgctxt "font style"
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr "Lucida Sans Unicode, Lucida Grande"
+
+#: inc/custom-controls/typography/class-fonts.php:120
+msgctxt "font style"
+msgid "Impact, Charcoal"
+msgstr "Impact, Charcoal"
+
+#: inc/custom-controls/typography/class-fonts.php:116
+msgctxt "font style"
+msgid "Comic Sans MS, cursive"
+msgstr "Comic Sans MS, cursive"
+
+#: inc/custom-controls/typography/class-fonts.php:112
+msgctxt "font style"
+msgid "Arial Black, Gadget"
+msgstr "Arial Black, Gadget"
+
+#: inc/custom-controls/typography/class-fonts.php:108
+msgctxt "font style"
+msgid "Arial, Helvetica"
+msgstr "Arial, Helvetica"
+
+#: inc/custom-controls/typography/class-fonts.php:104
+msgctxt "font style"
+msgid "Times New Roman, Times"
+msgstr "Times New Roman, Times"
+
+#: inc/custom-controls/typography/class-fonts.php:100
+msgctxt "font style"
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr "Palatino Linotype, Book Antiqua, Palatino"
+
+#: inc/custom-controls/typography/class-fonts.php:96
+msgctxt "font style"
+msgid "Georgia"
+msgstr "Georgia"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:441
+#: inc/custom-controls/repeater/class-control-repeater.php:443
+msgid "Change File"
+msgstr "Змінити файл"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:441
+#: inc/custom-controls/repeater/class-control-repeater.php:445
+msgid "Add File"
+msgstr "Додати файл"
+
+#: inc/custom-controls/typography/class-fonts.php:211
+#: inc/custom-controls/typography/class-typography-control.php:105
+msgid "Extra-Bold 800"
+msgstr "Екстра жирний 800"
+
+#: inc/custom-controls/typography/class-fonts.php:210
+#: inc/custom-controls/typography/class-typography-control.php:104
+msgid "Bold 700 Italic"
+msgstr "Жирний 700 курсив"
+
+#: inc/custom-controls/typography/class-fonts.php:209
+#: inc/custom-controls/typography/class-typography-control.php:103
+msgid "Bold 700"
+msgstr "Жирний 700"
+
+#: inc/custom-controls/typography/class-fonts.php:208
+#: inc/custom-controls/typography/class-typography-control.php:102
+msgid "Semi-Bold 600 Italic"
+msgstr "Напівжирний 600 курсив"
+
+#: inc/custom-controls/typography/class-fonts.php:207
+#: inc/custom-controls/typography/class-typography-control.php:101
+msgid "Semi-Bold 600"
+msgstr "Напівжирний 600"
+
+#: inc/custom-controls/typography/class-fonts.php:206
+#: inc/custom-controls/typography/class-typography-control.php:100
+msgid "Medium 500 Italic"
+msgstr "Середній 500 курсив"
+
+#: inc/custom-controls/typography/class-fonts.php:205
+#: inc/custom-controls/typography/class-typography-control.php:99
+msgid "Medium 500"
+msgstr "Середній 500"
+
+#: inc/custom-controls/typography/class-fonts.php:204
+#: inc/custom-controls/typography/class-typography-control.php:98
+msgid "Normal 400 Italic"
+msgstr "Звичайний 400 курсив"
+
+#: inc/custom-controls/typography/class-fonts.php:203
+#: inc/custom-controls/typography/class-typography-control.php:97
+msgid "Normal 400"
+msgstr "Звичайний 400"
+
+#: inc/custom-controls/typography/class-fonts.php:202
+#: inc/custom-controls/typography/class-typography-control.php:96
+msgid "Book 300 Italic"
+msgstr "Книжковий 300 курсив"
+
+#: inc/custom-controls/typography/class-fonts.php:201
+#: inc/custom-controls/typography/class-typography-control.php:95
+msgid "Book 300"
+msgstr "Книжковий 300"
+
+#: inc/custom-controls/typography/class-fonts.php:200
+#: inc/custom-controls/typography/class-typography-control.php:94
+msgid "Light 200 Italic"
+msgstr "Легкий 200 курсив"
+
+#: inc/custom-controls/typography/class-fonts.php:199
+#: inc/custom-controls/typography/class-typography-control.php:93
+msgid "Light 200"
+msgstr "Легкий 200"
+
+#: inc/custom-controls/typography/class-fonts.php:198
+#: inc/custom-controls/typography/class-typography-control.php:92
+msgid "Ultra-Light 100 Italic"
+msgstr "Ультралегкий 100 курсив"
+
+#: inc/custom-controls/typography/class-fonts.php:197
+#: inc/custom-controls/typography/class-typography-control.php:91
+msgid "Ultra-Light 100"
+msgstr "Ультралегкий 100"
+
+#: inc/custom-controls/typography/class-typography-control.php:56
+msgid "Vietnamese"
+msgstr "В'єтнамський"
+
+#: inc/custom-controls/typography/class-typography-control.php:55
+msgid "Latin Extended"
+msgstr "Латинська розширена"
+
+#: inc/custom-controls/typography/class-typography-control.php:54
+msgid "Latin"
+msgstr "Латинська"
+
+#: inc/custom-controls/typography/class-typography-control.php:53
+msgid "Khmer"
+msgstr "Кхмер"
+
+#: inc/custom-controls/typography/class-typography-control.php:52
+msgid "Greek Extended"
+msgstr "Грецька розширена"
+
+#: inc/custom-controls/typography/class-typography-control.php:51
+msgid "Greek"
+msgstr "Грецький"
+
+#: inc/custom-controls/typography/class-typography-control.php:50
+msgid "Devanagari"
+msgstr "Деванагарі"
+
+#: inc/custom-controls/typography/class-typography-control.php:49
+msgid "Cyrillic Extended"
+msgstr "Кирилиця розширена"
+
+#: inc/custom-controls/typography/class-typography-control.php:48
+msgid "Cyrillic"
+msgstr "Кирилиця"
+
+#: inc/custom-controls/typography/class-typography-control.php:47
+#: inc/extras.php:519
+msgid "All"
+msgstr "Усе"
+
+#: inc/custom-controls/typography/class-typography-control.php:46
+msgid "OFF"
+msgstr "вимк."
+
+#: inc/custom-controls/typography/class-typography-control.php:45
+msgid "ON"
+msgstr "увімк."
+
+#: inc/custom-controls/typography/class-fonts.php:213
+#: inc/custom-controls/typography/class-typography-control.php:107
+msgid "Ultra-Bold 900"
+msgstr "Ультра жирний 900"
+
+#: inc/custom-controls/typography/class-fonts.php:212
+#: inc/custom-controls/typography/class-typography-control.php:106
+msgid "Extra-Bold 800 Italic"
+msgstr "Екстра жирний 800 курсив"
+
+#: inc/custom-controls/typography/class-typography-control.php:71
+msgid "Font Style"
+msgstr "Стиль шрифту"
+
+#: inc/custom-controls/typography/class-typography-control.php:70
+msgid "Line Height"
+msgstr "Висота рядка"
+
+#: inc/custom-controls/typography/class-typography-control.php:69
+msgid "Font Weight"
+msgstr "Товщина шрифту"
+
+#: inc/custom-controls/typography/class-typography-control.php:68
+msgid "Font Size"
+msgstr "Розмір шрифту"
+
+#: inc/custom-controls/typography/class-typography-control.php:67
+msgid "Font Family"
+msgstr "Сімейство шрифтів"
+
+#: inc/custom-controls/typography/class-typography-control.php:66
+msgctxt "font style"
+msgid "Monospace"
+msgstr "Моноширний"
+
+#: inc/custom-controls/typography/class-typography-control.php:65
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "Без зарубок"
+
+#: inc/custom-controls/typography/class-typography-control.php:64
+msgctxt "font style"
+msgid "Serif"
+msgstr "З зарубками"
+
+#: inc/custom-controls/typography/class-typography-control.php:63
+msgid "Thai"
+msgstr "Тайський"
+
+#: inc/custom-controls/typography/class-typography-control.php:62
+msgid "Telugu"
+msgstr "Телугу"
+
+#: inc/custom-controls/typography/class-typography-control.php:61
+msgid "Tamil"
+msgstr "Таміл"
+
+#: inc/custom-controls/typography/class-typography-control.php:60
+msgid "Gujarati"
+msgstr "Гуджараті"
+
+#: inc/custom-controls/typography/class-typography-control.php:59
+msgid "Bengali"
+msgstr "Бенгалі"
+
+#: inc/custom-controls/typography/class-typography-control.php:58
+msgid "Arabic"
+msgstr "Арабський"
+
+#: inc/custom-controls/typography/class-typography-control.php:57
+msgid "Hebrew"
+msgstr "Іврит"
+
+#: inc/custom-controls/typography/class-typography-control.php:86
+msgid "Variant"
+msgstr "Варіант"
+
+#: inc/custom-controls/typography/class-typography-control.php:85
+msgid "Select a font-family"
+msgstr "Оберіть шрифт"
+
+#: inc/custom-controls/typography/class-typography-control.php:84
+msgid "Color"
+msgstr "Колір"
+
+#: inc/custom-controls/typography/class-typography-control.php:83
+msgid "Justify"
+msgstr "По ширині"
+
+#: inc/custom-controls/typography/class-typography-control.php:82
+msgid "Center"
+msgstr "Центр"
+
+#: inc/custom-controls/typography/class-typography-control.php:81
+msgid "Right"
+msgstr "З права"
+
+#: inc/custom-controls/typography/class-typography-control.php:80
+msgid "Left"
+msgstr "Ліворуч"
+
+#: inc/custom-controls/typography/class-typography-control.php:79
+msgid "Bottom"
+msgstr "Низ"
+
+#: inc/custom-controls/typography/class-typography-control.php:78
+msgid "Top"
+msgstr "Верх"
+
+#: inc/custom-controls/typography/class-typography-control.php:77
+msgid "Lowercase"
+msgstr "Нижній регістр"
+
+#: inc/custom-controls/typography/class-typography-control.php:76
+msgid "Uppercase"
+msgstr "Верхній регістр"
+
+#: inc/custom-controls/typography/class-typography-control.php:75
+msgid "None"
+msgstr "Немає"
+
+#: inc/custom-controls/typography/class-typography-control.php:74
+msgid "Text Transform"
+msgstr "Трансформація тексту"
+
+#: inc/custom-controls/typography/class-typography-control.php:73
+msgid "Text Align"
+msgstr "Розміщення тексту"
+
+#: inc/custom-controls/typography/class-typography-control.php:72
+msgid "Letter Spacing"
+msgstr "Відступ між літерами"
+
+#: inc/customizer/appearance.php:47
+msgid "Primary font of the site."
+msgstr "Головний шрифт сайту."
+
+#: inc/customizer/appearance.php:46
+msgid "Primary Font"
+msgstr "Головний шрифт"
+
+#: inc/customizer/appearance.php:26
+msgid "Typography"
+msgstr "Типографіка"
+
+#: inc/customizer/appearance.php:18
+msgid "Customize Typography, Header Image & Background Image"
+msgstr "Налаштуйте типографіку, зображення заголовка та фонове зображення"
+
+#: inc/customizer/appearance.php:17
+msgid "Appearance Settings"
+msgstr "Налаштування вигляду"
+
+#: inc/custom-functions.php:325
+msgid "Comment"
+msgstr "Коментар"
+
+#: inc/custom-functions.php:312
+msgid "Website"
+msgstr "Вебсайт"
+
+#: inc/custom-functions.php:305
+msgid "Email*"
+msgstr "Email*"
+
+#: inc/custom-functions.php:304
+msgid "Name*"
+msgstr "Ім’я*"
+
+#: inc/custom-functions.php:45 inc/custom-functions.php:109
+msgid "Primary"
+msgstr "Основне"
+
+#: inc/custom-controls/typography/class-typography-control.php:109
+msgid "Invalid Value"
+msgstr "Невірне значення"
+
+#: inc/custom-controls/typography/class-typography-control.php:90
+msgid "Spacing"
+msgstr "Відступ"
+
+#: inc/custom-controls/typography/class-typography-control.php:89
+msgid "Height"
+msgstr "Висота"
+
+#: inc/custom-controls/typography/class-typography-control.php:88
+msgid "Size"
+msgstr "Розмір"
+
+#: inc/custom-controls/typography/class-typography-control.php:87
+msgid "Style"
+msgstr "Стиль"
+
+#: inc/customizer/frontpage.php:26
+msgid "Portfolio Section"
+msgstr "Розділ портфоліо"
+
+#: inc/customizer/frontpage.php:17
+msgid "Front Page Settings"
+msgstr "Налаштування головної сторінки"
+
+#: inc/customizer/footer.php:33
+msgid "Footer Copyright Text"
+msgstr "Налаштування копірайту підвалу"
+
+#: inc/customizer/footer.php:14
+msgid "Footer Settings"
+msgstr "Налаштування підвалу"
+
+#: inc/customizer/customizer.php:67
+#: inc/getting-started/class-getting-start-plugin-helper.php:104
+msgid "Deactivate"
+msgstr "Деактивуйте"
+
+#: inc/customizer-plugin-recommend/plugin-install/class-plugin-install-helper.php:75
+#: inc/customizer/customizer.php:66
+#: inc/getting-started/class-getting-start-plugin-helper.php:89
+#: inc/getting-started/class-getting-start-plugin-helper.php:109
+#: inc/tgmpa/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Активувати"
+
+#: inc/customizer/customizer.php:65
+msgid "Install and Activate"
+msgstr "Встановити та активувати"
+
+#: inc/customizer/customizer.php:64
+msgid "Recommended Plugin"
+msgstr "Рекомендований плагін"
+
+#: inc/customizer/general.php:68
+msgid "Enable Header Search"
+msgstr "Увімкнути пошук у шапці"
+
+#: inc/customizer/general.php:25
+msgid "Header Settings"
+msgstr "Налаштування заголовку"
+
+#: inc/customizer/general.php:17
+msgid "General Settings"
+msgstr "Загальні налаштування"
+
+#: inc/customizer/frontpage.php:197
+msgid "View All Label"
+msgstr "Переглянути усі мітки"
+
+#: inc/customizer/frontpage.php:188 inc/partials.php:75 sections/blog.php:10
+msgid "View All"
+msgstr "Переглянути все"
+
+#: inc/customizer/frontpage.php:170
+msgid "Blog Title"
+msgstr "Назва сайту"
+
+#: inc/customizer/frontpage.php:150
+msgid "Enable to show blog section."
+msgstr "Увімкнути показ розділу блогу."
+
+#: inc/customizer/frontpage.php:149
+msgid "Enable Blog Section"
+msgstr "Увімкнути розділ блогу"
+
+#: inc/customizer/frontpage.php:129
+msgid "Blog Section"
+msgstr "Розділ блогу"
+
+#: inc/customizer/frontpage.php:84 inc/partials.php:84 sections/gallery.php:9
+msgid "View More"
+msgstr "Переглянути більше"
+
+#: inc/customizer/general.php:192
+msgid "Enable to show last updated post date on listing as well as in single post."
+msgstr "Увімкнути показ останньої оновленої дати запису в списку, а також в окремому запису."
+
+#: inc/customizer/general.php:191
+msgid "Enable Last Update Post Date"
+msgstr "Увімкнути останню оновлену дату запису"
+
+#: inc/customizer/general.php:170
+msgid "SEO Settings"
+msgstr "SEO Налаштування"
+
+#: inc/customizer/general.php:153
+msgid "Example: http://facebook.com"
+msgstr "Наприклад: http://facebook.com"
+
+#: inc/customizer/general.php:152
+msgid "Link"
+msgstr "Посилання"
+
+#: inc/customizer/general.php:148
+msgid "Example: fa-bell"
+msgstr "Наприклад: fa-bell"
+
+#: inc/customizer/general.php:147
+msgid "Font Awesome Icon"
+msgstr "Іконка шрифту Font Awesome"
+
+#: inc/customizer/general.php:143
+msgid "Social Links"
+msgstr "Соціальні посилання"
+
+#: inc/customizer/general.php:121
+msgid "Enable to show social links at header."
+msgstr "Увімкнути для показу соціальних посилань у заголовку."
+
+#: inc/customizer/general.php:120
+msgid "Enable Social Links"
+msgstr "Увімкнути посилання соціальних мереж"
+
+#: inc/customizer/general.php:99
+msgid "Social Media Settings"
+msgstr "Налаштування зображень соц. мережі"
+
+#: inc/customizer/general.php:69
+msgid "Enable to show Search button in header."
+msgstr "Увімкнути показ кнопки пошуку у шапці."
+
+#: inc/customizer/general.php:375
+msgid "Enable to show related posts in single page."
+msgstr "Увімкнути показ пов’язаних записів на окремій сторінці."
+
+#: inc/customizer/general.php:374
+msgid "Show Related Posts"
+msgstr "Показувати подібні записи"
+
+#: inc/customizer/general.php:350
+msgid "Popular Posts Section Title"
+msgstr "Заголовок розділу популярних записів"
+
+#: inc/customizer/general.php:339 inc/extras.php:155 inc/partials.php:40
+msgid "Popular Posts"
+msgstr "Популярні записи"
+
+#: inc/customizer/general.php:330
+msgid "Enable to show popular posts in single page."
+msgstr "Увімкнути показ популярних записів на окремій сторінці."
+
+#: inc/customizer/general.php:329
+msgid "Show Popular Posts"
+msgstr "Показувати популярні записи"
+
+#: inc/customizer/general.php:309
+msgid "Enable to hide author section."
+msgstr "Дозволити приховувати автора розділу."
+
+#: inc/customizer/general.php:308
+msgid "Hide Author"
+msgstr "Приховати автора"
+
+#: inc/customizer/general.php:288
+msgid "<hr/>These options affect your individual posts."
+msgstr "<hr/>Ці параметри впливають на ваші окремі записи."
+
+#: inc/customizer/general.php:246
+msgid "Automatically generated excerpt length (in words)."
+msgstr "Автоматично генерується довжина уривку (в словах)."
+
+#: inc/customizer/general.php:245
+msgid "Excerpt Length"
+msgstr "Довжина уривка"
+
+#: inc/customizer/general.php:225
+msgid "Enable to show excerpt or disable to show full post content."
+msgstr "Увімкнути показ уривку або заборонити показ повного вмісту запису."
+
+#: inc/customizer/general.php:224
+msgid "Enable Blog Excerpt"
+msgstr "Увімкнути уривок блогу"
+
+#: inc/customizer/general.php:203
+msgid "Posts(Blog) & Pages Settings"
+msgstr "Налаштування записів (Блог) та сторінок"
+
+#: inc/customizer/layout.php:24
+msgid "Blog Layout"
+msgstr "Розміщення блогу"
+
+#: inc/customizer/layout.php:15
+msgid "Layout Settings"
+msgstr "Налаштування макету"
+
+#: inc/customizer/info.php:136
+msgid "VIEW PRO THEME"
+msgstr "ПЕРЕГЛЯНУТИ ПРО ТЕМУ"
+
+#: inc/customizer/info.php:134
+msgid "Pro Available"
+msgstr "ПРО доступна"
+
+#. translators: 1: string, 2: preview url, 3: string
+#. translators: 1: string, 2: documentation url, 3: string
+#: inc/customizer/info.php:30 inc/customizer/info.php:35
+msgid "Click here."
+msgstr "Натиснути тут."
+
+#: inc/customizer/info.php:15
+msgid "Demo & Documentation"
+msgstr "Демо та документація"
+
+#: inc/customizer/general.php:420
+msgid "Enable to hide posted date."
+msgstr "Дозволити приховувати дату публікації."
+
+#: inc/customizer/general.php:419
+msgid "Hide Posted Date"
+msgstr "Приховати дату публікації"
+
+#: inc/customizer/general.php:395
+msgid "Related Posts Section Title"
+msgstr "Заголовок розділу схожих записів"
+
+#: inc/customizer/general.php:384 inc/extras.php:140 inc/partials.php:31
+msgid "You may also like..."
+msgstr "Вам також має сподобатись..."
+
+#. translators: %s: post author.
+#: inc/extras.php:48
+msgctxt "post author"
+msgid "By %s"
+msgstr "Від %s"
+
+#: inc/extras.php:19
+msgid "updated on "
+msgstr "поновлено"
+
+#: inc/extras.php:14
+msgid "on "
+msgstr "увімк."
+
+#: inc/customizer-plugin-recommend/plugin-install/class-plugin-install-helper.php:110
+#: inc/getting-started/getting-started.php:40
+msgid "Activating "
+msgstr "Активується"
+
+#: inc/customizer-plugin-recommend/plugin-install/class-plugin-install-helper.php:59
+#: inc/getting-started/class-getting-start-plugin-helper.php:85
+msgid "Install and activate"
+msgstr "Встановити та активувати"
+
+#: inc/customizer-plugin-recommend/customizer-notice/class-customizer-notice.php:144
+msgid "Activating"
+msgstr "Активується"
+
+#: inc/customizer/site.php:43
+msgid "Site title and tagline font."
+msgstr "Заголовок сайту та шрифт ключової фрази."
+
+#: inc/customizer/site.php:42
+msgid "Site Title Font"
+msgstr "Шрифт заголовку сайту"
+
+#: inc/customizer/layout.php:109
+msgid "This is the general sidebar layout for posts. You can override the sidebar layout for individual post in repective post."
+msgstr "Це загальний макет бічної колонки для записів. Ви можете змінити макет бічної колонки для окремого запису у відповідному записі."
+
+#: inc/customizer/layout.php:108
+msgid "Post Sidebar Layout"
+msgstr "Розташування бічної колонки для запису"
+
+#: inc/customizer/layout.php:82
+msgid "This is the general sidebar layout for pages. You can override the sidebar layout for individual page in repective page."
+msgstr "Це загальний макет бічної колонки для сторінок. Ви можете змінити макет бічної колонки для окремої сторінки на відповідній сторінці."
+
+#: inc/customizer/layout.php:81
+msgid "Page Sidebar Layout"
+msgstr "Розташування бічної колонки для сторінки"
+
+#: inc/customizer/layout.php:60
+msgid "General Sidebar Layout"
+msgstr "Основний макет бічної колонки"
+
+#: inc/customizer/layout.php:46
+msgid "This is the layout for blog index page."
+msgstr "Це макет для головної сторінки блогу."
+
+#: inc/customizer/layout.php:45
+msgid "Blog Page Layout"
+msgstr "Макет сторінки блогу"
+
+#: inc/metabox.php:42
+msgid "Left Sidebar"
+msgstr "Ліва бічна колонка"
+
+#: inc/metabox.php:37
+msgid "Full Width Centered"
+msgstr "На всю ширину по центру"
+
+#: inc/metabox.php:32
+msgid "Full Width"
+msgstr "Повна ширина"
+
+#: inc/metabox.php:27 inc/widgets.php:14
+msgid "Default Sidebar"
+msgstr "Бічна колонка за замовчуванням"
+
+#: inc/metabox.php:14
+msgid "Sidebar Layout"
+msgstr "Макет бічної колонки"
+
+#: inc/extras.php:419
+msgid " -- Choose -- "
+msgstr " -- Оберіть -- "
+
+#: inc/extras.php:313
+msgid "%1$s at %2$s"
+msgstr "%1$s о %2$s"
+
+#: inc/extras.php:311
+msgid "Posted on"
+msgstr "Оприлюднено"
+
+#: inc/extras.php:306
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш коментар очікує узгодження."
+
+#: inc/extras.php:238
+msgid "Click here to add a menu"
+msgstr "Натисніть тут для додання меню"
+
+#: inc/extras.php:164
+msgid "Related Projects"
+msgstr "Схожі проєкти"
+
+#: inc/extras.php:131
+msgid "Recent Posts"
+msgstr "Недавні записи"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/extras.php:89
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post title
+#: inc/extras.php:66
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Залишити коментар<span class=\"screen-reader-text\"> до %s</span>"
+
+#: inc/template-functions.php:432
+msgid "Previous"
+msgstr "Назад"
+
+#: inc/template-functions.php:420
+msgid "Post Navigation"
+msgstr "Навігація по запису"
+
+#: inc/template-functions.php:412
+msgid "Next Article"
+msgstr "Наступна стаття"
+
+#: inc/template-functions.php:404
+msgid "Previous Article"
+msgstr "Попередня стаття"
+
+#: inc/template-functions.php:372
+msgid "Pages:"
+msgstr "Сторінки:"
+
+#: inc/template-functions.php:216
+msgid "Search Results"
+msgstr "Результати пошуку"
+
+#: inc/template-functions.php:199
+msgid "Tag"
+msgstr "Теґ"
+
+#: inc/template-functions.php:194
+msgid "Category"
+msgstr "Категорія"
+
+#: inc/template-functions.php:185 inc/template-functions.php:493
+msgid "All Posts by"
+msgstr "Всі записи автора"
+
+#: inc/template-functions.php:168
+msgid "Blog"
+msgstr "Блог"
+
+#: inc/partials.php:55
+msgid "Y"
+msgstr "Y"
+
+#: inc/partials.php:54
+msgid "&copy; Copyright "
+msgstr "&copy; Авторське право "
+
+#: inc/metabox.php:57
+msgid "Choose Sidebar Template"
+msgstr "Оберіть шаблон бічної колонки"
+
+#: inc/metabox.php:47
+msgid "Right Sidebar"
+msgstr "Права бічна колонка"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:827
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: inc/tgmpa/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Повернутися до Майстерні"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Повернутися до розділу встановлення необхідних плагінів"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Почати активацію плагіна"
+msgstr[1] "Почати активацію плагіна"
+msgstr[2] "Почати активацію плагіна"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Оновлення плагіну"
+msgstr[1] "Оновлення плагіну"
+msgstr[2] "Оновлення плагіну"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Почати встановлення плагіну"
+msgstr[1] "Почати встановлення плагіну"
+msgstr[2] "Почати встановлення плагіну"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Щось пішло не так із API плагіну."
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Оновлення плагіну: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Встановлення плагіну: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Встановити плагіни"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Встановити необхідні плагіни"
+
+#: inc/template-functions.php:722
+msgid "https://wordpress.org/"
+msgstr "https://uk.wordpress.org/"
+
+#: inc/template-functions.php:722
+msgid " Powered by %s"
+msgstr "Працює на %s"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-functions.php:455
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Редагувати <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-functions.php:434
+msgid "Page"
+msgstr "Сторінку"
+
+#: inc/template-functions.php:433
+msgid "Next"
+msgstr "Далі"
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1121
+#: inc/tgmpa/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "та"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Архів плагіна містить більше одного файлу, але ці файли не в теці."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Будь ласка, зв'яжіться з автором плагіна та попросіть запакувати плагін відповідно до правил WordPress."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Архів плагіна не містить теки з бажаним слаґом і перейменування не спрацювало."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Потрібне оновлення"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Цей плагін потрібно оновити для сумісності з вашою темою."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Будь ласка, зв'яжіться з адміністратором цього сайту, щоб отримати допомогу."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Необхідно встановити, оновити або активувати ще один або кілька обов'язкових і рекомендованих плагінів."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Сховати це сповіщення"
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагіни успішно встановлені і активовані. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагін не активовано. Для цієї теми потрібна новіша версія %s. Будь ласка, оновіть плагін."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Ніяких дій не здійснено. Плагін %1$s було вже активовано."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Наступний плагін було успішно активовано:"
+msgstr[1] "Наступний плагін було успішно активовано:"
+msgstr[2] "Наступний плагін було успішно активовано:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Плагін успішно активовано."
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступне оновлення <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступне оновлення <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступне оновлення <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Встановити <span class=\"count\">(%s)</span>"
+msgstr[1] "Встановити <span class=\"count\">(%s)</span>"
+msgstr[2] "Встановити <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Усі <span class=\"count\">(%s)</span>"
+msgstr[1] "Усі <span class=\"count\">(%s)</span>"
+msgstr[2] "Усі <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Оновлення рекомендовано"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Потребує оновлення"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Потрібне оновлення не доступне"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Діючий"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Встановлено, але не активовано"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Не встановлено"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Заздалегідь запаковано"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Зовнішнє джерело"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Репозиторій WordPress"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Рекомендовані"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Обов’язкове"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Повідомлення про оновлення від автора плагіна:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Активувати %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Оновити %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Встановити %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Статус"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Версія"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Тип"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Джерело"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Плагін"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Немає плагінів для встановлення, оновлення або активації."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Доступна версія: "
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Мінімально необхідна версія:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Встановлена версія:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "невідомо"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Для активації <span class=\"count\">(%s)</span>"
+msgstr[1] "Для активації <span class=\"count\">(%s)</span>"
+msgstr[2] "Для активації <span class=\"count\">(%s)</span>"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Показати деталі"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s встановлений і успішно активований."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Починається процес встановлення та активації. Цей процес може зайняти тривалий час на деяких системах, тому будь ласка, будьте терплячі."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Встановити %1$s не вдалося."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Сталася помилка при встановленні %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Оновлення плагіну %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Активація плагіна не вдалася."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "На даний час немає доступних для активації плагінів."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Жодних плагінів не обрано для активації. Жодних дій не виконано."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Немає доступних плагінів для оновлення."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "На даний час немає доступних для встановлення плагінів."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Жодних плагінів не обрано для оновлення. Жодних дій не виконано."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Жодних плагінів не обрано для встановлення. Жодних дій не виконано."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Оновлення"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Встановити"
+
+#: inc/typography.php:345
+msgid "Arial, Helvetica"
+msgstr "Arial, Helvetica"
+
+#: inc/typography.php:344
+msgid "Times New Roman, Times"
+msgstr "Times New Roman, Times"
+
+#: inc/typography.php:343
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr "Palatino Linotype, Book Antiqua, Palatino"
+
+#: inc/typography.php:342
+msgid "Georgia"
+msgstr "Georgia"
+
+#: inc/typography.php:25
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: inc/typography.php:24
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Встановлюємо плагін %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Усі встановлення завершено."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s встановлено успішно."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Починається процес встановлення. Цей процес може зайняти тривалий час на деяких системах, тому будь ласка, будьте терплячі."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Встановлюємо і активуємо плагін %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Усі встановлення та активації завершені."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Сховати деталі"
+
+#: inc/widgets.php:27
+msgid "Services Section"
+msgstr "Розділ Сервіс"
+
+#: inc/widgets.php:22
+msgid "Call To Action Section"
+msgstr "Розділ заклику до дії"
+
+#: inc/widgets.php:17
+msgid "About Section"
+msgstr "Розділ \"Про нас\""
+
+#: inc/widgets.php:12
+msgid "Sidebar"
+msgstr "Бокова панель"
+
+#: inc/typography.php:354
+msgid "Lucida Console, Monaco"
+msgstr "Lucida Console, Monaco"
+
+#: inc/typography.php:353
+msgid "Courier New, Courier"
+msgstr "Courier New, Courier"
+
+#: inc/typography.php:352
+msgid "Verdana, Geneva"
+msgstr "Verdana, Geneva"
+
+#: inc/typography.php:351
+msgid "Trebuchet MS, Helvetica"
+msgstr "Trebuchet MS, Helvetica"
+
+#: inc/typography.php:350
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+#: inc/typography.php:349
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr "Lucida Sans Unicode, Lucida Grande"
+
+#: inc/typography.php:348
+msgid "Impact, Charcoal"
+msgstr "Impact, Charcoal"
+
+#: inc/typography.php:347
+msgid "Comic Sans MS, cursive"
+msgstr "Comic Sans MS, cursive"
+
+#: inc/typography.php:346
+msgid "Arial Black, Gadget"
+msgstr "Arial Black, Gadget"
+
+#: template-parts/content-none.php:42
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Вибачте, але за вашим пошуковим запитом нічого не знайдено. Будь ласка, спробуйте інші ключові слова."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:28
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готові опублікувати свій перший запис? <a href=\"%1$s\">Почніть звідси</a>."
+
+#: template-parts/content-none.php:17
+msgid "Nothing Found"
+msgstr "Нічого не знайдено"
+
+#: template-parts/content-none.php:15
+msgid "Add More Posts"
+msgstr "Додати більше записів"
+
+#: inc/woocommerce-functions.php:102 inc/woocommerce-functions.php:118
+msgid "View your shopping cart"
+msgstr "Переглянути ваш кошик"
+
+#: inc/woocommerce-functions.php:41
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr "Бічна колонка, що відображається лише на сторінках woocommerce."
+
+#: inc/woocommerce-functions.php:39
+msgid "Shop Sidebar"
+msgstr "Бічна колонка магазину"
+
+#: inc/widgets.php:49
+msgid "Add footer three widgets here."
+msgstr "Додайте сюди віджети третього підвалу."
+
+#: inc/widgets.php:47
+msgid "Footer Three"
+msgstr "Третій підвал"
+
+#: inc/widgets.php:44
+msgid "Add footer two widgets here."
+msgstr "Додайте сюди віджети другого підвалу."
+
+#: inc/widgets.php:42
+msgid "Footer Two"
+msgstr "Другий підвал"
+
+#: inc/widgets.php:39
+msgid "Add footer one widgets here."
+msgstr "Додайте сюди віджети першого підвалу."
+
+#: inc/widgets.php:37
+msgid "Footer One"
+msgstr "Перший підвал"
+
+#: template-parts/content-none.php:48
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Схоже, що не вдалося знайти те, що ви шукаєте. Можливо допоможе пошук."
+
+#: inc/custom-controls/typography/class-fonts.php:214
+#: inc/custom-controls/typography/class-typography-control.php:108
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ультра жирний 900 курсив"
+
+#: inc/customizer/frontpage.php:160 inc/partials.php:66 sections/blog.php:8
+msgid "Articles"
+msgstr "Статті"
+
+#: inc/customizer/general.php:158
+msgid "links"
+msgstr "посилання"
+
+#: inc/tgmpa/recommended-plugins.php:57
+msgid "Rara One Click Demo Import"
+msgstr "Rara One Click Demo Import"
+
+#: inc/tgmpa/recommended-plugins.php:52
+msgid "RaraTheme Companion"
+msgstr "RaraTheme Companion"
+
+#. translators: 1: string, 2: documentation url, 3: string
+#: inc/customizer/info.php:35
+msgid "Documentation Link : "
+msgstr "Посилання на документацію : "
+
+#. translators: 1: string, 2: preview url, 3: string
+#: inc/customizer/info.php:30
+msgid "Demo Link : "
+msgstr "Посилання на демо : "
+
+#: inc/customizer/frontpage.php:47
+msgid "Enable to show Portfolio section."
+msgstr "Увімкнути показ розділу портфоліо."
+
+#: inc/customizer/frontpage.php:46
+msgid "Enable Portfolio Section"
+msgstr "Увімкнути розділ \"Портфоліо\""
+
+#. translators: %s: plugin name
+#: inc/customizer/customizer.php:60
+msgid "If you want to take full advantage of the features this theme has to offer, please install and activate %s plugin."
+msgstr "Якщо ви хочете повністю скористатися функціями, які ця тема може запропонувати, встановіть і активуйте плагін %s."
+
+#. Template Name of the theme
+msgid "Portfolio Template"
+msgstr "Шаблон Портфоліо"
+
+#: inc/widgets.php:34
+msgid "Add \"Rara:Call To Action\" widget in footer of specific pages."
+msgstr "Додайте віджет \"Rara: Заклик до дії\" у нижньому колонтитулі певних сторінок."
+
+#: inc/widgets.php:32
+msgid "Call To Action Footer"
+msgstr "Заклик до дії у Підвалі"
+
+#: inc/widgets.php:29
+msgid "Add \"Rara:Icon Text\" widget for service section."
+msgstr "Додайте віджет \"Rara: Іконка тексту\" для розділу \"Послуги\"."
+
+#: inc/widgets.php:24
+msgid "Add \"Rara:Call To Action\" widget for Call to Action section."
+msgstr "Додайте віджет \"Rara: Заклик до дії\" для розділу \"Заклик до дії\"."
+
+#: inc/template-functions.php:205
+msgid "Portfolio Category"
+msgstr "Категорія \"Портфоліо\""
+
+#: inc/customizer/general.php:441
+msgid "Enable to hide featured image in post detail (single post page)."
+msgstr "Увімкніть, щоб приховати головне зображення у деталях запису (окрема сторінка)."
+
+#: inc/customizer/general.php:440
+msgid "Hide Featured Image"
+msgstr "Приховати головне зображення"
+
+#: inc/customizer/general.php:269
+msgid "Blog Desciption"
+msgstr "Опис блогу"
+
+#: inc/customizer/general.php:88
+msgid "Add short description on menu."
+msgstr "Додайте короткий опис у меню."
+
+#: inc/customizer/general.php:87
+msgid "Menu Description"
+msgstr "Опис меню"
+
+#: inc/customizer/general.php:47
+msgid "Enable to show cart in header."
+msgstr "Увімкнути для показу кошика в заголовку."
+
+#: inc/customizer/general.php:46
+msgid "Enable Cart"
+msgstr "Увімкніть кошик"
+
+#: inc/customizer/frontpage.php:117
+msgid "View More Label Url"
+msgstr "\"Переглянути більше\" мітка URL"
+
+#: inc/customizer/frontpage.php:93
+msgid "View More Label"
+msgstr "Мітка \"Переглянути більше\""
+
+#: inc/customizer/frontpage.php:69
+msgid "Set number of latest portfolios to show in portfolio section."
+msgstr "Встановіть кількість останніх портфелів, які відображатимуться в розділі портфоліо."
+
+#: inc/customizer/frontpage.php:68
+msgid "Number Of Portfolio"
+msgstr "Кількість \"Портфоліо\""
+
+#: inc/customizer/frontpage.php:18
+msgid "Customize About, Gallery, Services, Call To Action, Latest Posts, settings."
+msgstr "Налаштувати Про нас, Галерея, Послуги, Заклик до дії, Останні повідомлення, налаштування."
+
+#: inc/customizer/footer.php:34
+msgid "Add Copyright Text Here."
+msgstr "Додайте сюди текст авторського права."
+
+#: archive.php:15 search.php:15
+msgid "Showing %1$s Result(s)"
+msgstr "Показує %1$s Результат(ів)"
+
+#: 404.php:21
+msgid "Can not find what you need? Take a moment and do a search below or start from our Homepage."
+msgstr "Не можете знайти те, що вам потрібно? Знайдіть хвилинку і проведіть пошук нижче або почніть з нашої домашньої сторінки."
+
+#: 404.php:20
+msgid "Sorry, The Page is Not Found."
+msgstr "Вибачте, сторінку не знайдено"
+
+#: inc/extras.php:309
+msgid "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s</b> <span class=\"says\">says:</span>"
+msgstr "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s</b> <span class=\"says\">каже:</span>"
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#: inc/template-functions.php:720
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/perfect-portfolio/"
+msgstr "https://rarathemes.com/wordpress-themes/perfect-portfolio/"

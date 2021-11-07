@@ -1,0 +1,417 @@
+/*!  HEADER
+----------------------------------------------------------*/
+
+// GENERAL
+
+.vl-header-holder
+	position static
+	user-select none
+	background-color $c6
+	transition background-color 300ms $transition
+	
+.vl-header-holder[data-header-fixed="1"],
+.vl-header-fixed
+	position fixed
+	top 0
+	left 0
+	right 0
+	z-index 22
+
+.vl-header-holder[data-header-fixed="1"]
+	background-color transparent
+	
+.vl-header-holder.is-white
+	background-color $c6
+	box-shadow 0px 4px 8px 0px rgba($c0, .08)
+
+.vl-header-inner
+	height 90px
+	display flex
+	align-items center
+	justify-content space-between
+	@media (max-width: 767px)
+		height 80px
+
+@media (min-width: 783px)
+	.admin-bar .vl-header-holder
+		top 32px
+		
+@media (max-width: 782px)
+	.admin-bar .vl-header-holder
+		top 46px
+		
+@media (max-width: 600px)
+	.admin-bar .vl-header-holder
+		top 0
+
+
+// LOGO
+
+.vl-header-holder .vl-header-logo 
+	display inline-flex
+	line-height 1
+	img
+		max-height 12px
+
+
+// MENU LINKS
+
+.vl-header-right
+	display flex
+	align-items center
+	// flex-direction row-reverse
+
+
+
+// MENU TOGGLE
+
+.vl-menu-toggle
+	width 18px
+	height 14px
+	position relative
+	cursor pointer
+	display inline-block
+	z-index 12
+	transition margin-right 150ms $transition, width 150ms $transition
+	&::before
+		content attr(data-before-text)
+		position absolute
+		right 30px
+		top 0
+		text-transform uppercase
+		letter-spacing 2px
+		font-size 12px
+		color $c0
+		line-height 1
+		opacity 0
+		pointer-events none
+		transform translateX(-10px)
+		transition all 150ms $transition
+
+.vl-menu-toggle .line
+	display block
+	transition transform 150ms $transition 150ms
+	margin-bottom 4px
+
+.vl-menu-toggle .line.line-three
+	margin-bottom 0
+
+.vl-menu-toggle .line .inner
+	display block
+	transition transform 150ms $transition, background-color 150ms $transition, opacity 0s $transition 150ms
+	width 100%
+	height 2px
+	background-color $c0
+
+.vl-menu-toggle:hover::before,
+.menu-is-open .vl-menu-toggle::before
+	opacity 1
+	transform translateX(0)
+
+.vl-menu-toggle:hover .line-one .inner
+	transform translateY(-2px)
+
+.vl-menu-toggle:hover .line-three .inner
+	transform translateY(2px)
+
+.menu-is-open .vl-menu-toggle .line
+	transition transform 150ms $transition
+
+.menu-is-open .vl-menu-toggle .line .inner
+	transition transform 150ms $transition 150ms, background-color 150ms $transition, opacity 0s $transition 150ms
+
+.menu-is-open .vl-menu-toggle .line.line-one
+	transform translateY(6px)
+
+.menu-is-open .vl-menu-toggle .line.line-one .inner
+	transform rotate(45deg)
+
+.menu-is-open .vl-menu-toggle .line.line-two .inner
+	opacity 0
+
+.menu-is-open .vl-menu-toggle .line.line-three
+	transform translateY(-6px)
+
+.menu-is-open .vl-menu-toggle .line.line-three .inner
+	transform rotate(-45deg)
+
+
+// MOBILE MENU TOGGLE
+
+@media (min-width: 768px)
+	.vl-mobile-menu-toggle
+		display none
+
+
+// STANDARD NAVBAR
+
+@media (max-width: 767px)
+	.vl-navigation-standard
+		display none
+
+.vl-navigation-standard ul
+	list-style-type none
+	margin 0
+	padding 0
+	li
+		position relative
+	
+.vl-navigation-standard > ul > li
+	display inline-flex
+	padding 10px 10px
+	> a
+		text-transform uppercase
+		font-size 12px
+		letter-spacing 2px
+	&:hover > a,
+	&.current-menu-item > a
+		color $c0
+
+.vl-navigation-standard .sub-menu
+	position absolute
+	top 100%
+	left 0
+	background-color $c6
+	min-width 160px
+	z-index 500
+	opacity 0
+	visibility hidden
+	box-shadow 0px 4px 8px 0px rgba($c0, .08)
+	transition opacity 300ms $transition
+	li
+		a
+			display block
+			font-size 12px
+			padding 5px 10px
+		&:hover > a
+			color $c0
+		> ul
+			left 100%
+			top 0
+		&.left > ul
+			left auto
+			right 100%
+			
+.vl-navigation-standard li.menu-item-has-children > a::after
+	content '\f107'
+	font-family $fa
+	margin-left .5em
+	font-size 90%
+	vertical-align middle
+	display inline-flex
+	transition transform 150ms $transition
+	
+.vl-navigation-standard li.menu-item-has-children:hover > .sub-menu
+	opacity 1
+	visibility visible 
+	
+.vl-navigation-standard li.menu-item-has-children:hover > a::after
+	transform scaleY(-1)
+
+
+// FULLSCREEN
+
+.vl-navigation-fullscreen-holder
+	position fixed
+	top 0
+	left 0
+	right 0
+	bottom 0
+	height 100vh
+	z-index 555
+	display flex
+	align-items center
+	justify-content center
+	opacity 0
+	visibility hidden
+	background-color rgba($c0, .9)
+
+.vl-navigation-fullscreen
+	width 100%
+	max-width 320px
+	text-align center
+	ul
+		list-style-type none
+		margin 0
+		padding 0
+		width 100%
+		li, a
+			position relative
+
+
+.vl-navigation-fullscreen > ul > li
+	display block
+	padding 4px 0
+	> a
+		text-transform uppercase
+		font-size 12px
+		letter-spacing 2px
+		color rgba($c6, 50%)
+	&:hover > a,
+	&.current-menu-item > a
+		color $c6
+
+.vl-navigation-fullscreen .sub-menu
+	display none
+	li
+		a
+			font-size 12px
+			padding 5px 10px
+			color rgba($c6, 50%)
+		&:hover > a
+			color $c6
+			
+.vl-navigation-fullscreen li.menu-item-has-children.sub-menu-opened > .sub-menu
+	display block
+
+.vl-navigation-fullscreen li.menu-item-has-children > a::after
+	content '\f107'
+	position absolute
+	top 50%
+	font-family $fa
+	margin-left .5em
+	font-size 90%
+	vertical-align middle
+	display inline-flex
+	transform translateY(-50%)
+	transition transform 150ms $transition
+	
+.vl-navigation-fullscreen li.menu-item-has-children.sub-menu-opened > .sub-menu
+	opacity 1
+	visibility visible 
+	
+.vl-navigation-fullscreen li.menu-item-has-children.sub-menu-opened > a::after
+	transform scaleY(-1) translateY(50%)
+
+.vl-navigation-fullscreen .vl-navigation-socials 
+	margin-top 20px
+	ul
+		margin 0
+		padding 0
+		list-style-type none
+	li
+		display inline-flex
+		height 35px
+		width 35px
+		align-items center
+		justify-content center
+	a
+		font-size 14px
+		color rgba($c6, 50%)
+		&:hover
+			color $c6
+
+
+	
+// ASIDE
+
+.vl-navigation-aside-holder
+	position fixed
+	top 0
+	right 0
+	width 33.333%
+	padding-top 90px
+	padding-left 90px
+	padding-right 90px
+	z-index 555
+	display flex
+	align-items center
+	justify-content center
+	visibility hidden
+	min-height 100%
+	max-height 100%
+	overflow auto
+	background-color $c6
+	transform translate3d(100%, 0, 0)
+	@media (max-width: 991px)
+		width 50%
+		padding-left 40px
+		padding-right 40px
+		
+	@media (max-width: 767px)
+		width 100%
+		padding-top 80px
+		padding-left 30px
+		padding-right 30px
+		
+
+.vl-navigation-aside-overlay
+	position fixed
+	top 0
+	left 0
+	width 100%
+	height 100%
+	background-color rgba($c0, 20%)
+	z-index 554
+	opacity 0
+	visibility hidden
+
+
+.vl-navigation-aside .vl-navigation-socials 
+	margin-top 20px
+	ul
+		margin 0
+		padding 0
+		list-style-type none
+	li
+		display inline-flex
+		height 35px
+		width 35px
+		align-items center
+		justify-content center
+	a
+		font-size 14px
+		color $c1
+		&:hover
+			color $c0
+			
+.vl-navigation-aside
+	width 100%
+	ul
+		list-style-type none
+		margin 0
+		padding 0
+		width 100%
+		li
+			position relative
+
+.vl-navigation-aside > ul > li
+	display block
+	padding 4px 0
+	> a
+		text-transform uppercase
+		font-size 12px
+		letter-spacing 2px
+		color $c2
+	&:hover > a,
+	&.current-menu-item > a
+		color $c0
+
+.vl-navigation-aside .sub-menu
+	display none
+	li
+		a
+			font-size 12px
+			padding 5px 0
+			color $c2
+		&:hover > a
+			color $c0
+			
+.vl-navigation-aside li.menu-item-has-children.sub-menu-opened > .sub-menu
+	display block
+
+.vl-navigation-aside li.menu-item-has-children > a::after
+	content '\f107'
+	font-family $fa
+	margin-left .5em
+	font-size 90%
+	vertical-align middle
+	display inline-flex
+	transition transform 150ms $transition
+	
+
+
+
+		
+
+

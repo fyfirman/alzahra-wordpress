@@ -1,0 +1,298 @@
+# Translation of Plugins - PDF Embedder - Stable (latest release) in Slovak
+# This file is distributed under the same license as the Plugins - PDF Embedder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-22 06:39:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sk\n"
+"Project-Id-Version: Plugins - PDF Embedder - Stable (latest release)\n"
+
+#: core/core_pdf_embedder.php:347
+msgid "Display \"Powered by wp-pdf.com\" on PDF Viewer with a link to our site. Spread the love!"
+msgstr "V PDF prehliadači zobraziť \"Poháňa wp-pdf.com\"  s odkazom na našu webovú stránku. Šírte lásku!"
+
+#. Author of the plugin
+msgid "Lever Technology LLC"
+msgstr "Lever Technology LLC"
+
+#. Description of the plugin
+msgid "Embed PDFs straight into your posts and pages, with flexible width and height. No third-party services required. Compatible with Gutenberg Editor WordPress"
+msgstr "Vkladajte PDFka priamo do Vašich článkov alebo stránok, s flexibilnou šírkou a výškou. Nepoužívajú sa služby tretích strán. Kompatibilný s editorom WordPress Gutenberg "
+
+#: pdf_embedder.php:101
+msgid "Continous Page Scrolling"
+msgstr "Nepretržité posúvanie stránky"
+
+#: pdf_embedder.php:103
+msgid "Allow user to scroll up/down between all pages in the PDF"
+msgstr "Umožňuje užívateľovi rolovať hore / dole medzi všetkými stránkami v PDF dokumente"
+
+#: pdf_embedder.php:131
+msgid "The user can also touch and scroll continuously between all pages of the PDF which is much easier than clicking the next/prev buttons to navigate."
+msgstr "Užívateľ sa takisto môže dotknúť a neprerušovane ťahať medzi všetkými stránkami PDF, čo je omnoho ľahšie na navigovanie ako klikanie na tlačítka ďalej a dozadu"
+
+#: core/core_pdf_embedder.php:388
+msgid "Optionally add a watermark containing the user's name or email address to discourage sharing of screenshots."
+msgstr "Voliteľne pridať vodoznak obsahujúci užívateľské meno alebo email adresu na odradenie zdieľania snímkov obrazovky"
+
+#: pdf_embedder.php:86
+msgid "External Links"
+msgstr "Externé odkazy"
+
+#: pdf_embedder.php:77
+msgid "Options only available in Premium versions"
+msgstr "Možnosti dostupné iba v Prémiových verziách"
+
+#: pdf_embedder.php:81
+msgid "Provide PDF download button on toolbar"
+msgstr "Poskytnúť tlačidlo stiahnutia PDF na paneli nástrojov"
+
+#: pdf_embedder.php:96
+msgid "Count number of views and downloads"
+msgstr "Počítať množstvo videní a stiahnutí"
+
+#: pdf_embedder.php:88
+msgid "Open links in a new browser tab/window"
+msgstr "Otvárať odkazy v novej karte / okne"
+
+#: pdf_embedder.php:197
+msgid "Downloads/Views"
+msgstr "Stiahnuté/Zobrazené"
+
+#: pdf_embedder.php:195
+msgid "Track downloads and views with <a href=\"%s\" target=\"_blank\">PDF Embedder Premium</a>"
+msgstr "Sledovať stiahnutia a zobrazenia s <a href=\"%s\" target=\"_blank\">PDF Embedder Premium</a>"
+
+#: pdf_embedder.php:94
+msgid "Track Views/Downloads"
+msgstr "Sledovanie Zobrazení / Stiahnutí"
+
+#: pdf_embedder.php:107
+msgid "Find out more about <a href=\"%s\" target=\"_blank\">Premium Versions of the plugin on our website</a>."
+msgstr "Zistite viac o <a href=\"%s\" target=\"_blank\">Premium Versions of the plugin on our website</a>."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://wp-pdf.com/"
+msgstr "http://wp-pdf.com/"
+
+#: pdf_embedder.php:79
+msgid "Download Button"
+msgstr "Tlačítko Stiahnuť"
+
+#: pdf_embedder.php:122
+msgid ""
+"Our <b>PDF Embedder Premium</b> plugin solves this problem with an intelligent 'full screen' mode.\n"
+"            When the document is smaller than a certain width, the document displays only as a 'thumbnail' with a large\n"
+"            'View in Full Screen' button for the\n"
+"            user to click when they want to study your document.\n"
+"            This opens up the document so it has the full focus of the mobile browser, and the user can move about the\n"
+"            document without hitting other parts of\n"
+"            the web page by mistake. Click Exit to return to the regular web page."
+msgstr ""
+"Náš plugin  <b>PDF Embedder Premium</b> rieši tento problém s inteligentným celoobrazovkovým módom.\n"
+"            Ak je dokument menší ako určená šírka, dokument sa zobrazí iba ako \"náhľad\" s veľkým\n"
+"            tlačítkom \"Zobraziť na celú obrazovku\" pre\n"
+"            užívateľa na kliknutie ak si chcú preštudovať Váš dokument.\n"
+"            Toto otvorí dokument v plnom zobrazení mobilného prehliadača, a užívateľ sa môže pohybovať po dokumente bez toho, aby sa nechcene dotýôkal časti webovej stránky. Kliknite na Ukončiť aby ste sa vrátili na regulárnu web stránku."
+
+#: pdf_embedder.php:117
+msgid "Mobile-friendly embedding using PDF Embedder Premium"
+msgstr "Vkladanie pre mobilné zariadenia pomocou PDF Embedder Premium"
+
+#: core/core_pdf_embedder.php:326
+msgid "Both"
+msgstr "Obe"
+
+#: core/core_pdf_embedder.php:496
+msgid "Settings saved"
+msgstr "Nastavenia uložené"
+
+#: core/core_pdf_embedder.php:619
+msgid "Settings"
+msgstr "nastaveniach"
+
+#: core/core_pdf_embedder.php:450
+msgid "Unspecified error"
+msgstr "Nešpecifikovaná chyba"
+
+#: core/core_pdf_embedder.php:444
+msgid "Height must be \"max\" or an integer (number of pixels)"
+msgstr "Výška musí byť „max“ alebo celé číslo (počet pixelov)"
+
+#: core/core_pdf_embedder.php:443
+msgid "Width must be \"max\" or an integer (number of pixels)"
+msgstr "Šírka musí byť „max“ alebo celé číslo (počet pixelov)"
+
+#: core/core_pdf_embedder.php:390 pdf_embedder.php:134
+msgid "See our website <a href=\"%s\">wp-pdf.com</a> for more details and purchase options."
+msgstr "Ďalšie podrobnosti a možnosti nákupu nájdete na našej webovej stránke <a href=\"%s\"> wp-pdf.com </a>."
+
+#: core/core_pdf_embedder.php:386
+msgid "This means that your PDF is unlikely to be shared outside your site where you have no control over who views, prints, or shares it."
+msgstr "To znamená, že vaše súbory PDF sa pravdepodobne nebudú zdieľať mimo vašich stránok, na ktorých nemáte kontrolu nad tým, kto ich prezerá, tlačí alebo zdieľa."
+
+#: core/core_pdf_embedder.php:340
+msgid "Toolbar always visible"
+msgstr "Panel s nástrojmi je vždy viditeľný"
+
+#: core/core_pdf_embedder.php:335 js/pdfemb-blocks-4.6.2.js:162
+msgid "Toolbar appears only on hover over document"
+msgstr "Panel nástrojov sa zobrazí iba pri umiestnení kurzora myši nad dokument"
+
+#: core/core_pdf_embedder.php:358
+msgid "You can override these defaults for specific embeds by modifying the shortcodes - see <a href=\"%s\" target=\"_blank\">instructions</a>."
+msgstr "Tieto predvolené hodnoty môžete pre konkrétne vloženia prepísať úpravou krátkych kódov - pozri <a href=\"%s\" target=\"_blank\"> pokyny </a>."
+
+#: core/core_pdf_embedder.php:382
+msgid "Protect your PDFs using PDF Embedder Secure"
+msgstr "Chráňte svoje PDF súbory pomocou PDF Embedder Secure"
+
+#: core/core_pdf_embedder.php:383
+msgid ""
+"Our <b>PDF Embedder Premium Secure</b> plugin provides the same simple but elegant viewer for your website visitors, with the added protection that\n"
+"            it is difficult for users to download or print the original PDF document."
+msgstr ""
+"Náš plugin <b>PDF Embedder Premium Secure</b> poskytuje pre návštevníkov vašich webových stránok rovnaký jednoduchý, ale elegantný prehliadač s pridanou ochranou, vďaka ktorej\n"
+"            je pre používateľov ťažké stiahnuť alebo vytlačiť originálny dokument PDF."
+
+#: core/core_pdf_embedder.php:325
+msgid "Bottom"
+msgstr "Dno"
+
+#: core/core_pdf_embedder.php:314 js/pdfemb-blocks-4.6.2.js:137
+msgid "Height"
+msgstr "Výška"
+
+#: core/core_pdf_embedder.php:324
+msgid "Top"
+msgstr "Top"
+
+#: core/core_pdf_embedder.php:318
+msgid "Enter <b>max</b> or an integer number of pixels"
+msgstr "Zadajte <b>max</b> alebo celé číslo pixlov"
+
+#: core/core_pdf_embedder.php:322 js/pdfemb-blocks-4.6.2.js:145
+msgid "Toolbar Location"
+msgstr "Umiestnenie panela nástrojov"
+
+#: core/core_pdf_embedder.php:310 js/pdfemb-blocks-4.6.2.js:129
+msgid "Width"
+msgstr "Šírka"
+
+#: core/core_pdf_embedder.php:308
+msgid "Default Viewer Settings"
+msgstr "Predvolené nastavenia prehliadača"
+
+#: core/core_pdf_embedder.php:251
+msgid "Main Settings"
+msgstr "Hlavné nastavenia"
+
+#: core/core_pdf_embedder.php:280
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: core/core_pdf_embedder.php:52
+msgid "View in Full Screen"
+msgstr "Zobraziť na celej obrazovke"
+
+#: core/core_pdf_embedder.php:70
+msgid "Manage PDFs"
+msgstr "Spravovať PDFká"
+
+#: core/core_pdf_embedder.php:49
+msgid "Error: URL to the PDF file must be on exactly the same domain as the current web page."
+msgstr "Chyba: URL adresa PDF súboru musí byť na rovnakej doméne ako aktuálna web stránka."
+
+#: core/core_pdf_embedder.php:70
+msgid "PDF <span class=\"count\">(%s)</span>"
+msgid_plural "PDFs <span class=\"count\">(%s)</span>"
+msgstr[0] "PDF <span class=\"count\">(%s)</span>"
+msgstr[1] "PDF <span class=\"count\">(%s)</span>"
+msgstr[2] "PDF <span class=\"count\">(%s)</span>"
+
+#: core/core_pdf_embedder.php:70
+msgid "PDFs"
+msgstr "PDF"
+
+#: core/core_pdf_embedder.php:51
+msgid "PDF page width or height are invalid"
+msgstr "Šírka alebo výška stránky PDF je neplatná"
+
+#: core/core_pdf_embedder.php:50
+msgid "Click here for more info"
+msgstr "Kliknite sem pre viac informácií"
+
+#: core/core_pdf_embedder.php:241
+msgid "To use the plugin, just embed PDFs in the same way as you would normally embed images in your posts/pages - but try with a PDF file instead."
+msgstr "Ak chcete použiť plugin, jednoducho vložte súbory PDF rovnakým spôsobom, ako by ste normálne vkladali obrázky do svojich článkov / stránok - ale namiesto toho skúste použiť súbor PDF."
+
+#: core/core_pdf_embedder.php:252
+msgid "Mobile"
+msgstr "Mobil"
+
+#: core/core_pdf_embedder.php:242
+msgid ""
+"From the post editor, click Add Media, and then drag-and-drop your PDF file into the media library.\n"
+"                When you insert the PDF into your post, it will automatically embed using the plugin's viewer."
+msgstr ""
+"V editore kliknite na položku Pridať súbor a potom súbor PDF presuňte myšou do knižnice médií.\n"
+"                Keď vložíte PDF do svojho článku, automaticky sa vloží pomocou prehliadača pluginu."
+
+#. Plugin Name of the plugin
+#: core/core_pdf_embedder.php:214 core/core_pdf_embedder.php:219
+#: js/pdfemb-blocks-4.6.2.js:28
+msgid "PDF Embedder"
+msgstr "PDF Embedder"
+
+#: core/core_pdf_embedder.php:239
+msgid "PDF Embedder setup"
+msgstr "Nastavenie PDF Embedder"
+
+#: core/core_pdf_embedder.php:214 core/core_pdf_embedder.php:219
+msgid "PDF Embedder settings"
+msgstr "Nastavenia PDF Embedder"
+
+#: core/core_pdf_embedder.php:48
+msgid "Full Screen"
+msgstr "Na celú obrazovku"
+
+#: core/core_pdf_embedder.php:47
+msgid "Download PDF"
+msgstr "Stiahnuť PDF"
+
+#: core/core_pdf_embedder.php:45
+msgid "Zoom Out"
+msgstr "Oddialiť"
+
+#: core/core_pdf_embedder.php:44
+msgid "Zoom In"
+msgstr "Priblížiť"
+
+#: core/core_pdf_embedder.php:46 core/core_pdf_embedder.php:253
+msgid "Secure"
+msgstr "Zabezpečiť"
+
+#: core/core_pdf_embedder.php:43
+msgid "Next page"
+msgstr "Ďalšia strana"
+
+#: core/core_pdf_embedder.php:41
+msgid "Zoom"
+msgstr "Zobrazenie"
+
+#: core/core_pdf_embedder.php:42
+msgid "Previous page"
+msgstr "Predošlá strana"
+
+#: core/core_pdf_embedder.php:40
+msgid "Page"
+msgstr "Stranka"
+
+#: core/core_pdf_embedder.php:39
+msgid "Loading..."
+msgstr "Načítava sa..."

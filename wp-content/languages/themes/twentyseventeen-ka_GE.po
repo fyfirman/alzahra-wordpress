@@ -1,0 +1,318 @@
+# Translation of Themes - Twenty Seventeen in Georgian
+# This file is distributed under the same license as the Themes - Twenty Seventeen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-06 09:16:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ka_GE\n"
+"Project-Id-Version: Themes - Twenty Seventeen\n"
+
+#. Description of the plugin/theme
+msgid "Twenty Seventeen brings your site to life with header video and immersive featured images. With a focus on business sites, it features multiple sections on the front page as well as widgets, navigation and social menus, a logo, and more. Personalize its asymmetrical grid with a custom color scheme and showcase your multimedia content with post formats. Our default theme for 2017 works great in many languages, for any abilities, and on any device."
+msgstr "თემა Twenty Seventeen გააცოცხლებს თქვენს საიტს შთამბეჭდავი სურათებითა და მსუბუქი ანიმაციით. განკუთვნილია საქმიანი საიტებისათვის, ის შეიცავს მთავარ გვერდს, რამოდენიმე განყოფილებით, ასევე ვიჯეტებს, ნავიგაციას, სოციალური ელემენტების მენიუს, ლოგოს და სხვა მრავალს. მოარგეთ მისი ასიმეტრიული განლაგება სასურველი ფერთა გამით და გამოიყენეთ ჩანაწერის ფორმატები მედია-ფაილების გალერეის შექმნისათვის. 2017 წელს ჩვენი თემა შესანიშნავად გამოდგება მრავალი ენისათვის და ნებისმიერი მოწყობილობისათვის."
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Seventeen"
+msgstr "Twenty Seventeen"
+
+#: template-parts/header/site-branding.php:34
+#: template-parts/navigation/navigation-top.php:27
+msgid "Scroll down to content"
+msgstr "გვერდთან ერთად გადაცოცება"
+
+#: functions.php:159
+msgctxt "Theme starter content"
+msgid "Coffee"
+msgstr "ყავა"
+
+#: functions.php:155
+msgctxt "Theme starter content"
+msgid "Sandwich"
+msgstr "სენდვიჩი"
+
+#: functions.php:151
+msgctxt "Theme starter content"
+msgid "Espresso"
+msgstr "ესპრესო"
+
+#: inc/custom-header.php:119
+msgid "Pause background video"
+msgstr "ფონური ვიდეოს შეჩერება"
+
+#: inc/custom-header.php:118
+msgid "Play background video"
+msgstr "ფონური ვიდეოს გაშვება"
+
+#: inc/template-tags.php:150
+msgid "Front Page Section %1$s Placeholder"
+msgstr "მთავარი გვერდის %1$s სექციის შემავსებელი"
+
+#: single.php:32
+msgid "Next Post"
+msgstr "შემდეგი ჩანაწერი"
+
+#: index.php:27
+msgid "Posts"
+msgstr "ჩანაწერები"
+
+#: inc/template-tags.php:88
+msgid "Tags"
+msgstr "ჭდეები"
+
+#: inc/template-tags.php:84
+msgid "Categories"
+msgstr "კატეგორია"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:65
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post date
+#: inc/template-tags.php:51
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr "<span class=\"screen-reader-text\">გამოქვეყნებულია</span> %s"
+
+#. translators: %s: post author
+#: inc/template-tags.php:21
+msgid "by %s"
+msgstr "ავტორი: %s"
+
+#: inc/icon-functions.php:44
+msgid "Please define an SVG icon filename."
+msgstr "გთხოვთ, განსაზღვროთ ფაილის სახელი SVG ხატულასათვის."
+
+#: inc/icon-functions.php:39
+msgid "Please define default parameters in the form of an array."
+msgstr "გთხოვთ, განსაზღვროთ ნაგულისხმევი პარამეტრები ფორმის მასივში."
+
+#: inc/customizer.php:108
+msgid "Select pages to feature in each area from the dropdowns. Add an image to a section by setting a featured image in the page editor. Empty sections will not be displayed."
+msgstr "აირჩიეთ რჩეული გვერდები ყოველი არესათვის ჩამოშალდი სიებიდან. დაამატეთ სურათი რჩეული გამოსახულების დაყენებით გვერდების რედაქტორში. ცარიელი განყოფილებები არ გამოჩნდება."
+
+#. translators: %d is the front page section number
+#: inc/customizer.php:107
+msgid "Front Page Section %d Content"
+msgstr "მთავარი გვერდის %d სექციის შიგთავსი"
+
+#: inc/customizer.php:83 inc/customizer.php:132
+msgid "Two Column"
+msgstr "სვეტი"
+
+#: inc/customizer.php:82 inc/customizer.php:131
+msgid "One Column"
+msgstr "ერთი სვეტი"
+
+#: inc/customizer.php:77
+msgid "Page Layout"
+msgstr "გვერდის განლაგება"
+
+#: inc/customizer.php:66
+msgid "Theme Options"
+msgstr "თემის პარამეტრები"
+
+#: inc/customizer.php:50
+msgid "Custom"
+msgstr "მორგებული"
+
+#: inc/customizer.php:48
+msgid "Light"
+msgstr "ნათელი"
+
+#: inc/customizer.php:46
+msgid "Color Scheme"
+msgstr "ფერთა პალიტრა"
+
+#: inc/custom-header.php:49
+msgid "Default Header Image"
+msgstr "ნაგულისხმევი სათაურის სურათი"
+
+#: functions.php:335
+msgid "Footer 2"
+msgstr "სარდაფი 2"
+
+#: functions.php:327 functions.php:337
+msgid "Add widgets here to appear in your footer."
+msgstr "დაამატეთ ვიჯეტი აქ საიტის სარდაფში გამოსაჩენათ."
+
+#: functions.php:325
+msgid "Footer 1"
+msgstr "სარდაფი 1"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Libre Franklin, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:269
+msgctxt "Libre Franklin font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:63 functions.php:183
+#: template-parts/navigation/navigation-top.php:12
+msgid "Top Menu"
+msgstr "ზედა მენიუ"
+
+#: comments.php:60
+msgid "Reply"
+msgstr "პასუხი"
+
+#: template-parts/post/content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "როგორც ჩანს, ჩვენ არ შეგვიძლია ვიპოვნოთ ის, რასაც თქვენ ეძებთ."
+
+#: search.php:50
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "უკაცრავად, მაგრამ არცერთი ჩანაწერი არ ემთხვევა თქვენს საძიებო სიტყვებს. გთხოვთ, სცადოთ ახლიდან განსხვავებული სიტყვებით."
+
+#: template-parts/post/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "მზად ხართ გამოაქვეყნოთ ახალი სტატია? <a href=\"%1$s\">დაიწყეთ აქედან.</a>."
+
+#: search.php:21 template-parts/post/content-none.php:17
+msgid "Nothing Found"
+msgstr "ვერაფერი ვერ მოიძებნა"
+
+#: single.php:31
+msgid "Previous Post"
+msgstr "წინა ჩანაწერი"
+
+#: comments.php:66 single.php:31
+msgid "Previous"
+msgstr "წინა"
+
+#: comments.php:67 single.php:32
+msgid "Next"
+msgstr "შემდეგი"
+
+#: searchform.php:20
+msgctxt "submit button"
+msgid "Search"
+msgstr "ძიება"
+
+#: searchform.php:19
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "ძებნა &hellip;"
+
+#: searchform.php:17
+msgctxt "label"
+msgid "Search for:"
+msgstr "ძებნა:"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "ძებნის შედეგები: %s"
+
+#. translators: %s: Name of current post
+#: functions.php:363 template-parts/page/content-front-page-panels.php:43
+#: template-parts/page/content-front-page.php:44
+#: template-parts/post/content-audio.php:83
+#: template-parts/post/content-gallery.php:70
+#: template-parts/post/content-image.php:59
+#: template-parts/post/content-video.php:82 template-parts/post/content.php:56
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "დაწვრილებით<span class=“screen-reader-text”> „%s“</span>"
+
+#: inc/customizer.php:49
+msgid "Dark"
+msgstr "მუქი"
+
+#: inc/back-compat.php:39 inc/back-compat.php:51 inc/back-compat.php:66
+msgid "Twenty Seventeen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Seventeen მოითხოვს WordPress-ის ვერსიას 4.7. თქვენი ვერსია არის %s. გთხოვთ განაახლოთ საიტი."
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:116
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "<span class=\"screen-reader-text”>„%s“</span>-ის ჩასწორება"
+
+#: template-parts/page/content-page.php:25
+#: template-parts/post/content-audio.php:88
+#: template-parts/post/content-gallery.php:75
+#: template-parts/post/content-image.php:64
+#: template-parts/post/content-video.php:87 template-parts/post/content.php:61
+msgid "Pages:"
+msgstr "გვერდები:"
+
+#: template-parts/navigation/navigation-top.php:17
+msgid "Menu"
+msgstr "მენიუ"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "შიგთავსზე გადასვლა"
+
+#: functions.php:446
+msgid "Collapse child menu"
+msgstr "შვილობილი მენიუს ჩაკეცვა"
+
+#: functions.php:445
+msgid "Expand child menu"
+msgstr "შვილობილი მენიუს გაშლა"
+
+#: functions.php:64 functions.php:194
+msgid "Social Links Menu"
+msgstr "სოციალური ბმულების მენიუ"
+
+#: template-parts/footer/site-info.php:13
+msgid "Proudly powered by %s"
+msgstr "გამოყენებული ძრავი: %s"
+
+#. #-#-#-#-#  twentyseventeen.pot (Twenty Seventeen 1.3)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: template-parts/footer/site-info.php:13
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: footer.php:25
+msgid "Footer Social Links Menu"
+msgstr "სარდაფის სოციალური ბმულების მენიუ"
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "კომენტარების დატოვება გამორთულია."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%2$s: %1$s კომენტარი"
+
+#. translators: %s: post title
+#: comments.php:36
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "%s: 1 კომენტარი"
+
+#: archive.php:47 index.php:52 search.php:45
+msgid "Page"
+msgstr "გვერდი"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "ვაჰ! ის გვერდი ვერ მოიძებნა."
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "ამ მისამართზე არაფერი არ მოიძებნა. სცადეთ გამოიყენოთ ძებნა."
+
+#: archive.php:45 index.php:50 search.php:43
+msgid "Previous page"
+msgstr "წინა გვერდი"
+
+#: archive.php:46 index.php:51 search.php:44
+msgid "Next page"
+msgstr "შემდეგი გვერდი"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "the WordPress team"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentyseventeen/"
+msgstr "https://wordpress.org/themes/twentyseventeen/"

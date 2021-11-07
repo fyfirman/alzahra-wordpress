@@ -1,0 +1,337 @@
+# Translation of Themes - Twenty Seventeen in Welsh
+# This file is distributed under the same license as the Themes - Twenty Seventeen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-18 09:41:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: cy_GB\n"
+"Project-Id-Version: Themes - Twenty Seventeen\n"
+
+#. Description of the plugin/theme
+msgid "Twenty Seventeen brings your site to life with header video and immersive featured images. With a focus on business sites, it features multiple sections on the front page as well as widgets, navigation and social menus, a logo, and more. Personalize its asymmetrical grid with a custom color scheme and showcase your multimedia content with post formats. Our default theme for 2017 works great in many languages, for any abilities, and on any device."
+msgstr "Mae Twenty Seventeen yn dod a'ch gwefan yn fyw gyda delweddau nodwedd ac animeiddiadau cynnil. Gyda'i bwyslais ar wefannau busnes, mae'n cynnwys adrannau niferus ar y dudalen flaen yn ogystal â theclynnau, dewislenni symud a chymdeithasol, logo, a mwy. Personolwch ei grid anghymesur gyda chynllun lliw cyfaddas gan ddangos eich cynnwys amlgyfrwng drwy gyfrwng fformatau cofnodion. Mae ein thema rhagosodedig ar gyfer 2017 yn gweithio'n dda mewn llawer o ieithoedd, ar gyfer unrhyw allu, ac ar unrhyw ddyfais."
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Seventeen"
+msgstr "Twenty Seventeen"
+
+#: template-parts/footer/footer-widgets.php:18
+msgid "Footer"
+msgstr "Troedyn"
+
+#: functions.php:326
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "Ychwanegu teclynnau yma i'w dangos ar eich bar ochr ar gofnodion blog a thudalennau archif."
+
+#: functions.php:324 sidebar.php:18
+msgid "Blog Sidebar"
+msgstr "Bar ochr y blog"
+
+#: template-parts/header/site-branding.php:34
+#: template-parts/navigation/navigation-top.php:31
+msgid "Scroll down to content"
+msgstr "Sgrolio lawr i'r cynnwys"
+
+#: functions.php:167
+msgctxt "Theme starter content"
+msgid "Coffee"
+msgstr "Coffi"
+
+#: functions.php:163
+msgctxt "Theme starter content"
+msgid "Sandwich"
+msgstr "Sandwich"
+
+#: functions.php:159
+msgctxt "Theme starter content"
+msgid "Espresso"
+msgstr "Espresso"
+
+#: inc/custom-header.php:126
+msgid "Pause background video"
+msgstr "Oedi'r fideo cefndir"
+
+#: inc/custom-header.php:125
+msgid "Play background video"
+msgstr "Chwarae'r fideo cefndir"
+
+#: inc/template-tags.php:151
+msgid "Front Page Section %1$s Placeholder"
+msgstr "Dalfan %1$s Adran Tudalen Flaen"
+
+#: inc/customizer.php:99
+msgid "When the two-column layout is assigned, the page title is in one column and content is in the other."
+msgstr "Pan mae'r cynllun dwy golofn ei neilltuo, teitl y dudalen fydd un golofn a'r cynnwys yn y llall."
+
+#: single.php:34
+msgid "Next Post"
+msgstr "Cofnod Nesaf"
+
+#: index.php:27
+msgid "Posts"
+msgstr "Cofnodion"
+
+#: inc/template-tags.php:89
+msgid "Tags"
+msgstr "Tagiau"
+
+#: inc/template-tags.php:85
+msgid "Categories"
+msgstr "Categorïau"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:66
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post date
+#: inc/template-tags.php:52
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr "<span class=\"screen-reader-text\">Cofnodwyd ar</span> %s"
+
+#. translators: %s: post author
+#: inc/template-tags.php:21
+msgid "by %s"
+msgstr "gan %s"
+
+#: inc/icon-functions.php:44
+msgid "Please define an SVG icon filename."
+msgstr "Diffiniwch enw ffeil eicon SVG."
+
+#: inc/icon-functions.php:39
+msgid "Please define default parameters in the form of an array."
+msgstr "Diffiniwch baramedrau ragosodedig ar ffurf arae."
+
+#: inc/customizer.php:131
+msgid "Select pages to feature in each area from the dropdowns. Add an image to a section by setting a featured image in the page editor. Empty sections will not be displayed."
+msgstr "Dewiswch dudalennau i ymddangos ym mhob ardal o'r cwymplenni. Ychwanegwch ddelwedd i adran trwy osod delwedd synodweddlw yn y golygydd dudalen. Ni fydd rhannau gwag yn cael eu harddangos."
+
+#. translators: %d is the front page section number
+#: inc/customizer.php:130
+msgid "Front Page Section %d Content"
+msgstr "Tudalen Flaen Adran %d Cynnwys"
+
+#: inc/customizer.php:102 inc/customizer.php:158
+msgid "Two Column"
+msgstr "Dwy Golofn"
+
+#: inc/customizer.php:101 inc/customizer.php:157
+msgid "One Column"
+msgstr "Un Colofn"
+
+#: inc/customizer.php:96
+msgid "Page Layout"
+msgstr "Cynllun Tudalen"
+
+#: inc/customizer.php:81
+msgid "Theme Options"
+msgstr "Dewisiadau Themâu"
+
+#: inc/customizer.php:59
+msgid "Custom"
+msgstr "Cyfaddas"
+
+#: inc/customizer.php:57
+msgid "Light"
+msgstr "Golau"
+
+#: inc/customizer.php:55
+msgid "Color Scheme"
+msgstr "Cynllun Lliw"
+
+#: inc/custom-header.php:54
+msgid "Default Header Image"
+msgstr "Delwedd Pennyn Rhagosodedig"
+
+#: functions.php:348
+msgid "Footer 2"
+msgstr "Troedyn 2"
+
+#: functions.php:338 functions.php:350
+msgid "Add widgets here to appear in your footer."
+msgstr "Ychwanegu teclynnau yma i ymddangos yn eich troedyn."
+
+#: functions.php:336
+msgid "Footer 1"
+msgstr "Troedyn 1"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Libre Franklin, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:277
+msgctxt "Libre Franklin font: on or off"
+msgid "on"
+msgstr "ymlaen"
+
+#: functions.php:64 functions.php:191
+#: template-parts/navigation/navigation-top.php:12
+msgid "Top Menu"
+msgstr "Dewislen y Brig"
+
+#: comments.php:62
+msgid "Reply"
+msgstr "Ateb"
+
+#: template-parts/post/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nid ydym yn gallu canfod yr hyn rydych yn chwilio amdano. Beth am chwilio?"
+
+#: search.php:54
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Ymddiheuriadau does dim yn cydweddu a'ch chwilio. Ceisiwch eto gydag allweddeiriau gwahanol."
+
+#: template-parts/post/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Barod i gyhoeddi eich cofnod cyntaf? <a href=\"%1$s\">Cychwyn fan hyn</a>."
+
+#: search.php:21 template-parts/post/content-none.php:17
+msgid "Nothing Found"
+msgstr "Heb Ganfod Dim"
+
+#: single.php:33
+msgid "Previous Post"
+msgstr "Cofnod Blaenorol"
+
+#: comments.php:71 single.php:33
+msgid "Previous"
+msgstr "Blaenorol"
+
+#: comments.php:72 single.php:34
+msgid "Next"
+msgstr "Nesaf"
+
+#: searchform.php:20
+msgctxt "submit button"
+msgid "Search"
+msgstr "Chwilio"
+
+#: searchform.php:19
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Chwilio &hellip;"
+
+#: searchform.php:17
+msgctxt "label"
+msgid "Search for:"
+msgstr "Chwilio am:"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Canlyniadau Chwilio am: %s"
+
+#. translators: %s: Name of current post
+#: functions.php:378 template-parts/page/content-front-page-panels.php:45
+#: template-parts/page/content-front-page.php:42
+#: template-parts/post/content-audio.php:84
+#: template-parts/post/content-gallery.php:71
+#: template-parts/post/content-image.php:61
+#: template-parts/post/content-video.php:83 template-parts/post/content.php:57
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Parhau i ddarllen<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/customizer.php:58
+msgid "Dark"
+msgstr "Tywyll"
+
+#: inc/back-compat.php:39 inc/back-compat.php:52 inc/back-compat.php:68
+msgid "Twenty Seventeen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Mae Twenty Seventeen angen o leiaf WordPress fersiwn 4.7. Rydych yn rhedeg fersiwn %s. Diweddarwch a cheisiwch eto."
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:117
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Golygu<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/page/content-page.php:26
+#: template-parts/post/content-audio.php:91
+#: template-parts/post/content-gallery.php:78
+#: template-parts/post/content-image.php:68
+#: template-parts/post/content-video.php:90 template-parts/post/content.php:64
+msgid "Pages:"
+msgstr "Tudalennau:"
+
+#: template-parts/navigation/navigation-top.php:17
+msgid "Menu"
+msgstr "Dewislen"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Mynd i'r cynnwys"
+
+#: functions.php:467
+msgid "Collapse child menu"
+msgstr "Lleihau'r ddewislen plentyn"
+
+#: functions.php:466
+msgid "Expand child menu"
+msgstr "Ehangu'r ddewislen plentyn"
+
+#: functions.php:65 functions.php:202
+msgid "Social Links Menu"
+msgstr "Dewislen Dolenni Cymdeithasol"
+
+#: template-parts/footer/site-info.php:13
+msgid "Proudly powered by %s"
+msgstr "Grymuso balch gan %s"
+
+#. #-#-#-#-#  twentyseventeen.pot (Twenty Seventeen 1.5)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: template-parts/footer/site-info.php:13
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: footer.php:26
+msgid "Footer Social Links Menu"
+msgstr "Dewislen Dolenni Cymdeithasol Troedyn"
+
+#: comments.php:82
+msgid "Comments are closed."
+msgstr "Mae'r sylwadau wedi cau."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Ateb i \"%2$s\""
+msgstr[1] "%1$s Ateb i \"%2$s\""
+msgstr[2] "%1$s Ateb i \"%2$s\""
+msgstr[3] "%1$s Ateb i \"%2$s\""
+
+#. translators: %s: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Un Ymateb i \"%s\""
+
+#: archive.php:50 index.php:54 search.php:47
+msgid "Page"
+msgstr "Tudalen"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Wps! Does dim modd canfod y dudalen honno."
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Doedd dim byd fan hyn. Beth am chwilio?"
+
+#: archive.php:48 index.php:52 search.php:45
+msgid "Previous page"
+msgstr "Tudalen flaenorol"
+
+#: archive.php:49 index.php:53 search.php:46
+msgid "Next page"
+msgstr "Tudalen nesaf"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "Tîm WordPress"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentyseventeen/"
+msgstr "https://wordpress.org/themes/twentyseventeen/"

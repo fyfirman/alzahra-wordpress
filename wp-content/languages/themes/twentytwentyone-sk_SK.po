@@ -1,0 +1,668 @@
+# Translation of Themes - Twenty Twenty-One in Slovak
+# This file is distributed under the same license as the Themes - Twenty Twenty-One package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-04-09 10:50:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sk\n"
+"Project-Id-Version: Themes - Twenty Twenty-One\n"
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:20
+msgid "Twenty Twenty-One"
+msgstr "Twenty Twenty-One"
+
+#. Description of the theme
+msgid "Twenty Twenty-One is a blank canvas for your ideas and it makes the block editor your best brush. With new block patterns, which allow you to create a beautiful layout in a matter of seconds, this theme’s soft colors and eye-catching — yet timeless — design will let your work shine. Take it for a spin! See how Twenty Twenty-One elevates your portfolio, business website, or personal blog."
+msgstr "Twenty Twenty-One je prázdne plátno pre vaše nápady a robí z editora blokov najlepší štetec. Vďaka novým blokovým vzorom, ktoré vám umožnia vytvoriť nádherné rozloženie v priebehu niekoľkých sekúnd, jemné farby a pútavý - ale nadčasový - dizajn tejto témy nechajú vašu prácu zažiariť. Ber to na otočku! Zistite, ako Twenty Twenty-One pozdvihuje vaše portfólio, obchodný web alebo osobný blog."
+
+#: inc/template-tags.php:245
+msgid "Older <span class=\"nav-short\">posts</span>"
+msgstr "Staršie <span class=\"nav-short\">články</span>"
+
+#: inc/template-tags.php:234
+msgid "Newer <span class=\"nav-short\">posts</span>"
+msgstr "Novšie <span class=\"nav-short\">články</span>"
+
+#: classes/class-twenty-twenty-one-dark-mode.php:189
+#: classes/class-twenty-twenty-one-customize-notice-control.php:42
+msgid "https://wordpress.org/support/article/twenty-twenty-one/#dark-mode-support"
+msgstr "https://wordpress.org/support/article/twenty-twenty-one/#dark-mode-support"
+
+#. translators: %s: Twenty Twenty-One support article URL.
+#: classes/class-twenty-twenty-one-dark-mode.php:188
+msgid "Dark Mode is a device setting. If a visitor to your site requests it, your site will be shown with a dark background and light text. <a href=\"%s\">Learn more about Dark Mode.</a>"
+msgstr "Tmavý režim je nastavenie zariadenia. Ak o to návštevník vášho webu požiada, bude sa mu zobrazovať tmavé pozadie a svetlý text. <a href=\"%s\"> Viac informácií o tmavom režime. </a>"
+
+#: classes/class-twenty-twenty-one-dark-mode.php:192
+msgid "Dark Mode can also be turned on and off with a button that you can find in the bottom right corner of the page."
+msgstr "Tmavý režim je tiež možné zapnúť a vypnúť pomocou tlačidla, ktoré nájdete v pravom dolnom rohu stránky."
+
+#: classes/class-twenty-twenty-one-dark-mode.php:145
+msgid "Colors & Dark Mode"
+msgstr "Farby a tmavý režim"
+
+#: classes/class-twenty-twenty-one-dark-mode.php:199
+msgid "Dark Mode support"
+msgstr "Podpora tmavého režimu"
+
+#: classes/class-twenty-twenty-one-dark-mode.php:407
+msgid "Suggested text:"
+msgstr "Navrhovaný text:"
+
+#: classes/class-twenty-twenty-one-customize-notice-control.php:43
+msgid "Learn more about Dark Mode."
+msgstr "Získajte viac informácií o tmavom režime."
+
+#: classes/class-twenty-twenty-one-dark-mode.php:408
+msgid "This website uses LocalStorage to save the setting when Dark Mode support is turned on or off.<br> LocalStorage is necessary for the setting to work and is only used when a user clicks on the Dark Mode button.<br> No data is saved in the database or transferred."
+msgstr "Táto webová stránka používa na uloženie nastavenia program LocalStorage, keď je zapnutá alebo vypnutá podpora tmavého režimu. <br> LocalStorage je nevyhnutný na to, aby nastavenie fungovalo, a používa sa iba vtedy, keď používateľ klikne na tlačidlo Temný režim. <br> Neukladajú sa žiadne údaje v databáze alebo prenesené."
+
+#: classes/class-twenty-twenty-one-dark-mode.php:406
+msgid "Twenty Twenty-One uses LocalStorage when Dark Mode support is enabled."
+msgstr "Ak je povolená podpora tmavého režimu, program Twenty Twenty-One používa LocalStorage."
+
+#: classes/class-twenty-twenty-one-customize-notice-control.php:41
+msgid "To access the Dark Mode settings, select a light background color."
+msgstr "Ak chcete získať prístup k nastaveniam tmavého režimu, vyberte farbu svetlého pozadia."
+
+#: inc/template-tags.php:77
+msgctxt "Label for sticky posts"
+msgid "Featured post"
+msgstr "Odporúčaný článok"
+
+#: inc/template-functions.php:399
+msgctxt "Post password form"
+msgid "Submit"
+msgstr "Odoslať"
+
+#: inc/template-functions.php:399
+msgctxt "Post password form"
+msgid "Password"
+msgstr "Heslo"
+
+#: inc/template-functions.php:174
+msgctxt "Added to posts and pages that are missing titles"
+msgid "Untitled"
+msgstr "Nepomenovaný"
+
+#: inc/block-patterns.php:117
+msgctxt "Block pattern sample content"
+msgid "Cambridge, MA, 02139"
+msgstr "851 03 Bratislava"
+
+#: inc/block-patterns.php:117
+msgctxt "Block pattern sample content"
+msgid "123 Main Street"
+msgstr "Obchodná 1"
+
+#: inc/block-patterns.php:117
+msgctxt "Block pattern sample content"
+msgid "123-456-7890"
+msgstr "123-456-7890"
+
+#: classes/class-twenty-twenty-one-customize.php:143
+msgctxt "Customizer control"
+msgid "Background color"
+msgstr "Farba pozadia"
+
+#: inc/block-patterns.php:117
+msgctxt "Block pattern sample content"
+msgid "example@example.com"
+msgstr "meno.priezvisko@firma.sk"
+
+#. translators: %: Page number.
+#: image.php:46 template-parts/content/content-single.php:30
+#: template-parts/content/content-page.php:36
+#: template-parts/content/content.php:36
+msgid "Page %"
+msgstr "Stránka %"
+
+#: functions.php:187
+msgctxt "Font size"
+msgid "XXXL"
+msgstr "XXXL"
+
+#: functions.php:181
+msgctxt "Font size"
+msgid "XXL"
+msgstr "XXL"
+
+#: functions.php:175
+msgctxt "Font size"
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:169
+msgctxt "Font size"
+msgid "L"
+msgstr "L"
+
+#: functions.php:163
+msgctxt "Font size"
+msgid "M"
+msgstr "M"
+
+#: functions.php:157
+msgctxt "Font size"
+msgid "S"
+msgstr "S"
+
+#: functions.php:151
+msgctxt "Font size"
+msgid "XS"
+msgstr "XS"
+
+#: comments.php:87
+msgid "Leave a comment"
+msgstr "Pridaj komentár"
+
+#. translators: %s: Comment count number.
+#: comments.php:40
+msgctxt "Comments title"
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s komentár"
+msgstr[1] "%s komentáre"
+msgstr[2] "%s komentárov"
+
+#: comments.php:35
+msgid "1 comment"
+msgstr "1 komentár"
+
+#. translators: %s: On/Off
+#: classes/class-twenty-twenty-one-dark-mode.php:345
+msgid "Dark Mode: %s"
+msgstr "Tmavý režim: %s"
+
+#. translators: %s: WordPress Version.
+#: inc/back-compat.php:42 inc/back-compat.php:61 inc/back-compat.php:86
+msgid "This theme requires WordPress 5.3 or newer. You are running version %s. Please upgrade."
+msgstr "Táto téma vyžaduje WordPress 5.3 alebo novší. Vy používate verziu %s. Aktualizujte na novšiu verziu."
+
+#: classes/class-twenty-twenty-one-dark-mode.php:358
+msgid "On"
+msgstr "Zap."
+
+#: classes/class-twenty-twenty-one-dark-mode.php:355
+msgid "Off"
+msgstr "Vyp."
+
+#: inc/template-functions.php:397
+msgid "This content is password protected. Please enter a password to view."
+msgstr "Tento obsah je chránený heslom. Zadajte heslo, aby ste ho mohli zobraziť."
+
+#: inc/menu-functions.php:35
+msgid "Open menu"
+msgstr "Otvoriť menu"
+
+#: inc/block-patterns.php:107
+msgid "&#8220;Reading&#8221; by Berthe Morisot"
+msgstr "&#8220;Čítanie&#8221; od Berthe Morisot"
+
+#: inc/block-patterns.php:84
+msgid "&#8220;Self portrait&#8221; by Berthe Morisot"
+msgstr "&#8220;Autoportrét&#8221; od Berthe Morisot"
+
+#: inc/block-patterns.php:84
+msgid "&#8220;Daffodils&#8221; by Berthe Morisot"
+msgstr "&#8220;Narcisy&#8221; od Berthe Morisot"
+
+#: inc/starter-content.php:128
+msgctxt "Theme starter content"
+msgid "Check out the Support Forums"
+msgstr "Navštívte fóra podpory"
+
+#: inc/starter-content.php:122
+msgctxt "Theme starter content"
+msgid "Read the Theme Documentation"
+msgstr "Prečítajte si dokumentáciu k téme"
+
+#: inc/starter-content.php:112
+msgctxt "Theme starter content"
+msgid "Need help?"
+msgstr "Potrebujete pomoc?"
+
+#: inc/starter-content.php:97
+msgctxt "Theme starter content"
+msgid "Twenty Twenty-One also includes an overlap style for column blocks. With a Columns block selected, open the \"Styles\" panel within the Editor sidebar. Choose the \"Overlap\" block style to try it out."
+msgstr "Twenty Twenty-One tiež obsahuje štýl prekrývania pre bloky stĺpcov. Keď je vybraný blok Stĺpce, otvorte panel „Štýly“ na bočnom paneli Editora. Vyberte štýl bloku „Prekrývanie“ a vyskúšajte to."
+
+#: inc/starter-content.php:93
+msgctxt "Theme starter content"
+msgid "Overlap columns"
+msgstr "Prekrývajúce sa stĺpce"
+
+#: inc/starter-content.php:87
+msgctxt "Theme starter content"
+msgid "Twenty Twenty-One includes stylish borders for your content. With an Image block selected, open the \"Styles\" panel within the Editor sidebar. Select the \"Frame\" block style to activate it."
+msgstr "Twenty Twenty-One obsahuje štýlové okraje pre váš obsah. Keď je vybraný blok obrázkov, otvorte panel \"Štýly\" na bočnom paneli editora. Vyberte štýl bloku „Rám“, aby ste ho aktivovali."
+
+#: inc/starter-content.php:83
+msgctxt "Theme starter content"
+msgid "Frame your images"
+msgstr "Zarámujte svoje obrázky"
+
+#: inc/starter-content.php:77
+msgctxt "Theme starter content"
+msgid "Block patterns are pre-designed groups of blocks. To add one, select the Add Block button [+] in the toolbar at the top of the editor. Switch to the Patterns tab underneath the search bar, and choose a pattern."
+msgstr "Blokové vzory sú vopred navrhnuté skupiny blokov. Ak chcete pridať jeden, kliknite na tlačidlo Pridať blok [+] na paneli nástrojov v hornej časti editora. Prepnite na kartu Vzory pod vyhľadávacou lištou a vyberte vzor."
+
+#: inc/starter-content.php:73
+msgctxt "Theme starter content"
+msgid "Add block patterns"
+msgstr "Pridajte blokové vzory"
+
+#: inc/starter-content.php:30 inc/starter-content.php:33
+msgctxt "Theme starter content"
+msgid "Create your website with blocks"
+msgstr "Vytvorte si web pomocou blokov"
+
+#: inc/block-patterns.php:107
+msgid "Reading"
+msgstr "Čítanie"
+
+#: inc/template-functions.php:399
+msgctxt "Post password form"
+msgid "Enter"
+msgstr "Vstúpiť"
+
+#: inc/block-patterns.php:107
+msgid "Young Woman in Mauve"
+msgstr "Mladá žena v Mauve"
+
+#: inc/block-patterns.php:107
+msgid "The Garden at Bougival"
+msgstr "Záhrada v Bougival"
+
+#: inc/block-patterns.php:107
+msgid "In the Bois de Boulogne"
+msgstr "V Bois de Boulogne"
+
+#: inc/block-patterns.php:107
+msgid "Villa with Orange Trees, Nice"
+msgstr "Vila s oranžovými stromami, Nice"
+
+#: inc/block-patterns.php:96
+msgid "&#8220;Villa with Orange Trees, Nice&#8221; by Berthe Morisot"
+msgstr "&#8220;Vila s oranžovými stromami, Nice&#8221; od Berthe Morisot"
+
+#: inc/block-patterns.php:96
+msgid "Beautiful gardens painted by Berthe Morisot in the late 1800s"
+msgstr "Nádherné záhrady namaľované Berthe Morisotovou koncom 19. storočia"
+
+#: inc/block-patterns.php:96 inc/block-patterns.php:107
+msgid "&#8220;The Garden at Bougival&#8221; by Berthe Morisot"
+msgstr "&#8220;Záhrada v Bougival&#8221; od Berthe Morisot"
+
+#: inc/starter-content.php:61 inc/block-patterns.php:72
+#: inc/block-patterns.php:107
+msgid "&#8220;Young Woman in Mauve&#8221; by Berthe Morisot"
+msgstr "&#8220;Mladá žena v Mauve&#8221; od Berthe Morisot"
+
+#. translators: %s: Parent post.
+#: image.php:59
+msgid "Published in %s"
+msgstr "Publikované v %s"
+
+#: inc/block-patterns.php:60
+msgid "Berthe Morisot<br>(French, 1841-1895)"
+msgstr "Berthe Morisot<br>(Francúzska, 1841-1895)"
+
+#: inc/starter-content.php:51 inc/block-patterns.php:72
+#: inc/block-patterns.php:107
+msgid "&#8220;In the Bois de Boulogne&#8221; by Berthe Morisot"
+msgstr "&#8220;V Bois de Boulogne&#8221; od Berthe Morisot"
+
+#: classes/class-twenty-twenty-one-customize.php:113
+msgid "Summary"
+msgstr "Zhrnutie"
+
+#: classes/class-twenty-twenty-one-customize.php:90
+msgid "Excerpt Settings"
+msgstr "Nastavenia výňatku"
+
+#: inc/block-patterns.php:60
+msgid "Playing in the Sand"
+msgstr "Hranie v piesku"
+
+#: inc/block-patterns.php:60
+msgid "&#8220;Playing in the Sand&#8221; by Berthe Morisot"
+msgstr "&#8220;Hranie v piesku&#8221; od Berthe Morisot"
+
+#: inc/block-styles.php:98
+msgid "Thick"
+msgstr "Hrubý"
+
+#. translators: %s: Author name.
+#: inc/template-tags.php:49 template-parts/post/author-bio.php:19
+msgid "By %s"
+msgstr "Od %s"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:92 inc/template-tags.php:135 image.php:68 image.php:93
+#: template-parts/content/content-page.php:48
+msgid "Edit %s"
+msgstr "Upraviť %s"
+
+#. translators: Used between list items, there is a space after the comma.
+#: inc/template-tags.php:104 inc/template-tags.php:114
+#: inc/template-tags.php:148 inc/template-tags.php:158
+msgid ", "
+msgstr ", "
+
+#. translators: %s: List of categories.
+#: inc/template-tags.php:108 inc/template-tags.php:152
+msgid "Categorized as %s"
+msgstr "Kategorizované ako %s"
+
+#. translators: %s: Search term.
+#: template-parts/content/content-none.php:22 search.php:21
+msgid "Results for \"%s\""
+msgstr "Výsledky pre \"%s\""
+
+#: searchform.php:26
+msgctxt "submit button"
+msgid "Search"
+msgstr "Hľadať"
+
+#. translators: %s: Parent post link.
+#: single.php:25
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">Publikované v</span><span class=\"post-title\">%s</span>"
+
+#: inc/block-styles.php:62
+msgid "Frame"
+msgstr "Rám"
+
+#: inc/block-styles.php:71
+msgid "Dividers"
+msgstr "Oddeľovače"
+
+#: inc/block-styles.php:35 inc/block-styles.php:44 inc/block-styles.php:53
+#: inc/block-styles.php:80 inc/block-styles.php:89
+msgid "Borders"
+msgstr "Orámovania"
+
+#: inc/block-styles.php:26
+msgid "Overlap"
+msgstr "Prekrytie"
+
+#: inc/block-patterns.php:48
+msgid "example@example.com"
+msgstr "priklad@priklad.sk"
+
+#: inc/block-patterns.php:48
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/block-patterns.php:48
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/block-patterns.php:48
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/block-patterns.php:48
+msgid "Let&#8217;s Connect."
+msgstr "Poďme sa spojiť."
+
+#: comments.php:62 inc/template-tags.php:228 image.php:43
+#: template-parts/content/content-single.php:27
+#: template-parts/content/content-page.php:33
+#: template-parts/content/content.php:33
+msgid "Page"
+msgstr "Stránka"
+
+#: template-parts/header/site-nav.php:19
+msgid "Close"
+msgstr "Zavrieť"
+
+#: inc/block-patterns.php:33
+msgid "Large text"
+msgstr "Veľký text"
+
+#: image.php:81
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Plná veľkosť"
+
+#. translators: %s: Publish date.
+#: inc/template-tags.php:29
+msgid "Published %s"
+msgstr "Publikované %s"
+
+#: functions.php:358
+msgid "Footer"
+msgstr "Pätička"
+
+#: template-parts/header/site-nav.php:16
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/starter-content.php:154 functions.php:76
+#: template-parts/header/site-nav.php:13
+msgid "Primary menu"
+msgstr "Hlavné menu"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Prejsť na obsah"
+
+#: functions.php:360
+msgid "Add widgets here to appear in your footer."
+msgstr "Pridajte widgety sem, aby sa zobrazili vo vašej pätičke."
+
+#: functions.php:309
+msgid "Red to purple"
+msgstr "Z červenej na fialovú"
+
+#: functions.php:304
+msgid "Purple to red"
+msgstr "Z fialovej na červenú"
+
+#: functions.php:299
+msgid "Yellow to red"
+msgstr "Zo žltej k červenej"
+
+#: functions.php:294
+msgid "Red to yellow"
+msgstr "Z červenej na žltú"
+
+#: functions.php:289
+msgid "Yellow to green"
+msgstr "Zo žltej na zelenú"
+
+#: functions.php:284
+msgid "Green to yellow"
+msgstr "Zo zelenej na žltú"
+
+#: functions.php:279
+msgid "Yellow to purple"
+msgstr "Zo žltej na fialovú"
+
+#: functions.php:274
+msgid "Purple to yellow"
+msgstr "Z fialovej na žltú"
+
+#: functions.php:263
+msgid "White"
+msgstr "Biela"
+
+#: functions.php:258
+msgid "Yellow"
+msgstr "Žltá"
+
+#: functions.php:253
+msgid "Orange"
+msgstr "Oranžová"
+
+#: functions.php:248
+msgid "Red"
+msgstr "Červená"
+
+#: functions.php:243
+msgid "Purple"
+msgstr "Fialová"
+
+#: functions.php:238
+msgid "Blue"
+msgstr "Modrá"
+
+#: functions.php:233
+msgid "Green"
+msgstr "Zelená"
+
+#: functions.php:228
+msgid "Gray"
+msgstr "Šedá"
+
+#: inc/block-styles.php:107 functions.php:223
+msgid "Dark gray"
+msgstr "Tmavá šedá"
+
+#: functions.php:218
+msgid "Black"
+msgstr "Čierna"
+
+#: functions.php:168
+msgid "Large"
+msgstr "Veľké"
+
+#: functions.php:174
+msgid "Extra large"
+msgstr "Extra veľké"
+
+#: functions.php:162
+msgid "Normal"
+msgstr "Normálne"
+
+#: functions.php:156
+msgid "Small"
+msgstr "Malé"
+
+#: functions.php:150
+msgid "Extra small"
+msgstr "Extra malé"
+
+#: functions.php:180
+msgid "Huge"
+msgstr "Obrovské"
+
+#: functions.php:186
+msgid "Gigantic"
+msgstr "Gigantické"
+
+#. translators: %s: WordPress.
+#: footer.php:60
+msgid "Proudly powered by %s."
+msgstr "Hrdo poháňa %s."
+
+#: footer.php:24 inc/starter-content.php:165 functions.php:77
+msgid "Secondary menu"
+msgstr "Sekundárne menu"
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr "Komentáre sú uzavreté."
+
+#: comments.php:71
+msgid "Newer comments"
+msgstr "Novšie komentáre"
+
+#: comments.php:67
+msgid "Older comments"
+msgstr "Staršie komentáre"
+
+#: classes/class-twenty-twenty-one-customize.php:114
+msgid "Full text"
+msgstr "Celý text"
+
+#: classes/class-twenty-twenty-one-customize.php:80
+msgid "Display Site Title & Tagline"
+msgstr "Zobraziť názov webovej stránky & slogan"
+
+#: 404.php:16 template-parts/content/content-none.php:30
+msgid "Nothing here"
+msgstr "Žiaden obsah"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Vyzerá to, že sa na tomto mieste nič nenašlo. Skúste použiť vyhľadávanie."
+
+#: searchform.php:24
+msgid "Search&hellip;"
+msgstr "Hľadať&hellip;"
+
+#. translators: %s: List of tags.
+#: inc/template-tags.php:118 inc/template-tags.php:162
+msgid "Tagged %s"
+msgstr "Označené ako %s"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:132
+msgid "Continue reading %s"
+msgstr "Pokračovať v čítaní %s"
+
+#: inc/block-patterns.php:114
+msgid "Contact information"
+msgstr "Kontaktné údaje"
+
+#. translators: %d: The number of search results.
+#: search.php:33
+msgid "We found %d result for your search."
+msgid_plural "We found %d results for your search."
+msgstr[0] "Pre vaše vyhľadávanie sme našli %d výsledok."
+msgstr[1] "Pre vaše vyhľadávanie sme našli %d výsledky."
+msgstr[2] "Pre vaše vyhľadávanie sme našli %d výsledkov."
+
+#: single.php:40
+msgid "Previous post"
+msgstr "Predošlý článok"
+
+#: single.php:39
+msgid "Next post"
+msgstr "Ďalší článok"
+
+#: inc/block-patterns.php:44
+msgid "Links area"
+msgstr "Oblasť odkazov"
+
+#: inc/block-patterns.php:36
+msgid "A new portfolio default theme for WordPress"
+msgstr "Nová predvolená téma portfólia pre WordPress"
+
+#: inc/block-patterns.php:104
+msgid "Portfolio list"
+msgstr "Zoznam portfólia"
+
+#: template-parts/content/content-none.php:56
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Je nám ľúto, ale nič sa nezhoduje s hľadanými výrazmi. Skúste to znova s ​​inými kľúčovými slovami."
+
+#: inc/block-patterns.php:68
+msgid "Overlapping images"
+msgstr "Prekrývajúce sa obrázky"
+
+#. translators: %s: Author name.
+#: template-parts/post/author-bio.php:31
+msgid "View all of %s's posts."
+msgstr "Zobraziť všetky články autora %s."
+
+#. Author URI of the theme
+#: footer.php:61
+msgid "https://wordpress.org/"
+msgstr "https://sk.wordpress.org/"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "WordPress tím"
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentytwentyone/"
+msgstr "https://sk.wordpress.org/themes/twentytwentyone/"

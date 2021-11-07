@@ -1,0 +1,178 @@
+/*!  SIDEBAR
+----------------------------------------------------------*/
+
+.vl-sidebar
+	padding-left 15px
+
+.vl-widget
+	margin 0
+	padding 0
+	&:last-child
+		padding-top 0
+
+.vl-widget + .vl-widget
+	margin-top 3rem
+
+.vl-widget .vl-widget-title
+	margin-bottom 15px
+
+.vl-widget ul
+	margin 0
+	padding 0
+	list-style-type none
+	> li
+		margin-bottom 5px
+			
+.vl-widget ul li .children
+	margin-left 15px
+
+.vl-widget a
+	color $c0
+	&:hover
+		color $c2
+		
+
+/*!  WIDGET COMMENTS
+----------------------------------------------------------*/		
+
+.vl-widget.widget_recent_comments > ul
+	counter-reset section
+	> li::before
+		content counters(section,'.')
+		counter-increment section
+		display inline-block
+		height 25px
+		width 25px
+		border-radius 50%
+		border 2px solid $c0
+		display inline-flex
+		align-items center
+		justify-content center
+		margin-right 10px
+		font-size 12px
+		color $c0
+
+
+/*!  WIDGET TEXT
+----------------------------------------------------------*/
+
+.widget_text p:last-child
+	margin-bottom 0
+
+
+/*!  WIDGET RECENT NEWS
+----------------------------------------------------------*/
+
+.widget_recent_entries
+	a
+		display inline-block
+		max-width 100%
+		overflow hidden
+		white-space nowrap
+		text-overflow ellipsis
+	.post-date
+		display block
+		font-size 10px
+		color $c2
+		letter-spacing 2px
+		text-transform uppercase
+
+
+/*!  WIDGET MENU
+----------------------------------------------------------*/
+
+.widget_nav_menu .sub-menu
+	margin 5px 0
+	padding-left 5px
+
+.widget_nav_menu .sub-menu
+	display none
+	
+.widget_nav_menu li.menu-item-has-children > a::after
+	content '\f107'
+	font-family $fa
+	margin-left .5em
+	font-size 60%
+	vertical-align middle
+	display inline-flex
+	transition transform 150ms $transition
+	
+.widget_nav_menu li.menu-item-has-children.sub-menu-opened > .sub-menu
+	display block
+
+.widget_nav_menu li.menu-item-has-children.sub-menu-opened > a::after
+	transform scaleY(-1)
+	
+
+/*!  WIDGET TAGCLOUD
+----------------------------------------------------------*/
+
+.tagcloud > a,
+.vl-post-tags > a
+	display inline-flex
+	padding 6px 10px 6px 12px
+	margin 0 5px 5px 0
+	text-transform uppercase
+	font-size 12px !important
+	letter-spacing 2px
+	font-weight 600
+	background-color $c8
+	line-height 1
+	color $c0
+	&:hover
+		color $c1
+
+
+/*!  WIDGET CALENDAR
+----------------------------------------------------------*/
+
+.widget_calendar td#today
+	color $c6
+	background-color $c0
+
+
+/*!  WIDGET SOCIALS
+----------------------------------------------------------*/
+
+.vinero_widget_socials
+	> a
+		display inline-flex
+		align-items center
+		justify-content center
+		height 22px
+		width 22px
+		border-radius 2px
+		font-size 12px
+		color $c6
+		background-color $c0
+		&:hover
+			color $c6
+			background-color $c1
+	> a + a
+		margin-left 6px
+
+
+
+
+/*!  WIDGET SUBSCRIBE
+----------------------------------------------------------*/
+
+.vinero_widget_subscribe
+	p
+		margin 0 0 10px
+	.vl-form-group
+		margin-bottom 15px
+
+/*!  WIDGET ABOUT
+----------------------------------------------------------*/
+
+.vinero_widget_about
+	img
+		margin-bottom 1rem
+	.vl-widget-about-content
+		p:last-child
+			margin 0
+	.vl-widget-about-footer
+		margin-top 1rem
+		
+

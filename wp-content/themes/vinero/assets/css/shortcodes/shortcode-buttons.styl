@@ -1,0 +1,48 @@
+/*!  SHORTCODE BUTTONS
+----------------------------------------------------------*/
+
+.vl-btn
+	display inline-flex
+	align-items center
+	text-align center
+	cursor pointer
+	border none
+	outline 0
+	overflow hidden
+	padding 9px 32px
+	border-radius 0
+	transition all 300ms $transition
+	i
+		margin-right 5px
+		
+	&.vl-btn-lg
+		padding 18px 50px
+
+a.vl-link
+	position relative
+	color $c0
+	&::after
+		content ''
+		position absolute
+		bottom -3px
+		left 0
+		width 0%
+		height 1px
+		background-color currentColor
+		transition all 300ms $transition
+		
+	&:hover
+		color $c0
+		&::after
+			width 100%
+	&.reverse
+		&::after
+			width 100%
+		&:hover::after
+			width 0%
+			
+.vl-buttons
+	display flex
+	align-items center
+	.vl-btn + .vl-btn
+		margin-left 10px

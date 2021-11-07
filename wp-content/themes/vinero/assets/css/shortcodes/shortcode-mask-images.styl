@@ -1,0 +1,26 @@
+/*!  SHORTCODE MASK IMAGES
+----------------------------------------------------------*/
+
+.vl-mask-images
+	position relative
+	line-height 0
+	img
+		margin 0
+		padding 0
+	.vl-first-image
+		position relative
+		transition all 300ms $transition
+		z-index 5
+	.vl-second-image
+		position absolute
+		top 0
+		left 0
+		width 100%
+		height 100%
+		background-size cover
+		background-position center center
+		z-index 0
+	&:hover
+		.vl-first-image
+			opacity 0
+		

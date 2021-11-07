@@ -1,0 +1,379 @@
+# Translation of Themes - Twenty Nineteen in Sinhala
+# This file is distributed under the same license as the Themes - Twenty Nineteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-09-29 15:43:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: si_LK\n"
+"Project-Id-Version: Themes - Twenty Nineteen\n"
+
+#. Description of the theme
+msgid "Our 2019 default theme is designed to show off the power of the block editor. It features custom styles for all the default blocks, and is built so that what you see in the editor looks like what you'll see on your website. Twenty Nineteen is designed to be adaptable to a wide range of websites, whether you’re running a photo blog, launching a new business, or supporting a non-profit. Featuring ample whitespace and modern sans-serif headlines paired with classic serif body text, it's built to be beautiful on all screen sizes."
+msgstr "අපගේ 2019 තීමය බ්ලොක් සංස්කාරකයේ හැකියාවන් පෙන්වීම සඳහා නිර්මාණය කර ඇත. එය සියලු අභිරුචි මෝස්තර වලින් සමන්විත වන අතර නිර්මාණය කරණ වෙබ් පිටුව අවසාන ප්‍රථිපලයට සමාන වන අයුරින් නිමවා ඇත. ඔබ ඡායාරූප බ්ලොග් අඩවියක් පවත්වාගෙන ගියත්, නව ව්‍යාපාරයක් දියත් කළත්, නොමිලේ සපයන සේවාවක් දියත් කළත්, පුළුල් පරාසයක වෙබ් අඩවි වලට අනුවර්තනය වන පරිදි 2019 තීමය නිර්මාණය කර ඇත. සාමාණ්‍යෙයන් සෙරීෆ් බොඩි ටෙක්ස්ට් සමඟ යුගලනය කර ඇති ප්‍රමාණවත් සුදු අවකාශය සහ නවීන සැන්ස්-සෙරිෆ් සිරස්තල වලින් සමන්විත වන අතර එය සියලු තිර ප්‍රමාණයන් අලංකාර ලෙස නිර්මාණය කර ඇත."
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:20
+msgid "Twenty Nineteen"
+msgstr "ටුවෙන්ටි නයින්ටීන්"
+
+#. translators: %s: Parent post link.
+#: single.php:31
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">පළකර ඇත්තේ</span><span class=\"post-title\">%s</span>"
+
+#: inc/template-functions.php:136
+msgid "More"
+msgstr "තවත්"
+
+#: inc/customizer.php:55
+msgctxt "primary color"
+msgid "Default"
+msgstr "නිත්‍ය අගය"
+
+#: functions.php:169
+msgid "White"
+msgstr "සුදු"
+
+#: functions.php:136
+msgid "Huge"
+msgstr "දැවැන්ත"
+
+#: functions.php:130
+msgid "Large"
+msgstr "විශාල"
+
+#: functions.php:124
+msgid "Normal"
+msgstr "සාමාන්‍ය"
+
+#: functions.php:118
+msgid "Small"
+msgstr "කුඩා"
+
+#: functions.php:60 footer.php:37
+msgid "Footer Menu"
+msgstr "පාදම මෙනුව"
+
+#: image.php:87
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">පළකර ඇත්තේ</span><br><span class=\"post-title\">%title</span>"
+
+#: template-parts/content/content.php:18
+#: template-parts/content/content-excerpt.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "විශේෂාංග"
+
+#. translators: %s: WordPress version.
+#: inc/back-compat.php:40 inc/back-compat.php:55 inc/back-compat.php:76
+msgid "Twenty Nineteen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Nineteen සඳහා අවම වශයෙන් WordPress 4.7 අවශ්‍යය. ඔබ භාවිතා කරන්නේ %s ය. කරුණාකර යාවත්කාලීන කර නැවත උත්සාහ කරන්න."
+
+#: inc/template-functions.php:143
+msgid "Back"
+msgstr "ආපසු"
+
+#: inc/customizer.php:98
+msgid "Apply a filter to featured images using the primary color"
+msgstr "විශේෂාංග පින්තූරයට මූලික වර්ණ ඇති ෆිල්ටරයක් දමන්න"
+
+#: functions.php:164
+msgid "Light Gray"
+msgstr "ලා අළු"
+
+#: functions.php:159
+msgid "Dark Gray"
+msgstr "තද අළු"
+
+#: functions.php:137
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:131
+msgid "L"
+msgstr "L"
+
+#: functions.php:125
+msgid "M"
+msgstr "M"
+
+#: functions.php:119
+msgid "S"
+msgstr "S"
+
+#: inc/customizer.php:56
+msgctxt "primary color"
+msgid "Custom"
+msgstr "අභිමත"
+
+#: inc/customizer.php:78
+msgid "Apply a custom color for buttons, links, featured images, etc."
+msgstr "බොත්තම්, සබැඳි, විශේෂාංග පින්තූර, සඳහා අභිමත වර්ණයක් දමන්න."
+
+#: image.php:56
+msgid "Page"
+msgstr "පිටුව"
+
+#: functions.php:196
+msgid "Add widgets here to appear in your footer."
+msgstr "පාදමෙහි පෙන්වීම සඳහා විජට්ටු ඇතුලත් කරන්න."
+
+#: template-parts/footer/footer-widgets.php:12 functions.php:194
+msgid "Footer"
+msgstr "පාදම"
+
+#: inc/customizer.php:53
+msgid "Primary Color"
+msgstr "මූලික වර්ණය"
+
+#: image.php:70
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "සම්පූර්ණ ප්‍රමාණය"
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "කණගාටුයි, නමුත් ඔබ සෙවූ පද වලට සමාන කිසිවක් හමුවූයේ නැහැ. කරුණාකර වෙනස් මූලපද යොදා නැවත උත්සාහ කරන්න."
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "කිසිවක් සමු නොවුණි"
+
+#: comments.php:95
+msgid "Previous"
+msgstr "පෙර"
+
+#: comments.php:96
+msgid "Next"
+msgstr "ඊළඟ"
+
+#: template-parts/content/content.php:49
+#: template-parts/content/content-page.php:27
+#: template-parts/content/content-single.php:40 image.php:52
+msgid "Pages:"
+msgstr "පිටු:"
+
+#: template-parts/header/site-branding.php:46 functions.php:61
+msgid "Social Links Menu"
+msgstr "සමාජ සබැඳි මෙනුව"
+
+#: comments.php:116
+msgid "Comments are closed."
+msgstr "ප්‍රතිචාර වසා දමා ඇත."
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "අපොයි! එම පිටුව සොයාගත නොහැක."
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "පෙනෙන්නට තිබෙන්නේ මෙහි කිසිවක් නොමැති බවයි. සෙවුමක් උත්සාහ කරමුද?"
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "ඔබ සොයන දේ අපට සොයාගත නොහැකි හැඩයි. සෙවුමක් කිරීම ඇතැම්විට උදව් වේවි."
+
+#: template-parts/post/discussion-meta.php:18
+msgid "No comments"
+msgstr "අදහස් නැත"
+
+#. translators: %s: Post author.
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "පල කරන ලද්දේ %s"
+
+#: inc/template-tags.php:104
+msgid "Tags:"
+msgstr "ටැග:"
+
+#. translators: %s: Taxonomy singular name.
+#: inc/template-functions.php:90
+msgid "%s Archives:"
+msgstr "%s ගොනු:"
+
+#: inc/template-functions.php:84
+msgid "Daily Archives: "
+msgstr "දිනපතා ගොනු: "
+
+#: inc/template-functions.php:82
+msgid "Monthly Archives: "
+msgstr "මාසික ගොනු: "
+
+#: functions.php:59
+msgid "Primary"
+msgstr "ප්‍රාථමික"
+
+#: comments.php:35 comments.php:105 comments.php:107
+msgid "Leave a comment"
+msgstr "අදහසක් ඇතුලත් කරන්න"
+
+#: classes/class-twentynineteen-walker-comment.php:89
+msgid "Edit"
+msgstr "සංස්කරණය"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#. translators: %s: Post title.
+#: template-parts/content/content.php:36
+#: template-parts/content/content-single.php:27 functions.php:225
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "දිගටම <span class=\"screen-reader-text\"> \"%s\"</span> කියවන්න"
+
+#. translators: %s: WordPress.
+#: footer.php:28
+msgid "Proudly powered by %s."
+msgstr "%s වෙතින් සාඩම්බරයෙන් බලගැන්වේ."
+
+#. translators: %d: Number of comments.
+#: template-parts/post/discussion-meta.php:16
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] "%d අදහසක්"
+msgstr[1] "අදහස් %d ක්"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "තවත් ලිපි බලන්න"
+
+#: template-parts/header/site-branding.php:33
+msgid "Top Menu"
+msgstr "උඩම මෙනුව"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "පෙර ලිපිය:"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "පෙර ලිපිය"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "ඊළඟ ලිපිය:"
+
+#: single.php:38
+msgid "Next Post"
+msgstr "ඊළඟ ලිපිය"
+
+#: inc/template-tags.php:234
+msgid "Older posts"
+msgstr "පැරණි ලිපි"
+
+#: inc/template-tags.php:230
+msgid "Newer posts"
+msgstr "නව ලිපි"
+
+#: inc/template-tags.php:92
+msgid "Posted in"
+msgstr "පළ කර ඇත්තේ"
+
+#. translators: Used between list items, there is a space after the comma.
+#: inc/template-tags.php:86 inc/template-tags.php:98
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">%s වෙත </span>ප්‍රතිචාරයක් ලබාදෙන්න"
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "පළ කරන ලද්දේ"
+
+#: inc/template-functions.php:82
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:80
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:92
+msgid "Archives:"
+msgstr "පැරණි ගොනු:"
+
+#: inc/template-functions.php:86
+msgid "Post Type Archives: "
+msgstr "ලිපි වර්ග ගොනු: "
+
+#: inc/template-functions.php:80
+msgid "Yearly Archives: "
+msgstr "වාර්ෂික ගොනු: "
+
+#: inc/template-functions.php:78
+msgid "Author Archives: "
+msgstr "කර්තෘ ගොනු: "
+
+#: inc/template-functions.php:76
+msgid "Tag Archives: "
+msgstr "ටැග ගොනු: "
+
+#: inc/template-functions.php:74
+msgid "Category Archives: "
+msgstr "ප්‍රවර්ග ගොනු: "
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: template-parts/content/content-page.php:41
+#: template-parts/header/entry-header.php:32 inc/template-tags.php:120
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "<span class=\"screen-reader-text\">%s</span> සංස්කරණය"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "අන්තර්ගතයට යන්න"
+
+#: comments.php:92 comments.php:95 comments.php:96
+msgid "Comments"
+msgstr "ප්‍රතිචාර"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:44
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; හට %1$s පිළිතුරක්"
+msgstr[1] "&ldquo;%2$s&rdquo; හට පිළිතුරු %1$s ක්"
+
+#. translators: %s: Post title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo; හට පිළිතුරු එකක්"
+
+#: comments.php:33
+msgid "Join the Conversation"
+msgstr "සංවාදයට එක්වන්න"
+
+#. translators: 1: Comment date, 2: Comment time.
+#: classes/class-twentynineteen-walker-comment.php:78
+msgid "%1$s at %2$s"
+msgstr "%1$s දා %2$s"
+
+#. translators: %s: Comment author link.
+#: classes/class-twentynineteen-walker-comment.php:59
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s <span class=\"screen-reader-text says\">කියයි:</span>"
+
+#: classes/class-twentynineteen-walker-comment.php:96
+msgid "Your comment is awaiting moderation."
+msgstr "ඔබගේ අදහස, අනුමැතිය සඳහා ඉදිරිපත් කරණ ලදී."
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentynineteen/"
+msgstr "https://wordpress.org/themes/twentynineteen/"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "WordPress කණ්ඩායම"
+
+#. Author URI of the theme
+#: footer.php:25
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"

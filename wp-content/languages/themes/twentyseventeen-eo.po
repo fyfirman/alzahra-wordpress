@@ -1,0 +1,331 @@
+# Translation of Themes - Twenty Seventeen in Esperanto
+# This file is distributed under the same license as the Themes - Twenty Seventeen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-09 13:03:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: eo\n"
+"Project-Id-Version: Themes - Twenty Seventeen\n"
+
+#. Description of the plugin/theme
+msgid "Twenty Seventeen brings your site to life with header video and immersive featured images. With a focus on business sites, it features multiple sections on the front page as well as widgets, navigation and social menus, a logo, and more. Personalize its asymmetrical grid with a custom color scheme and showcase your multimedia content with post formats. Our default theme for 2017 works great in many languages, for any abilities, and on any device."
+msgstr "Twenty Seventeen vigligos vian retejon per filmo en la kapo kaj elstarigitaj bildoj kiuj engaĝos la sentojn. Cele al komercaj retejoj, Twenty Seventeen aranĝas la ĉefpaĝon en plurajn sekciojn, utiligas kromprogrametojn, navigadajn kaj sociajn menuojn, emblemon kaj pli. Vi povas ŝanĝi la nesimetrian kradon per elektoj de koloroj kaj elmontri viajn sonvidaĵojn per afiŝo-tipoj. Nia defaŭlta etoso por 2017 funkcias bonege en multaj lingvoj, en ĉia aparato kaj por multaj celoj."
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Seventeen"
+msgstr "Twenty Seventeen"
+
+#: functions.php:326
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "Aldonu kromprogrametojn tie ĉi por aperi en via flankpanelo sur blogafiŝoj kaj paĝoj de arkivoj."
+
+#: functions.php:324 sidebar.php:18
+msgid "Blog Sidebar"
+msgstr "Flankpanelo de blogo"
+
+#: template-parts/header/site-branding.php:34
+#: template-parts/navigation/navigation-top.php:31
+msgid "Scroll down to content"
+msgstr "Rulumu por atingi enhavon"
+
+#: functions.php:167
+msgctxt "Theme starter content"
+msgid "Coffee"
+msgstr "Kafo"
+
+#: functions.php:163
+msgctxt "Theme starter content"
+msgid "Sandwich"
+msgstr "Sandviĉo"
+
+#: functions.php:159
+msgctxt "Theme starter content"
+msgid "Espresso"
+msgstr "Espreso"
+
+#: inc/custom-header.php:126
+msgid "Pause background video"
+msgstr "Paŭzigi fonfilmon"
+
+#: inc/custom-header.php:125
+msgid "Play background video"
+msgstr "Ludi fonfilmon"
+
+#: inc/template-tags.php:151
+msgid "Front Page Section %1$s Placeholder"
+msgstr "Lokokupilo por ĉefpaĝa sekcio %1$s"
+
+#: inc/customizer.php:99
+msgid "When the two-column layout is assigned, the page title is in one column and content is in the other."
+msgstr "Kiam la du-kolumna aranĝo estas fiksita, la paĝtitolo estas en unu kolumno kaj enhavo en la alia."
+
+#: single.php:34
+msgid "Next Post"
+msgstr "Sekva afiŝo"
+
+#: index.php:27
+msgid "Posts"
+msgstr "Afiŝoj"
+
+#: inc/template-tags.php:89
+msgid "Tags"
+msgstr "Etikedoj"
+
+#: inc/template-tags.php:85
+msgid "Categories"
+msgstr "Kategorioj"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:66
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post date
+#: inc/template-tags.php:52
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr "<span class=\"screen-reader-text\">Afiŝita en</span> %s"
+
+#. translators: %s: post author
+#: inc/template-tags.php:21
+msgid "by %s"
+msgstr "de %s"
+
+#: inc/icon-functions.php:44
+msgid "Please define an SVG icon filename."
+msgstr "Bonvole difinu dosiernomon por SVG-piktogramo."
+
+#: inc/icon-functions.php:39
+msgid "Please define default parameters in the form of an array."
+msgstr "Bonvole difinu defaŭltajn parametrojn forme de matrico."
+
+#: inc/customizer.php:131
+msgid "Select pages to feature in each area from the dropdowns. Add an image to a section by setting a featured image in the page editor. Empty sections will not be displayed."
+msgstr "El la falmenuo elektu paĝojn por elstarigi en ĉiu loko. Aldonu bildon al sekcio per fikso de elstarigita bildo en la paĝa redaktilo. Malplenaj sekcioj ne aperos."
+
+#. translators: %d is the front page section number
+#: inc/customizer.php:130
+msgid "Front Page Section %d Content"
+msgstr "Enhavo de ĉefpaĝa sekcio %d"
+
+#: inc/customizer.php:102 inc/customizer.php:158
+msgid "Two Column"
+msgstr "Du-kolumna"
+
+#: inc/customizer.php:101 inc/customizer.php:157
+msgid "One Column"
+msgstr "Unu-kolumna"
+
+#: inc/customizer.php:96
+msgid "Page Layout"
+msgstr "Paĝaranĝo"
+
+#: inc/customizer.php:81
+msgid "Theme Options"
+msgstr "Opcioj de la etoso"
+
+#: inc/customizer.php:59
+msgid "Custom"
+msgstr "Propra"
+
+#: inc/customizer.php:57
+msgid "Light"
+msgstr "Hela"
+
+#: inc/customizer.php:55
+msgid "Color Scheme"
+msgstr "Koloraranĝo"
+
+#: inc/custom-header.php:54
+msgid "Default Header Image"
+msgstr "Defaŭlta bildo por la kapo"
+
+#: functions.php:348
+msgid "Footer 2"
+msgstr "Piedo 2"
+
+#: functions.php:338 functions.php:350
+msgid "Add widgets here to appear in your footer."
+msgstr "Tie ĉi, aldonu kromprogrametojn por montri en la piedo."
+
+#: functions.php:336
+msgid "Footer 1"
+msgstr "Piedo 1"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Libre Franklin, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:277
+msgctxt "Libre Franklin font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:64 functions.php:191
+#: template-parts/navigation/navigation-top.php:12
+msgid "Top Menu"
+msgstr "Supra menuo"
+
+#: comments.php:62
+msgid "Reply"
+msgstr "Respondi"
+
+#: template-parts/post/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Ŝajnas, ke ni ne povas trovi tion. Eble serĉo helpos."
+
+#: search.php:54
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Bedaŭrinde, nenio kongruis kun viaj serĉaj kriterioj. Bonvolu provi denove, uzante malsamajn vortojn."
+
+#: template-parts/post/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ĉu preta publikigi vian unuan afiŝon? <a href=\"%1$s\">Eku ĉi tie</a>."
+
+#: search.php:21 template-parts/post/content-none.php:17
+msgid "Nothing Found"
+msgstr "Nenio estis trovita"
+
+#: single.php:33
+msgid "Previous Post"
+msgstr "Antaŭa afiŝo"
+
+#: comments.php:71 single.php:33
+msgid "Previous"
+msgstr "Antaŭa"
+
+#: comments.php:72 single.php:34
+msgid "Next"
+msgstr "Sekva"
+
+#: searchform.php:20
+msgctxt "submit button"
+msgid "Search"
+msgstr "Priserĉi"
+
+#: searchform.php:19
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Priserĉi &hellip;"
+
+#: searchform.php:17
+msgctxt "label"
+msgid "Search for:"
+msgstr "Serĉu:"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Serĉrezultoj por: %s"
+
+#. translators: %s: Name of current post
+#: functions.php:378 template-parts/page/content-front-page-panels.php:45
+#: template-parts/page/content-front-page.php:42
+#: template-parts/post/content-audio.php:84
+#: template-parts/post/content-gallery.php:71
+#: template-parts/post/content-image.php:61
+#: template-parts/post/content-video.php:83 template-parts/post/content.php:57
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Daŭrigi legadon<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/customizer.php:58
+msgid "Dark"
+msgstr "Malhela"
+
+#: inc/back-compat.php:39 inc/back-compat.php:52 inc/back-compat.php:68
+msgid "Twenty Seventeen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Sixteen postulas almenaŭ version 4.7 de WordPress. Vi uzas version %s. Bonvole ĝisdatigu kaj provu denove."
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:117
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Redakti<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/page/content-page.php:26
+#: template-parts/post/content-audio.php:91
+#: template-parts/post/content-gallery.php:78
+#: template-parts/post/content-image.php:68
+#: template-parts/post/content-video.php:90 template-parts/post/content.php:64
+msgid "Pages:"
+msgstr "Paĝoj:"
+
+#: template-parts/navigation/navigation-top.php:17
+msgid "Menu"
+msgstr "Menuo"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Iri rekte al enhavo"
+
+#: functions.php:467
+msgid "Collapse child menu"
+msgstr "Maletendi infanan menuon"
+
+#: functions.php:466
+msgid "Expand child menu"
+msgstr "Etendi infanan menuon"
+
+#: functions.php:65 functions.php:202
+msgid "Social Links Menu"
+msgstr "Menuo por sociaj ligoj"
+
+#: template-parts/footer/site-info.php:13
+msgid "Proudly powered by %s"
+msgstr "Fiere kreita de %s"
+
+#. #-#-#-#-#  twentyseventeen.pot (Twenty Seventeen 1.5)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: template-parts/footer/site-info.php:13
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: footer.php:26
+msgid "Footer Social Links Menu"
+msgstr "Menuo de sociaj ligiloj en piedo"
+
+#: comments.php:82
+msgid "Comments are closed."
+msgstr "Komentado estas fermita."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s penso pri &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensoj pri &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Jen, penso pri &ldquo;%s&rdquo;"
+
+#: archive.php:50 index.php:54 search.php:47
+msgid "Page"
+msgstr "Paĝo"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ne eblas trovi tiun paĝon."
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Ŝajne nenio estis trovita je ĉi tiu loko. Ĉu eble provi serĉon?"
+
+#: archive.php:48 index.php:52 search.php:45
+msgid "Previous page"
+msgstr "Antaŭa paĝo"
+
+#: archive.php:49 index.php:53 search.php:46
+msgid "Next page"
+msgstr "Sekva paĝo"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "la teamo de WordPress"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentyseventeen/"
+msgstr "https://wordpress.org/themes/twentysixteen/"

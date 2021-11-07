@@ -1,0 +1,1877 @@
+# Translation of Themes - Perfect Portfolio in Hebrew
+# This file is distributed under the same license as the Themes - Perfect Portfolio package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-03 12:21:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: he_IL\n"
+"Project-Id-Version: Themes - Perfect Portfolio\n"
+
+#. Description of the theme
+msgid "Perfect Portfolio is a free portfolio WordPress theme that will help you stand out from the crowd. This premium looking free theme is ideal for freelancers, photographers, digital marketers, agencies, graphic designers, video producers, web designers, web developers, and professional bloggers that want to depict their work in a beautiful layout. If you want to create an easy to use website to showcase your work, case studies, and achievement without writing a single line of code, this theme is perfect for you. Create a perfect portfolio with Perfect Portfolio WordPress theme. The theme also has an eye-catching blog layout which will help you show your expertise on your field through informative content. Perfect Portfolio comes with Schema friendly, Speed Optimized code topped with fully mobile-friendly layout that makes the theme ultra SEO ready, which means Google will love your website. The advanced features like Call To Action, services section, social media integration, WooCommerce integration, and so on is backed with quick human support whenever you face any issues. You will also get free demo content that you can import with a click with this theme. Check the demo at https://rarathemes.com/previews/?theme=perfect-portfolio/, documentation at https://docs.rarathemes.com/docs/perfect-portfolio/ and get support at https://rarathemes.com/support-forum/."
+msgstr "תיק העבודות המושלם הוא תבנית וורדפרס חינמית של תיק עבודות שתעזור לך להתבלט בין ההמון. התבנית החינמית שנראית כפרימיום הינה אידיאלית עבור פרילנסרים, צלמים, משווקים דיגיטליים, סוכנויות, מעצבים גרפיים, מפיקי וידאו, מעצבי אתרים, מפתחי אתרים ובלוגרים מקצועיים שרוצים להראות את עבודותיהם בצורה יפה. אם אתם רוצים ליצור אתר נוח לשימוש כדי להציג את העבודות, המחקרים וההישגים שלכם מבלי לכתוב שורת קוד אחת, תבנית זו מושלמת עבורכם. צרו תיק עבודות מושלם עם תבנית ה-WordPress:  Perfect Portfolio. לתבנית יש גם פריסת בלוג מושכת שתעזור לכם להציג את המומחיות שלכם בתחום שלכם באמצעות תוכן אינפורמטיבי. Perfect Portfolio מגיע עם קוד ידידותי לסכימה, עם אופטימיזציה למהירות ופריסה מותאמת לגמרי לניידים שהופכת את התבנית לתומכת מאוד ב-SEO, מה שאומר שגוגל יאהב את האתר שלכם. התכונות המתקדמות כמו קריאה לפעולה, איזור שירותים, אינטגרציה של מדיה חברתית, שילוב WooCommerce וכו׳ מגובות בתמיכה אנושית מהירה בכל פעם שאתם נתקלים בבעיה. תקבלו גם תוכן לדוגמא בחינם שתוכלו לייבא בלחיצה אחת עם תבנית זו. בדקו את הדוגמא בכתובת https://rarathemes.com/previews/?theme=perfect-portfolio/, תיעוד בכתובת https://docs.rarathemes.com/docs/perfect-portfolio/ וקבלו תמיכה בכתובת https://rarathemes.com/support-forum/."
+
+#. Theme Name of the theme
+msgid "Perfect Portfolio"
+msgstr "תיק העבודות המושלם"
+
+#: inc/rtc-filters.php:36
+msgid "Portfolios"
+msgstr "תיקי עבודות"
+
+#: inc/rtc-filters.php:35
+msgid "Portfolio"
+msgstr "תיק עבודות"
+
+#: inc/template-functions.php:112
+msgid "Mobile"
+msgstr "נייד"
+
+#. translators: 1: string, 2: preview url, 3: string
+#: inc/customizer/info.php:30
+msgid "https://rarathemes.com/previews/?theme=perfect-portfolio/"
+msgstr "https://rarathemes.com/previews/?theme=perfect-portfolio/"
+
+#: inc/custom-functions.php:305 inc/custom-functions.php:310
+msgid "Email"
+msgstr "אימייל"
+
+#: inc/custom-functions.php:304 inc/custom-functions.php:308
+msgid "Name"
+msgstr "שם"
+
+#: inc/custom-functions.php:492
+msgid "Dismiss"
+msgstr "סגירה"
+
+#: inc/custom-functions.php:491
+msgid "Go to the getting started."
+msgstr "גשו להתחלת העבודה."
+
+#: inc/custom-functions.php:490
+msgid "%1$s is now installed and ready to use. Click below to see theme documentation, plugins to install and other details to get started."
+msgstr "%1$s מותקן כעת ומוכן לשימוש. לחצו למטה כדי לראות את מסמכי התבנית, תוספים להתקנה ופרטים נוספים כדי להתחיל."
+
+#: inc/custom-functions.php:489
+msgid "Congratulations!"
+msgstr "ברכות!"
+
+#: inc/getting-started/getting-started.php:145
+msgid "Free Vs Pro"
+msgstr "חינם לעומת פרימיום"
+
+#: inc/getting-started/getting-started.php:136
+msgid "FAQ's &amp; Support"
+msgstr "שאלות נפוצות ותמיכה"
+
+#: inc/getting-started/getting-started.php:106
+msgid "You will find everything you need to get started with %1$s below."
+msgstr "בהמשך תוכל למצוא את כל מה שצריך כדי להתחיל בעבודה עם %1$s"
+
+#: inc/getting-started/getting-started.php:105
+msgid "Getting started with %1$s v%2$s"
+msgstr "להתחיל עם %1$s v%2$s"
+
+#: inc/getting-started/getting-started.php:16
+#: inc/getting-started/getting-started.php:17
+#: inc/getting-started/getting-started.php:127
+msgid "Getting Started"
+msgstr "לצאת לדרך"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:109
+msgid "Jetpack Portfolio"
+msgstr "תיק עבודות ג'טפק"
+
+#: inc/getting-started/tabs/plugins-panel.php:44
+msgid "Version %s"
+msgstr "גרסה %s"
+
+#: inc/getting-started/tabs/plugins-panel.php:34
+msgid "These Free Plugins might be handy for you."
+msgstr "תוספים חינמיים אלה עשויים להיות שימושיים עבורכם."
+
+#: inc/getting-started/tabs/plugins-panel.php:33
+msgid "Free Plugins"
+msgstr "תוספים חינמיים"
+
+#: inc/getting-started/tabs/plugins-panel.php:12
+msgid "Here is a list of recommended plugins you should install to get most out of the %1$s. Though every plugin is optional, we recommend you to at least install %2$sRaraTheme Companion%3$s, %2$sRara One Click Demo Import%3$s & %2$sContact Form 7%3$s to create a website similar to the %1$s demo and also to ensure every feature of the theme works correctly."
+msgstr "להלן רשימה של תוספים מומלצים שעליכם להתקין על מנת להפיק את המיטב מה %1$s. למרות שהתוספים שלהלן אינם חובה, אנו ממליצים שלפחות תתקינו את התוספים %2$sRaraTheme Companion%3$s, %2$sRara One Click Demo Import%3$s & %2$sContact Form 7%3$s על מנת ליצור אתר שדומה לאתר הדמו %1$s וגם על מנת להבטיח שכל תכונה בתבנית תעבוד בצורה מיטבית."
+
+#: inc/getting-started/getting-started.php:118
+#: inc/getting-started/tabs/plugins-panel.php:10
+msgid "Recommended Plugins"
+msgstr "תוספים מומלצים"
+
+#: inc/getting-started/tabs/support-panel.php:54
+msgid "Also, when you submit the support ticket, please try to provide maximum details so that we can look into your issue in detail and solve it in minimum time. We recommend you to send us a screenshot(s) with issues explained and your website's address (URL)."
+msgstr "כמו כן, כשאתם שולחים את קריאת השירות לתמיכה, אנא נסו לספק כמה שיותר פרטים על מנת שנוכל לפתור את הבעיה שלכם מהר יותר. אנו ממליצים לשלוח אלינו צילום(י) מסך עם בעיות שהוסברו ואת כתובת האתר שלכם (URL)."
+
+#: inc/getting-started/tabs/support-panel.php:53
+msgid "Please ensure that you have updated to the latest version of the theme before you submit a support ticket for any issue. We might have already fixed the bug in the previous theme update."
+msgstr "אנא ודאו שעידכנתם את הגרסה העדכנית ביותר של התבנית לפני שאתם פותחים קריאה בשירות התמיכה לכל עניין. ייתכן שהבאג כבר תוקן בעדכון האחרון של התבנית."
+
+#: inc/getting-started/tabs/support-panel.php:51
+msgid "How can I solve my issues quickly and get faster support?"
+msgstr "כיצד אוכל לפתור את הבעיות שלי במהירות ולקבל תמיכה מהירה יותר?"
+
+#: inc/getting-started/tabs/support-panel.php:46
+msgid "If this didn't help, please contact us via our %1$sSupport Ticket%2$s."
+msgstr "אם זה לא עזר, אנא צרו איתנו קשר דרך פתיחת %1$sקריאת שירות%2$s."
+
+#: inc/getting-started/tabs/support-panel.php:45
+msgid "To solve the issue, deactivate all the plugins first, except the ones recommended by the theme. Then, hard reload your website using %1$s\"Ctrl+Shift+R\"%2$s on Windows and %1$s\"Cmd+Shift+R\"%2$s on Mac. If the issues are fixed, start activating the plugins one by one, and reload and check your site each time. This will help you find out the plugin that is causing the problem."
+msgstr "על מנת לפתור את הבעיה, כבה את כל התוספים, מלבד אלה שמומלצים ע״י תבנית זאת. ואז, הפעל את האתר שלך הפעלה מאולצת בעזרת לחיצה על %1$s\"Ctrl+Shift+R\"%2$s ב- Windows ו- %1$s\"Cmd+Shift+R\"%2$s ב- Mac. אם התקלות תוקנו, התחל להפעיל מחדש את התוספים שכיבית, אחד אחרי השני, וטען את האתר שלך מחדש אחרי הפעלת כל תוסף. זה יעזור לך לזהות איזה מהתוספים גורם לבעיה."
+
+#: inc/getting-started/tabs/support-panel.php:44
+msgid "If your customizer is not loading properly or you are having issues with the theme, it might be due to the plugin conflict."
+msgstr "אם ההתאמה האישית שלך לא נטענת כראוי או שאתה נתקל בבעיות בנושא זה, זה יכול להיות בגלל חוסר התאמת התוסף."
+
+#: inc/getting-started/tabs/support-panel.php:42
+msgid "Why is my theme not working well?"
+msgstr "מדוע התבנית שלי לא עובדת כמו שצריך?"
+
+#: inc/getting-started/tabs/support-panel.php:37
+msgid "You can change the copyright text going to %1$sAppearance > Customize > Footer Settings%2$s. However, if you want to hide the author credit text, please %3$supgrade to the Pro version%4$s."
+msgstr ""
+"אתה יכול לשנות את טקסט זכויות היוצרים פה\n"
+" %1$sAppearance > Customize > Footer Settings%2$s.\n"
+"עם זאת, אם ברצונך להסתיר את טקסט קרדיט המחבר, בבקשה שדרג לתבנית הפרימיום\n"
+" %3$supgrade to the Pro version%4$s."
+
+#: inc/getting-started/tabs/support-panel.php:35
+msgid "How do I change the copyright text?"
+msgstr "כיצד אוכל לשנות את טקסט זכויות היוצרים?"
+
+#: inc/getting-started/tabs/support-panel.php:30
+msgid "The Pro version is built with lots of flexibility in mind for future upgrades. Therefore, it is slightly different than the free theme but extremely flexible and easy-to-use."
+msgstr "גרסת הפרימיום בנויה עם גמישות רבה עבור שדרוגים עתידיים. לכן היא מעט שונה מהתבנית החינמית אך גמישה ונוחה מאוד לשימוש."
+
+#: inc/getting-started/tabs/support-panel.php:29
+msgid "However, since the Pro version comes with added features and settings, you will need to set up the additional features in the customizer. This process is simple and only takes a few minutes."
+msgstr "עם זאת, מכיוון שגרסת הפרימיום מגיעה עם תכונות והגדרות נוספות, תצטרך להגדיר את התכונות הנוספות בהתאמה אישית. תהליך זה פשוט ואורך מספר דקות בלבד."
+
+#: inc/getting-started/tabs/support-panel.php:28
+msgid "When you upgrade to the Pro theme, your posts, pages, media, categories, and other data will remain intact-- all your data is saved."
+msgstr "כשאתה משדרג לתבנית הפרימיום, הפוסטים שלך, הדפים, המדיה, הקטגוריות ונתונים אחרים יישארו שלמים - כל הנתונים שלך נשמרים."
+
+#: inc/getting-started/tabs/support-panel.php:26
+msgid "Upgrading to the Pro version- will I lose my changes?"
+msgstr "האם שדרוג לגרסת הפרימיום - יגרום לאיבוד השינויים שלי ?"
+
+#: inc/getting-started/tabs/support-panel.php:21
+msgid "Along with the additional features and regular updates, you get dedicated and quick support with the premium theme. If you run into any issue while creating a website with the premium theme, you will get a quicker response compared to the free support."
+msgstr "ביחד עם התכונות הנוספות והעדכונים הקבועים, אתה מקבל תמיכה מהירה ומלאה עם תבנית הפרימיום. אם אתה נתקל בבעיות בזמן שאתה בונה את האתר שלך עם תבנית הפרימיום, אתה תקבל מענה ותמיכה מהירה יותר לעומת הגרסה החינמית."
+
+#: inc/getting-started/tabs/support-panel.php:19
+msgid "What are the perks of upgrading to the Premium version?"
+msgstr "מהם היתרונות של שדרוג לגרסת הפרימיום?"
+
+#: inc/getting-started/tabs/support-panel.php:14
+msgid "Overall, you will have more control over the customization and editing of your website with the Pro version."
+msgstr "באופן כללי, תהיה לך יותר שליטה על ההתאמה האישית ועריכת האתר שלך עם גרסת הפרימיום."
+
+#: inc/getting-started/tabs/support-panel.php:13
+msgid "Both the Free and Pro version of the themes are coded well and are developed with best coding practices. However, the Pro version of the theme comes with extended features and dedicated support team to help you solve your queries. The Pro theme comes with multiple layouts to help you create a unique and attractive website. Also, the Pro themes are fully compatible with Polylang and WPML plugin to help you create a multilingual blog and get wide reach."
+msgstr "גם גרסת החינם וגם הפרימיום של התבניות בנויות היטב ומפותחים בשיטות הקידוד הטובות ביותר. עם זאת, גרסת הפרימיום של תבנית מגיעה עם תכונות מורחבות וצוות תמיכה ייעודי שיעזור לך לפתור את בעיותיך. תבנית הפרימיום מגיעה עם מספר פריסות שיעזרו לך ליצור אתר ייחודי ואטרקטיבי. כמו כן, תבניות פרימיום תואמות באופן מלא לתוסף Polylang ו- WPML כדי לעזור לך ליצור בלוג רב לשוני ולהגיע לקהל רחב."
+
+#: inc/getting-started/tabs/support-panel.php:11
+msgid "What is the difference between Free and Pro?"
+msgstr "מה ההבדל בין חינם לפרימיום?"
+
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the knowledge base"
+msgstr "בקר בבסיס הידע"
+
+#: inc/getting-started/tabs/link-panel.php:21
+msgid "Our documentation comes with a step-by-step guide from installing WordPress to customizing our theme to creating an attractive and engaging website."
+msgstr "מאגר המידע שלנו מגיע עם מדריך מלא, צעד אחר צעד, החל מהתקנת וורדפרס ועד להתאמה מלאה של התבנית שלנו על מנת ליצור אתר מושך ושובה לב."
+
+#: inc/getting-started/tabs/link-panel.php:20
+msgid "Need help with WordPress and our theme as quickly as possible? Visit our well-organized documentation."
+msgstr "זקוק לעזרה בשימוש בוורדפרס ובתבנית שלנו במהירות האפשרית? בקר בבסיס הידע המאורגן שלנו!"
+
+#: inc/getting-started/tabs/link-panel.php:19
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the Knowledge Base"
+msgstr "בקר בבסיס הידע"
+
+#: inc/getting-started/tabs/link-panel.php:14
+msgid "Read more about the features here"
+msgstr "קרא עוד על התכונות כאן"
+
+#: inc/getting-started/tabs/link-panel.php:12
+msgid "Also, the premium theme gets regular updates and has a dedicated support team to solve your queries."
+msgstr "בנוסף, תבניות הפרימיום מתעדכנות באופן קבוע ויש להן צוות מסור שנועד לענות על כל השאלות שלך."
+
+#: inc/getting-started/tabs/link-panel.php:11
+msgid "The Pro version of the theme allows you to change the look and feel of the website with just a few clicks. You can easily change the color, background image and pattern, as well as fonts of the website with the Pro theme. The Pro version comes with multiple layouts to help you create an attractive and engaging website. Furthermore, the premium themes are WPML and Polylang compatible to allow you to create a multilingual website with ease."
+msgstr "גרסת הפרימיום של התבנית מאפשרת לך לשנות את המראה והתחושה של האתר בכמה לחיצות בלבד. תוכל לשנות בקלות את הצבע, תמונת הרקע והדפוס החוזר, כמו גם את הגופנים של האתר, עם תבנית הפרימיום. תבנית הפרימיום מגיעה עם מספר פריסות שיעזרו לך ליצור אתר אטרקטיבי ומרתק. יתר על כן, תבניות הפרימיום מתאימות ל-WPML ו- Polylang כדי לאפשר לך ליצור אתר רב לשוני בקלות."
+
+#: inc/getting-started/tabs/link-panel.php:10
+msgid "Upgrade To Pro"
+msgstr "שדרג לגרסת הפרימיום"
+
+#: inc/getting-started/tabs/help-panel.php:32
+msgid "View Demo"
+msgstr "צפה בהדגמה"
+
+#: inc/getting-started/tabs/help-panel.php:31
+msgid "Visit the Demo"
+msgstr "צפה בהדגמה"
+
+#: inc/getting-started/tabs/help-panel.php:30
+msgid "Visit the demo to get more idea about our theme design and its features."
+msgstr "בקר בדף ההדגמה כדי לקבל מושג נוסף לגבי העיצוב של התבנית שלנו והתכונות שלה."
+
+#: inc/getting-started/tabs/help-panel.php:29
+msgid "View Our %1$s Demo"
+msgstr "צפה בדמו  %1$s שלנו"
+
+#: inc/getting-started/tabs/help-panel.php:24
+msgid "Contact Support"
+msgstr "צור קשר עם תמיכה"
+
+#: inc/getting-started/tabs/help-panel.php:23
+msgid "Visit the Support"
+msgstr "בקר בשירות התמיכה"
+
+#: inc/getting-started/tabs/help-panel.php:22
+msgid "If the Documentation Guide didn't help you, contact us via our %1$sSupport Ticket%2$s. We reply to all the support queries within one business day, except on the weekends."
+msgstr "אם מאגר המידע לא עזר לך, צור איתנו קשר דרך %1$sפתיחת קריאת שירות%2$s. אנו עונים על כל השאלות ששולחים אלינו תוך יום עסקים אחד, מלבד בסופי שבוע."
+
+#: inc/getting-started/tabs/help-panel.php:21
+msgid "It's always better to visit our %1$sDocumentation Guide%2$s before you send us a support query."
+msgstr "תמיד כדאי לבקר ב %1$sמאגר המידע%2$s שלנו לפני שאתה פותח קריאה בשירות התמיכה."
+
+#: inc/getting-started/tabs/help-panel.php:20
+msgid "Support Ticket"
+msgstr "קריאת שירות"
+
+#: inc/getting-started/tabs/help-panel.php:15
+msgid "View Documentation"
+msgstr "קרא את מסמכי ההסבר שלנו"
+
+#: inc/getting-started/tabs/help-panel.php:14
+msgid "Visit the Documentation"
+msgstr "קרא את מסמכי ההסבר שלנו"
+
+#: inc/getting-started/tabs/help-panel.php:13
+msgid "Are you new to the WordPress world? Our step by step easy documentation guide will help you create an attractive and engaging website without any prior coding knowledge or experience."
+msgstr "האם אתה חדש לעולם הוורדפרס? מסמכי ההדרכה שלנו בנויים צעד אחר צעד והם יעזרו לך ליצור אתר מושך ושובה לב ללא כל ידע בקוד או נסיון קודם."
+
+#: inc/getting-started/tabs/help-panel.php:12
+msgid "View Our Documentation Link"
+msgstr "קישור למסמכי ההסבר שלנו"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:13
+msgid "View Pro"
+msgstr "הצג את גרסת הפרימיום"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:12
+#: inc/getting-started/tabs/link-panel.php:13
+msgid "View Premium Version"
+msgstr "הצג את גירסת הפרימיום"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:11
+msgid "Free vs Pro"
+msgstr "חינם לעומת פרימיום"
+
+#: inc/template-functions.php:42
+msgid "Skip to content (Press Enter)"
+msgstr "עבור לתוכן (לחץ Enter)"
+
+#: inc/widgets.php:19
+msgid "Add \"Rara:Icon Text\" widget for about section."
+msgstr "הוסף את ווידג'ט ה- \"Rara:Icon Text\" לאיזור ה״עלינו״."
+
+#: inc/tgmpa/recommended-plugins.php:62
+msgid "Contact Form 7"
+msgstr "טופס יצירת קשר 7"
+
+#. translators: 1: list of tags.
+#: inc/extras.php:107
+msgid "Tags :"
+msgstr "תגיות"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "התוסף המומלץ הבא לא פעיל כרגע: %1$s."
+msgstr[1] "התוספים המומלצים הבאים לא פעילים כרגע: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "התוסף הנדרש הבא לא פעיל כרגע: %1$s."
+msgstr[1] "התוספים הנדרשים הבאים אינם פעילים כרגע: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "יש עדכון זמין עבור התוסף הבא: %1$s."
+msgstr[1] "ישנם עדכונים זמינים עבור התוסף הבא: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "יש לעדכן את התוסף הבא לגרסתו האחרונה כדי להבטיח תאימות מירבית לתבנית זו: %1$s."
+msgstr[1] "יש לעדכן את התוספים הבאים לגרסתם האחרונה כדי להבטיח תאימות מירבית לתבנית זו: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "תבנית זו ממליצה על התוסף הבא: %1$s."
+msgstr[1] "תבנית זו ממליצה על התוספים הבאים: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "התבנית דורשת את התוסף הבא: %1$s."
+msgstr[1] "התבנית דורשת את התוספים הבאים: %1$s."
+
+#: inc/template-functions.php:719
+msgid "Perfect Portfolio | Developed By "
+msgstr "תיק העבודות המושלם | פותח על ידי"
+
+#: inc/custom-functions.php:452
+msgctxt "submit button"
+msgid "Search"
+msgstr "חיפוש"
+
+#: inc/custom-functions.php:451
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "חיפוש..."
+
+#: inc/custom-functions.php:450
+msgid "Search for:"
+msgstr "חיפוש: "
+
+#. Template Name of the theme
+msgid "Portfolio Template"
+msgstr "תבנית של תיק עבודות"
+
+#: template-parts/content-none.php:48
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "נראה שלא הצלחנו למצוא את מה שחיפשת. ייתכן שביצוע חיפוש יסייע."
+
+#: template-parts/content-none.php:42
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "לא נמצאו תוצאות התואמות לביטוי החיפוש, ניתן לנסות שוב עם ביטויים אחרים."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:28
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "מוכן לפרסם את הפוסט הראשון שלך?<a href=\"%1$s\">התחל כאן</a>."
+
+#: template-parts/content-none.php:17
+msgid "Nothing Found"
+msgstr "לא נמצאו תוצאות!"
+
+#: template-parts/content-none.php:15
+msgid "Add More Posts"
+msgstr " הוספת פוסטים נוספים"
+
+#: inc/woocommerce-functions.php:102 inc/woocommerce-functions.php:118
+msgid "View your shopping cart"
+msgstr "צפה בעגלת הקניות"
+
+#: inc/woocommerce-functions.php:41
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr "סרגל צדדי מוצג רק בדפי woocommerce."
+
+#: inc/woocommerce-functions.php:39
+msgid "Shop Sidebar"
+msgstr "סרגל צדדי של חנות"
+
+#: inc/widgets.php:49
+msgid "Add footer three widgets here."
+msgstr "הוספת ווידג'ט לחלק תחתון שלישי"
+
+#: inc/widgets.php:47
+msgid "Footer Three"
+msgstr "חלק תחתון שלישי"
+
+#: inc/widgets.php:44
+msgid "Add footer two widgets here."
+msgstr "הוספת ווידג'ט לחלק תחתון שני"
+
+#: inc/widgets.php:42
+msgid "Footer Two"
+msgstr "חלק תחתון שני"
+
+#: inc/widgets.php:39
+msgid "Add footer one widgets here."
+msgstr "הוספת ווידג'ט לחלק תחתון ראשון"
+
+#: inc/widgets.php:37
+msgid "Footer One"
+msgstr "חלק תחתון ראשון"
+
+#: inc/widgets.php:34
+msgid "Add \"Rara:Call To Action\" widget in footer of specific pages."
+msgstr "הוספת ווידג'ט \"Rara:Call To Action\" לחלק התחתון של עמוד ספציפי"
+
+#: inc/widgets.php:32
+msgid "Call To Action Footer"
+msgstr "חלק תחתון עם קריאה לפעולה"
+
+#: inc/widgets.php:29
+msgid "Add \"Rara:Icon Text\" widget for service section."
+msgstr "הוסף ווידג'ט \"Rara:Icon Text\" לאיזור השירותים."
+
+#: inc/widgets.php:27
+msgid "Services Section"
+msgstr "אזור שירותים"
+
+#: inc/widgets.php:24
+msgid "Add \"Rara:Call To Action\" widget for Call to Action section."
+msgstr "הוסף את הווידג'ט \"Rara:Call To Action\" לאזור הקריאה לפעולה."
+
+#: inc/widgets.php:22
+msgid "Call To Action Section"
+msgstr "איזור קריאה לפעולה"
+
+#: inc/widgets.php:17
+msgid "About Section"
+msgstr "איזור אודות"
+
+#: inc/widgets.php:12
+msgid "Sidebar"
+msgstr " סרגל צדדי"
+
+#: inc/typography.php:354
+msgid "Lucida Console, Monaco"
+msgstr "Lucida Console, Monaco"
+
+#: inc/typography.php:353
+msgid "Courier New, Courier"
+msgstr "Courier New, Courier"
+
+#: inc/typography.php:352
+msgid "Verdana, Geneva"
+msgstr "Verdana, Geneva"
+
+#: inc/typography.php:351
+msgid "Trebuchet MS, Helvetica"
+msgstr "Trebuchet MS, Helvetica"
+
+#: inc/typography.php:350
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+#: inc/typography.php:349
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr "Lucida Sans Unicode, Lucida Grande"
+
+#: inc/typography.php:348
+msgid "Impact, Charcoal"
+msgstr "Impact, Charcoal"
+
+#: inc/typography.php:347
+msgid "Comic Sans MS, cursive"
+msgstr "Comic Sans MS, cursive"
+
+#: inc/typography.php:346
+msgid "Arial Black, Gadget"
+msgstr "Arial Black, Gadget"
+
+#: inc/typography.php:345
+msgid "Arial, Helvetica"
+msgstr "Arial, Helvetica"
+
+#: inc/typography.php:344
+msgid "Times New Roman, Times"
+msgstr "Times New Roman, Times"
+
+#: inc/typography.php:343
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr "Palatino Linotype, Book Antiqua, Palatino"
+
+#: inc/typography.php:342
+msgid "Georgia"
+msgstr "Georgia"
+
+#: inc/typography.php:25
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "דלוק"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: inc/typography.php:24
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "דלוק"
+
+#: inc/tgmpa/recommended-plugins.php:57
+msgid "Rara One Click Demo Import"
+msgstr "יבוא הדוגמא של תבנית Rara בלחיצה אחת"
+
+#: inc/tgmpa/recommended-plugins.php:52
+msgid "RaraTheme Companion"
+msgstr "ליווי של RaraTheme"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "מתקין תוסף %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "כל ההתקנות הושלמו."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s הותקן בהצלחה."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "תהליך ההתקנה מתחיל. התהליך יכול לקחת זמן מה בשרתים מסוימים אז נא התאזרו בסבלנות."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "מתקין ומפעיל את התוסף %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "כל ההתקנות וההפעלות הושלמו."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "הסתר פרטים"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "הצג פרטים"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s הותקן והופעל בהצלחה."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "תהליך ההתקנה וההפעלה מתחיל והוא יכול להמשך זמן מה בשרתים מסוימים. נא התאזרו בסבלנות."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "ההתקנה של %1$s נכשלה."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "ארעה שגיאה במהלך התקנת %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "התוסף %1$s (%2$d/%3$d) מתעדכן."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "הפעלת התוסף נכשלה."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "אין תוספים זמינים להפעלה כרגע."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "לא נבחרו תוספים להפעלה. לא בוצעה שום פעולה."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "אין תוספים זמינים לעדכון כרגע."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "אין תוספים זמינים להתקנה כרגע."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "לא נבחרו תוספים לעדכון. לא בוצעה שום פעולה."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "לא נבחרו תוספים להתקנה. לא בוצעה שום פעולה."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "עדכן"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "התקנה"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "הודעת עדכון ממפתח התוסף:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "הפעלת %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "עדכון %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "התקנת %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "סטטוס"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "גרסה"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "סוג"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "מקור"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "תוסף"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "אין תוספים להתקנה, עדכון או הפעלה."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "גירסה זמינה:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "גירסה מינימלית נדרשת:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "גרסה מותקנת:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "לא ידוע"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "להפעיל <span class=\"count\">(%s)</span>"
+msgstr[1] "להפעיל <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "עדכן <span class=\"count\">(%s)</span>"
+msgstr[1] "עדכן <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "התקן <span class=\"count\">(%s)</span>"
+msgstr[1] "התקן <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "כל ה-<span class=\"count\">(%s)</span>"
+msgstr[1] "כל ה-<span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "עדכון מומלץ"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "נדרש עדכון"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "עדכון דרוש לא זמין"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "פעיל"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "מותקן אך לא מופעל"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "לא מותקן"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "ארוז מראש"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "מקור חיצוני"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "מאגר וורדפרס"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "מומלץ"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "נדרש"
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1121
+#: inc/tgmpa/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "וגם"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "חבילת התוספים המרוחקת מורכבת מיותר מקובץ אחד, אך הקבצים לא נארזו בתיקייה."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "פנו בבקשה ליוצר התוסף ובקשו ממנו לארוז את התוסף בהתאם להנחיות וורדפרס."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "חבילת התוספים המרוחקים אינה מכילה תיקייה עם הסלאג הרצוי ושינוי השם לא עבד."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "נדרש עדכון"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "יש לעדכן תוסף זה כדי שיתאים לתבנית."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "לקבלת עזרה יש ליצור קשר עם הנהלת האתר."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "לתוסף נדרש או מומלץ אחד או יותר יש התקנה, עדכון או הפעלה."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "סגור הודעה"
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "כל התוספים הותקנו והופעלו בהצלחה. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "התוסף לא מופעל. יש צורך בגרסה עדכנית יותר של %s לתבנית זו. נא לעדכן את התוסף."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "לא בוצעה כל פעולה. התוסף %1$s כבר הופעל."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "התוסף הבא שודרג בהצלחה:"
+msgstr[1] "התוספים הבאים שודרגו בהצלחה:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "התוסף הופעל בהצלחה."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:827
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: inc/tgmpa/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "חזרה ללוח הבקרה"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "חזרה להתקנת תוספים נדרשים"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "החל בהפעלת התוסף"
+msgstr[1] "החל בהפעלת התוספים"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "החל בשדרוג התוסף"
+msgstr[1] "החל בשדרוג התוספים"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "התחל בהתקנת התוסף"
+msgstr[1] "התחל בהתקנת התוספים"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "משהו השתבש עם ה-API של התוסף."
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "שדרוג תוסף: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "התקנת התוסף: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "התקנת תוספים"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "התקנת תוספים נדרשים"
+
+#: inc/template-functions.php:722
+msgid "https://wordpress.org/"
+msgstr "https://he.wordpress.org/"
+
+#: inc/template-functions.php:722
+msgid " Powered by %s"
+msgstr "מופעל באמצעות %s"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-functions.php:455
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "ערוך <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-functions.php:434
+msgid "Page"
+msgstr "עמוד"
+
+#: inc/template-functions.php:433
+msgid "Next"
+msgstr "הבא"
+
+#: inc/template-functions.php:432
+msgid "Previous"
+msgstr "הקודם"
+
+#: inc/template-functions.php:420
+msgid "Post Navigation"
+msgstr "ניווט בפוסטים"
+
+#: inc/template-functions.php:412
+msgid "Next Article"
+msgstr "למאמר הבא"
+
+#: inc/template-functions.php:404
+msgid "Previous Article"
+msgstr "למאמר הקודם"
+
+#: inc/template-functions.php:372
+msgid "Pages:"
+msgstr "עמודים:"
+
+#: inc/template-functions.php:216
+msgid "Search Results"
+msgstr "תוצאות חיפוש"
+
+#: inc/template-functions.php:205
+msgid "Portfolio Category"
+msgstr "קטגוריית תיק עבודות"
+
+#: inc/template-functions.php:199
+msgid "Tag"
+msgstr "תגית"
+
+#: inc/template-functions.php:194
+msgid "Category"
+msgstr "קטגוריה"
+
+#: inc/template-functions.php:185 inc/template-functions.php:493
+msgid "All Posts by"
+msgstr "כל הפוסטים מאת"
+
+#: inc/template-functions.php:168
+msgid "Blog"
+msgstr "בלוג"
+
+#: inc/partials.php:55
+msgid "Y"
+msgstr "Y"
+
+#: inc/partials.php:54
+msgid "&copy; Copyright "
+msgstr "זכויות שמורות"
+
+#: inc/metabox.php:57
+msgid "Choose Sidebar Template"
+msgstr "בחירת תבנית הסרגל הצדדי"
+
+#: inc/metabox.php:47
+msgid "Right Sidebar"
+msgstr "סרגל צדדי בצד ימין"
+
+#: inc/metabox.php:42
+msgid "Left Sidebar"
+msgstr "סרגל צדדי בצד שמאל"
+
+#: inc/metabox.php:37
+msgid "Full Width Centered"
+msgstr "רוחב מלא ממורכז"
+
+#: inc/metabox.php:32
+msgid "Full Width"
+msgstr "רוחב מלא"
+
+#: inc/metabox.php:27 inc/widgets.php:14
+msgid "Default Sidebar"
+msgstr "סרגל צדדי ברירת מחדל"
+
+#: inc/metabox.php:14
+msgid "Sidebar Layout"
+msgstr "תצורת הסרגל הצדדי"
+
+#: inc/extras.php:419
+msgid " -- Choose -- "
+msgstr "--בחירה --"
+
+#: inc/extras.php:313
+msgid "%1$s at %2$s"
+msgstr "%1$s ב- %2$s"
+
+#: inc/extras.php:311
+msgid "Posted on"
+msgstr "פורסם בתאריך"
+
+#: inc/extras.php:309
+msgid "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s</b> <span class=\"says\">says:</span>"
+msgstr "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s</b> <span class=\"says\">says:</span>"
+
+#: inc/extras.php:306
+msgid "Your comment is awaiting moderation."
+msgstr "תגובתך ממתינה לאישור."
+
+#: inc/extras.php:238
+msgid "Click here to add a menu"
+msgstr "לחץ כאן להוסיף תפריט"
+
+#: inc/extras.php:164
+msgid "Related Projects"
+msgstr "פרויקטים באותו נושא"
+
+#: inc/extras.php:131
+msgid "Recent Posts"
+msgstr "פוסטים אחרונים"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/extras.php:89
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post title
+#: inc/extras.php:66
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "להשאיר תגובה <span class=\"screen-reader-text\"> בנושא %s</span>"
+
+#. translators: %s: post author.
+#: inc/extras.php:48
+msgctxt "post author"
+msgid "By %s"
+msgstr "מאת %s"
+
+#: inc/extras.php:19
+msgid "updated on "
+msgstr "עודכן בתאריך"
+
+#: inc/extras.php:14
+msgid "on "
+msgstr "ב-"
+
+#: inc/customizer-plugin-recommend/plugin-install/class-plugin-install-helper.php:110
+#: inc/getting-started/getting-started.php:40
+msgid "Activating "
+msgstr "מפעיל"
+
+#: inc/customizer-plugin-recommend/plugin-install/class-plugin-install-helper.php:59
+#: inc/getting-started/class-getting-start-plugin-helper.php:85
+msgid "Install and activate"
+msgstr "התקנה והפעלה"
+
+#: inc/customizer-plugin-recommend/customizer-notice/class-customizer-notice.php:144
+msgid "Activating"
+msgstr "מפעיל"
+
+#: inc/customizer/site.php:43
+msgid "Site title and tagline font."
+msgstr "הגופן של האתר והתגיות."
+
+#: inc/customizer/site.php:42
+msgid "Site Title Font"
+msgstr "הגופן של כותרת האתר."
+
+#: inc/customizer/layout.php:109
+msgid "This is the general sidebar layout for posts. You can override the sidebar layout for individual post in repective post."
+msgstr "זו הפריסה הכללית של סרגל הצד עבור פוסטים. ניתן לעקוף את פריסת סרגל הצד עבור פוסט בודד בדף המתאים."
+
+#: inc/customizer/layout.php:108
+msgid "Post Sidebar Layout"
+msgstr "פריסת ברירת מחדל לסרגל צידי"
+
+#: inc/customizer/layout.php:82
+msgid "This is the general sidebar layout for pages. You can override the sidebar layout for individual page in repective page."
+msgstr "זו הפריסה הכללית של סרגל הצד עבור דפים. ניתן לעקוף את פריסת סרגל הצד עבור דף בודד בדף המתאים."
+
+#: inc/customizer/layout.php:81
+msgid "Page Sidebar Layout"
+msgstr "פריסת ברירת מחדל לסרגל צידי"
+
+#: inc/customizer/layout.php:60
+msgid "General Sidebar Layout"
+msgstr "פריסת סרגל הצד כללי"
+
+#: inc/customizer/layout.php:46
+msgid "This is the layout for blog index page."
+msgstr "זו הפריסה של דף הבלוג הראשי."
+
+#: inc/customizer/layout.php:45
+msgid "Blog Page Layout"
+msgstr "פריסת דף הבלוג"
+
+#: inc/customizer/layout.php:24
+msgid "Blog Layout"
+msgstr "פריסת דף הבלוג"
+
+#: inc/customizer/layout.php:15
+msgid "Layout Settings"
+msgstr "הגדרות פריסה"
+
+#: inc/customizer/info.php:136
+msgid "VIEW PRO THEME"
+msgstr "הצג תבנית פרימיום"
+
+#: inc/customizer/info.php:134
+msgid "Pro Available"
+msgstr "פרימיום זמין"
+
+#. translators: 1: string, 2: documentation url, 3: string
+#: inc/customizer/info.php:35
+msgid "Documentation Link : "
+msgstr "קישור לתיעוד"
+
+#. translators: 1: string, 2: preview url, 3: string
+#. translators: 1: string, 2: documentation url, 3: string
+#: inc/customizer/info.php:30 inc/customizer/info.php:35
+msgid "Click here."
+msgstr "לחץ כאן"
+
+#. translators: 1: string, 2: preview url, 3: string
+#: inc/customizer/info.php:30
+msgid "Demo Link : "
+msgstr "קישור להדגמה:"
+
+#: inc/customizer/info.php:15
+msgid "Demo & Documentation"
+msgstr "הדגמה ותיעוד"
+
+#: inc/customizer/general.php:441
+msgid "Enable to hide featured image in post detail (single post page)."
+msgstr "אפשר להציג תמונת כותרת בפרטי פוסט (בעמוד פוסט בודד)."
+
+#: inc/customizer/general.php:440
+msgid "Hide Featured Image"
+msgstr "הסתר תמונת כותרת"
+
+#: inc/customizer/general.php:420
+msgid "Enable to hide posted date."
+msgstr "אפשר להסתיר את תאריך הפרסום."
+
+#: inc/customizer/general.php:419
+msgid "Hide Posted Date"
+msgstr "הסתר את תאריך הפוסט"
+
+#: inc/customizer/general.php:395
+msgid "Related Posts Section Title"
+msgstr "כותרת מדור ההודעות הקשורות לנושא"
+
+#: inc/customizer/general.php:384 inc/extras.php:140 inc/partials.php:31
+msgid "You may also like..."
+msgstr "אולי גם תאהב..."
+
+#: inc/customizer/general.php:375
+msgid "Enable to show related posts in single page."
+msgstr "אפשר להציג פוסטים קשורים בדף בודד."
+
+#: inc/customizer/general.php:374
+msgid "Show Related Posts"
+msgstr "הצג פוסטים באותו נושא"
+
+#: inc/customizer/general.php:350
+msgid "Popular Posts Section Title"
+msgstr "כותרת - אזור פוסטים פופולרים "
+
+#: inc/customizer/general.php:339 inc/extras.php:155 inc/partials.php:40
+msgid "Popular Posts"
+msgstr "פוסטים פופולריים"
+
+#: inc/customizer/general.php:330
+msgid "Enable to show popular posts in single page."
+msgstr "אפשר להציג פוסטים פופולריים בעמוד בודד"
+
+#: inc/customizer/general.php:329
+msgid "Show Popular Posts"
+msgstr "הצג פוסטים פופולריים"
+
+#: inc/customizer/general.php:309
+msgid "Enable to hide author section."
+msgstr "אפשר הסתרה של המחבר"
+
+#: inc/customizer/general.php:308
+msgid "Hide Author"
+msgstr "הסתר את שם המחבר"
+
+#: inc/customizer/general.php:288
+msgid "<hr/>These options affect your individual posts."
+msgstr " <hr/>  אפשרויות אלה משפיעות על הפוסטים שלך."
+
+#: inc/customizer/general.php:269
+msgid "Blog Desciption"
+msgstr "תיאור הבלוג"
+
+#: inc/customizer/general.php:246
+msgid "Automatically generated excerpt length (in words)."
+msgstr "אורך  התקציר שנוצר אוטומטית (במילים)."
+
+#: inc/customizer/general.php:245
+msgid "Excerpt Length"
+msgstr "אורך התקציר"
+
+#: inc/customizer/general.php:225
+msgid "Enable to show excerpt or disable to show full post content."
+msgstr "אפשר תקציר או השבת על מנת להציג תוכן מלא של פוסטים."
+
+#: inc/customizer/general.php:224
+msgid "Enable Blog Excerpt"
+msgstr "אפשר תקציר בלוג"
+
+#: inc/customizer/general.php:203
+msgid "Posts(Blog) & Pages Settings"
+msgstr "הגדרות פוסטים (בלוג) ודפים"
+
+#: inc/customizer/general.php:192
+msgid "Enable to show last updated post date on listing as well as in single post."
+msgstr "אפשר להציג את תאריך ההודעה המעודכן האחרון ברשימה וגם בפוסט בודד."
+
+#: inc/customizer/general.php:191
+msgid "Enable Last Update Post Date"
+msgstr "אפשר תאריך פרסום אחרון"
+
+#: inc/customizer/general.php:170
+msgid "SEO Settings"
+msgstr "הגדרות SEO"
+
+#: inc/customizer/general.php:158
+msgid "links"
+msgstr "קישורים"
+
+#: inc/customizer/general.php:153
+msgid "Example: http://facebook.com"
+msgstr "לדוגמא: https://facebook.com"
+
+#: inc/customizer/general.php:152
+msgid "Link"
+msgstr "קישור"
+
+#: inc/customizer/general.php:148
+msgid "Example: fa-bell"
+msgstr "לדוגמא: fa-bell"
+
+#: inc/customizer/general.php:147
+msgid "Font Awesome Icon"
+msgstr "אייקון Font Awesome"
+
+#: inc/customizer/general.php:143
+msgid "Social Links"
+msgstr "קישורים לרשתות חברתיות"
+
+#: inc/customizer/general.php:121
+msgid "Enable to show social links at header."
+msgstr "אפשר הוספת קישורים לרשתות חברתיות באיזור הראשי "
+
+#: inc/customizer/general.php:120
+msgid "Enable Social Links"
+msgstr "הפעלת שיתוף ברשתות חברתיות"
+
+#: inc/customizer/general.php:99
+msgid "Social Media Settings"
+msgstr "הגדרות קישורים למדיה חברתית"
+
+#: inc/customizer/general.php:88
+msgid "Add short description on menu."
+msgstr "הוסף תיאור קצר לתפריט"
+
+#: inc/customizer/general.php:87
+msgid "Menu Description"
+msgstr "תיאור התפריט"
+
+#: inc/customizer/general.php:69
+msgid "Enable to show Search button in header."
+msgstr "אפשר להציג טופס חיפוש באזור הראשי"
+
+#: inc/customizer/general.php:68
+msgid "Enable Header Search"
+msgstr "אפשר חיפוש באזור הראשי"
+
+#: inc/customizer/general.php:47
+msgid "Enable to show cart in header."
+msgstr "אפשר להציג את עגלת הקניות באזור הראשי."
+
+#: inc/customizer/general.php:46
+msgid "Enable Cart"
+msgstr "אפשר עגלת קניות"
+
+#: inc/customizer/general.php:25
+msgid "Header Settings"
+msgstr "הגדרות האיזור הראשי"
+
+#: inc/customizer/general.php:17
+msgid "General Settings"
+msgstr "הגדרות כלליות"
+
+#: inc/customizer/frontpage.php:197
+msgid "View All Label"
+msgstr "הצג את כל התווית"
+
+#: inc/customizer/frontpage.php:188 inc/partials.php:75 sections/blog.php:10
+msgid "View All"
+msgstr "הצג הכל"
+
+#: inc/customizer/frontpage.php:170
+msgid "Blog Title"
+msgstr "כותרת הבלוג"
+
+#: inc/customizer/frontpage.php:160 inc/partials.php:66 sections/blog.php:8
+msgid "Articles"
+msgstr "מאמרים"
+
+#: inc/customizer/frontpage.php:150
+msgid "Enable to show blog section."
+msgstr "אפשר להציג את אזור הבלוג"
+
+#: inc/customizer/frontpage.php:149
+msgid "Enable Blog Section"
+msgstr "אפשר אזור בלוג "
+
+#: inc/customizer/frontpage.php:129
+msgid "Blog Section"
+msgstr " אזור בלוג "
+
+#: inc/customizer/frontpage.php:117
+msgid "View More Label Url"
+msgstr "הקישוק של תווית ״הצג עוד״"
+
+#: inc/customizer/frontpage.php:93
+msgid "View More Label"
+msgstr "תווית ״הצג עוד״"
+
+#: inc/customizer/frontpage.php:84 inc/partials.php:84 sections/gallery.php:9
+msgid "View More"
+msgstr "הצג עוד"
+
+#: inc/customizer/frontpage.php:69
+msgid "Set number of latest portfolios to show in portfolio section."
+msgstr "הגדר את מספר תיקי העבודות האחרונים שניתן להציג באיזור תיק העבודות"
+
+#: inc/customizer/frontpage.php:68
+msgid "Number Of Portfolio"
+msgstr "מספר תיקי העבעודות"
+
+#: inc/customizer/frontpage.php:47
+msgid "Enable to show Portfolio section."
+msgstr "אפשר להציג את אזור תיק העבודות"
+
+#: inc/customizer/frontpage.php:46
+msgid "Enable Portfolio Section"
+msgstr "אפשר אזור תיק עבודות"
+
+#: inc/customizer/frontpage.php:26
+msgid "Portfolio Section"
+msgstr "אזור תיק עבודות"
+
+#: inc/customizer/frontpage.php:18
+msgid "Customize About, Gallery, Services, Call To Action, Latest Posts, settings."
+msgstr "התאם את האודות, גלרייה, שירותים, קריאה לפעולה, פוסטים אחרונים, הגדרות."
+
+#: inc/customizer/frontpage.php:17
+msgid "Front Page Settings"
+msgstr "הגדרות העמוד הראשי"
+
+#: inc/customizer/footer.php:34
+msgid "Add Copyright Text Here."
+msgstr "הוסף טקסט זכויות יוצרים כאן."
+
+#: inc/customizer/footer.php:33
+msgid "Footer Copyright Text"
+msgstr "טקסט זכויות יוצרים באזור תחתון"
+
+#: inc/customizer/footer.php:14
+msgid "Footer Settings"
+msgstr "הגדרות אזור תחתון"
+
+#: inc/customizer/customizer.php:67
+#: inc/getting-started/class-getting-start-plugin-helper.php:104
+msgid "Deactivate"
+msgstr "כיבוי"
+
+#: inc/customizer-plugin-recommend/plugin-install/class-plugin-install-helper.php:75
+#: inc/customizer/customizer.php:66
+#: inc/getting-started/class-getting-start-plugin-helper.php:89
+#: inc/getting-started/class-getting-start-plugin-helper.php:109
+#: inc/tgmpa/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "הפעל"
+
+#: inc/customizer/customizer.php:65
+msgid "Install and Activate"
+msgstr "התקנה והפעלה"
+
+#: inc/customizer/customizer.php:64
+msgid "Recommended Plugin"
+msgstr "תוספים מומלצים"
+
+#. translators: %s: plugin name
+#: inc/customizer/customizer.php:60
+msgid "If you want to take full advantage of the features this theme has to offer, please install and activate %s plugin."
+msgstr "אם ברצונך לנצל באופן מלא את התכונות שיש לתבנית זו להציע, אנא התקן והפעל את התוסף %s"
+
+#: inc/customizer/appearance.php:47
+msgid "Primary font of the site."
+msgstr "גופן ראשי של האתר."
+
+#: inc/customizer/appearance.php:46
+msgid "Primary Font"
+msgstr "גופן ראשי"
+
+#: inc/customizer/appearance.php:26
+msgid "Typography"
+msgstr "טיפוגרפיה"
+
+#: inc/customizer/appearance.php:18
+msgid "Customize Typography, Header Image & Background Image"
+msgstr "התאמה אישית של טיפוגרפיה , תמונות ראשיות ותמונות רקע"
+
+#: inc/customizer/appearance.php:17
+msgid "Appearance Settings"
+msgstr "הגדרות מראה"
+
+#: inc/custom-functions.php:325
+msgid "Comment"
+msgstr "תגובה"
+
+#: inc/custom-functions.php:312
+msgid "Website"
+msgstr "אתר אינטרנט"
+
+#: inc/custom-functions.php:305
+msgid "Email*"
+msgstr "אימייל"
+
+#: inc/custom-functions.php:304
+msgid "Name*"
+msgstr "שם*"
+
+#: inc/custom-functions.php:45 inc/custom-functions.php:109
+msgid "Primary"
+msgstr "ראשי"
+
+#: inc/custom-controls/typography/class-typography-control.php:109
+msgid "Invalid Value"
+msgstr "ערך לא תקין"
+
+#: inc/custom-controls/typography/class-typography-control.php:90
+msgid "Spacing"
+msgstr "ריווח"
+
+#: inc/custom-controls/typography/class-typography-control.php:89
+msgid "Height"
+msgstr "גובה"
+
+#: inc/custom-controls/typography/class-typography-control.php:88
+msgid "Size"
+msgstr "גודל"
+
+#: inc/custom-controls/typography/class-typography-control.php:87
+msgid "Style"
+msgstr "סגנון"
+
+#: inc/custom-controls/typography/class-typography-control.php:86
+msgid "Variant"
+msgstr "משתנה"
+
+#: inc/custom-controls/typography/class-typography-control.php:85
+msgid "Select a font-family"
+msgstr "בחר משפחת גופנים"
+
+#: inc/custom-controls/typography/class-typography-control.php:84
+msgid "Color"
+msgstr "צבע"
+
+#: inc/custom-controls/typography/class-typography-control.php:83
+msgid "Justify"
+msgstr "יישור לצדדים"
+
+#: inc/custom-controls/typography/class-typography-control.php:82
+msgid "Center"
+msgstr "למרכז"
+
+#: inc/custom-controls/typography/class-typography-control.php:81
+msgid "Right"
+msgstr "לימין"
+
+#: inc/custom-controls/typography/class-typography-control.php:80
+msgid "Left"
+msgstr "לשמאל"
+
+#: inc/custom-controls/typography/class-typography-control.php:79
+msgid "Bottom"
+msgstr "למטה"
+
+#: inc/custom-controls/typography/class-typography-control.php:78
+msgid "Top"
+msgstr "למעלה"
+
+#: inc/custom-controls/typography/class-typography-control.php:77
+msgid "Lowercase"
+msgstr "אותיות קטנות"
+
+#: inc/custom-controls/typography/class-typography-control.php:76
+msgid "Uppercase"
+msgstr "אותיות רישיות"
+
+#: inc/custom-controls/typography/class-typography-control.php:75
+msgid "None"
+msgstr "ללא"
+
+#: inc/custom-controls/typography/class-typography-control.php:74
+msgid "Text Transform"
+msgstr "שינוי טקסט"
+
+#: inc/custom-controls/typography/class-typography-control.php:73
+msgid "Text Align"
+msgstr "יישור טקסט"
+
+#: inc/custom-controls/typography/class-typography-control.php:72
+msgid "Letter Spacing"
+msgstr "מרווח בין אותיות"
+
+#: inc/custom-controls/typography/class-typography-control.php:71
+msgid "Font Style"
+msgstr "סגנון גופן"
+
+#: inc/custom-controls/typography/class-typography-control.php:70
+msgid "Line Height"
+msgstr "גובה השורה"
+
+#: inc/custom-controls/typography/class-typography-control.php:69
+msgid "Font Weight"
+msgstr "משקל הגופן"
+
+#: inc/custom-controls/typography/class-typography-control.php:68
+msgid "Font Size"
+msgstr "גודל גופן"
+
+#: inc/custom-controls/typography/class-typography-control.php:67
+msgid "Font Family"
+msgstr "משפחת גופנים"
+
+#: inc/custom-controls/typography/class-typography-control.php:66
+msgctxt "font style"
+msgid "Monospace"
+msgstr "Monospace גופן"
+
+#: inc/custom-controls/typography/class-typography-control.php:65
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "Sans Serif גופן"
+
+#: inc/custom-controls/typography/class-typography-control.php:64
+msgctxt "font style"
+msgid "Serif"
+msgstr "Serif גופן"
+
+#: inc/custom-controls/typography/class-typography-control.php:63
+msgid "Thai"
+msgstr "תאילנדית"
+
+#: inc/custom-controls/typography/class-typography-control.php:62
+msgid "Telugu"
+msgstr "טלוגו"
+
+#: inc/custom-controls/typography/class-typography-control.php:61
+msgid "Tamil"
+msgstr "טאמיל"
+
+#: inc/custom-controls/typography/class-typography-control.php:60
+msgid "Gujarati"
+msgstr "גוז׳אראטי"
+
+#: inc/custom-controls/typography/class-typography-control.php:59
+msgid "Bengali"
+msgstr "בנגאלי"
+
+#: inc/custom-controls/typography/class-typography-control.php:58
+msgid "Arabic"
+msgstr "ערבית"
+
+#: inc/custom-controls/typography/class-typography-control.php:57
+msgid "Hebrew"
+msgstr "עברית"
+
+#: inc/custom-controls/typography/class-typography-control.php:56
+msgid "Vietnamese"
+msgstr "ויאטנמית"
+
+#: inc/custom-controls/typography/class-typography-control.php:55
+msgid "Latin Extended"
+msgstr "לטינית מורחבת"
+
+#: inc/custom-controls/typography/class-typography-control.php:54
+msgid "Latin"
+msgstr "לטינית"
+
+#: inc/custom-controls/typography/class-typography-control.php:53
+msgid "Khmer"
+msgstr "קמבודית"
+
+#: inc/custom-controls/typography/class-typography-control.php:52
+msgid "Greek Extended"
+msgstr "יוונית מורחבת"
+
+#: inc/custom-controls/typography/class-typography-control.php:51
+msgid "Greek"
+msgstr "יוונית"
+
+#: inc/custom-controls/typography/class-typography-control.php:50
+msgid "Devanagari"
+msgstr "ניגרית"
+
+#: inc/custom-controls/typography/class-typography-control.php:49
+msgid "Cyrillic Extended"
+msgstr "קירילית מורחבת"
+
+#: inc/custom-controls/typography/class-typography-control.php:48
+msgid "Cyrillic"
+msgstr "קירילית"
+
+#: inc/custom-controls/typography/class-typography-control.php:47
+#: inc/extras.php:519
+msgid "All"
+msgstr "הכול"
+
+#: inc/custom-controls/typography/class-typography-control.php:46
+msgid "OFF"
+msgstr "כבוי"
+
+#: inc/custom-controls/typography/class-typography-control.php:45
+msgid "ON"
+msgstr "מופעל"
+
+#: inc/custom-controls/typography/class-fonts.php:214
+#: inc/custom-controls/typography/class-typography-control.php:108
+msgid "Ultra-Bold 900 Italic"
+msgstr "אולטרה-מודגש 900 נטוי"
+
+#: inc/custom-controls/typography/class-fonts.php:213
+#: inc/custom-controls/typography/class-typography-control.php:107
+msgid "Ultra-Bold 900"
+msgstr "אולטרה-מודגש 900 "
+
+#: inc/custom-controls/typography/class-fonts.php:212
+#: inc/custom-controls/typography/class-typography-control.php:106
+msgid "Extra-Bold 800 Italic"
+msgstr "אקסטרה-מודגש 800 נטוי"
+
+#: inc/custom-controls/typography/class-fonts.php:211
+#: inc/custom-controls/typography/class-typography-control.php:105
+msgid "Extra-Bold 800"
+msgstr "אקסטרה-מודגש 800"
+
+#: inc/custom-controls/typography/class-fonts.php:210
+#: inc/custom-controls/typography/class-typography-control.php:104
+msgid "Bold 700 Italic"
+msgstr "מודגש 700 נטוי"
+
+#: inc/custom-controls/typography/class-fonts.php:209
+#: inc/custom-controls/typography/class-typography-control.php:103
+msgid "Bold 700"
+msgstr "מודגש 700"
+
+#: inc/custom-controls/typography/class-fonts.php:208
+#: inc/custom-controls/typography/class-typography-control.php:102
+msgid "Semi-Bold 600 Italic"
+msgstr "חצי מודגש 600 נטוי"
+
+#: inc/custom-controls/typography/class-fonts.php:207
+#: inc/custom-controls/typography/class-typography-control.php:101
+msgid "Semi-Bold 600"
+msgstr "חצי מודגש 600"
+
+#: inc/custom-controls/typography/class-fonts.php:206
+#: inc/custom-controls/typography/class-typography-control.php:100
+msgid "Medium 500 Italic"
+msgstr "מדיום 500 נטוי"
+
+#: inc/custom-controls/typography/class-fonts.php:205
+#: inc/custom-controls/typography/class-typography-control.php:99
+msgid "Medium 500"
+msgstr "מדיום 500"
+
+#: inc/custom-controls/typography/class-fonts.php:204
+#: inc/custom-controls/typography/class-typography-control.php:98
+msgid "Normal 400 Italic"
+msgstr "רגיל 400 נטוי"
+
+#: inc/custom-controls/typography/class-fonts.php:203
+#: inc/custom-controls/typography/class-typography-control.php:97
+msgid "Normal 400"
+msgstr "רגיל 400"
+
+#: inc/custom-controls/typography/class-fonts.php:202
+#: inc/custom-controls/typography/class-typography-control.php:96
+msgid "Book 300 Italic"
+msgstr "ספר 300 נטוי"
+
+#: inc/custom-controls/typography/class-fonts.php:201
+#: inc/custom-controls/typography/class-typography-control.php:95
+msgid "Book 300"
+msgstr "ספר 300"
+
+#: inc/custom-controls/typography/class-fonts.php:200
+#: inc/custom-controls/typography/class-typography-control.php:94
+msgid "Light 200 Italic"
+msgstr "עדין 200 נטוי"
+
+#: inc/custom-controls/typography/class-fonts.php:199
+#: inc/custom-controls/typography/class-typography-control.php:93
+msgid "Light 200"
+msgstr "עדין 200"
+
+#: inc/custom-controls/typography/class-fonts.php:198
+#: inc/custom-controls/typography/class-typography-control.php:92
+msgid "Ultra-Light 100 Italic"
+msgstr "אולטרה-עדין 100 נטוי"
+
+#: inc/custom-controls/typography/class-fonts.php:197
+#: inc/custom-controls/typography/class-typography-control.php:91
+msgid "Ultra-Light 100"
+msgstr "אולטרה-עדין 100"
+
+#: inc/custom-controls/typography/class-fonts.php:144
+msgctxt "font style"
+msgid "Lucida Console, Monaco"
+msgstr "Lucida Console, Monaco"
+
+#: inc/custom-controls/typography/class-fonts.php:140
+msgctxt "font style"
+msgid "Courier New, Courier"
+msgstr "Courier New, Courier"
+
+#: inc/custom-controls/typography/class-fonts.php:136
+msgctxt "font style"
+msgid "Verdana, Geneva"
+msgstr "Verdana, Geneva"
+
+#: inc/custom-controls/typography/class-fonts.php:132
+msgctxt "font style"
+msgid "Trebuchet MS, Helvetica"
+msgstr "Trebuchet MS, Helvetica"
+
+#: inc/custom-controls/typography/class-fonts.php:128
+msgctxt "font style"
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+#: inc/custom-controls/typography/class-fonts.php:124
+msgctxt "font style"
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr "Lucida Sans Unicode, Lucida Grande"
+
+#: inc/custom-controls/typography/class-fonts.php:120
+msgctxt "font style"
+msgid "Impact, Charcoal"
+msgstr "Impact, Charcoal"
+
+#: inc/custom-controls/typography/class-fonts.php:116
+msgctxt "font style"
+msgid "Comic Sans MS, cursive"
+msgstr "Comic Sans MS, cursive"
+
+#: inc/custom-controls/typography/class-fonts.php:112
+msgctxt "font style"
+msgid "Arial Black, Gadget"
+msgstr "Arial Black, Gadget"
+
+#: inc/custom-controls/typography/class-fonts.php:108
+msgctxt "font style"
+msgid "Arial, Helvetica"
+msgstr "Arial, Helvetica"
+
+#: inc/custom-controls/typography/class-fonts.php:104
+msgctxt "font style"
+msgid "Times New Roman, Times"
+msgstr "Times New Roman, Times"
+
+#: inc/custom-controls/typography/class-fonts.php:100
+msgctxt "font style"
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr "Palatino Linotype, Book Antiqua, Palatino"
+
+#: inc/custom-controls/typography/class-fonts.php:96
+msgctxt "font style"
+msgid "Georgia"
+msgstr "Georgia"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:441
+#: inc/custom-controls/repeater/class-control-repeater.php:443
+msgid "Change File"
+msgstr "החלפת קובץ"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:441
+#: inc/custom-controls/repeater/class-control-repeater.php:445
+msgid "Add File"
+msgstr "הוספת קובץ"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:430
+#: inc/custom-controls/repeater/class-control-repeater.php:435
+msgid "No File Selected"
+msgstr "לא נבחר קובץ"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:405
+#: inc/custom-controls/repeater/class-control-repeater.php:407
+msgid "Change Image"
+msgstr "החלף תמונה"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:405
+#: inc/custom-controls/repeater/class-control-repeater.php:409
+msgid "Add Image"
+msgstr "הוספת תמונה"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:404
+#: inc/custom-controls/repeater/class-control-repeater.php:469
+msgid "Remove"
+msgstr "הסרה"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:394
+#: inc/custom-controls/repeater/class-control-repeater.php:399
+msgid "No Image Selected"
+msgstr "לא נבחרה תמונה"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:369
+msgid "Hex Value"
+msgstr "ערך הקסדצימלי"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:239
+msgid "Limit: %s rows"
+msgstr "הגבלה: %s שורות"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:83
+msgid "Add new %s"
+msgstr "הוספת %s חדש"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:75
+msgid "row"
+msgstr "שורה"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "סגור לתגובות."
+
+#. translators: 1: comment count number.
+#: comments.php:32
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "תגובה %1$s"
+msgstr[1] "%1$s תגובות"
+
+#: archive.php:15 search.php:15
+msgid "Showing %1$s Result(s)"
+msgstr "מציג %1$s תוצאות"
+
+#: 404.php:21
+msgid "Can not find what you need? Take a moment and do a search below or start from our Homepage."
+msgstr "לא מצליח למצוא את מה שאתה צריך? קח רגע וחפש למטה או התחל מדף הבית שלנו."
+
+#: 404.php:20
+msgid "Sorry, The Page is Not Found."
+msgstr "מצטערים, הדף לא נמצא."
+
+#: 404.php:17
+msgid "404."
+msgstr "404."
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#: inc/template-functions.php:720
+msgid "Rara Theme"
+msgstr "תבנית Rara"
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/perfect-portfolio/"
+msgstr "https://rarathemes.com/wordpress-themes/perfect-portfolio/"

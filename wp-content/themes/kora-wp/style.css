@@ -1,0 +1,267 @@
+/*
+Theme Name: Kora WP
+Theme URI: http://gomalthemes.com
+Description: Kora WP is a feature rich Creative Portfolio WordPress theme which is ideal for Agencies, Creative, Freelancers, Photographers and other personnel involved in the design scene.
+Version: 2.0
+Author: M_Adnan
+Author URI: http://themeforest.net/user/m_adnan
+Tags: one-column, two-columns, three-columns,four-columns, right-sidebar, custom-colors, custom-menu, featured-images, theme-options, translation-ready
+License: GNU General Public License version 1.0
+License URI: http://gomalthemes.com
+Text Domain: kora-wp
+*/
+img {
+    max-width: 100%;
+    height: auto;
+}
+.pagination li a.current {
+    background-color: #eee;
+    border-color: #ddd;
+    color: #292f33;
+}
+.logged-in-as {
+    padding-left: 15px;
+}
+.logged-in-as a {
+    width: auto;
+}
+#reply-title {
+    margin: 0;
+    padding: 0;
+    padding-left: 15px;
+}
+.comments form li.margin-top-20 {
+    margin-top: 20px !important;
+}
+.comments .comment-form .btn {
+    width: auto;
+    font-size: 16px;
+    color: #292f33;
+    padding-bottom: 5px;
+    font-weight: 100;
+}
+.tagcloud  a {
+    font-size: 14px;
+    letter-spacing: 0px;
+    float: left;
+    color: #999999;
+    line-height: 30px;
+    margin-right: 15px;
+    font-style: italic;
+}
+.tagcloud a:hover {
+    color: #292f33;
+}
+.w-100 {
+    width: 100%;
+}
+.border-left {
+    border-left: 10px solid #292f33;
+}
+.txt-services h6{
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.txt-services {
+    padding-left: 0;
+}
+.client-logo img {
+    opacity: 0.6;
+}
+.client-logo img:hover {
+    opacity: 1;
+}
+body.dark-layout .vc_row {
+    background: #252525 !important;
+}
+body.home.blog article {
+    background: none;
+}
+body.home.blog article:before {
+    background: none;
+    position: relative;
+}
+@media (min-width:768px){
+    header nav .simpleNav li{
+        padding-bottom: 10px;
+    }
+    .hide-bn {
+        height: 100px;
+    }
+    .simpleNav{
+        display: block;
+    }
+}
+body.dark-layout .hide-bn {
+    background: #252525 !important;
+}
+.copyright {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+.copyright p {
+    padding: 0;
+    margin: 0;
+    font-size: 13px;
+}
+/* Unit Test Data */
+table {
+    border-bottom: 1px solid #ededed;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-size: 14px;
+    line-height: 2;
+    margin: 0 0 20px;
+    width: 100%;
+}
+th {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+td {
+    border-top: 1px solid #ededed;
+    padding: 6px 10px 6px 0;
+}
+dl {
+    margin: 0 20px;
+}
+dt {
+    font-weight: bold;
+}
+dd {
+    margin: 0 0 20px;
+}
+.single-post .blog-page .blog-post ul {
+    list-style-type: square !important;
+}
+.single-post .blog-page .blog-post ul li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    border: 0;
+    list-style-type: square !important;
+}
+.single-post .blog-page .blog-post ol li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    border: 0;
+    list-style-type: decimal !important;
+}
+.single-post .blog-page .blog-post ol, .blog-page .blog-post ul {
+    margin: 16px 0;
+    padding: 0 0 0 40px;
+}
+.single-post .blog-page .blog-post li > ul, .blog-page .blog-post li > ol {
+    margin: 0;
+}
+address {
+    font-style: italic;
+    margin: 0 0 24px;
+}
+.single-post .blog-page .blog-post .comments li {
+    list-style-type: none !important;
+}
+.page.page-template-default .cn ul {
+    list-style-type: square;
+}
+.page.page-template-default .cn ol, .page.page-template-default .cn ul {
+    margin: 16px 0;
+    padding: 0 0 0 40px;
+}
+.page.page-template-default .cn ul li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    list-style-type: square;
+}
+.page.page-template-default .cn ol li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    list-style-type: decimal;
+}
+.sb .widget li a {
+    display: inline-block;
+    color: #999999;
+    font-style: italic;
+    font-size: 14px;
+    line-height: 38px;
+    letter-spacing: 0px;
+    width: auto;
+}
+.sb .widget select {
+    padding: 10px;
+    width: 100%;
+    display: inline-block;
+}
+.sb .widget img {
+    max-width: 100%;
+    height: auto;
+}
+.wp-caption {
+    max-width: 100% !important;
+    height: auto;
+}
+.wp-caption-text{
+    color: #444;
+}
+.alignleft {
+    float: left;
+    margin-right: 10px;
+}
+.alignright {
+    float: right;
+    margin-left: 10px;
+}
+.aligncenter {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    clear: both;
+}
+.screen-reader-text {
+    position: relative;
+}
+.gallery-caption {
+    padding:5px 1%;
+    font-size:90%;
+}
+.bypostauthor{
+    position: relative;
+}
+.sticky {
+    position: relative;
+}
+header nav li.current-menu-item a {
+    border-bottom: 2px solid #000;
+}
+header nav .simpleNav li:hover > ul {
+    display: block !important;
+}
+.navbar-toggle {
+    float: none;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+}
+.pg-comments .comments {
+    margin-top: 0;
+}
+.pad-l-0 {
+    padding-left: 0 !important;
+}
+._none {
+    display: none !important;
+}
+.alert._adj {
+    border-radius: 0;
+    background: #f1f5f8;
+    border-color: #ccd6dd;
+    color: #292f33;
+}
+.alert._adj h4 {
+    color: #292f33;
+}

@@ -1,0 +1,70 @@
+.kora_vc_section {
+    background: url("section.png") no-repeat !important;
+}
+.kora_vc_container {
+    background: url("container.png") no-repeat !important;
+}
+.kora_vc_porfolio {
+    background: url("portoflio.png") no-repeat !important;
+}
+.kora_vc_heading {
+    background: url("heading.png") no-repeat !important;
+}
+.kora_vc_feature_heading {
+    background: url("feature_heading.png") no-repeat !important;
+}
+.kora_vc_testimonials {
+    background: url("client-testimonials.png") no-repeat !important;
+}
+.kora_vc_team {
+    background: url("team.png") no-repeat !important;
+}
+.kora_vc_features {
+    background: url("feature_box.png") no-repeat !important;
+}
+.kora_vc_services1 {
+    background: url("services1.png") no-repeat !important;
+}
+.kora_vc_services2 {
+    background: url("services2.png") no-repeat !important;
+}
+.kora_vc_counters {
+    background: url("counters.png") no-repeat !important;
+}
+.kora_vc_buttons {
+    background: url("buttons.png") no-repeat !important;
+}
+.kora_vc_img1 {
+    background: url("image-process.png") no-repeat !important;
+}
+.kora_vc_img2 {
+    background: url("img2.png") no-repeat !important;
+}
+.kora_vc_blog {
+    background: url("blog.png") no-repeat !important;
+}
+.kora_vc_pricing_table {
+    background: url("pricing-table.png") no-repeat !important;
+}
+.kora_vc_slider {
+    background: url("slider.png") no-repeat !important;
+}
+.kora_vc_social {
+    background: url("social.png") no-repeat !important;
+}
+.kora_vc_contact_info {
+    background: url("contact-info.png") no-repeat !important;
+}
+.kora_vc_list_items {
+    background: url("list_items.png") no-repeat !important;
+}
+.vc_add-element-container .wpb-content-layouts li {
+    height: 85px !important;
+    border: 2px solid #fff !important;
+}
+#visual_composer_content img {
+    max-width: 100% !important;
+}
+.vc_edit_form_elements .textarea_raw_html {
+    height: 100px !important;
+}

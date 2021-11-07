@@ -1,0 +1,41 @@
+/*!  SHORTCODE SINGLE IMAGE
+----------------------------------------------------------*/
+
+.vl-single-image
+	position relative
+	display block
+	a
+		display block
+		line-height 0
+		
+	.vl-single-image-caption
+		position absolute
+		margin 30px
+		padding 6px 20px
+		color $c2
+		opacity 0
+		z-index 3
+		max-width 50%
+		white-space nowrap
+		text-overflow ellipsis
+		overflow hidden
+		pointer-events none
+		background-color $c6
+		transition all 150ms $transition
+		&.top-left
+			top 0
+			left 0
+		&.top-right
+			top 0
+			right 0
+		&.bottom-right
+			bottom 0
+			right 0
+		&.bottom-left
+			bottom 0
+			left 0		
+				
+.vl-single-image:hover,
+.vl-single-image.hovered
+	.vl-single-image-caption
+		opacity 1

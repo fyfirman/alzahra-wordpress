@@ -1,0 +1,646 @@
+/*!  WOOCOMMERCE
+----------------------------------------------------------*/
+
+/*!  GENERAL
+----------------------------------------------------------*/
+
+.vl-onsale-badge
+	position absolute
+	top 15px
+	right 15px
+	color $c6
+	background-color $c0
+	font-size 12px
+	letter-spacing 2px
+	padding 5px 12px 5px 14px
+
+.woocommerce-error,
+.woocommerce-message,
+.woocommerce-info
+	list-style-type none
+	padding 15px 20px
+	margin-bottom 1.5rem
+	border 1px solid $c0
+	color $c0
+	font-size 14px
+	a
+		float right
+
+
+/*!  RATING STARS
+----------------------------------------------------------*/
+
+.woocommerce p.stars
+	line-height 1
+	margin-bottom 0
+	a
+		position relative
+		height 1em
+		width 1em
+		text-indent -999em
+		display inline-block
+		text-decoration none
+		&::before
+			font-family $fa
+			display block
+			position absolute
+			top 0
+			left 0
+			width 1em
+			height 1em
+			line-height 1
+			text-indent 0
+	
+	a:hover ~ a::before,
+	a::before,
+	&.selected a.active ~ a::before
+		content '\f006'
+		
+	&.selected a.active::before,
+	&:hover a::before,
+	&.selected a:not(.active)::before
+		content '\f005'
+
+.woocommerce p.stars a::before,
+.woocommerce p.stars.selected a.active~a::before,
+.woocommerce p.stars a:hover~a::before
+	color $c3
+	
+.woocommerce p.stars.selected a.active::before, 
+.woocommerce p.stars:hover a::before,
+.woocommerce p.stars.selected a:not(.active)::before
+	color $c0
+
+
+/*!  QUANTITY
+----------------------------------------------------------*/
+
+.vl-quantity
+	position relative
+	display inline-block
+	padding-right 20px
+	button
+		position absolute
+		right 0
+		top 0
+		height 50%
+		width 20px
+		margin 0
+		padding 0
+		border none
+		background none
+		cursor pointer
+		text-align center
+		font-weight 400
+		line-height 1
+		font-size 16px
+		transition color 150ms $transition
+		&:hover
+			color $c2
+		&.minus
+			top auto
+			bottom 0
+	input[type="number"]
+		padding 0
+		background none
+		border none
+		width 60px
+		text-align center
+
+
+/*!  PRODUCT GALLERY
+----------------------------------------------------------*/
+
+.vl-product-thumbnail
+	position relative
+
+.woocommerce-product-gallery
+	position relative
+	display block
+	width 100%
+	ul, ol
+		list-style-type none
+		padding 0
+		display flex
+		flex-wrap wrap
+		margin 5px -5px -5px
+
+.woocommerce-product-gallery figure
+	margin 0
+
+.woocommerce-product-gallery .woocommerce-product-gallery__image:nth-child(n+2)
+	width 25%
+	display inline-block
+
+.woocommerce-product-gallery .flex-control-thumbs li
+	display inline-flex
+	overflow hidden
+	cursor pointer
+	opacity .9
+	transition opacity 150ms $transition
+	margin 5px
+	img
+		transition transform 300ms $transition
+
+.woocommerce-product-gallery .flex-control-thumbs li:hover
+	opacity 1
+	img
+		transform scale(1.035)
+	
+.woocommerce-product-gallery img
+	display block
+
+.woocommerce-product-gallery--columns-3 .flex-control-thumbs li
+	width 33.3333%
+
+.woocommerce-product-gallery--columns-4 .flex-control-thumbs li
+	width 25%
+
+.woocommerce-product-gallery--columns-5 .flex-control-thumbs li
+	width 20%
+
+
+/*!  DOTS RATING
+----------------------------------------------------------*/
+
+.vl-product-rating
+	line-height 0
+	font-size 0
+	span
+		display inline-flex
+		height 8px
+		width 8px
+		background-color $c9
+		border-radius 50%
+	span + span
+		margin-left 4px
+	span.active
+		background-color $c0
+
+
+/*!  CROSS SELLS AND RELATED PRODUCTS
+----------------------------------------------------------*/
+
+.vl-products-related,
+.vl-cross-sells,
+.vl-up-sells
+	margin-top 5rem
+
+	.vl-related-products-title,
+	.vl-cross-sells-title,
+	.vl-up-sells-title
+		margin-bottom 1.5rem
+
+
+
+/*!  SINGLE PRODUCT
+----------------------------------------------------------*/
+
+.vl-product-single
+	.vl-product-thumbnail,
+	.vl-product-summary
+		width 50%
+		float left
+		@media (max-width: 767px)
+			width 100%
+			float none
+			
+	.vl-product-thumbnail
+		padding-left 15px
+		padding-right 40px
+		@media (max-width: 767px)
+			padding-right 15px
+		
+	.vl-product-summary
+		padding-right 15px
+		padding-left 40px
+		@media (max-width: 767px)
+			padding-left 15px
+			margin-top 3rem
+		
+
+	.vl-product-summary
+		
+		.vl-product-title
+			font-size 24px
+			margin-bottom 1.5rem
+
+		.vl-price
+			margin-top 3rem
+			font-size 24px
+			color $c0
+			del
+				color $c3
+				
+		.vl-product-summary-description,
+		.vl-cart,
+		.vl-cart-footer,
+		.vl-variation-add-to-cart,
+		.vl-product-summary-footer
+			margin-top 3rem
+				
+
+		.vl-cart .vl-product-options
+			border-top 1px solid $c9
+			.vl-product-option
+				border-bottom 1px solid $c9
+				min-height 60px
+				display flex
+				align-items center
+				justify-content space-between
+
+			.vl-product-value
+				select
+					direction rtl
+					background-color transparent
+					border none
+					padding 0 30px 0 0
+					background-position 100% 50%
+					
+			.vl-stock
+				margin 0
+				color $c0
+				
+
+			.vl-variation-add-to-cart
+				display flex
+				align-items center
+
+
+		.vl-cart-footer
+			display flex
+			align-items flex-end
+			justify-content space-between
+
+
+/*!  PRODUCT DESCRIPTION
+----------------------------------------------------------*/
+
+.vl-product-description
+	margin-top 5rem
+
+	.vl-product-meta
+		padding 15px 20px
+		text-align center
+		border 1px solid $c0
+		> span
+			margin-right 30px
+			&:last-child
+				margin-right 0
+			> span
+				font-weight 400
+				color $c0
+
+	.vl-tabs
+		margin-top 5rem
+
+		.vl-tabs-header
+			text-align center
+			list-style-type none
+			margin 0
+			padding 0
+			li
+				display inline-block
+				margin 0 15px
+				a
+					color $c0
+					font-size 18px
+					&:hover
+						color $c0
+				&.active > a
+					border-bottom 1px solid $c0
+			
+		.vl-tab
+			padding-top 3rem
+			max-width 800px
+			margin 0px auto
+
+.shop_attributes p
+	margin 0
+
+/*!  REVIEWS
+----------------------------------------------------------*/
+
+.vl-reviews-holder
+	margin-bottom 5rem
+
+.vl-reviews-list,
+.vl-reviews-list ul
+	list-style-type none
+	margin 0
+	padding 0
+
+.vl-reviews-list li
+	padding-top 2rem
+	&:first-child
+		padding-top 0
+		
+.vl-reviews-list > li ul.children
+	padding-left 2rem
+
+.vl-reviews-list > li ul.children > li
+	padding-top 2rem
+
+.vl-review-left
+	float left
+	text-align center
+	
+	.vl-review-avatar
+		height 50px
+		width 50px
+		
+.vl-review-content
+	padding-left 80px
+	
+	.vl-review-header-holder
+		height 50px
+		display flex
+		align-items center
+		
+		.vl-review-author
+			line-height 1
+			
+		.vl-review-meta
+			margin-top 10px
+	
+	.vl-review-text
+		margin-top 1rem
+
+.vl-review-form-rating
+	margin-bottom 3rem
+	p.stars
+		margin-top 5px
+
+@media (max-width: 767px)
+	.vl-review-list > li ul.children
+		padding-left 0
+
+
+/*!  BILLING & SHIPPINGS
+----------------------------------------------------------*/
+
+.vl-my-account-navigation
+	ul
+		margin 0
+		padding 0
+		list-style-type none
+	a
+		color $c0
+		&:hover
+			color $c3
+
+.vl-billing-title
+	margin-bottom 1.5rem
+
+.vl-edit-account-form
+	fieldset
+		padding 15px 20px
+		margin 0
+		border-width 1px
+		border-color $c0
+		margin-bottom 1.5rem
+	legend
+		padding 0 10px
+		color $c0
+		margin-left -10px
+
+
+// // WIDGETS
+
+// .product_list_widget
+// 	.vl-product-rating
+// 		margin 10px 0
+// 	del
+// 		color $c8
+// 		font-size 90%
+// 	ins
+// 		text-decoration none
+// 		color $c7
+
+// .woocommerce
+// 	.price_slider_wrapper
+// 		padding-top 25px
+// 	.widget_price_filter
+// 		.price_slider
+// 			margin-bottom 20px
+// 		.price_slider_amount
+// 			text-align right
+// 			font-size 90%
+// 			line-height 1
+// 			.price_label
+// 				line-height 1
+// 			.button
+// 				font-size 90%
+// 				float left
+// 				background none
+// 				border none
+// 				padding 0
+// 				cursor pointer
+// 				font-weight normal
+// 				&:hover
+// 					background none
+// 					color inherit
+
+// 		.ui-slider
+// 			margin-left 4px
+// 			margin-right 4px
+// 		.ui-slider .ui-slider-handle
+// 			width 12px
+// 			height 12px
+// 			top -4px
+// 			margin-left -4px
+// 		.price_slider_wrapper .ui-widget-content
+// 			background-color $c11
+// 			border 0
+// 		.ui-slider-horizontal
+// 			height 4px
+
+
+
+
+
+/*!  CART
+----------------------------------------------------------*/
+
+.vl-cart-form-content,
+.vl-cart-form-actions
+	margin 0
+	&, th, td
+		border none
+
+	th,
+	td
+		padding 10px 0
+
+	thead tr,
+	.vl-cart-product-item
+		border-bottom 1px solid $c7
+		
+	.vl-product-item-content
+		display flex
+		align-items center
+		
+		.vl-product-item-thumbnail
+			display inline-block
+			line-height 0
+			img
+				height 90px
+				width 90px
+				max-width 90px
+				@media (max-width: 575px)
+					height 60px
+					width 60px
+					max-width 60px
+			& + .vl-product-item-permalink
+				margin-left 30px
+				@media (max-width: 575px)
+					margin-left 15px
+					
+		.vl-product-item-permalink
+			color $c0
+			white-space nowrap
+			overflow hidden
+			max-width 70%
+			text-overflow ellipsis
+			&:hover
+				color $c3
+
+	.vl-product-quantity-content
+		.vl-quantity input[type="number"]
+			max-width 60px
+			text-align left
+			padding 4px 8px
+			border 1px solid $c7
+
+	.vl-product-remove,
+	.vl-product-remove-content
+		text-align right
+	
+.vl-cart-form-actions
+	margin-top 1.5rem
+
+	.vl-cart-update
+		text-align right
+		@media (max-width: 575px)
+			display block
+			text-align left		
+
+		.vl-update-cart
+			font-size inherit
+			color $c0
+			border none
+			background none
+			padding 0
+			transition all 150ms $transition
+			cursor pointer
+			&:hover
+				color $c3
+				
+	.vl-cart-coupon
+		input[type="text"]
+			max-width 180px
+			float left
+			
+			@media (max-width: 575px)
+				width 50%
+				max-width none
+		.vl-btn
+			@media (max-width: 575px)
+				width 50%
+		
+		@media (max-width: 575px)
+			display block
+			
+
+/*!  CART TOTALS
+----------------------------------------------------------*/
+
+.vl-cart-totals
+	margin-top 5rem
+	color $c0
+	table, th, td
+		border none
+		
+	table
+		margin-bottom 1.5rem
+		th, td
+			padding 10px 0
+		
+	.vl-order-total strong
+		font-weight 400
+		
+
+/*!  BILLING
+----------------------------------------------------------*/
+
+.vl-billing-title
+	margin-bottom 1.5rem
+
+.vl-checkout-coupon
+	height auto !important
+	margin-bottom 1.5rem !important
+	input[type="text"]
+		float left
+
+.vl-form-login,
+.vl-form-reset-pswrd
+	max-width 450px
+	border 1px solid $c0
+	padding 30px !important
+	height auto !important
+	margin-bottom 1.5rem !important
+	.vl-form-group 
+		input:not([type="checkbox"])
+			width 100%
+		.inline
+			margin-top 10px
+	
+	.vl-lost-password a
+		font-size 14px
+		color $c0
+		text-decoration underline
+		&:hover
+			color $c0
+			text-decoration none
+		
+	.vl-remember-me
+		font-size 14px
+		margin-top 1.5rem
+
+.vl-create-account
+	height auto !important
+	
+
+/*!  ORDER
+----------------------------------------------------------*/
+
+.vl-order-review
+	margin-top 5rem
+	
+	.vl-order-review-title
+		margin-bottom 1.5rem
+		
+	.vl-checkout-review-order-table
+		color $c0
+		margin 0 0 1.5rem
+		
+	td,
+	.vl-product-total
+		text-align right
+	
+	.vl-order-total
+		background-color $c0
+		th, td
+			color $c6
+			padding 18px 10px
+		strong
+			font-weight 400
+
+.vl-checkout-payment,
+.vl-payment-method
+	margin-bottom 1.5rem
+	
+
+.vl-payment-method img
+	max-height 1em
+	margin-right 10px

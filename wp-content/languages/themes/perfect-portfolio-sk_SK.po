@@ -1,0 +1,1876 @@
+# Translation of Themes - Perfect Portfolio in Slovak
+# This file is distributed under the same license as the Themes - Perfect Portfolio package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-23 12:59:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sk\n"
+"Project-Id-Version: Themes - Perfect Portfolio\n"
+
+#. Description of the theme
+msgid "Perfect Portfolio is a free portfolio WordPress theme that will help you stand out from the crowd. This premium looking free theme is ideal for freelancers, photographers, digital marketers, agencies, graphic designers, video producers, web designers, web developers, and professional bloggers that want to depict their work in a beautiful layout. If you want to create an easy to use website to showcase your work, case studies, and achievement without writing a single line of code, this theme is perfect for you. Create a perfect portfolio with Perfect Portfolio WordPress theme. The theme also has an eye-catching blog layout which will help you show your expertise on your field through informative content. Perfect Portfolio comes with Schema friendly, Speed Optimized code topped with fully mobile-friendly layout that makes the theme ultra SEO ready, which means Google will love your website. The advanced features like Call To Action, services section, social media integration, WooCommerce integration, and so on is backed with quick human support whenever you face any issues. You will also get free demo content that you can import with a click with this theme. Check the demo at https://rarathemes.com/previews/?theme=perfect-portfolio/, documentation at https://docs.rarathemes.com/docs/perfect-portfolio/ and get support at https://rarathemes.com/support-forum/."
+msgstr "Perfect Portfolio je voľne dostupná portfólio téma WordPress, ktorá vám umožní vystúpiť z rady. Skvele vyzerá a je ideálna pre umelcov na voľnej nohe, fotografov, ľudí z digitálnej reklamy, agentúry, grafických dizajnérov, tvorcov videí, web dizajnérov, tvorcov web stránok a profesionálnych blogerov, ktorí chcú prezentovať svoju prácu krásnym spôsobom. Táto téma je pre vás tá správna, ak chcete vytvoriť stránku s jednoduchým použitím na predvedenie svojej práce, návrhov, výsledkov bez napísania čo i len jediného riadku kódu. Vytvorte perfektné portfólio s WordPress témou Perfect Portfolio. Téma má aj úžasný blog, ktorým ukážete svoje umenie a skúsenosť pomocou informatívneho obsahu. Perfect Portfolio disponuje kódom optimalizovaným pre rýchlosť prispôsobeným pre mobilné zariadenia a SEO, čo znamená, že Google bude vašu stránku milovať. Rozšírené vlastnosti ako sekcia služieb, integrácia sociálnych sietí, integrácia WooCommerce a podobne sú podporované rýchlou pomocou od ľudí, kedykoľvek by ste sa ocitli v ťažkostiach. K téme je dodávaný aj voľne dostupný ukážkový obsah, ktorý nainštalujete jedným kliknutím. Vyskúšajte demo na https://rarathemes.com/previews/?theme=perfect-portfolio/ dokumentáciu na https://docs.rarathemes.com/docs/perfect-portfolio/ a získajte podporu na https://rarathemes.com/support-forum/."
+
+#. Theme Name of the theme
+msgid "Perfect Portfolio"
+msgstr "Perfect Portfolio"
+
+#. translators: 1: string, 2: preview url, 3: string
+#: inc/customizer/info.php:30
+msgid "https://rarathemes.com/previews/?theme=perfect-portfolio/"
+msgstr "https://rarathemes.com/previews/?theme=perfect-portfolio/"
+
+#: inc/custom-functions.php:305 inc/custom-functions.php:310
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/custom-functions.php:304 inc/custom-functions.php:308
+msgid "Name"
+msgstr "Meno"
+
+#: inc/custom-functions.php:492
+msgid "Dismiss"
+msgstr "Odmietnuť"
+
+#: inc/custom-functions.php:491
+msgid "Go to the getting started."
+msgstr "Na začiatok"
+
+#: inc/custom-functions.php:490
+msgid "%1$s is now installed and ready to use. Click below to see theme documentation, plugins to install and other details to get started."
+msgstr "%1$s je už nainštalované a pripravené na použitie. Kliknite nižšie pre dokumentáciu k téme, pluginom a ďalším detailom."
+
+#: inc/custom-functions.php:489
+msgid "Congratulations!"
+msgstr "Gratulujeme!"
+
+#: inc/getting-started/getting-started.php:145
+msgid "Free Vs Pro"
+msgstr "Voľná oproti Pro"
+
+#: inc/getting-started/getting-started.php:136
+msgid "FAQ's &amp; Support"
+msgstr "Často kladené otázky, podpora"
+
+#: inc/getting-started/getting-started.php:106
+msgid "You will find everything you need to get started with %1$s below."
+msgstr "Všetko potrebné na začatie nájdete %1$s nižšie"
+
+#: inc/getting-started/getting-started.php:105
+msgid "Getting started with %1$s v%2$s"
+msgstr "Začíname s %1$s v%2$s"
+
+#: inc/getting-started/getting-started.php:16
+#: inc/getting-started/getting-started.php:17
+#: inc/getting-started/getting-started.php:127
+msgid "Getting Started"
+msgstr "Začíname"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:109
+msgid "Jetpack Portfolio"
+msgstr "Jetpack Portfolio"
+
+#: inc/getting-started/tabs/plugins-panel.php:44
+msgid "Version %s"
+msgstr "Verzia %s"
+
+#: inc/getting-started/tabs/plugins-panel.php:34
+msgid "These Free Plugins might be handy for you."
+msgstr "Tieto voľné pluginy by pre vás mohli byť užitočné."
+
+#: inc/getting-started/tabs/plugins-panel.php:33
+msgid "Free Plugins"
+msgstr "Voľné pluginy"
+
+#: inc/getting-started/tabs/plugins-panel.php:12
+msgid "Here is a list of recommended plugins you should install to get most out of the %1$s. Though every plugin is optional, we recommend you to at least install %2$sRaraTheme Companion%3$s, %2$sRara One Click Demo Import%3$s & %2$sContact Form 7%3$s to create a website similar to the %1$s demo and also to ensure every feature of the theme works correctly."
+msgstr "Tu je zoznam doporučených pluginov, ktoré by ste si mali nainštalovať pre optimálne fungovanie %1$s. Aj keď je každý plugin dobrovoľný, odporúčame vám nainštalovať aspoň %2$sRaraTheme Companion%3$s, %2$sRara One Click Demo Import%3$s & %2$sContact Form 7%3$s aby ste vytvorili stránku podobnú %1$s demo a zabezpečili tiež správnu prácu všetkých vlastností témy."
+
+#: inc/getting-started/getting-started.php:118
+#: inc/getting-started/tabs/plugins-panel.php:10
+msgid "Recommended Plugins"
+msgstr "Odporúčané Pluginy"
+
+#: inc/getting-started/tabs/support-panel.php:54
+msgid "Also, when you submit the support ticket, please try to provide maximum details so that we can look into your issue in detail and solve it in minimum time. We recommend you to send us a screenshot(s) with issues explained and your website's address (URL)."
+msgstr "Keď odošlete požiadavku na podporu, prosíme vás o pripojenie čo najviac detailov, aby sme mohli detailnejšie rozobrať váš problém a vyriešiť ho v čo najkratšom čase. Odporúčame vám poslať aj screenshoty s popisovanou chybou a adresu (URL) vašej web stránky."
+
+#: inc/getting-started/tabs/support-panel.php:53
+msgid "Please ensure that you have updated to the latest version of the theme before you submit a support ticket for any issue. We might have already fixed the bug in the previous theme update."
+msgstr "Pred odoslaním požiadavky na podporu sa prosím uistite, že máte nainštalovanú poslednú verziu témy. Chyba už totiž mohla byť odstránená."
+
+#: inc/getting-started/tabs/support-panel.php:51
+msgid "How can I solve my issues quickly and get faster support?"
+msgstr "Ako môžem rýchlo odstrániť ťažkosti a získať rýchlejšiu podporu?"
+
+#: inc/getting-started/tabs/support-panel.php:46
+msgid "If this didn't help, please contact us via our %1$sSupport Ticket%2$s."
+msgstr "Ak toto nepomohlo, kontaktujte nás prosím prostredníctvom nášho %1$s formulára požiadavky na podporu%2$s."
+
+#: inc/getting-started/tabs/support-panel.php:44
+msgid "If your customizer is not loading properly or you are having issues with the theme, it might be due to the plugin conflict."
+msgstr "Ak sa nástroj na prispôsobenie nenahral správne alebo máte s témou ťažkosti, môže to byť zapríčinené konfliktom pluginov."
+
+#: inc/getting-started/tabs/support-panel.php:42
+msgid "Why is my theme not working well?"
+msgstr "Prečo moja téma nepracuje správne?"
+
+#: inc/getting-started/tabs/support-panel.php:37
+msgid "You can change the copyright text going to %1$sAppearance > Customize > Footer Settings%2$s. However, if you want to hide the author credit text, please %3$supgrade to the Pro version%4$s."
+msgstr "Môžete zmeniť text copyright cez %1$sVzhľad > Prispôsobenie > Nastavenie spodku%2$s. Ak však chcete skryť text autorovho kreditu, %3$supgradujte prosím na Pro versiu%4$s."
+
+#: inc/getting-started/tabs/support-panel.php:45
+msgid "To solve the issue, deactivate all the plugins first, except the ones recommended by the theme. Then, hard reload your website using %1$s\"Ctrl+Shift+R\"%2$s on Windows and %1$s\"Cmd+Shift+R\"%2$s on Mac. If the issues are fixed, start activating the plugins one by one, and reload and check your site each time. This will help you find out the plugin that is causing the problem."
+msgstr "Na vyriešenie problému vypnite (deaktivujte) najprv všetky pluginy, okrem tých, ktoré odporúča téma. Potom znovu načítajte stránku pomocou %1$s\"Ctrl+Shift+R\"%2$s na Windows a %1$s\"Cmd+Shift+R\"%2$s na Mac. Ak sa tým ťažkosti odstránia, aktivujte postupne ostatné pluginy a zakaždým znovu načítajte stránku. Takto by ste mali odhaliť plugin, ktorý spôsobuje problém."
+
+#: inc/getting-started/tabs/support-panel.php:35
+msgid "How do I change the copyright text?"
+msgstr "Ako zmením text vyhradeného práva?"
+
+#: inc/getting-started/tabs/support-panel.php:30
+msgid "The Pro version is built with lots of flexibility in mind for future upgrades. Therefore, it is slightly different than the free theme but extremely flexible and easy-to-use."
+msgstr "Pot verzia je vybudovaná s veľkou pružnosťou pre budúce verzie. Preto sa mierne líši od voľne dostupnej témy. Je však veľmi flexibilná a jednoducho sa používa."
+
+#: inc/getting-started/tabs/support-panel.php:29
+msgid "However, since the Pro version comes with added features and settings, you will need to set up the additional features in the customizer. This process is simple and only takes a few minutes."
+msgstr "Keďže Pro verzia pridáva dodatočné vlastnosti a nastavenia, bude ich potrebné prispôsobiť. Je to jednoduché a zaberie to len pár minút."
+
+#: inc/getting-started/tabs/support-panel.php:28
+msgid "When you upgrade to the Pro theme, your posts, pages, media, categories, and other data will remain intact-- all your data is saved."
+msgstr "Pri prechode na Pro verziu témy zostanú vaše príspevky, stránky, médiá a iné dáta neporušené -- všetko je uložené."
+
+#: inc/getting-started/tabs/support-panel.php:21
+msgid "Along with the additional features and regular updates, you get dedicated and quick support with the premium theme. If you run into any issue while creating a website with the premium theme, you will get a quicker response compared to the free support."
+msgstr "Popri rozšírených vlastnostiach a pravidelných obnovách dostanete s prémiovou témou výhradnú a rýchlu podporu. V porovnaní s voľne dostupnou verziou dostanete rýchlejšiu odozvu aj v prípade akýchkoľvek ťažkostí pri tvorbe web stránky."
+
+#: inc/getting-started/tabs/support-panel.php:19
+msgid "What are the perks of upgrading to the Premium version?"
+msgstr "Aké výhody má prechod na Prémiovú verziu?"
+
+#: inc/getting-started/tabs/support-panel.php:14
+msgid "Overall, you will have more control over the customization and editing of your website with the Pro version."
+msgstr "S Pro verziou získate lepšiu kontrolu nad nastavovaním a úpravami vašej web stránky."
+
+#: inc/getting-started/tabs/support-panel.php:13
+msgid "Both the Free and Pro version of the themes are coded well and are developed with best coding practices. However, the Pro version of the theme comes with extended features and dedicated support team to help you solve your queries. The Pro theme comes with multiple layouts to help you create a unique and attractive website. Also, the Pro themes are fully compatible with Polylang and WPML plugin to help you create a multilingual blog and get wide reach."
+msgstr "Obe verzie témy, voľná aj pro, sú naprogramované kvalitne s najlepšími programátorskými praktikami. Pro verzia obsahuje rozšírené vlastnosti a disponuje vyhradeným podporným tímom pripraveným riešiť vaše požiadavky. Pro verzia obsahuje viacero grafických návrhov, ktoré vám pomôžu pri zostavení unikátnych a atraktívnych web stránok. Pro verzia témy je taktiež kompatibilná s Polylang a WPML pluginami, čo vám umožní vytvárať viacjazyčné blogy a získať tak väčší dosah. "
+
+#: inc/getting-started/tabs/support-panel.php:26
+msgid "Upgrading to the Pro version- will I lose my changes?"
+msgstr "Stratím zmeny po upgrade na Pro verziu?"
+
+#: inc/getting-started/tabs/support-panel.php:11
+msgid "What is the difference between Free and Pro?"
+msgstr "Aký je rozdiel medzi voľne dostupnou a Pro verziou?"
+
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the knowledge base"
+msgstr "Navštívte knižnicu vedomostí"
+
+#: inc/getting-started/tabs/link-panel.php:21
+msgid "Our documentation comes with a step-by-step guide from installing WordPress to customizing our theme to creating an attractive and engaging website."
+msgstr "Naša dokumentácia obsahuje krok-za-krokom návody, ako nainštalovať WordPress až po prispôsobenie našej témy a vytvorenie pútavej a atraktívnej web stránky"
+
+#: inc/getting-started/tabs/link-panel.php:20
+msgid "Need help with WordPress and our theme as quickly as possible? Visit our well-organized documentation."
+msgstr "Potrebujete pomoc s WordPress a našou témou? Navštívte našu kvalitnú dobre organizovanú dokumentáciu. "
+
+#: inc/getting-started/tabs/link-panel.php:19
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the Knowledge Base"
+msgstr "Navštívte knižnicu vedomostí"
+
+#: inc/getting-started/tabs/link-panel.php:14
+msgid "Read more about the features here"
+msgstr "Prečítajte si viac o vlastnostiach tu"
+
+#: inc/getting-started/tabs/link-panel.php:12
+msgid "Also, the premium theme gets regular updates and has a dedicated support team to solve your queries."
+msgstr "S prémiovou verziou témy získate pravidelné obnovy a vyhradený podporný tím na riešenie vašich požiadaviek. "
+
+#: inc/getting-started/tabs/link-panel.php:11
+msgid "The Pro version of the theme allows you to change the look and feel of the website with just a few clicks. You can easily change the color, background image and pattern, as well as fonts of the website with the Pro theme. The Pro version comes with multiple layouts to help you create an attractive and engaging website. Furthermore, the premium themes are WPML and Polylang compatible to allow you to create a multilingual website with ease."
+msgstr "Pro verzia témy vám umožní zmeniť vzhľad web stránky len zopár kliknutiami. S Pro verziou môžete jednoducho zmeniť farbu či obrázok alebo štruktúru pozadia, ako aj fonty web stránky. Máte tu k dispozícii viaceré návrhy rozoloženia stránky na vytvorenie jej unikátneho a atraktívneho vzhľadu. Navyše sú prémiové témy kompatibilné s WPML a Polylang, čo vám umožní ľahko vytvárať viacjazyčné stránky. "
+
+#: inc/getting-started/tabs/link-panel.php:10
+msgid "Upgrade To Pro"
+msgstr "Prejdite na Pro verziu"
+
+#: inc/getting-started/tabs/help-panel.php:32
+msgid "View Demo"
+msgstr "Pozrite si demo verziu"
+
+#: inc/getting-started/tabs/help-panel.php:31
+msgid "Visit the Demo"
+msgstr "Navštívte demo verziu"
+
+#: inc/getting-started/tabs/help-panel.php:30
+msgid "Visit the demo to get more idea about our theme design and its features."
+msgstr "Pozrite si demo verziu pre lepšiu predstavu o našej téme a jej vlastnostiach"
+
+#: inc/getting-started/tabs/help-panel.php:29
+msgid "View Our %1$s Demo"
+msgstr "Pozrite si naše %1$s Demo"
+
+#: inc/getting-started/tabs/help-panel.php:24
+msgid "Contact Support"
+msgstr "Kontaktujte podporu"
+
+#: inc/getting-started/tabs/help-panel.php:23
+msgid "Visit the Support"
+msgstr "Navštívte podporu"
+
+#: inc/getting-started/tabs/help-panel.php:22
+msgid "If the Documentation Guide didn't help you, contact us via our %1$sSupport Ticket%2$s. We reply to all the support queries within one business day, except on the weekends."
+msgstr "Ak vám návod nepomohol, spojte sa s nami cez náš%1$sformulár požiadaky na podporu%2$s. Na všetky požiadavky o podporu odpovedáme v priebehu jedného pracovného dňa. "
+
+#: inc/getting-started/tabs/help-panel.php:21
+msgid "It's always better to visit our %1$sDocumentation Guide%2$s before you send us a support query."
+msgstr "Vždy je lepšie preštudovať si náš %1$snávod v dokumentácii%2$s skôr, než nám pošlete požiadavku o podporu. "
+
+#: inc/getting-started/tabs/help-panel.php:20
+msgid "Support Ticket"
+msgstr "Formulár požiadavky o podporu"
+
+#: inc/getting-started/tabs/help-panel.php:15
+msgid "View Documentation"
+msgstr "Pozrite si dokumentáciu"
+
+#: inc/getting-started/tabs/help-panel.php:14
+msgid "Visit the Documentation"
+msgstr "Navštívte dokumentáciu"
+
+#: inc/getting-started/tabs/help-panel.php:13
+msgid "Are you new to the WordPress world? Our step by step easy documentation guide will help you create an attractive and engaging website without any prior coding knowledge or experience."
+msgstr "Ste nováčikom vo svete WordPress? Náš návod vám pomôže krok za krokom vytvoriť atraktívnu a unikátnu web stránku bez akýchkoľvek predošlých znalostí či skúseností s programovaním. "
+
+#: inc/getting-started/tabs/help-panel.php:12
+msgid "View Our Documentation Link"
+msgstr "Pozrite si odkaz na našu dokumentáciu"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:13
+msgid "View Pro"
+msgstr "Pozrite si Pro"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:12
+#: inc/getting-started/tabs/link-panel.php:13
+msgid "View Premium Version"
+msgstr "Pozrite si prémiovú verziu"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:11
+msgid "Free vs Pro"
+msgstr "Voľná verzia vs Pro"
+
+#: inc/template-functions.php:42
+msgid "Skip to content (Press Enter)"
+msgstr "Skočiť na obsah (stlačte Enter)"
+
+#: inc/widgets.php:19
+msgid "Add \"Rara:Icon Text\" widget for about section."
+msgstr "Pre vloženie sekcie \"O\" pridajte widget \"Rara:Icon Text\". "
+
+#. translators: 1: list of tags.
+#: inc/extras.php:107
+msgid "Tags :"
+msgstr "Značky (tagy): "
+
+#: inc/tgmpa/recommended-plugins.php:62
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Nasledujúci odporúčaný plugin je momentálne neaktívny: %1$s."
+msgstr[1] "Nasledujúce odporúčané pluginy sú momentálne neaktívne: %1$s."
+msgstr[2] "Nasledujúce odporúčané pluginy sú momentálne neaktívne: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Nasledujúci potrebný plugin je momentálne neaktívny: %1$s."
+msgstr[1] "Nasledujúce potrebné pluginy sú momentálne neaktívne: %1$s."
+msgstr[2] "Nasledujúce potrebné pluginy sú momentálne neaktívne: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "K dispozícii je aktualizácia pre: %1$s."
+msgstr[1] "K dispozícii sú aktualizácie pre: %1$s."
+msgstr[2] "K dispozícii sú aktualizácie pre: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Nasledujúci plugin je potrebné aktualizovať na najnovšiu verziu, aby sa zabezpečila maximálna kompatibilita s touto témou: %1$s."
+msgstr[1] "Nasledujúce pluginy je potrebné aktualizovať na najnovšiu verziu, aby sa zabezpečila maximálna kompatibilita s touto témou: %1$s."
+msgstr[2] "Nasledujúce pluginy je potrebné aktualizovať na najnovšiu verziu, aby sa zabezpečila maximálna kompatibilita s touto témou: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Táto téma odporúča nasledujúci plugin: %1$s."
+msgstr[1] "Táto téma odporúča nasledujúce pluginy: %1$s."
+msgstr[2] "Táto téma odporúča nasledujúce pluginy: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Táto téma vyžaduje nasledujúci plugin: %1$s."
+msgstr[1] "Táto téma vyžaduje nasledujúce pluginy: %1$s."
+msgstr[2] "Táto téma vyžaduje nasledujúce pluginy: %1$s."
+
+#: inc/template-functions.php:719
+msgid "Perfect Portfolio | Developed By "
+msgstr "Perfect Portfolio | Vytvorené "
+
+#: inc/custom-functions.php:452
+msgctxt "submit button"
+msgid "Search"
+msgstr "Hľadať"
+
+#: inc/custom-functions.php:451
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "Hľadať..."
+
+#: inc/custom-functions.php:450
+msgid "Search for:"
+msgstr "Vyhľadať:"
+
+#. Template Name of the theme
+msgid "Portfolio Template"
+msgstr "Portfolio šablóna"
+
+#: template-parts/content-none.php:48
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Vyzerá to, že nemôžeme nájsť čo hľadáte. Možno pomôže vyhľadávanie."
+
+#: template-parts/content-none.php:42
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Ľutujeme, hľadaný výraz sa nenašiel. Prosím, skúste iné kľúčové slová."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:28
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ste pripravený publikovať váš prvý príspevok? <a href=\"%1$s\">Začnite tu</a>."
+
+#: template-parts/content-none.php:17
+msgid "Nothing Found"
+msgstr "Žiadny obsah sa nenašiel"
+
+#: template-parts/content-none.php:15
+msgid "Add More Posts"
+msgstr "Pridajte ďalšie príspevky"
+
+#: inc/woocommerce-functions.php:102 inc/woocommerce-functions.php:118
+msgid "View your shopping cart"
+msgstr "Zobraziť nákupný košík"
+
+#: inc/woocommerce-functions.php:41
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr "Bočný panel je zobrazovaný len na stránkach woocommerce. "
+
+#: inc/woocommerce-functions.php:39
+msgid "Shop Sidebar"
+msgstr "Bočný panel obchodu"
+
+#: inc/widgets.php:47
+msgid "Footer Three"
+msgstr "Dolné záhlavie tri"
+
+#: inc/widgets.php:44
+msgid "Add footer two widgets here."
+msgstr "Sem vložte widget dolného záhlavia dva."
+
+#: inc/widgets.php:42
+msgid "Footer Two"
+msgstr "Dolné záhlavie dva"
+
+#: inc/widgets.php:37
+msgid "Footer One"
+msgstr "Dolné záhlavie jeden"
+
+#: inc/widgets.php:49
+msgid "Add footer three widgets here."
+msgstr "Sem vložte widget dolného záhlavia tri."
+
+#: inc/widgets.php:39
+msgid "Add footer one widgets here."
+msgstr "Sem vložte widget dolného záhlavia jeden."
+
+#: inc/widgets.php:34
+msgid "Add \"Rara:Call To Action\" widget in footer of specific pages."
+msgstr "Pridajte \"Rara:Call To Action\" widget do dolného záhlavia na vybraných web stránkach."
+
+#: inc/widgets.php:32
+msgid "Call To Action Footer"
+msgstr "Dolné záhlavie pozvánky na akciu"
+
+#: inc/widgets.php:29
+msgid "Add \"Rara:Icon Text\" widget for service section."
+msgstr "Pridajte \"Rara:Icon Text\" widget do sekcie služieb."
+
+#: inc/widgets.php:27
+msgid "Services Section"
+msgstr "Sekcia služieb"
+
+#: inc/widgets.php:24
+msgid "Add \"Rara:Call To Action\" widget for Call to Action section."
+msgstr "Pridajte \"Rara:Call To Action\" widget do sekcie pozvánka na akciu."
+
+#: inc/widgets.php:22
+msgid "Call To Action Section"
+msgstr "Sekcia pozvánky na akciu"
+
+#: inc/widgets.php:17
+msgid "About Section"
+msgstr "O sekcii"
+
+#: inc/widgets.php:12
+msgid "Sidebar"
+msgstr "Bočný panel"
+
+#: inc/typography.php:354
+msgid "Lucida Console, Monaco"
+msgstr "Lucida Console, Monaco"
+
+#: inc/typography.php:353
+msgid "Courier New, Courier"
+msgstr "Courier New, Courier"
+
+#: inc/typography.php:352
+msgid "Verdana, Geneva"
+msgstr "Verdana, Geneva"
+
+#: inc/typography.php:351
+msgid "Trebuchet MS, Helvetica"
+msgstr "Trebuchet MS, Helvetica"
+
+#: inc/typography.php:350
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+#: inc/typography.php:349
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr "Lucida Sans Unicode, Lucida Grande"
+
+#: inc/typography.php:348
+msgid "Impact, Charcoal"
+msgstr "Impact, Charcoal"
+
+#: inc/typography.php:347
+msgid "Comic Sans MS, cursive"
+msgstr "Comic Sans MS, cursive"
+
+#: inc/typography.php:346
+msgid "Arial Black, Gadget"
+msgstr "Arial Black, Gadget"
+
+#: inc/typography.php:345
+msgid "Arial, Helvetica"
+msgstr "Arial, Helvetica"
+
+#: inc/typography.php:344
+msgid "Times New Roman, Times"
+msgstr "Times New Roman, Times"
+
+#: inc/typography.php:343
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr "Palatino Linotype, Book Antiqua, Palatino"
+
+#: inc/typography.php:342
+msgid "Georgia"
+msgstr "Georgia"
+
+#: inc/typography.php:25
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "Zapnuté"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: inc/typography.php:24
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "Zapnuté"
+
+#: inc/tgmpa/recommended-plugins.php:57
+msgid "Rara One Click Demo Import"
+msgstr "Nahratie Demo dát na 1 kliknutie"
+
+#: inc/tgmpa/recommended-plugins.php:52
+msgid "RaraTheme Companion"
+msgstr "Spoločník RaraTheme"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Inštalácia doplnku %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Všetky inštalácie boli dokončené."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s bola úspešne nainštalovaná."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Proces inštalácie sa začína. Tento proces môže na niektorých hostingoch chvíľu trvať, buďte prosím trpezliví."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Inštalácia a aktivácia doplnku %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Všetky inštalácie a aktivácie boli dokončené."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Skryť podrobnosti"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Zobraziť podrobnosti"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s bola úspešne nainštalovaná a aktivovaná."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Proces inštalácie a aktivácia sa spúšťa. Tento proces môže trvať niekoľko minút, zatiaľ čo na niektorých počítačov trvať, preto buďte trpezliví."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Inštalácia %1$s zlyhala."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Počas inštalácie %1$s sa vyskytla chyba: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Aktualizuje sa modul %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Aktivácia doplnku zlyhala."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Žiadne doplnky na aktiváciu v tomto okamihu nie sú k dispozícii."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Na aktiváciu neboli vybrané žiadne doplnky. Neboli podniknuté žiadne kroky."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Momentálne nie sú k dispozícii žiadne doplnky na aktualizáciu."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Momentálne nie sú k dispozícii žiadne doplnky na inštaláciu."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Na aktualizáciu neboli vybrané žiadne doplnky. Neboli podniknuté žiadne kroky."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Na inštaláciu neboli vybrané žiadne doplnky. Neboli podniknuté žiadne kroky."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Aktualizovať"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Inštalovať"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Aktualizujte správu od autora:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Aktivujte %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Aktualizujte %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Nainštalujte %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Stav"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Verzia"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Typ"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Zdroj"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Modul"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Žiadne doplnky na inštaláciu, aktualizáciu alebo aktiváciu."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Dostupná verzia:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Minimálna požadovaná verzia:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Nainštalovaná verzia:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "neznámy"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Aktivovať <span class=\"count\">(%s)</span>"
+msgstr[1] "Aktivovať <span class=\"count\">(%s)</span>"
+msgstr[2] "Aktivovať <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Dostupná aktualizácia <span class=\"count\">(%s)</span>"
+msgstr[1] "Dostupná aktualizácia <span class=\"count\">(%s)</span>"
+msgstr[2] "Dostupná aktualizácia <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Inštalácia <span class=\"count\">(%s)</span>"
+msgstr[1] "Inštalácia <span class=\"count\">(%s)</span>"
+msgstr[2] "Inštalácia <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Všetky <span class=\"count\">(%s)</span>"
+msgstr[1] "Všetky <span class=\"count\">(%s)</span>"
+msgstr[2] "Všetky <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Odporúča sa aktualizácia"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Vyžaduje aktualizáciu"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Požadovaná aktualizácia nie je k dispozícii"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Aktívne"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Nainštalované, ale neaktivované"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Nie je nainštalované"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Balené"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Externý zdroj"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Úložisko WordPress"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Odporúčané"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Požadované"
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1121
+#: inc/tgmpa/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "a"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Balík vzdialeného doplnku obsahuje viac ako jeden súbor, ale súbory nie sú zabalené v priečinku."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Obráťte sa na poskytovateľa doplnku a požiadajte ho, aby zabalil svoj doplnok podľa pokynov WordPress."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Balík vzdialeného doplnku neobsahuje priečinok s požadovaným slugom a premenovanie nefungovalo."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Vyžaduje sa aktualizácia"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Tento doplnok je potrebné aktualizovať, aby bol kompatibilný s vašou témou."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Ak potrebujete pomoc, kontaktujte správcu tohto webu."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Existuje jeden alebo viacero požadovaných alebo doporučených doplnkov, ktoré môžete nainštalovať, aktualizovať alebo aktivovať."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Skryť toto oznámenie"
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Všetky pluginy nainštalované a aktivované úspešne. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin nie je aktivovaný. Pre túto tému je potrební vyššia verzia %s. Prosím aktualizujte plugin."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Neboli podniknuté žiadne kroky. Plugin %1$s bol už aktívny."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Nasledujúci plugin bol úspešne aktivovaný:"
+msgstr[1] "Nasledujúce pluginy boli úspešne aktivované:"
+msgstr[2] "Nasledujúce pluginy boli úspešne aktivované:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Doplnok bol úspešne aktivovaný."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:827
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: inc/tgmpa/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Návrat na informačný panel"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Vráťte sa do Inštalátora požadovaných doplnkov"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Začať aktivovať plugin"
+msgstr[1] "Začať aktivovať pluginy"
+msgstr[2] "Začať aktivovať pluginy"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Začať aktualizovať plugin"
+msgstr[1] "Začať aktualizovať pluginy"
+msgstr[2] "Začať aktualizovať pluginy"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Začať s inštaláciou plugin"
+msgstr[1] "Začať s inštaláciou pluginov"
+msgstr[2] "Začať s inštaláciou pluginov"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "S API pluginu došlo k chybe."
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Aktualizácia pluginu: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Inštalácia pluginu: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Nainštalovať pluginy"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Nainštalujte požadované doplnky"
+
+#: inc/template-functions.php:722
+msgid "https://wordpress.org/"
+msgstr "https://sk.wordpress.org/"
+
+#: inc/template-functions.php:722
+msgid " Powered by %s"
+msgstr "Pohaňané %s"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-functions.php:455
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Upraviť <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-functions.php:434
+msgid "Page"
+msgstr "Strana"
+
+#: inc/template-functions.php:433
+msgid "Next"
+msgstr "Ďalej"
+
+#: inc/template-functions.php:432
+msgid "Previous"
+msgstr "Dopredu"
+
+#: inc/template-functions.php:420
+msgid "Post Navigation"
+msgstr "Navigácia v článku"
+
+#: inc/template-functions.php:412
+msgid "Next Article"
+msgstr "Nasledujúci článok"
+
+#: inc/template-functions.php:404
+msgid "Previous Article"
+msgstr "Predchádzajúci článok"
+
+#: inc/template-functions.php:372
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: inc/template-functions.php:216
+msgid "Search Results"
+msgstr "Výsledky vyhľadávania"
+
+#: inc/template-functions.php:205
+msgid "Portfolio Category"
+msgstr "Kategória portfólia"
+
+#: inc/template-functions.php:199
+msgid "Tag"
+msgstr "Značka"
+
+#: inc/template-functions.php:194
+msgid "Category"
+msgstr "Kategória"
+
+#: inc/template-functions.php:185 inc/template-functions.php:493
+msgid "All Posts by"
+msgstr "Všetky články od"
+
+#: inc/template-functions.php:168
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/partials.php:55
+msgid "Y"
+msgstr "R"
+
+#: inc/partials.php:54
+msgid "&copy; Copyright "
+msgstr "&copy; Copyright "
+
+#: inc/metabox.php:57
+msgid "Choose Sidebar Template"
+msgstr "Zvoľte si šablónu bočného panela"
+
+#: inc/metabox.php:47
+msgid "Right Sidebar"
+msgstr "Pravý bočný panel"
+
+#: inc/metabox.php:42
+msgid "Left Sidebar"
+msgstr "Ľavý bočný panel"
+
+#: inc/metabox.php:37
+msgid "Full Width Centered"
+msgstr "Na celú šírku na stred"
+
+#: inc/metabox.php:32
+msgid "Full Width"
+msgstr "Plná širka"
+
+#: inc/metabox.php:27 inc/widgets.php:14
+msgid "Default Sidebar"
+msgstr "Predvolený bočný panel"
+
+#: inc/metabox.php:14
+msgid "Sidebar Layout"
+msgstr "Rozloženie bočného panelu"
+
+#: inc/extras.php:419
+msgid " -- Choose -- "
+msgstr " -- Vyberte -- "
+
+#: inc/extras.php:313
+msgid "%1$s at %2$s"
+msgstr "%1$s v %2$s"
+
+#: inc/extras.php:311
+msgid "Posted on"
+msgstr "Pridané dňa"
+
+#: inc/extras.php:306
+msgid "Your comment is awaiting moderation."
+msgstr "Váš komentár čaká na spracovanie. "
+
+#: inc/extras.php:238
+msgid "Click here to add a menu"
+msgstr "Kliknite sem na pridanie menu"
+
+#: inc/extras.php:164
+msgid "Related Projects"
+msgstr "Podobné projekty"
+
+#: inc/extras.php:131
+msgid "Recent Posts"
+msgstr "Najnovšie články"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/extras.php:89
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post title
+#: inc/extras.php:66
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Zanechajte komentár<span class=\"screen-reader-text\"> na %s</span>"
+
+#. translators: %s: post author.
+#: inc/extras.php:48
+msgctxt "post author"
+msgid "By %s"
+msgstr "Od %s"
+
+#: inc/extras.php:19
+msgid "updated on "
+msgstr "aktualizované na"
+
+#: inc/extras.php:14
+msgid "on "
+msgstr "na"
+
+#: inc/customizer-plugin-recommend/plugin-install/class-plugin-install-helper.php:110
+#: inc/getting-started/getting-started.php:40
+msgid "Activating "
+msgstr "Aktivujem"
+
+#: inc/customizer-plugin-recommend/plugin-install/class-plugin-install-helper.php:59
+#: inc/getting-started/class-getting-start-plugin-helper.php:85
+msgid "Install and activate"
+msgstr "Inštalovať a aktivovať"
+
+#: inc/customizer-plugin-recommend/customizer-notice/class-customizer-notice.php:144
+msgid "Activating"
+msgstr "Aktivujem"
+
+#: inc/customizer/site.php:43
+msgid "Site title and tagline font."
+msgstr "Názov web stránky a základné písmo."
+
+#: inc/customizer/site.php:42
+msgid "Site Title Font"
+msgstr "Písmo názvu web stránky"
+
+#: inc/customizer/layout.php:109
+msgid "This is the general sidebar layout for posts. You can override the sidebar layout for individual post in repective post."
+msgstr "Umiestnenie bočného panelu v hlavnom layoute pre články. Pre jednotlivé články môžete umiestnenie bočného panelu zmeniť."
+
+#: inc/customizer/layout.php:108
+msgid "Post Sidebar Layout"
+msgstr "Layout bočného panela v článkoch"
+
+#: inc/customizer/layout.php:82
+msgid "This is the general sidebar layout for pages. You can override the sidebar layout for individual page in repective page."
+msgstr "Toto je hlavný layout bočného panela pre web stránky. Môžete ho zmeniť pre jednotlivé web stránky. "
+
+#: inc/customizer/layout.php:81
+msgid "Page Sidebar Layout"
+msgstr "Layout bočného panela v článkoch"
+
+#: inc/customizer/layout.php:60
+msgid "General Sidebar Layout"
+msgstr "Hlavný layout bočného panela"
+
+#: inc/customizer/layout.php:46
+msgid "This is the layout for blog index page."
+msgstr "Toto je layout stránky obsahu blogov"
+
+#: inc/customizer/layout.php:45
+msgid "Blog Page Layout"
+msgstr "Layout stránky blogov"
+
+#: inc/customizer/layout.php:24
+msgid "Blog Layout"
+msgstr "Layout blogov"
+
+#: inc/customizer/layout.php:15
+msgid "Layout Settings"
+msgstr "Nastavenia layoutu"
+
+#: inc/customizer/info.php:136
+msgid "VIEW PRO THEME"
+msgstr "Prezrieť si PRO tému"
+
+#: inc/customizer/info.php:134
+msgid "Pro Available"
+msgstr "Pro je dostupná"
+
+#. translators: 1: string, 2: documentation url, 3: string
+#: inc/customizer/info.php:35
+msgid "Documentation Link : "
+msgstr "Odkaz na dokumentáciu:"
+
+#. translators: 1: string, 2: preview url, 3: string
+#. translators: 1: string, 2: documentation url, 3: string
+#: inc/customizer/info.php:30 inc/customizer/info.php:35
+msgid "Click here."
+msgstr "Kliknite sem"
+
+#. translators: 1: string, 2: preview url, 3: string
+#: inc/customizer/info.php:30
+msgid "Demo Link : "
+msgstr "Odkaz na Demo:"
+
+#: inc/customizer/info.php:15
+msgid "Demo & Documentation"
+msgstr "Demo a Dokumentácia"
+
+#: inc/customizer/general.php:269
+msgid "Blog Desciption"
+msgstr "Opis blogu"
+
+#: inc/customizer/general.php:246
+msgid "Automatically generated excerpt length (in words)."
+msgstr "Dĺžka automaticky generovaného výňatku (v slovách)"
+
+#: inc/customizer/general.php:245
+msgid "Excerpt Length"
+msgstr "Dĺžka výňatku"
+
+#: inc/customizer/general.php:224
+msgid "Enable Blog Excerpt"
+msgstr "Povoliť výňatok z blogu"
+
+#: inc/customizer/general.php:203
+msgid "Posts(Blog) & Pages Settings"
+msgstr "Nastavenie blogov a stránok"
+
+#: inc/customizer/general.php:225
+msgid "Enable to show excerpt or disable to show full post content."
+msgstr "Povoliť zobrazenie výňatku alebo zakázať zobraziť celý obsah článku."
+
+#: inc/customizer/general.php:192
+msgid "Enable to show last updated post date on listing as well as in single post."
+msgstr "Povoliť zobrazenie dátumu poslednej úpravy článku na zozname aj v samotnom článku."
+
+#: inc/customizer/general.php:191
+msgid "Enable Last Update Post Date"
+msgstr "Povoliť zobrazenie dátumu poslednej úpravy."
+
+#: inc/customizer/general.php:170
+msgid "SEO Settings"
+msgstr "SEO nastavenia"
+
+#: inc/customizer/general.php:158
+msgid "links"
+msgstr "odkazy"
+
+#: inc/customizer/general.php:153
+msgid "Example: http://facebook.com"
+msgstr "Príklad: http://facebook.com"
+
+#: inc/customizer/general.php:152
+msgid "Link"
+msgstr "Odkaz"
+
+#: inc/customizer/general.php:148
+msgid "Example: fa-bell"
+msgstr "Príklad: fa-bell"
+
+#: inc/customizer/general.php:147
+msgid "Font Awesome Icon"
+msgstr "Ikona písma Awesome"
+
+#: inc/customizer/general.php:143
+msgid "Social Links"
+msgstr "Odkazy na sociálne siete"
+
+#: inc/customizer/frontpage.php:150
+msgid "Enable to show blog section."
+msgstr "Povoliť zobrazenie sekcie blogu."
+
+#: inc/customizer/frontpage.php:149
+msgid "Enable Blog Section"
+msgstr "Povoliť sekciu blog"
+
+#: inc/customizer/frontpage.php:129
+msgid "Blog Section"
+msgstr "Sekcia blog"
+
+#: inc/customizer/frontpage.php:117
+msgid "View More Label Url"
+msgstr "Zobraziť viac URL adries"
+
+#: inc/customizer/frontpage.php:93
+msgid "View More Label"
+msgstr "Zobraziť viac značiek"
+
+#: inc/customizer/frontpage.php:84 inc/partials.php:84 sections/gallery.php:9
+msgid "View More"
+msgstr "Zobraziť viac"
+
+#: inc/customizer/frontpage.php:69
+msgid "Set number of latest portfolios to show in portfolio section."
+msgstr "Nastavte počet najnovších portfolií na zobrazenie v sekcii portfolio."
+
+#: inc/customizer/frontpage.php:68
+msgid "Number Of Portfolio"
+msgstr "Počet portfolií"
+
+#: inc/customizer/frontpage.php:47
+msgid "Enable to show Portfolio section."
+msgstr "Povoliť zobrazenie sekcie portfolio."
+
+#: inc/customizer/frontpage.php:46
+msgid "Enable Portfolio Section"
+msgstr "Povoliť sekciu portfolio"
+
+#: inc/customizer/frontpage.php:26
+msgid "Portfolio Section"
+msgstr "Sekcia portfolio"
+
+#: inc/customizer/frontpage.php:18
+msgid "Customize About, Gallery, Services, Call To Action, Latest Posts, settings."
+msgstr "Prispôsobiť nastavenie O, Galéria, Služby, Pozvánka na akciu, Najnovšie články."
+
+#: inc/customizer/frontpage.php:17
+msgid "Front Page Settings"
+msgstr "Nastavenia hlavnej stránky"
+
+#: inc/customizer/footer.php:34
+msgid "Add Copyright Text Here."
+msgstr "Sem vložte text pre copyright"
+
+#: inc/customizer/footer.php:33
+msgid "Footer Copyright Text"
+msgstr "Spodný copyright text"
+
+#: inc/custom-functions.php:45 inc/custom-functions.php:109
+msgid "Primary"
+msgstr "Primárne"
+
+#: inc/custom-controls/typography/class-typography-control.php:109
+msgid "Invalid Value"
+msgstr "Neplatná hodnota"
+
+#: inc/custom-controls/typography/class-typography-control.php:90
+msgid "Spacing"
+msgstr "Medzera"
+
+#: inc/custom-controls/typography/class-typography-control.php:89
+msgid "Height"
+msgstr "Výška"
+
+#: inc/custom-controls/typography/class-typography-control.php:88
+msgid "Size"
+msgstr "Veľkosť"
+
+#: inc/custom-controls/typography/class-typography-control.php:87
+msgid "Style"
+msgstr "Štýl"
+
+#: inc/custom-controls/typography/class-typography-control.php:86
+msgid "Variant"
+msgstr "Varianta"
+
+#: inc/custom-controls/typography/class-typography-control.php:85
+msgid "Select a font-family"
+msgstr "Vyberte štýl písma"
+
+#: inc/custom-controls/typography/class-typography-control.php:84
+msgid "Color"
+msgstr "Farba"
+
+#: inc/custom-controls/typography/class-typography-control.php:83
+msgid "Justify"
+msgstr "Zarovnať do bloku"
+
+#: inc/custom-controls/typography/class-typography-control.php:82
+msgid "Center"
+msgstr "Na stred"
+
+#: inc/custom-controls/typography/class-typography-control.php:81
+msgid "Right"
+msgstr "Vpravo"
+
+#: inc/custom-controls/typography/class-typography-control.php:80
+msgid "Left"
+msgstr "Vľavo"
+
+#: inc/custom-controls/typography/class-typography-control.php:79
+msgid "Bottom"
+msgstr "Dole"
+
+#: inc/custom-controls/typography/class-typography-control.php:78
+msgid "Top"
+msgstr "Navrchu"
+
+#: inc/custom-controls/typography/class-typography-control.php:62
+msgid "Telugu"
+msgstr "Telugu"
+
+#: inc/custom-controls/typography/class-typography-control.php:61
+msgid "Tamil"
+msgstr "Tamil"
+
+#: inc/custom-controls/typography/class-typography-control.php:60
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: inc/custom-controls/typography/class-typography-control.php:59
+msgid "Bengali"
+msgstr "Bengali"
+
+#: inc/custom-controls/typography/class-typography-control.php:56
+msgid "Vietnamese"
+msgstr "Vietnamčina"
+
+#: inc/custom-controls/typography/class-typography-control.php:57
+msgid "Hebrew"
+msgstr "Hebrejčina"
+
+#: inc/custom-controls/typography/class-typography-control.php:58
+msgid "Arabic"
+msgstr "Arabčina"
+
+#: inc/custom-controls/typography/class-typography-control.php:55
+msgid "Latin Extended"
+msgstr "Rozšírená latinka"
+
+#: inc/custom-controls/typography/class-typography-control.php:54
+msgid "Latin"
+msgstr "Latinka"
+
+#: inc/custom-controls/typography/class-typography-control.php:53
+msgid "Khmer"
+msgstr "Khmer"
+
+#: inc/custom-controls/typography/class-typography-control.php:52
+msgid "Greek Extended"
+msgstr "Rozšírená gréčtina"
+
+#: inc/custom-controls/typography/class-typography-control.php:51
+msgid "Greek"
+msgstr "Gréčtina"
+
+#: inc/custom-controls/typography/class-typography-control.php:50
+msgid "Devanagari"
+msgstr "Devanagari"
+
+#: inc/custom-controls/typography/class-typography-control.php:49
+msgid "Cyrillic Extended"
+msgstr "Cyrillic Extended"
+
+#: inc/custom-controls/typography/class-typography-control.php:48
+msgid "Cyrillic"
+msgstr "Cyrillic"
+
+#: inc/custom-controls/typography/class-fonts.php:202
+#: inc/custom-controls/typography/class-typography-control.php:96
+msgid "Book 300 Italic"
+msgstr "Book 300 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:201
+#: inc/custom-controls/typography/class-typography-control.php:95
+msgid "Book 300"
+msgstr "Book 300"
+
+#: inc/custom-controls/typography/class-fonts.php:200
+#: inc/custom-controls/typography/class-typography-control.php:94
+msgid "Light 200 Italic"
+msgstr "Light 200 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:199
+#: inc/custom-controls/typography/class-typography-control.php:93
+msgid "Light 200"
+msgstr "Light 200"
+
+#: inc/custom-controls/typography/class-fonts.php:198
+#: inc/custom-controls/typography/class-typography-control.php:92
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-Light 100 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:197
+#: inc/custom-controls/typography/class-typography-control.php:91
+msgid "Ultra-Light 100"
+msgstr "Ultra-Light 100"
+
+#: inc/custom-controls/typography/class-fonts.php:144
+msgctxt "font style"
+msgid "Lucida Console, Monaco"
+msgstr "Lucida Console, Monaco"
+
+#: inc/custom-controls/typography/class-fonts.php:140
+msgctxt "font style"
+msgid "Courier New, Courier"
+msgstr "Courier New, Courier"
+
+#: inc/custom-controls/typography/class-fonts.php:136
+msgctxt "font style"
+msgid "Verdana, Geneva"
+msgstr "Verdana, Geneva"
+
+#: inc/custom-controls/typography/class-fonts.php:132
+msgctxt "font style"
+msgid "Trebuchet MS, Helvetica"
+msgstr "Trebuchet MS, Helvetica"
+
+#: inc/custom-controls/typography/class-fonts.php:128
+msgctxt "font style"
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+#: inc/custom-controls/typography/class-fonts.php:124
+msgctxt "font style"
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr "Lucida Sans Unicode, Lucida Grande"
+
+#: inc/custom-controls/typography/class-fonts.php:120
+msgctxt "font style"
+msgid "Impact, Charcoal"
+msgstr "Impact, Charcoal"
+
+#: inc/custom-controls/typography/class-fonts.php:116
+msgctxt "font style"
+msgid "Comic Sans MS, cursive"
+msgstr "Comic Sans MS, cursive"
+
+#: inc/custom-controls/typography/class-fonts.php:112
+msgctxt "font style"
+msgid "Arial Black, Gadget"
+msgstr "Arial Black, Gadget"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "Komentáre sú uzavreté."
+
+#. translators: 1: comment count number.
+#: comments.php:32
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s komentár"
+msgstr[1] "%1$s komentáre"
+msgstr[2] "%1$s komentárov"
+
+#: archive.php:15 search.php:15
+msgid "Showing %1$s Result(s)"
+msgstr "Zobrazujem %1$s výsledkov"
+
+#: 404.php:21
+msgid "Can not find what you need? Take a moment and do a search below or start from our Homepage."
+msgstr "Nemôžete nájsť, čo potrebujete? Skúste pohľadať nižšie alebo začnite na našej domovskej stránke."
+
+#: 404.php:20
+msgid "Sorry, The Page is Not Found."
+msgstr "Ľutujeme, stránka sa nenašla."
+
+#: 404.php:17
+msgid "404."
+msgstr "404."
+
+#: inc/custom-controls/typography/class-typography-control.php:47
+#: inc/extras.php:519
+msgid "All"
+msgstr "Všetko"
+
+#: inc/custom-controls/typography/class-typography-control.php:46
+msgid "OFF"
+msgstr "Vypnutý"
+
+#: inc/custom-controls/typography/class-typography-control.php:45
+msgid "ON"
+msgstr "Zapnutý"
+
+#: inc/custom-controls/typography/class-fonts.php:214
+#: inc/custom-controls/typography/class-typography-control.php:108
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra-Bold 900 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:213
+#: inc/custom-controls/typography/class-typography-control.php:107
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Bold 900"
+
+#: inc/custom-controls/typography/class-fonts.php:212
+#: inc/custom-controls/typography/class-typography-control.php:106
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra-Bold 800 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:211
+#: inc/custom-controls/typography/class-typography-control.php:105
+msgid "Extra-Bold 800"
+msgstr "Extra-Bold 800"
+
+#: inc/custom-controls/typography/class-fonts.php:210
+#: inc/custom-controls/typography/class-typography-control.php:104
+msgid "Bold 700 Italic"
+msgstr "Bold 700 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:209
+#: inc/custom-controls/typography/class-typography-control.php:103
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: inc/custom-controls/typography/class-fonts.php:208
+#: inc/custom-controls/typography/class-typography-control.php:102
+msgid "Semi-Bold 600 Italic"
+msgstr "Semi-Bold 600 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:207
+#: inc/custom-controls/typography/class-typography-control.php:101
+msgid "Semi-Bold 600"
+msgstr "Semi-Bold 600"
+
+#: inc/custom-controls/typography/class-fonts.php:206
+#: inc/custom-controls/typography/class-typography-control.php:100
+msgid "Medium 500 Italic"
+msgstr "Medium 500 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:205
+#: inc/custom-controls/typography/class-typography-control.php:99
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: inc/custom-controls/typography/class-fonts.php:204
+#: inc/custom-controls/typography/class-typography-control.php:98
+msgid "Normal 400 Italic"
+msgstr "Normal 400 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:203
+#: inc/custom-controls/typography/class-typography-control.php:97
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: inc/customizer/general.php:441
+msgid "Enable to hide featured image in post detail (single post page)."
+msgstr "Povolí skryť sprievodný obrázok v detaile článku (samostatná stránka článku)"
+
+#: inc/customizer/general.php:440
+msgid "Hide Featured Image"
+msgstr "Skryť sprievodný obrázok"
+
+#: inc/customizer/general.php:420
+msgid "Enable to hide posted date."
+msgstr "Povoliť skryť dátum článku."
+
+#: inc/customizer/general.php:419
+msgid "Hide Posted Date"
+msgstr "Skryť dátum článku"
+
+#: inc/customizer/general.php:395
+msgid "Related Posts Section Title"
+msgstr "Názov oddielu podobných článkov"
+
+#: inc/customizer/general.php:384 inc/extras.php:140 inc/partials.php:31
+msgid "You may also like..."
+msgstr "Mohlo by sa vám tiež páčiť..."
+
+#: inc/customizer/general.php:375
+msgid "Enable to show related posts in single page."
+msgstr "Povoliť zobrazenie podobných článkov na samostatnej stránke."
+
+#: inc/customizer/general.php:374
+msgid "Show Related Posts"
+msgstr "Zobraziť súvisiace články"
+
+#: inc/customizer/general.php:350
+msgid "Popular Posts Section Title"
+msgstr "Názov sekcie populárnych článkov"
+
+#: inc/customizer/general.php:339 inc/extras.php:155 inc/partials.php:40
+msgid "Popular Posts"
+msgstr "Populárne články"
+
+#: inc/customizer/general.php:330
+msgid "Enable to show popular posts in single page."
+msgstr "Povoliť zobrazenie populárnych článkov na samostatnej stránke."
+
+#: inc/customizer/general.php:329
+msgid "Show Popular Posts"
+msgstr "Ukázať populárne články"
+
+#: inc/customizer/general.php:309
+msgid "Enable to hide author section."
+msgstr "Povoliť skryť sekciu autora."
+
+#: inc/customizer/general.php:308
+msgid "Hide Author"
+msgstr "Skryť autora"
+
+#: inc/customizer/general.php:288
+msgid "<hr/>These options affect your individual posts."
+msgstr "<hr/>Tieto voľby ovplyvnia vaše vlastné články."
+
+#: inc/customizer/footer.php:14
+msgid "Footer Settings"
+msgstr "Nastavenie päty"
+
+#: inc/customizer/customizer.php:67
+#: inc/getting-started/class-getting-start-plugin-helper.php:104
+msgid "Deactivate"
+msgstr "Deaktivovať"
+
+#: inc/customizer-plugin-recommend/plugin-install/class-plugin-install-helper.php:75
+#: inc/customizer/customizer.php:66
+#: inc/getting-started/class-getting-start-plugin-helper.php:89
+#: inc/getting-started/class-getting-start-plugin-helper.php:109
+#: inc/tgmpa/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Aktivovať"
+
+#: inc/customizer/customizer.php:65
+msgid "Install and Activate"
+msgstr "Inštalovať a aktivovať"
+
+#: inc/customizer/customizer.php:64
+msgid "Recommended Plugin"
+msgstr "Odporúčané doplnky"
+
+#. translators: %s: plugin name
+#: inc/customizer/customizer.php:60
+msgid "If you want to take full advantage of the features this theme has to offer, please install and activate %s plugin."
+msgstr "Ak chcete plne využiť všetky funkcie, ktoré táto téma ponúka, nainštalujte a aktivujte %s plugin."
+
+#: inc/customizer/appearance.php:47
+msgid "Primary font of the site."
+msgstr "Hlavné písmo webovej stránky."
+
+#: inc/customizer/appearance.php:46
+msgid "Primary Font"
+msgstr "Hlavné písmo"
+
+#: inc/customizer/appearance.php:26
+msgid "Typography"
+msgstr "Typografia"
+
+#: inc/customizer/appearance.php:18
+msgid "Customize Typography, Header Image & Background Image"
+msgstr "Prispôsobte typografiu, obrázok hlavičky a podkladový obrázok"
+
+#: inc/customizer/appearance.php:17
+msgid "Appearance Settings"
+msgstr "Nastavenia vzhľadu"
+
+#: inc/custom-functions.php:325
+msgid "Comment"
+msgstr "Komentár"
+
+#: inc/custom-functions.php:312
+msgid "Website"
+msgstr "Webová stránka"
+
+#: inc/custom-functions.php:305
+msgid "Email*"
+msgstr "E-mail"
+
+#: inc/custom-functions.php:304
+msgid "Name*"
+msgstr "Názov*"
+
+#: inc/custom-controls/typography/class-fonts.php:108
+msgctxt "font style"
+msgid "Arial, Helvetica"
+msgstr "Arial, Helvetica"
+
+#: inc/custom-controls/typography/class-fonts.php:104
+msgctxt "font style"
+msgid "Times New Roman, Times"
+msgstr "Times New Roman, Times"
+
+#: inc/custom-controls/typography/class-fonts.php:100
+msgctxt "font style"
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr "Palatino Linotype, Book Antiqua, Palatino"
+
+#: inc/custom-controls/typography/class-fonts.php:96
+msgctxt "font style"
+msgid "Georgia"
+msgstr "Georgia"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:441
+#: inc/custom-controls/repeater/class-control-repeater.php:443
+msgid "Change File"
+msgstr "Zmena súboru"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:441
+#: inc/custom-controls/repeater/class-control-repeater.php:445
+msgid "Add File"
+msgstr "Pridať súbor"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:430
+#: inc/custom-controls/repeater/class-control-repeater.php:435
+msgid "No File Selected"
+msgstr "Nie je vybraný žiadny súbor"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:405
+#: inc/custom-controls/repeater/class-control-repeater.php:407
+msgid "Change Image"
+msgstr "Zmeniť obrázok"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:405
+#: inc/custom-controls/repeater/class-control-repeater.php:409
+msgid "Add Image"
+msgstr "Pridať obrázok"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:404
+#: inc/custom-controls/repeater/class-control-repeater.php:469
+msgid "Remove"
+msgstr "Odstrániť"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:394
+#: inc/custom-controls/repeater/class-control-repeater.php:399
+msgid "No Image Selected"
+msgstr "Nie je vybratý žiadny obrázok"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:369
+msgid "Hex Value"
+msgstr "Hex hodnota"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:239
+msgid "Limit: %s rows"
+msgstr "Limit: %s riadkov"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:83
+msgid "Add new %s"
+msgstr "Pridať nové %s"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:75
+msgid "row"
+msgstr "riadok"
+
+#: inc/customizer/general.php:120
+msgid "Enable Social Links"
+msgstr "Povoliť odkazy na sociálne médiá"
+
+#: inc/customizer/general.php:121
+msgid "Enable to show social links at header."
+msgstr "Povolí zobrazenie odkazov na sociálne médiá na hlavičke."
+
+#: inc/customizer/general.php:99
+msgid "Social Media Settings"
+msgstr "Nastavenie sociálnych médií"
+
+#: inc/customizer/general.php:88
+msgid "Add short description on menu."
+msgstr "Pridať do menu stručný popis."
+
+#: inc/customizer/general.php:87
+msgid "Menu Description"
+msgstr "Popis menu"
+
+#: inc/customizer/general.php:69
+msgid "Enable to show Search button in header."
+msgstr "Povoliť zobrazenie tlačidla vyhľadávania v hlavičke."
+
+#: inc/customizer/general.php:68
+msgid "Enable Header Search"
+msgstr "Povoliť vyhľadávanie v hlavičke"
+
+#: inc/customizer/general.php:47
+msgid "Enable to show cart in header."
+msgstr "Povoliť zobrazenie nákupného košíka v hlavičke."
+
+#: inc/customizer/general.php:46
+msgid "Enable Cart"
+msgstr "Povoliť nákupný košík"
+
+#: inc/customizer/general.php:25
+msgid "Header Settings"
+msgstr "Nastavenia hlavičky"
+
+#: inc/customizer/general.php:17
+msgid "General Settings"
+msgstr "Všeobecné nastavenia"
+
+#: inc/customizer/frontpage.php:197
+msgid "View All Label"
+msgstr "Zobraziť všetky značky"
+
+#: inc/customizer/frontpage.php:188 inc/partials.php:75 sections/blog.php:10
+msgid "View All"
+msgstr "Zobraziť všetko"
+
+#: inc/customizer/frontpage.php:170
+msgid "Blog Title"
+msgstr "Názov blogu"
+
+#: inc/customizer/frontpage.php:160 inc/partials.php:66 sections/blog.php:8
+msgid "Articles"
+msgstr "Články"
+
+#: inc/custom-controls/typography/class-typography-control.php:77
+msgid "Lowercase"
+msgstr "Malé písmená"
+
+#: inc/custom-controls/typography/class-typography-control.php:76
+msgid "Uppercase"
+msgstr "Veľké písmená"
+
+#: inc/custom-controls/typography/class-typography-control.php:75
+msgid "None"
+msgstr "Žiadne"
+
+#: inc/custom-controls/typography/class-typography-control.php:74
+msgid "Text Transform"
+msgstr "Textová transformácia"
+
+#: inc/custom-controls/typography/class-typography-control.php:73
+msgid "Text Align"
+msgstr "Zarovnanie textu"
+
+#: inc/custom-controls/typography/class-typography-control.php:72
+msgid "Letter Spacing"
+msgstr "Rozostup písmen"
+
+#: inc/custom-controls/typography/class-typography-control.php:71
+msgid "Font Style"
+msgstr "Štýl písma"
+
+#: inc/custom-controls/typography/class-typography-control.php:70
+msgid "Line Height"
+msgstr "Výška riadku"
+
+#: inc/custom-controls/typography/class-typography-control.php:69
+msgid "Font Weight"
+msgstr "Hrúbka písma"
+
+#: inc/custom-controls/typography/class-typography-control.php:68
+msgid "Font Size"
+msgstr "Veľkosť písma"
+
+#: inc/custom-controls/typography/class-typography-control.php:67
+msgid "Font Family"
+msgstr "Štýl písma"
+
+#: inc/custom-controls/typography/class-typography-control.php:66
+msgctxt "font style"
+msgid "Monospace"
+msgstr "Monospace"
+
+#: inc/custom-controls/typography/class-typography-control.php:65
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: inc/custom-controls/typography/class-typography-control.php:64
+msgctxt "font style"
+msgid "Serif"
+msgstr "Serif"
+
+#: inc/custom-controls/typography/class-typography-control.php:63
+msgid "Thai"
+msgstr "Thajčina"
+
+#: inc/extras.php:309
+msgid "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s</b> <span class=\"says\">says:</span>"
+msgstr "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s</b> <span class=\"says\">hovorí::</span>"
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/perfect-portfolio/"
+msgstr "https://rarathemes.com/wordpress-themes/perfect-portfolio/"
+
+#. Author of the theme
+#: inc/template-functions.php:720
+msgid "Rara Theme"
+msgstr "Rara Theme"

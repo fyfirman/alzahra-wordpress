@@ -1,0 +1,9 @@
+<svg width="216" height="206" viewBox="0 0 216 206" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M129.917 0C69.259 0 0 24.4681 0 85.1154C0 154.411 60.6094 206 129.917 206C187.878 206 216 143.067 216 85.1154C216 37.8436 177.197 0 129.917 0Z" fill="url(#paint0_linear)"/>
+<defs>
+<linearGradient id="paint0_linear" x1="11.8125" y1="33.2258" x2="213.261" y2="40.5768" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3E5A41"/>
+<stop offset="1" stop-color="#557B47"/>
+</linearGradient>
+</defs>
+</svg>

@@ -1,0 +1,23 @@
+/*!  SHORTCODE PROGRESS BAR
+----------------------------------------------------------*/
+
+.vl-progress-bar-holder
+	.vl-progress-bar-title
+		display block
+		line-height 1
+		margin-bottom 10px
+		text-transform uppercase
+		span
+			float right
+			&::after
+				content '%'
+
+.vl-progress-bar-holder
+	.vl-progress-bar
+		position relative
+		span
+			position absolute
+			top 0
+			left 0
+			height 100%
+			width 0

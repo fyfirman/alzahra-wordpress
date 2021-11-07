@@ -1,0 +1,258 @@
+/*
+Menu Icon
+*/
+
+.dashicons-dashboard-icon,
+.dashboard-icon {
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFkAAABkCAMAAADaMWzuAAACQFBMVEUAAAD///////+qqqq/v7/MzMyqqqq2tra/v7+qqqqzs7OiubmqqqqxsbGktraqqqqvr6+lpbShrq6mprOqqqqirq6mprGqqqqnp7Ghqqqkra2np7Ciqqqiqqqlpa2gqK+jqqqlpayhqK6iqK6gpqyiqK6kqqqhpqyjqK6lqqqhp6yjqK2kqK2hpaqkqK2hpqqjp6ujp6ugqa2ipqqjp6uipqqhpa2jpqqgqKuipayjpqqjp6qhqKuipqyhqKuiqKujpqyhp6qipaugpqyhp6qip6qhpqygpauhpqyip6qgpquhp6yhpquip6yhpaqhpquip6yhpaqipquhpqqipquhpqqipqugpquhpauipqqgp6uhpauhp6uhpaugpqqipaugpqqhp6uipquhpqqhpaugpquhpaugpquipaugpqugpaugpauhpquip6qgpauhpqugpaqhpquhpquhpqugpaqhpaqhpqugpquhpaqhpqugpquhpaqhpquhpauhpqqgpqqhpauhpqqgpqqhpauhpqqhpaugpqqhpqqhpaugpauhpqqhpaqgpquhpqqgpqugpaqhpquhpqqgpaqhpqugpaqhpquhpqugpaqhpqqhpqqhpqugpaqhpqqgpquhpqqgpquhpqqhpaqgpqqhpauhpaqgpqqhpauhpqqhpaugpqqgpqqhpaugpqqhpqqhpaugpqqhpaqhpaqgpauhpqqhpaqgpauhpqqgpaqgpquhpqqgpaqhpquhpqqgpaqhpqugparW5T0DAAAAv3RSTlMAAQIDBAUGBwgJCgsMDQ4PEBETFBUWFxgaGxwdHiEiIyQlJikrLC0uLzAxMjU2ODk6PT4/QEJERUZHSEtMTU9SU1RVVldaXF5fYGFiamtsbW5vcHJzdXZ5ent8fX+AgYOEhYaHiImLjI6PkZSVlpeYmZqdnp+io6Slpqeoqaqrr7CxsrO1tre4uby9vr/AwsTFxsfIysvOz9DT1NXW19na3N7f4OHi4+Tm5+jp6uvs7e7x8vP09fb3+Pn6+/z9/og8GPgAAARcSURBVHgBtdn7WxTlH8bxG93vlzVbLezgWrmk6WIHJbO0zNQsCxKBogKs7ACiBlIZgnYQRIx0KTEsC9QQM5GkRZY4sM79r8Uu+NmdmZ3dfWam169c1/tih+V+rmseZG3Fjoqaih0r4DJPcTdndRd74KKNvUzo3Qi3BFqp1xqAG3w1kzSarPHBqZyiQaYyWJQDR9b10ErPOtjnP6LRmnbED3u8VRGmF6nywoZtV5jZlW1QFQwxO6EgVCxpiDJb0YYlyJanLEwV4TIPsrKpj6r6NiGz/BO040Q+0vPVTtKeyVofrOUU36B9N4pzYKHwPJ05X4hUlrXQuZZlMPLuGaMbxvZ4obN9gG4Z2I4Ef4huCskGFg7SXYPrEBccp9vG4zO18CLdd3EhgDr+F+qARbeo6u+y0hm7Z5TsHmNqIz6UU9k+iOdopQxtVKUFII7TShsuU1UHxENRWrmMKFVthviQlqKgqv55Ev7/EK2Bqt6GeJUK5ZNN4hJTGc+D+FGlXAXxElP5EqKAKuWriac4/xpTeBLic6Uyt0BU06wHYnGEMaP3LZhRlbl8CuLBKZq8DlHOuAbEvJO5rC2H+IZGw97EQX+JcauyLbMWYkO6H25kXBeyLt/Mheij3u1HTJOxI/syd0KUUq/dNBnX/6dQ7jb9+cULpsl4HwplFlh9ZX/PMU7G9FKlciPE40xWYZqMP6fn3M6qPLoI4hwT/rkX4izj3lPcuhKI15jwhWkyep9RLP8G4R2meML0/EvWK5a5HmIf7zgHsXiMMaM+5fIxiIAm33PTZNRDuTx5P8R3nPVXrmkyHlMvs9J8AHycajLUywNJB8Af8uwNk/GyUtn6AKg1TYbHVrnDdABck4/xkUyGYtm0l18z7lnTZKiVrQ+Aw/rJ+BY2y+YDYMSrm4wNymXrA+AVxKxhXC9sl8+aDoB23WTYLzNoHKCpJQDuGWPMLZ+DciPEmsTv+eadyXBQHvVBdDPmp+TJiHvKVpm7IHYy7tHEZMy6K2qr/CtE7s25f7tWmYxZp2yV+TRE7ezh/bBMxhx/p63yUYjlGmO+Z1wzElYV1TUc/OArlbIcAOaPPTQfBoVqZb4LsYXJnofBgmmFsv4AmHeVSdpg9DMNMMR0XoSoZLK3YNBIvSF0MZ2TEA9MMUl0M/TeoF4XDlBkOACOMZl28G4kW029A1jJtGogjBsx8mmhF2LxBJNpK4FOpjP8iaiZoNHULx1HPzvccvyHvjD1OgEUjNN9EwWYsYtukzHbT7ftx5yiCbppokj9dbb6S271V/AKL+Y95WE6Fy73wCzvUJTORA/lIbXgGTpxJmjnSsn5RZO3OkI7ItVeZOJv1qhKa/Y7vW5UuoRUuCKl/YtTtbsguftRE2hjNtoC9q/PzZxfqntKw0wnXOqBXXn1UVqJ1ufBidWnmdrp1XBqaz/N+rfCBbmVEepFKnPhjqVNGhO0pqVwz9qQhENr4a78ve0Xrl9o35uPLP0LYySmp5T/fIYAAAAASUVORK5CYII=);
+	background-size: 50%;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+}
+
+.vld-adminbar-link .dashboard-icon {
+	display: inline-block !important;
+	width: 32px !important;
+	height: 32px !important;
+	font-size: 0;
+	vertical-align: bottom;
+}
+
+
+/*
+General
+*/
+
+.vl-dashboard .wp-badge{
+	padding: 0;
+	background: none;
+    border: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+.vl-dashboard mark {
+	background-color: transparent;
+}
+
+.vl-dashboard mark.true {
+	color: #46b450;
+}
+.vl-dashboard mark.false {
+	color: #dc3232;
+}
+
+.vl-dashboard .vl-dashboard-widget--title-badge.false {
+	background-color: #dc3232;
+	color: #fff;
+}
+
+.vl-dashboard .vl-dashboard-widget--title-badge.true {
+	background-color: #46b450;
+	color: #fff;
+}
+
+.vl-dashboard .vl-dashboard-widget--title-badge {
+	background-color: #e0eff4;
+	color: #8ab6c1;
+}
+
+.vl-dashboard p.small{
+	font-size: 80%;
+	margin: 30px 0;
+	color: #bdbdbd;
+}
+
+.vl-dashboard p.small:last-child{
+	margin-bottom: 0;
+}
+
+.vl-dashboard .button-help{
+	color: #fff !important;
+	border-color: #46b450 !important; 
+	background: #46b450 !important;
+	-webkit-box-shadow: 0 1px 0 #46b450 !important;
+	box-shadow: 0 1px 0 #46b450 !important;
+}
+
+.vl-dashboard .button-help:focus, 
+.vl-dashboard .button-help:hover, 
+.vl-dashboard .button-help.focus, 
+.vl-dashboard .button-help.hover{
+	background: #46b450 !important;
+	border-color: #46b450 !important;
+	color: #fff !important;	
+}
+
+.vl-drop-content{
+	display: none;
+}
+
+.vl-drop-tether.drop-element.drop-theme-arrows-bounce-dark {
+	max-width: 220px;
+}
+
+.vl-drop-tether.drop-element.drop-theme-arrows-bounce-dark .drop-content {
+	font-size: 12px;
+	padding: 20px;
+}
+
+.vl-drop-tether.drop-element.drop-theme-arrows-bounce-dark .drop-content a {
+	color: rgba(255,255,255,.6);
+}
+
+.vl-drop-tether.drop-element.drop-theme-arrows-bounce-dark .drop-content a:hover{
+	color: #fff;
+}
+
+/*
+Widget
+*/
+
+.vl-dashboard .vl-panels{
+	margin: 50px 0 30px;
+	padding: 0;
+	-moz-column-gap: 30px;
+	-webkit-column-gap: 30px;
+	column-gap: 30px;
+}
+
+.vl-dashboard .vl-dashboard-widget{
+	display: inline-block;
+	padding: 0;
+	margin: 0 0 30px;
+	width: 100%;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-webkit-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .1);
+	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .1);
+}
+
+
+.vl-dashboard .vl-dashboard-widget--title {
+	position: relative;
+	background-color: #fbfbfb;
+	font-size: 16px;
+	font-weight: 600;
+	padding: 15px 20px;
+	border: 1px solid #ebebeb;
+	border-bottom: none;
+}
+
+.vl-dashboard .vl-dashboard-widget--content{
+	padding: 20px;
+	background-color: #fff;
+	border: 1px solid #ebebeb;
+}
+
+.vl-dashboard .vl-dashboard-widget--title-badge {
+	position: absolute;
+	right: 20px;
+	top: 50%;
+	font-size: 12px;
+	font-weight: 400;
+	padding: 4px 12px;
+	border-radius: 3px;
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	-o-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+
+
+@media only screen and (min-width: 700px) {
+	.vl-dashboard .vl-panels {
+		-moz-column-count: 2;
+		-webkit-column-count: 2;
+		column-count: 2;
+	}
+}
+
+@media only screen and (min-width: 900px) {
+	.vl-dashboard .vl-panels {
+		-moz-column-count: 3;
+		-webkit-column-count: 3;
+		column-count: 3;
+	}
+}
+
+
+/*
+Widget Requiremenets
+*/
+
+.vl-dashboard .vl-widget-requirements table {
+	margin: 0;
+	border: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+
+.vl-dashboard .vl-widget-requirements table td {
+	padding: 10px 0;
+}
+
+.vl-dashboard .vl-widget-requirements table th,
+.vl-dashboard .vl-widget-requirements table td:first-child {
+	font-weight: 700;
+	padding: 10px 10px 10px 0;
+}
+
+/*
+Widget Changelog
+*/
+
+.vl-dashboard .vl-widget-changelog{
+	max-height: 185px;
+	overflow: auto;
+}
+
+.vl-dashboard .vl-widget-changelog h6{
+	margin: 0;
+	font-size: 14px;
+}
+
+.vl-dashboard .vl-widget-changelog ul{
+	font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+	line-height: 1.5;
+	padding: 10px 0;
+	font-size: 13px;
+	border-bottom: 1px solid #ebebeb;
+}
+
+.vl-dashboard .vl-widget-changelog ul:last-child{
+	border-bottom: none;
+	padding-bottom: 0;
+}
+
+/*
+Widget Demoimport
+*/
+
+.vl-dashboard .vl-widget-demoimport p{
+	margin-top: 0;
+}
+
+
+/*
+Widget Help
+*/
+
+.vl-dashboard .vl-widget-support p{
+	margin-top: 0;
+}
+
+.vl-dashboard .vl-widget-support p.small{
+	margin-top: 20px;
+}
+
+/*
+Footer
+*/
+
+.vl-dashboard .vl-thank-you{
+	margin: 30px 0;
+	color: #b2b2b2;
+}

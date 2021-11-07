@@ -1,0 +1,36 @@
+/*!  PRODUCT
+----------------------------------------------------------*/
+
+.vl-product-standard
+	position relative
+
+.vl-product-standard
+	
+	.vl-product-thumbnail
+		overflow hidden
+		opacity 1
+		transition opacity 150ms $transition
+
+	.vl-product-thumbnail + .vl-product-content
+		padding-top 15px
+		
+	.vl-product-content
+		.vl-product-title
+			display inline-block
+			font-size 18px
+			line-height 1.4
+			white-space nowrap
+			text-overflow ellipsis
+			overflow hidden
+			max-width 100%
+			
+		.vl-product-price
+			margin-top 5px
+			line-height 1
+			color $c2
+
+	.vl-product-inner:hover
+		.vl-product-title
+			color $c0	
+		.vl-product-thumbnail
+			opacity .9

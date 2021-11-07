@@ -1,0 +1,518 @@
+# Translation of Themes - Twenty Nineteen in Finnish
+# This file is distributed under the same license as the Themes - Twenty Nineteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-13 17:44:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fi\n"
+"Project-Id-Version: Themes - Twenty Nineteen\n"
+
+#. Description of the theme
+msgid "Our 2019 default theme is designed to show off the power of the block editor. It features custom styles for all the default blocks, and is built so that what you see in the editor looks like what you'll see on your website. Twenty Nineteen is designed to be adaptable to a wide range of websites, whether you’re running a photo blog, launching a new business, or supporting a non-profit. Featuring ample whitespace and modern sans-serif headlines paired with classic serif body text, it's built to be beautiful on all screen sizes."
+msgstr "Vuoden 2019 oletusteemamme on suunniteltu esittelemään uuden lohkoeditorin parhaimpia ominaisuuksia. Teema tarjoaa mukautetut tyylit kaikille oletuslohkoille ja on rakennettu siten, että sisältö näyttää täsmälleen samalta editorissa sekä verkkosivullasi. Twenty Nineteen on suunniteltu mukautuvaksi monenlaisille verkkosivuille, kuten kuva-blogeille, uuden yrityksen markkinoinnille tai voittoa tavoittelemattoman yhdistyksen tarpeisiin. Voit luoda kauniita sivustoja kaiken kokoisille ruuduille käyttämällä teeman tarjoamaa tyhjää tilaa, moderneja sans-serif otsikoita sekä ajatonta serif leipätekstiä."
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:20
+msgid "Twenty Nineteen"
+msgstr "Twenty Nineteen"
+
+#: inc/block-patterns.php:195
+msgid "We help companies communicate with their customers."
+msgstr "Autamme yrityksiä viestimään asiakkaidensa kanssa."
+
+#: inc/block-patterns.php:195
+msgid "Spark interest on social media"
+msgstr "Herätä huomiota sosiaalisessa mediassa"
+
+#: inc/block-patterns.php:192
+msgid "We help businesses grow."
+msgstr "Autamme yrityksiä kasvamaan."
+
+#: inc/block-patterns.php:192
+msgid "Activate new customers"
+msgstr "Osallista uusia asiakkaita"
+
+#: inc/block-patterns.php:189
+msgid "We help startups define (or refine) a clear brand identity."
+msgstr "Autamme startup-yrityksiä luomaan selkeän brändi-indentiteetin."
+
+#: inc/block-patterns.php:189
+msgid "Redefine brands"
+msgstr "Määrittele brändejä"
+
+#: inc/block-patterns.php:179 inc/block-patterns.php:186
+msgid "What We Do"
+msgstr "Mitä teemme"
+
+#: inc/block-patterns.php:167
+msgid "Oddly enough, Doug Watson also grew up working alongside his parents at a family-owned restaurant in Queens, NY. He &nbsp;worked on digital campaigns for Fortune 500 Companies before joining Eva Green Consulting."
+msgstr "Hassua kyllä, myös Doug Watson työskenteli nuorempana vanhempiensa rinnalla perheen ravintolassa New Yorkin Queensissä. Ennen Eva Green Consultingia hän on työstänyt digitaalisia kampanjoita Fortune 500 -yrityksille."
+
+#: inc/block-patterns.php:164
+msgid "Doug Watson"
+msgstr "Doug Watson"
+
+#: inc/block-patterns.php:159
+msgid "Eva Young grew up working alongside her parents at their restaurant in Queens, NY. She opened Eva Young Consulting in 2014 to help small businesses like her parents’ restaurant adapt to the digital age."
+msgstr "Eva Young työskenteli nuorempana vanhempiensa perheravintolassa New Yorkin Queensissä. Hän perusti Eva Young Consultingin vuonna 2014 auttaakseen vanhempiensa ravintolan kaltaisia pieniä yrityksiä mukautamaan uuteen digitaaliseen aikakauteen."
+
+#: inc/block-patterns.php:156
+msgid "Eva Young"
+msgstr "Eva Young"
+
+#: inc/block-patterns.php:145 inc/block-patterns.php:152
+msgid "Team"
+msgstr "Tiimi"
+
+#: inc/block-patterns.php:131
+msgid "Content Strategy"
+msgstr "Sisältöstrategia"
+
+#: inc/block-patterns.php:126
+msgid "Copywriting"
+msgstr "Markkinointitekstit"
+
+#: inc/block-patterns.php:121
+msgid "Marketing"
+msgstr "Markkinointi"
+
+#: inc/block-patterns.php:114
+msgid "Social Media"
+msgstr "Sosiaalinen media"
+
+#: inc/block-patterns.php:109
+msgid "Mobile"
+msgstr "Mobiili"
+
+#: inc/block-patterns.php:104
+msgid "Website Design"
+msgstr "Sivustojen suunnittelu"
+
+#: inc/block-patterns.php:103 inc/block-patterns.php:108
+#: inc/block-patterns.php:113 inc/block-patterns.php:120
+#: inc/block-patterns.php:125 inc/block-patterns.php:130
+#: inc/block-patterns.php:155 inc/block-patterns.php:163
+msgid "Gradient"
+msgstr "Liukuväri"
+
+#: inc/block-patterns.php:92 inc/block-patterns.php:98
+msgid "Services"
+msgstr "Palvelut"
+
+#: inc/block-patterns.php:80
+msgid "Contact Us"
+msgstr "Ota yhteyttä"
+
+#: inc/block-patterns.php:74
+msgid "example@example.com"
+msgstr "nimi@esimerkki.com"
+
+#: inc/block-patterns.php:74
+msgid "(555) 555-5555"
+msgstr "(555) 555-5555"
+
+#: inc/block-patterns.php:69
+msgid "New York, New York 10023"
+msgstr "New York, New York 10023"
+
+#: inc/block-patterns.php:69
+msgid "20 Cooper Avenue"
+msgstr "20 Cooper Avenue"
+
+#: inc/block-patterns.php:58 inc/block-patterns.php:64
+msgid "Get In Touch"
+msgstr "Ota yhteyttä"
+
+#: inc/block-patterns.php:46
+msgid "Learn More"
+msgstr "Lue lisää"
+
+#: inc/block-patterns.php:42
+msgid "Eva Young Consulting was founded in 2014 to meet the needs of small businesses in the San Francisco Bay Area. We help startups define a clear brand identity and digital strategy that will carry them through their financing rounds and scale as their business grows. Discover how we can boost your brand with a unique and powerful digital marketing strategy."
+msgstr "Eva Young Consulting perustettiin vuonna 2014 palvelemaan pienten yritysten tarpeita San Franciscon alueella. Autamme startup-yrityksiä määrittämään selkeän identiteetin ja digitstrategian, joka auttaa heitä rahoituskierrosten läpiviemisessä ja yrityksen kasvattamisessa liiketoiminnan mukana. Tutustu kuinka voit kohentaa brändiäsi yksilöllisen ja tehokkaan markkintointistrategian avulla."
+
+#: inc/block-patterns.php:39
+msgid "Advocating for Businesses and Entrepreneurs since 2014"
+msgstr "Yritysten ja yrittäjien tukena vuodesta 2014"
+
+#: inc/block-patterns.php:33
+msgid "About"
+msgstr "Tietoja"
+
+#: classes/class-twentynineteen-walker-comment.php:98
+msgid "Your comment is awaiting moderation. This is a preview; your comment will be visible after it has been approved."
+msgstr "Kommenttisi odottaa tarkastusta. Tämä on vasta esikatselu, kommenttisi tulee julkiseksi hyväksynnän jälkeen."
+
+#: functions.php:154
+msgid "Dark Blue"
+msgstr "Tummansininen"
+
+#: functions.php:149
+msgid "Blue"
+msgstr "Sininen"
+
+#. translators: %s: Parent post link.
+#: single.php:31
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">Julkaistu otsikolla</span><span class=\"post-title\">%s</span>"
+
+#: image.php:87
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Julkaistu otsikolla</span><br><span class=\"post-title\">%title</span>"
+
+#: template-parts/content/content.php:18
+#: template-parts/content/content-excerpt.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Suositeltu"
+
+#. translators: %s: WordPress version.
+#: inc/back-compat.php:40 inc/back-compat.php:55 inc/back-compat.php:76
+msgid "Twenty Nineteen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Nineteen vaatii vähintään WordPress-version 4.7. Käytät versiota %s. Päivitä ja yritä uudelleen."
+
+#: inc/template-functions.php:143
+msgid "Back"
+msgstr "Takaisin"
+
+#: inc/template-functions.php:136
+msgid "More"
+msgstr "Lisää"
+
+#: inc/customizer.php:98
+msgid "Apply a filter to featured images using the primary color"
+msgstr "Lisää suodatin artikkelikuviin päävärillä"
+
+#: inc/customizer.php:78
+msgid "Apply a custom color for buttons, links, featured images, etc."
+msgstr "Käytä mukautettua väriä painikkeille, linkeille, artikkelikuville, jne."
+
+#: inc/customizer.php:56
+msgctxt "primary color"
+msgid "Custom"
+msgstr "Mukautettu"
+
+#: inc/customizer.php:55
+msgctxt "primary color"
+msgid "Default"
+msgstr "Oletus"
+
+#: functions.php:169
+msgid "White"
+msgstr "Valkoinen"
+
+#: functions.php:164
+msgid "Light Gray"
+msgstr "Vaaleanharmaa"
+
+#: functions.php:159
+msgid "Dark Gray"
+msgstr "Tummanharmaa"
+
+#: functions.php:137
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:136
+msgid "Huge"
+msgstr "Valtava"
+
+#: functions.php:131
+msgid "L"
+msgstr "L"
+
+#: functions.php:130
+msgid "Large"
+msgstr "Suuri"
+
+#: functions.php:125
+msgid "M"
+msgstr "M"
+
+#: functions.php:124
+msgid "Normal"
+msgstr "Normaali"
+
+#: functions.php:119
+msgid "S"
+msgstr "S"
+
+#: functions.php:118
+msgid "Small"
+msgstr "Pieni"
+
+#: functions.php:60 footer.php:37
+msgid "Footer Menu"
+msgstr "Alatunnisteen valikko"
+
+#: image.php:70
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Täysikokoinen"
+
+#: image.php:56
+msgid "Page"
+msgstr "Sivu"
+
+#: functions.php:196
+msgid "Add widgets here to appear in your footer."
+msgstr "Lisää vimpaimia tähän käyttääksesi niitä alatunnisteessa."
+
+#: template-parts/footer/footer-widgets.php:12 functions.php:194
+msgid "Footer"
+msgstr "Alatunniste"
+
+#: inc/customizer.php:53
+msgid "Primary Color"
+msgstr "Ensisijainen väri"
+
+#: template-parts/post/discussion-meta.php:18
+msgid "No comments"
+msgstr "Ei kommentteja"
+
+#. translators: %d: Number of comments.
+#: template-parts/post/discussion-meta.php:16
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] "%d kommentti"
+msgstr[1] "%d kommenttia"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "Näytä lisää artikkeleita"
+
+#. translators: %s: Post author.
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "Julkaissut %s"
+
+#: template-parts/header/site-branding.php:33
+msgid "Top Menu"
+msgstr "Ylävalikko"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#. translators: %s: Post title.
+#: template-parts/content/content.php:36
+#: template-parts/content/content-single.php:27 functions.php:225
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Jatka lukemista<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content/content.php:49
+#: template-parts/content/content-page.php:27
+#: template-parts/content/content-single.php:40 image.php:52
+msgid "Pages:"
+msgstr "Sivut:"
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Emme valitettavasti löytäneet etsimääsi. Ehkä hakutoiminnosta on apua."
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Pahoittelut mutta mitään ei löytynyt hakuehdoillasi. Kokeile uudelleen joillakin toisilla hakusanoilla."
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "Mitään ei löytynyt"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Edellinen artikkeli:"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "Edellinen artikkeli"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Seuraava artikkeli:"
+
+#: single.php:38
+msgid "Next Post"
+msgstr "Seuraava artikkeli"
+
+#: search.php:22
+msgid "Search results for: "
+msgstr "Tulokset haulle:"
+
+#: inc/template-tags.php:234
+msgid "Older posts"
+msgstr "Vanhemmat artikkelit"
+
+#: inc/template-tags.php:230
+msgid "Newer posts"
+msgstr "Uudemmat artikkelit"
+
+#: inc/template-tags.php:104
+msgid "Tags:"
+msgstr "Avainsanat:"
+
+#: inc/template-tags.php:92
+msgid "Posted in"
+msgstr "Julkaistu kategoriassa"
+
+#. translators: Used between list items, there is a space after the comma.
+#: inc/template-tags.php:86 inc/template-tags.php:98
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Kommentoi<span class=\"screen-reader-text\"> artikkelia %s</span>"
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Artikkelin julkaisija on"
+
+#: inc/template-functions.php:82
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:80
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:92
+msgid "Archives:"
+msgstr "Arkistot:"
+
+#. translators: %s: Taxonomy singular name.
+#: inc/template-functions.php:90
+msgid "%s Archives:"
+msgstr "Luokittelun %s arkisto:"
+
+#: inc/template-functions.php:86
+msgid "Post Type Archives: "
+msgstr "Sisältötyypin arkisto:"
+
+#: inc/template-functions.php:84
+msgid "Daily Archives: "
+msgstr "Päiväarkisto:"
+
+#: inc/template-functions.php:82
+msgid "Monthly Archives: "
+msgstr "Kuukausiarkisto:"
+
+#: inc/template-functions.php:80
+msgid "Yearly Archives: "
+msgstr "Vuosiarkisto:"
+
+#: inc/template-functions.php:78
+msgid "Author Archives: "
+msgstr "Kirjoittaja-arkisto:"
+
+#: inc/template-functions.php:76
+msgid "Tag Archives: "
+msgstr "Avainsana-arkisto:"
+
+#: inc/template-functions.php:74
+msgid "Category Archives: "
+msgstr "Kategoria-arkisto:"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: template-parts/content/content-page.php:41
+#: template-parts/header/entry-header.php:32 inc/template-tags.php:120
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Muokkaa <span class=\"screen-reader-text\">%s</span>"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Siirry sisältöön"
+
+#: template-parts/header/site-branding.php:46 functions.php:61
+msgid "Social Links Menu"
+msgstr "Some-valikko"
+
+#: functions.php:59
+msgid "Primary"
+msgstr "Ensisijainen"
+
+#. translators: %s: WordPress.
+#: footer.php:28
+msgid "Proudly powered by %s."
+msgstr "Moottorina ylpeästi %s."
+
+#: comments.php:116
+msgid "Comments are closed."
+msgstr "Kommentit on suljettu."
+
+#: comments.php:96
+msgid "Next"
+msgstr "Seuraava"
+
+#: comments.php:95
+msgid "Previous"
+msgstr "Edellinen"
+
+#: comments.php:92 comments.php:95 comments.php:96
+msgid "Comments"
+msgstr "Kommentit"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:44
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s vastaus aiheeseen &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s vastausta aiheeseen &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Post title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr "Yksi vastaus aiheeseen &ldquo;%s&rdquo;"
+
+#: comments.php:35 comments.php:105 comments.php:107
+msgid "Leave a comment"
+msgstr "Kommentoi"
+
+#: comments.php:33
+msgid "Join the Conversation"
+msgstr "Ota osaa keskusteluun"
+
+#: classes/class-twentynineteen-walker-comment.php:96
+msgid "Your comment is awaiting moderation."
+msgstr "Kommenttisi odottaa tarkastusta."
+
+#: classes/class-twentynineteen-walker-comment.php:89
+msgid "Edit"
+msgstr "Muokkaa"
+
+#. translators: 1: Comment date, 2: Comment time.
+#: classes/class-twentynineteen-walker-comment.php:78
+msgid "%1$s at %2$s"
+msgstr "%1$s, klo %2$s"
+
+#. translators: %s: Comment author link.
+#: classes/class-twentynineteen-walker-comment.php:59
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s <span class=\"screen-reader-text says\">sanoo:</span>"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Näyttää siltä että täällä ei ole mitään. Kokeilepa hakua?"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hups! Etsimääsi sivua ei löytynyt."
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentynineteen/"
+msgstr "https://wordpress.org/themes/twentynineteen/"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "WordPress-tiimi"
+
+#. Author URI of the theme
+#: footer.php:25
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"

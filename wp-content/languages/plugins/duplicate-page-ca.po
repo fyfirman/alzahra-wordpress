@@ -1,0 +1,141 @@
+# Translation of Plugins - Duplicate Page - Development (trunk) in Catalan
+# This file is distributed under the same license as the Plugins - Duplicate Page - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-04 17:42:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ca\n"
+"Project-Id-Version: Plugins - Duplicate Page - Development (trunk)\n"
+
+#: inc/admin-settings.php:54
+msgid "Please select which editor your are using. <strong>Default:</strong> Classic Editor"
+msgstr "Seleccioneu quin editor esteu usant.<strong>Per defecte:</strong> l'editor clàssic."
+
+#: inc/admin-settings.php:52
+msgid "Gutenberg Editor"
+msgstr "Editor Gutenberg"
+
+#: inc/admin-settings.php:51
+msgid "Classic Editor"
+msgstr "Editor clàssic"
+
+#: inc/admin-settings.php:47
+msgid "Choose Editor"
+msgstr "Tria un editor"
+
+#: duplicatepage.php:307
+msgid "Duplicate This as "
+msgstr "Duplica això com"
+
+#: inc/admin-settings.php:64
+msgid "Pending"
+msgstr "Pendent"
+
+#: inc/admin-settings.php:62
+msgid "Publish"
+msgstr "Publica"
+
+#: inc/admin-settings.php:61
+msgid "Draft"
+msgstr "Esborrany"
+
+#: inc/admin-settings.php:63
+msgid "Private"
+msgstr "Privada"
+
+#. Author of the plugin
+msgid "mndpsingh287"
+msgstr "mndpsingh287"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/duplicate-page/"
+msgstr "https://wordpress.org/plugins/duplicate-page/"
+
+#: duplicatepage.php:217 duplicatepage.php:233
+msgid "Duplicate This"
+msgstr "Duplica això"
+
+#: duplicatepage.php:77
+msgid "Settings"
+msgstr "Configuració"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/mndpsingh287/"
+msgstr "https://profiles.wordpress.org/mndpsingh287/"
+
+#: inc/admin-settings.php:79
+msgid "Duplicate Post Suffix"
+msgstr "Sufix de publicació duplicada"
+
+#. Description of the plugin
+msgid "Duplicate Posts, Pages and Custom Posts using single click."
+msgstr "Duplica entrades, pàgines i publicacions personalitzades amb un sol clic."
+
+#: duplicatepage.php:78
+msgid "Donate"
+msgstr "Feu una donació"
+
+#. Plugin Name of the plugin
+#: duplicatepage.php:91
+msgid "Duplicate Page"
+msgstr "Duplica la pàgina"
+
+#: inc/admin-settings.php:82
+msgid "Add a suffix for duplicate or clone post as Copy, Clone etc. It will show after title."
+msgstr "Afegeix un sufix per a la publicació duplicada o clonada com Copia, Clonada, etc. Es mostrarà després del títol."
+
+#: inc/admin-settings.php:11
+msgid "Duplicate Page Settings "
+msgstr "Configuració de la pàgina duplicada"
+
+#: inc/admin-settings.php:73
+msgid "To Duplicate Edit Screen"
+msgstr "Per duplicar la pantalla d’edició"
+
+#: inc/admin-settings.php:72
+msgid "To All Posts List"
+msgstr "A la llista de tots els missatges"
+
+#: inc/admin-settings.php:11
+msgid "Buy PRO"
+msgstr "Compra PRO"
+
+#: inc/admin-settings.php:75
+msgid "Please select any post redirection, redirect you to selected after click on duplicate this link. <strong>Default:</strong> To current list."
+msgstr "Seleccioneu qualsevol redirecció de missatges, redirigiu-vos a seleccionats després de fer clic a duplicar aquest enllaç. <strong>Per defecte:</strong> a la llista actual."
+
+#: inc/admin-settings.php:70
+msgid "Redirect to after click on <strong>Duplicate This Link</strong>"
+msgstr "Redirigeix després de fer clic a <strong>Duplica aquest enllaç</strong>"
+
+#: inc/admin-settings.php:66
+msgid "Please select any post status you want to assign for duplicate post. <strong>Default:</strong> Draft."
+msgstr "Seleccioneu l’estat d’entrada que voleu assignar per a la publicació duplicada. <strong>Per defecte:</strong> esborrany."
+
+#: inc/admin-settings.php:58
+msgid "Duplicate Post Status"
+msgstr "Estat de l'entrada duplicada"
+
+#: inc/admin-settings.php:16
+msgid "<strong>Saving Please wait...</strong>"
+msgstr "<strong>S'està desant, espereu...</strong>"
+
+#: inc/admin-settings.php:35
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>Settings not saved.</strong></p><button class=\"notice-dismiss\" type=\"button\"><span class=\"screen-reader-text\">Dismiss this notice.</span></button></div>"
+msgstr ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>No s'ha desat la configuració.</strong></p><button class=\"notice-dismiss\" type=\"button\"><span class=\"screen-reader-text\">Descarta aquest avís.</span></button></div>"
+
+#: inc/admin-settings.php:32
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>Settings saved.</strong></p><button class=\"notice-dismiss\" type=\"button\"><span class=\"screen-reader-text\">Dismiss this notice.</span></button></div>"
+msgstr ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>S'ha desat la configuració.</strong></p><button class=\"notice-dismiss\" type=\"button\"><span class=\"screen-reader-text\">Descarta aquest avís.</span></button></div>"

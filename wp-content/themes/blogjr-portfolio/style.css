@@ -1,0 +1,222 @@
+/**
+Theme Name: BlogJr Portfolio
+Theme URI: https://www.sharkthemes.com/downloads/blogjr-portfolio/
+Author: Shark Themes
+Author URI: https://sharkthemes.com/
+Version: 1.0.1
+Requires PHP: 5.6
+Tested up to: 5.5.3
+Requires at least: 5.0
+Template: blogjr
+Text Domain: blogjr-portfolio
+Description: BlogJr Portfolio is a masonry designed, very light weight and easy to use blog theme. This theme is focused on portfolio. It is a child theme of BlogJr. Theme Demo: https://demo.sharkthemes.com/blogjr-portfolio/
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: translation-ready, custom-header, custom-background, theme-options, custom-menu, threaded-comments, featured-images, footer-widgets, right-sidebar, full-width-template, two-columns, three-columns, grid-layout, custom-logo, blog, portfolio, photography
+
+BlogJr Portfolio WordPress Theme, Copyright 2020 Shark Themes
+BlogJr Portfolio is distributed under the terms of the GNU GPL
+
+BlogJr Portfolio WordPress Theme is child theme of BlogJr WordPress Theme, Copyright 2020 Shark Themes
+BlogJr WordPress Theme is distributed under the terms of the GNU GPL
+*/
+
+body {
+	background: #fff;
+}
+
+#top-menu,
+.backtotop,
+.main-navigation ul.sub-menu,
+.post-navigation:before,
+.posts-navigation:before,
+.post-navigation:after,
+.posts-navigation:after,
+input[type="submit"],
+.reply a,
+.black-overlay,
+.separator,
+.section-separator:before,
+.wp-block-button__link,
+.wpcf7 input.wpcf7-form-control.wpcf7-submit,
+.blog-loader-btn .read-more a,
+.add-separator:after,
+#cta-section .entry-container a.btn:hover,
+.banner-slider.center-background-outline-light .custom-header-content a.btn.btn-transparent, 
+.banner-slider.center-background-light .custom-header-content a.btn.btn-transparent, 
+.banner-slider.center-background-outline .custom-header-content a.btn.btn-transparent, 
+.banner-slider.center-background .custom-header-content a.btn.btn-transparent,
+#introduction .wp-playlist-tracks .wp-playlist-item.wp-playlist-playing, 
+#introduction .wp-playlist-tracks .wp-playlist-item:hover,
+#introduction .wp-playlist .mejs-inner .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,
+#introduction .wp-playlist .mejs-inner .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current:after,
+#introduction .wp-playlist .mejs-inner .mejs-controls .mejs-time-rail .mejs-time-current,
+.widget_search form.search-form button.search-submit,
+.widget_search form.search-form button.search-submit:hover,
+.widget_search form.search-form button.search-submit:focus { 
+    background-color: #d94f4f; 
+    border-color: #d94f4f; 
+}
+
+#respond input[type="submit"],
+.blog-loader-btn .read-more:hover,
+.widget_search form.search-form input,
+.blog-posts-wrapper .entry-container a.btn.btn-transparent,
+.single-post .entry-meta span.tags-links a,
+.gallery .overlay .entry-header .entry-title,
+.blog-loader-btn .read-more,
+.hero_content_widget .read-more,
+.wpcf7 input, 
+.wpcf7 textarea,
+.wpcf7 input.wpcf7-form-control.wpcf7-submit,
+.hero_content_widget .read-more:hover { 
+    border-color: #d94f4f; 
+}
+
+.site-title a,
+.page-header span.author-name,
+.blog-posts-wrapper .entry-container a.btn.btn-transparent,
+.comment-meta .url,
+.comment-meta .fn,
+.entry-title,
+.slick-dots li.slick-active button:before,
+.banner-slider.center-background-outline-light .custom-header-content h2 a:hover, 
+.banner-slider.center-background-light .custom-header-content h2 a:hover, 
+.banner-slider.center-background-outline-light .custom-header-content .entry-meta a:hover, 
+.banner-slider.center-background-light .custom-header-content .entry-meta a:hover, 
+.banner-slider.center-background-outline-light .custom-header-content .cat-links a:hover, 
+.banner-slider.center-background-light .custom-header-content .cat-links a:hover, 
+.banner-slider.center-background-outline .custom-header-content h2 a:hover, 
+.banner-slider.center-background .custom-header-content h2 a:hover, 
+.banner-slider.center-background-outline .custom-header-content .entry-meta a:hover, 
+.banner-slider.center-background .custom-header-content .entry-meta a:hover,
+.banner-slider.center-background-outline .custom-header-content .cat-links a:hover, 
+.banner-slider.center-background .custom-header-content .cat-links a:hover,
+.banner-slider.center-background .custom-header-content .cat-links a:hover,
+.blog-posts-wrapper.image-focus-dark article.has-post-thumbnail .entry-container .entry-footer a:hover, 
+.blog-posts-wrapper.image-focus-dark article.has-post-thumbnail .entry-container .entry-title a:hover, 
+.blog-posts-wrapper.image-focus-dark article.has-post-thumbnail .entry-container .cat-links a:hover, 
+.blog-posts-wrapper.image-focus-outline-dark article.has-post-thumbnail .entry-container .entry-footer a:hover, 
+.blog-posts-wrapper.image-focus-outline-dark article.has-post-thumbnail .entry-container .entry-title a:hover, 
+.blog-posts-wrapper.image-focus-outline-dark article.has-post-thumbnail .entry-container .cat-links a:hover,
+.widget_contact_info label { 
+    color: #d94f4f; 
+}  
+
+
+.blog-posts-wrapper .entry-container a.btn.btn-transparent:hover,
+#respond input[type="submit"]:hover,
+#respond input[type="submit"]:focus,
+.reply a:hover,
+.reply a:focus,
+input[type="submit"]:hover,
+input[type="submit"]:focus,
+.slick-prev:hover, 
+.slick-next:hover,
+.slick-prev:focus, 
+.slick-next:focus,
+.custom-header-content .separator,
+.custom-header-content a.btn:hover,
+.wp-block-button .wp-block-button__link:hover,
+.wp-block-button .wp-block-button__link:focus,
+.blog-loader-btn .read-more a:hover,
+#secondary .widget-title, 
+#secondary .widgettitle,
+.post-navigation, .posts-navigation, 
+.post-navigation, .posts-navigation,
+#introduction .post-wrapper .entry-container a.btn:hover,
+.backtotop:hover { 
+    background-color: #d94f4f; 
+    border-color: #d94f4f; 
+}
+
+#respond input[type="submit"]:hover,
+#respond input[type="submit"]:focus,
+.pagination a.page-numbers:hover,
+.pagination a.page-numbers:focus,
+.pagination a.page-numbers:hover svg,
+.pagination a.page-numbers:focus svg,
+.custom-header-content a.btn:hover,
+.slick-prev:hover, 
+.slick-next:hover,
+.slick-prev:focus, 
+.slick-next:focus,
+.wp-block-pullquote, 
+.wp-block-quote, 
+#filter-posts ul li.active a,
+.wp-block-quote:not(.is-large):not(.is-style-large),
+.blog-posts-wrapper .entry-container a.btn.btn-transparent:hover { 
+    border-color: #d94f4f; 
+}
+
+a:hover, 
+a:focus, 
+a:active,
+.main-navigation a:hover,
+.main-navigation a:focus,
+.custom-header-content .cat-links a:hover,
+.custom-header-content .cat-links a:focus,
+.pagination a.page-numbers:hover,
+.pagination a.page-numbers:focus,
+.site-title a:hover,
+.custom-header-content h2 a:hover,
+#featured-posts article .entry-container span.posted-on a:hover,
+#featured-posts.dark article .entry-container span.posted-on a:hover,
+#featured-posts .section-content article .entry-header .entry-title a:hover,
+.single-post .entry-meta span a:hover,
+article .entry-title a:hover,
+article .entry-title a:focus,
+.entry-meta > span a:hover,
+.entry-meta > span a:focus,
+#secondary .widget ul li a:hover,
+.main-navigation ul.menu li.current-menu-item > a { 
+    color: #d94f4f; 
+}
+.post-navigation a:hover,
+.post-navigation a:focus,
+.posts-navigation a:hover,
+.posts-navigation a:focus {
+	color: #fff;
+}
+
+.main-navigation ul li a:hover svg,
+.main-navigation li a:hover svg,
+.pagination a.page-numbers:hover,
+.pagination a.page-numbers:focus,
+.pagination a.page-numbers:hover svg,
+.pagination a.page-numbers:focus svg,
+.filter-posts-tag svg.icon.icon-tag,
+.filter-posts-category svg.icon.icon-list { 
+    fill: #d94f4f; 
+}
+
+/*media query*/
+@media screen and (min-width: 1024px){
+	#search.search-open {
+		border-color: #d94f4f;
+	}
+	.main-navigation ul.sub-menu li:hover > a, 
+	.main-navigation ul.sub-menu li:focus > a {
+		background-color: #d94f4f;
+	} 
+}
+
+@media screen and (max-width: 1023px){
+	.main-navigation .dropdown-toggle svg,
+	.main-navigation li.menu-item-has-children ul li svg {
+		fill: #272B2F;
+	}
+	.main-navigation svg {
+		fill: #fff;
+	}
+	.main-navigation svg.icon-search,
+	.main-navigation .search.search-open svg.icon-close,
+	.main-navigation svg.icon-down {
+		fill: #d94f4f;
+	}
+	.main-navigation a:hover, 
+	.main-navigation a:focus, 
+	.main-navigation ul.menu li.current-menu-item > a {
+		color: #d94f4f;
+	} 
+}

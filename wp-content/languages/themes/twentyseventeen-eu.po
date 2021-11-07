@@ -1,0 +1,319 @@
+# Translation of Themes - Twenty Seventeen in Basque
+# This file is distributed under the same license as the Themes - Twenty Seventeen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-07 17:03:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: eu_ES\n"
+"Project-Id-Version: Themes - Twenty Seventeen\n"
+
+#. Description of the plugin/theme
+msgid "Twenty Seventeen brings your site to life with header video and immersive featured images. With a focus on business sites, it features multiple sections on the front page as well as widgets, navigation and social menus, a logo, and more. Personalize its asymmetrical grid with a custom color scheme and showcase your multimedia content with post formats. Our default theme for 2017 works great in many languages, for any abilities, and on any device."
+msgstr "Twenty Seventeen-ek irudi osatuen eta animazio leunen bitartez zure guneari bizitza ematen dio. Negozio guneetara zuzendutako hainbat funtzio dakartza: azaleko orrialdean nabarmendutako atalak, widgetak, nabigazio menuak, menu sozialak, logoa eta abar. Pertsonalizatu ezazu bere saretxo asimetrikoa zure kolore-eskemarekin eta erakutsi zure multimedia edukiak. 2017rako gure lehenetsitako itxura, bikain dabil hainbat hizkuntzatan, esparru guztietan eta gailu guztietan."
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Seventeen"
+msgstr "Twenty Seventeen"
+
+#: template-parts/header/site-branding.php:34
+#: template-parts/navigation/navigation-top.php:27
+msgid "Scroll down to content"
+msgstr "Korritu behera edukiraino"
+
+#: functions.php:159
+msgctxt "Theme starter content"
+msgid "Coffee"
+msgstr "Kafea"
+
+#: functions.php:155
+msgctxt "Theme starter content"
+msgid "Sandwich"
+msgstr "Sandwicha"
+
+#: functions.php:151
+msgctxt "Theme starter content"
+msgid "Espresso"
+msgstr "Espres kafea"
+
+#: inc/custom-header.php:119
+msgid "Pause background video"
+msgstr "Gelditu atzeko bideoa"
+
+#: inc/custom-header.php:118
+msgid "Play background video"
+msgstr "Erreproduzitu atzeko bideoa"
+
+#: inc/template-tags.php:150
+msgid "Front Page Section %1$s Placeholder"
+msgstr "Azaleko orrialdeko %1$s ataleko leku-marka"
+
+#: single.php:32
+msgid "Next Post"
+msgstr "Hurrengo bidalketa"
+
+#: index.php:27
+msgid "Posts"
+msgstr "Bidalketak"
+
+#: inc/template-tags.php:88
+msgid "Tags"
+msgstr "Etiketak"
+
+#: inc/template-tags.php:84
+msgid "Categories"
+msgstr "Kategoriak"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:65
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post date
+#: inc/template-tags.php:51
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr "%s-(e)an <span class=\"screen-reader-text\">bidalia</span>"
+
+#. translators: %s: post author
+#: inc/template-tags.php:21
+msgid "by %s"
+msgstr "egilea %s"
+
+#: inc/icon-functions.php:44
+msgid "Please define an SVG icon filename."
+msgstr "Mesedez zehaztu SVG ikonoaren fitxategi-izena."
+
+#: inc/icon-functions.php:39
+msgid "Please define default parameters in the form of an array."
+msgstr "Zehaztu mesedez lehenetsitako parametroak array formularioan."
+
+#: inc/customizer.php:108
+msgid "Select pages to feature in each area from the dropdowns. Add an image to a section by setting a featured image in the page editor. Empty sections will not be displayed."
+msgstr "Hautatu gune bakoitzean nabarmendu beharreko orrialdeak goitibeherak erabiliz. Gehitu irudi bat atal bati orrialde editorean nabarmendutako irudi bat ezarriz.Atal hutsak ez dira bistaratuko."
+
+#. translators: %d is the front page section number
+#: inc/customizer.php:107
+msgid "Front Page Section %d Content"
+msgstr "Azaleko orrialdeko %d ataleko edukia"
+
+#: inc/customizer.php:83 inc/customizer.php:132
+msgid "Two Column"
+msgstr "Bi zutabe"
+
+#: inc/customizer.php:82 inc/customizer.php:131
+msgid "One Column"
+msgstr "Zutabe bat"
+
+#: inc/customizer.php:77
+msgid "Page Layout"
+msgstr "Orrialde antolaketa"
+
+#: inc/customizer.php:66
+msgid "Theme Options"
+msgstr "Itxuraren aukerak"
+
+#: inc/customizer.php:50
+msgid "Custom"
+msgstr "Pertsonalizatua"
+
+#: inc/customizer.php:48
+msgid "Light"
+msgstr "Argia"
+
+#: inc/customizer.php:46
+msgid "Color Scheme"
+msgstr "Kolore-konbinazioa"
+
+#: inc/custom-header.php:49
+msgid "Default Header Image"
+msgstr "Goiburuko irudi lehenetsia"
+
+#: functions.php:335
+msgid "Footer 2"
+msgstr "1 oina"
+
+#: functions.php:327 functions.php:337
+msgid "Add widgets here to appear in your footer."
+msgstr "Gehitu widgetak hona oinean ager daitezen."
+
+#: functions.php:325
+msgid "Footer 1"
+msgstr "2 oina"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Libre Franklin, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:269
+msgctxt "Libre Franklin font: on or off"
+msgid "on"
+msgstr "piztuta"
+
+#: functions.php:63 functions.php:183
+#: template-parts/navigation/navigation-top.php:12
+msgid "Top Menu"
+msgstr "Goiko menua"
+
+#: comments.php:60
+msgid "Reply"
+msgstr "Erantzun"
+
+#: template-parts/post/content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Badirudi ezin izan dugula bila zabiltzana aurkitu. Erabil ezazu bilaketa mesedez."
+
+#: search.php:50
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Barkatu, ez dago emaitzarik bilaketa termino horiekin. Saiatu beste gauza bat bilatzen."
+
+#: template-parts/post/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Lehenengo bidalketa argitaratzeko prest? <a href=\"%1$s\">Hemen hasi</a>."
+
+#: search.php:21 template-parts/post/content-none.php:17
+msgid "Nothing Found"
+msgstr "Emaitzarik ez"
+
+#: single.php:31
+msgid "Previous Post"
+msgstr "Aurreko bidalketa"
+
+#: comments.php:66 single.php:31
+msgid "Previous"
+msgstr "Aurrekoa"
+
+#: comments.php:67 single.php:32
+msgid "Next"
+msgstr "Hurrengoa"
+
+#: searchform.php:20
+msgctxt "submit button"
+msgid "Search"
+msgstr "Bilatu"
+
+#: searchform.php:19
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Bilatu &hellip;"
+
+#: searchform.php:17
+msgctxt "label"
+msgid "Search for:"
+msgstr "Bilatu beharrekoa:"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Bilaketaren emaitzak: %s"
+
+#. translators: %s: Name of current post
+#: functions.php:363 template-parts/page/content-front-page-panels.php:43
+#: template-parts/page/content-front-page.php:44
+#: template-parts/post/content-audio.php:83
+#: template-parts/post/content-gallery.php:70
+#: template-parts/post/content-image.php:59
+#: template-parts/post/content-video.php:82 template-parts/post/content.php:56
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "<span class=\"screen-reader-text\">\"%s\"</span> irakurtzen jarraitu"
+
+#: inc/customizer.php:49
+msgid "Dark"
+msgstr "Iluna"
+
+#: inc/back-compat.php:39 inc/back-compat.php:51 inc/back-compat.php:66
+msgid "Twenty Seventeen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Seventeenek WordPress-en 4.7 bertsioa behar du gutxienez eta zuk %s darabilzu. Eguneratu eta saiatu berriz."
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:116
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Editatu <span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/page/content-page.php:25
+#: template-parts/post/content-audio.php:88
+#: template-parts/post/content-gallery.php:75
+#: template-parts/post/content-image.php:64
+#: template-parts/post/content-video.php:87 template-parts/post/content.php:61
+msgid "Pages:"
+msgstr "Orrialdeak:"
+
+#: template-parts/navigation/navigation-top.php:17
+msgid "Menu"
+msgstr "Menua"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Joan edukira"
+
+#: functions.php:446
+msgid "Collapse child menu"
+msgstr "Tolestu bigarren mailako menua"
+
+#: functions.php:445
+msgid "Expand child menu"
+msgstr "Zabaldu bigarren mailako menua"
+
+#: functions.php:64 functions.php:194
+msgid "Social Links Menu"
+msgstr "Lotura sozialen menua"
+
+#: template-parts/footer/site-info.php:13
+msgid "Proudly powered by %s"
+msgstr "%s-ekin egina"
+
+#. #-#-#-#-#  twentyseventeen.pot (Twenty Seventeen 1.3)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: template-parts/footer/site-info.php:13
+msgid "https://wordpress.org/"
+msgstr "https://eu.wordpress.org/"
+
+#: footer.php:25
+msgid "Footer Social Links Menu"
+msgstr "Oineko esteka sozialak"
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "Iruzkinak itxiak daude."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "Erantzun %1$s &ldquo;%2$s&rdquo; bidalketan"
+msgstr[1] "%1$s erantzun &ldquo;%2$s&rdquo; bidalketan"
+
+#. translators: %s: post title
+#: comments.php:36
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Erantzun bat &ldquo;%s&rdquo; bidalketan"
+
+#: archive.php:47 index.php:52 search.php:45
+msgid "Page"
+msgstr "Orrialdea"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ene! Orrialde hori ez da aurkitu."
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Ez dago ezer helbide honetan. Saiatu bilaketa bat egiten."
+
+#: archive.php:45 index.php:50 search.php:43
+msgid "Previous page"
+msgstr "Aurreko orrialdea"
+
+#: archive.php:46 index.php:51 search.php:44
+msgid "Next page"
+msgstr "Hurrengo orrialdea"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "WordPress taldea"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentyseventeen/"
+msgstr "https://wordpress.org/themes/twentyseventeen/"

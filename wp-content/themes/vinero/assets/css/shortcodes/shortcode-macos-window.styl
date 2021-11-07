@@ -1,0 +1,52 @@
+/*!  SHORTCODE MACOS WINDOW
+----------------------------------------------------------*/
+
+.vl-macos-window
+	position relative
+	.vl-title-bar
+		height 32px
+		background-color $c4
+		border-top-left-radius 5px
+		border-top-right-radius 5px
+		display flex
+		align-items center
+		padding 0 15px
+	
+	.vl-title-bar-buttons span
+		display inline-flex
+		height 12px
+		width 12px
+		line-height 12px
+		border-radius 50%
+		background-color $c7
+		margin-right 5px
+		
+	.vl-macos-window-content
+		border 1px solid $c4
+		line-height 0
+		a
+			display block
+		span
+			position absolute
+			display inline-flex
+			top 50%
+			left 50%
+			background-color $c0
+			color $c6
+			padding 12px 20px
+			text-transform uppercase
+			font-size 12px
+			line-height 1
+			letter-spacing 2px
+			opacity 0
+			transition all .2s $transition
+			transform translateX(-50%) translateY(10px)
+			
+	.vl-macos-window-description
+		margin-top 10px
+		text-align center
+			
+	.vl-macos-window-content:hover
+		span
+			opacity 1
+			transform translateX(-50%) translateY(-50%)

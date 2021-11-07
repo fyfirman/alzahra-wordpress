@@ -1,0 +1,105 @@
+/*!  FANCYBOX
+----------------------------------------------------------*/
+
+
+#lightcase-overlay
+	background-color $c6 !important
+	opacity 1 !important
+	
+#lightcase-nav a[class*=lightcase-icon-]:hover
+	text-shadow none
+	color $c0
+
+#lightcase-case
+	text-align center
+	text-shadow none
+
+[class*=lightcase-icon-]::before
+	font-family $im
+
+#lightcase-nav a[class*=lightcase-icon-]
+	display flex
+	align-items center
+	justify-content center
+	height 80px
+	width 80px
+	color $c2
+	
+#lightcase-info
+	position relative
+
+#lightcase-info #lightcase-caption, 
+#lightcase-info #lightcase-title,
+#lightcase-case p.lightcase-error
+	color $c0
+	line-height 1.9
+
+#lightcase-info #lightcase-caption
+	font-size 14px
+	font-style italic
+
+#lightcase-case p.lightcase-error
+	font-size 18px
+	
+#lightcase-info #lightcase-sequenceInfo
+	text-transform uppercase
+	font-size 10px
+	color $c2
+	letter-spacing 2px
+
+#lightcase-nav a[class*=lightcase-icon-].lightcase-icon-prev
+	left 0
+	margin-bottom -40px
+	&::before
+		content '\e657'
+	&:hover::before
+		animation animateLeft 500ms $transition forwards
+			
+#lightcase-nav a[class*=lightcase-icon-].lightcase-icon-next
+	right 0
+	margin-bottom -40px
+	&::before
+		content '\e658'
+	&:hover::before
+		animation animateRight 500ms $transition forwards
+		
+#lightcase-nav a[class*=lightcase-icon-].lightcase-icon-close
+	top 0
+	right 0
+	&::before
+		content '\e773'
+		
+.admin-bar #lightcase-nav a[class*=lightcase-icon-].lightcase-icon-close
+	top 32px
+	
+#lightcase-case:not([data-lc-type=error]) #lightcase-content
+	box-shadow none
+
+#lightcase-nav a[class*=lightcase-icon-].lightcase-icon-pause, 
+#lightcase-nav a[class*=lightcase-icon-].lightcase-icon-play
+	margin-left -40px
+	
+#lightcase-nav a[class*=lightcase-icon-].lightcase-icon-pause::before
+	content '\eb44'
+
+#lightcase-nav a[class*=lightcase-icon-].lightcase-icon-play::before
+	content '\ecd1'
+	
+#lightcase-loading
+	height 50px
+	width 50px
+	display flex
+	background-color $c2
+	border-radius 50%
+	opacity .5
+	animation lightcase_loader 3s $transition infinite
+	&::before
+		content ''
+
+@keyframes lightcase_loader
+	0%, 100%
+		transform scale(.25)
+		opacity .5
+	50%
+		transform scale(1)
+		opacity 0

@@ -1,0 +1,285 @@
+# Translation of Plugins - PDF Embedder - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - PDF Embedder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-08 06:15:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - PDF Embedder - Stable (latest release)\n"
+
+#: core/core_pdf_embedder.php:388
+msgid "Optionally add a watermark containing the user's name or email address to discourage sharing of screenshots."
+msgstr "برای جلوگیری از انتشار اسکرین شاتها، به دلخواه یک واترمارک که شامل نام کاربر و یا آدرس ایمیل ایشان است را اضافه کن."
+
+#: pdf_embedder.php:88
+msgid "Open links in a new browser tab/window"
+msgstr "لینک ها را در یک تب/پنجره جدید در مرورگر باز کن"
+
+#: pdf_embedder.php:86
+msgid "External Links"
+msgstr "لینکهای خروجی"
+
+#: pdf_embedder.php:96
+msgid "Count number of views and downloads"
+msgstr "شمارش تعداد نمایش ها و دانلود ها"
+
+#: pdf_embedder.php:81
+msgid "Provide PDF download button on toolbar"
+msgstr "دکمه دانلود پی دی اف را در قسمت نوار ابزار نمایش بده"
+
+#: pdf_embedder.php:77
+msgid "Options only available in Premium versions"
+msgstr "آپشن ها فقط در نسخه پولی فعال می باشند"
+
+#: pdf_embedder.php:197
+msgid "Downloads/Views"
+msgstr "دانلودها/نمایش‌ها"
+
+#: pdf_embedder.php:195
+msgid "Track downloads and views with <a href=\"%s\" target=\"_blank\">PDF Embedder Premium</a>"
+msgstr "دانلودها و نمایش‌ها را با <a href=\"%s\" target=\"_blank\">PDF Embedder Premium</a> آنالیز کن."
+
+#: pdf_embedder.php:107
+msgid "Find out more about <a href=\"%s\" target=\"_blank\">Premium Versions of the plugin on our website</a>."
+msgstr "درباره <a href=\"%s\" target=\"_blank\">امکانات نسخه پولی</a> بیشتر در وبسایت ما بخوانید."
+
+#: pdf_embedder.php:94
+msgid "Track Views/Downloads"
+msgstr "پیگیری نمایش‌ها/دانلودها"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://wp-pdf.com/"
+msgstr "http://wp-pdf.com/"
+
+#: pdf_embedder.php:117
+msgid "Mobile-friendly embedding using PDF Embedder Premium"
+msgstr "نمایش پی دی اف بهینه برای موبایل با نسخه پولی PDF Embedder"
+
+#: pdf_embedder.php:79
+msgid "Download Button"
+msgstr "دکمه دانلود"
+
+#: pdf_embedder.php:122
+msgid ""
+"Our <b>PDF Embedder Premium</b> plugin solves this problem with an intelligent 'full screen' mode.\n"
+"            When the document is smaller than a certain width, the document displays only as a 'thumbnail' with a large\n"
+"            'View in Full Screen' button for the\n"
+"            user to click when they want to study your document.\n"
+"            This opens up the document so it has the full focus of the mobile browser, and the user can move about the\n"
+"            document without hitting other parts of\n"
+"            the web page by mistake. Click Exit to return to the regular web page."
+msgstr ""
+"پلاگین <b>PDF Embedder Premium</b> (نسخه پولی) این مشکل را با یک حالت هوشمند تمام صفحه حل خواهد کرد.\n"
+"            وقتی که فایل دارای عرضی کوچکتر از یک مقدار مشخص باشد، آن فایل با یک عکس بند انگشتی نمایش داده خواهد شد \n"
+"            که در کنار آن یک دکمه \"نمایش تمام صفحه\" وجود دارد.\n"
+"            که کاربر میتواند بر روی آن کلیک کرده و فایل شما را به راحتی بخواند.\n"
+"            با این کار، یک نمایش تمام صفحه از فایل شما در موبایل کاربر ایجاد خواهد شد و کاربر به راحتی با بالا و پایین رفتن میتواند محتوای صفحات شما را بخواند بدون آنکه نگران\n"
+"            خوردن دستش به اشتباه به دیگر جاهای صفحه وبسایت باشد.\n"
+"            همچنین یک دکمه خروج وجود دارد که میتواند با استفاده از آن، از حالت تمام صفحه خارج شود."
+
+#: pdf_embedder.php:118
+msgid ""
+"This free version of the plugin should work on most mobile browsers, but it will be cumbersome for users with small screens - it is difficult to position\n"
+"            the document entirely within the screen, and your users' fingers may catch the entire browser page when\n"
+"            they're trying only to move about the document..."
+msgstr ""
+"ورژن رایگان این افزونه، بر روی اکثر مرورگرهای موبایل کار خواهد کرد.\n"
+"اما ممکن است صفحه اسکرین موبایل یک کاربر که دارای موبایل قدیمی است زیادی ریز باشد و کاربر با لمس کردن صفحه، با توجه به اینکه صفحه کوچکی دارد و ممکن است انگشتش به گوشه های صفحه نیز بخورد، دچار مشکل در بالا و پایین رفتن و خواندن محتوای فایل شما شود."
+
+#: core/core_pdf_embedder.php:326
+msgid "Both"
+msgstr "هردو"
+
+#: core/core_pdf_embedder.php:496
+msgid "Settings saved"
+msgstr "تنظیمات ذخیره شد"
+
+#: core/core_pdf_embedder.php:619
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: core/core_pdf_embedder.php:450
+msgid "Unspecified error"
+msgstr "ارور نامعلوم"
+
+#: core/core_pdf_embedder.php:444
+msgid "Height must be \"max\" or an integer (number of pixels)"
+msgstr "ارتفاع یا باید \"max\" باشد یا یک عدد (تعداد پیکسل)"
+
+#: core/core_pdf_embedder.php:443
+msgid "Width must be \"max\" or an integer (number of pixels)"
+msgstr "عرض یا باید \"max\" باشد یا یک عدد (تعداد پیکسل)"
+
+#: core/core_pdf_embedder.php:390 pdf_embedder.php:134
+msgid "See our website <a href=\"%s\">wp-pdf.com</a> for more details and purchase options."
+msgstr "برای مشاهده توضیحات بیشتر یا خرید، به وبسایت ما سر بزنید. <a href=\"%s\">wp-pdf.com</a>"
+
+#: core/core_pdf_embedder.php:386
+msgid "This means that your PDF is unlikely to be shared outside your site where you have no control over who views, prints, or shares it."
+msgstr "این به معنی آن است که فایل پی دی اف شما با احتمال بسیار کمی ممکن است در خارج از سایت شما (جایی که شما هیچ کنترلی بر روی کسانی که آن را میبینند، میخوانند، پرینت میگیرند و یا به اشتراک میگذارند) به اشتراک گذاشته شود."
+
+#: core/core_pdf_embedder.php:383
+msgid ""
+"Our <b>PDF Embedder Premium Secure</b> plugin provides the same simple but elegant viewer for your website visitors, with the added protection that\n"
+"            it is difficult for users to download or print the original PDF document."
+msgstr "پلاگین <b>PDF Embedder Premium Secure</b> به شما امکان نمایش پی دی اف ها در وبسایتتان را با طرحی زیبا و دلنشین را می دهد. و در کنار آن، با پروتوکل های امنیتی که دارد باعث حفظ فایل شما از به اشتراک گذاری یا پرینت شدن آن میشود."
+
+#: core/core_pdf_embedder.php:382
+msgid "Protect your PDFs using PDF Embedder Secure"
+msgstr "از پی دی اف های خود با PDF Embedder Secure محافظت کنید"
+
+#: core/core_pdf_embedder.php:358
+msgid "You can override these defaults for specific embeds by modifying the shortcodes - see <a href=\"%s\" target=\"_blank\">instructions</a>."
+msgstr "شما میتوانید این حالت های پیش فرض را برای رسیدن به یک مدل که دلخواه خودتان است ویرایش کنید - برای اطلاعات بیشتر این صفحه را بخوانید. <a href=\"%s\" target=\"_blank\">instructions</a>."
+
+#: core/core_pdf_embedder.php:340
+msgid "Toolbar always visible"
+msgstr "نوار ابزار همیشه قابل رویت باشد"
+
+#: core/core_pdf_embedder.php:335 js/pdfemb-blocks-4.6.2.js:162
+msgid "Toolbar appears only on hover over document"
+msgstr "نوار ابزار فقط در حالتی که موس بر روی پی دی اف میرود نمایش داده شود."
+
+#: core/core_pdf_embedder.php:332 js/pdfemb-blocks-4.6.2.js:159
+msgid "Toolbar Hover"
+msgstr "رفتن موس بر روی نوار ابزار"
+
+#: core/core_pdf_embedder.php:325
+msgid "Bottom"
+msgstr "پایین"
+
+#: core/core_pdf_embedder.php:314 js/pdfemb-blocks-4.6.2.js:137
+msgid "Height"
+msgstr "طول"
+
+#: core/core_pdf_embedder.php:324
+msgid "Top"
+msgstr "بالا"
+
+#: core/core_pdf_embedder.php:322 js/pdfemb-blocks-4.6.2.js:145
+msgid "Toolbar Location"
+msgstr "محل نوار ابزار"
+
+#: core/core_pdf_embedder.php:318
+msgid "Enter <b>max</b> or an integer number of pixels"
+msgstr "یک مقدار <b>max</b> یا یک عدد که تعداد پیکسل ها است را وارد کنید."
+
+#: core/core_pdf_embedder.php:310 js/pdfemb-blocks-4.6.2.js:129
+msgid "Width"
+msgstr "عرض"
+
+#: core/core_pdf_embedder.php:308
+msgid "Default Viewer Settings"
+msgstr "تنظیمات پیش فرض بازدید کننده"
+
+#: core/core_pdf_embedder.php:280
+msgid "Save Changes"
+msgstr "ذخیره ی تنظیمات"
+
+#: core/core_pdf_embedder.php:252
+msgid "Mobile"
+msgstr "موبایل"
+
+#: core/core_pdf_embedder.php:251
+msgid "Main Settings"
+msgstr "تنظیمات اصلی"
+
+#: core/core_pdf_embedder.php:242
+msgid ""
+"From the post editor, click Add Media, and then drag-and-drop your PDF file into the media library.\n"
+"                When you insert the PDF into your post, it will automatically embed using the plugin's viewer."
+msgstr ""
+"از قسمت ویرایش مطلب، بر روی Add Media (افزودن پرونده چند رسانه ای) کلیک کنید، سپس فایل پی دی اف خود را به درون کتاب خانه کشیده و رها کنید.\n"
+"وقتی که شما فایل پی دی اف خود را درون مطلب خود قرار دهید، به صورت اتوماتیک فایل شما درون مطلبتان نمایش داده خواهد شد."
+
+#: core/core_pdf_embedder.php:241
+msgid "To use the plugin, just embed PDFs in the same way as you would normally embed images in your posts/pages - but try with a PDF file instead."
+msgstr "برای استفاده از این پلاگین، تنها کافیست فایل پی دی اف خود را همانگونه که فایلهای عکس و ویدئو را آپلود میکنید، آپلود کنید و درون نوشته/برگه خود قرار دهید. "
+
+#: core/core_pdf_embedder.php:239
+msgid "PDF Embedder setup"
+msgstr "نصب PDF Embedder"
+
+#. Plugin Name of the plugin
+#: core/core_pdf_embedder.php:214 core/core_pdf_embedder.php:219
+#: js/pdfemb-blocks-4.6.2.js:28
+msgid "PDF Embedder"
+msgstr "PDF Embedder"
+
+#: core/core_pdf_embedder.php:214 core/core_pdf_embedder.php:219
+msgid "PDF Embedder settings"
+msgstr "تنظیمات PDF Embedder"
+
+#: core/core_pdf_embedder.php:70
+msgid "PDF <span class=\"count\">(%s)</span>"
+msgid_plural "PDFs <span class=\"count\">(%s)</span>"
+msgstr[0] "پی دی اف ها<span class=\"count\">(%s)</span>"
+
+#: core/core_pdf_embedder.php:70
+msgid "Manage PDFs"
+msgstr "مدیریت فایل های پی دی اف"
+
+#: core/core_pdf_embedder.php:70
+msgid "PDFs"
+msgstr "پی دی اف ها"
+
+#: core/core_pdf_embedder.php:52
+msgid "View in Full Screen"
+msgstr "نمایش به صورت تمام صفحه"
+
+#: core/core_pdf_embedder.php:51
+msgid "PDF page width or height are invalid"
+msgstr "عرض یا ارتفاع صفحه پی دی اف اشتباه است"
+
+#: core/core_pdf_embedder.php:50
+msgid "Click here for more info"
+msgstr "برای اطلاعات بیشتر اینجا کلیک کنید"
+
+#: core/core_pdf_embedder.php:49
+msgid "Error: URL to the PDF file must be on exactly the same domain as the current web page."
+msgstr "ارور : آدرس فایل پی دی اف باید دقیقا روی دامنه ای که این صفحه بر روی آن قرار دارد باشد."
+
+#: core/core_pdf_embedder.php:43
+msgid "Next page"
+msgstr "برگه بعدی"
+
+#: core/core_pdf_embedder.php:48
+msgid "Full Screen"
+msgstr "تمام برگه"
+
+#: core/core_pdf_embedder.php:47
+msgid "Download PDF"
+msgstr "دانلود PDF"
+
+#: core/core_pdf_embedder.php:46 core/core_pdf_embedder.php:253
+msgid "Secure"
+msgstr "امن"
+
+#: core/core_pdf_embedder.php:45
+msgid "Zoom Out"
+msgstr "زوم کردن به بیرون"
+
+#: core/core_pdf_embedder.php:44
+msgid "Zoom In"
+msgstr "زوم کردن به داخل"
+
+#: core/core_pdf_embedder.php:41
+msgid "Zoom"
+msgstr "بزرگ نمایی"
+
+#: core/core_pdf_embedder.php:42
+msgid "Previous page"
+msgstr "برگه قبلی"
+
+#: core/core_pdf_embedder.php:40
+msgid "Page"
+msgstr "صفحه"
+
+#: core/core_pdf_embedder.php:39
+msgid "Loading..."
+msgstr "در حال بارگذاری"

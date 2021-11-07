@@ -1,0 +1,308 @@
+# Translation of Plugins - PDF Embedder - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - PDF Embedder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-15 07:30:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - PDF Embedder - Stable (latest release)\n"
+
+#. Author of the plugin
+msgid "WP PDF Team"
+msgstr "WP PDF Team"
+
+#: core/core_pdf_embedder.php:347
+msgid "Display \"Powered by wp-pdf.com\" on PDF Viewer with a link to our site. Spread the love!"
+msgstr "Mostrar «Powered by wp-pdf.com» en el visor PDF con un enlace a nuestro sitio. ¡Difunde el amor!"
+
+#: core/core_pdf_embedder.php:343
+msgid "Display Credit"
+msgstr "Mostrar los créditos"
+
+#. Description of the plugin
+msgid "Embed PDFs straight into your posts and pages, with flexible width and height. No third-party services required. Compatible with Gutenberg Editor WordPress"
+msgstr "Incrusta PDFs directamente en tus publicaciones y páginas, con versatilidad en el ancho y la altura. Sin obligación de uso de servicios de terceras partes. Compatible con Gutenberg, el editor de WordPress"
+
+#: pdf_embedder.php:131
+msgid "The user can also touch and scroll continuously between all pages of the PDF which is much easier than clicking the next/prev buttons to navigate."
+msgstr "El usuario también puede tocar y desplazarse continuamente entre todas las páginas del PDF, lo cual es mucho más fácil que hacer clic en los botones siguiente / anterior para navegar."
+
+#: pdf_embedder.php:103
+msgid "Allow user to scroll up/down between all pages in the PDF"
+msgstr "Permite al usuario desplazarse hacia arriba o hacia abajo entre todas las páginas del PDF"
+
+#: pdf_embedder.php:101
+msgid "Continous Page Scrolling"
+msgstr "Scroll continuo de la página"
+
+#: core/core_pdf_embedder.php:388
+msgid "Optionally add a watermark containing the user's name or email address to discourage sharing of screenshots."
+msgstr "Opcionalmente, añade una marca de agua que contenga el nombre del usuario o la dirección de correo electrónico para evitar el uso compartido de capturas de pantalla."
+
+#: pdf_embedder.php:88
+msgid "Open links in a new browser tab/window"
+msgstr "Abrir enlaces en una nueva ventana"
+
+#: pdf_embedder.php:86
+msgid "External Links"
+msgstr "Enlaces externos"
+
+#: pdf_embedder.php:96
+msgid "Count number of views and downloads"
+msgstr "Contar el número de vistas y descargas"
+
+#: pdf_embedder.php:81
+msgid "Provide PDF download button on toolbar"
+msgstr "Proporciona un botón de descarga de PDF en la barra de herramientas"
+
+#: pdf_embedder.php:77
+msgid "Options only available in Premium versions"
+msgstr "Opciones disponibles solo en versiones Premium"
+
+#: pdf_embedder.php:197
+msgid "Downloads/Views"
+msgstr "Descargas/Vistas"
+
+#: pdf_embedder.php:195
+msgid "Track downloads and views with <a href=\"%s\" target=\"_blank\">PDF Embedder Premium</a>"
+msgstr "Monitoriza tus descargas y vistas con <a href=\"%s\" target=\"_blank\">PDF Embedder Premium</a>"
+
+#: pdf_embedder.php:107
+msgid "Find out more about <a href=\"%s\" target=\"_blank\">Premium Versions of the plugin on our website</a>."
+msgstr "Descubre más sobre las <a href=\"%s\" target=\"_blank\">versiones Premium del plugin en nuestra web</a>."
+
+#: pdf_embedder.php:94
+msgid "Track Views/Downloads"
+msgstr "Monitoriza las vistas/descargas"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://wp-pdf.com/"
+msgstr "http://wp-pdf.com/"
+
+#: pdf_embedder.php:122
+msgid ""
+"Our <b>PDF Embedder Premium</b> plugin solves this problem with an intelligent 'full screen' mode.\n"
+"            When the document is smaller than a certain width, the document displays only as a 'thumbnail' with a large\n"
+"            'View in Full Screen' button for the\n"
+"            user to click when they want to study your document.\n"
+"            This opens up the document so it has the full focus of the mobile browser, and the user can move about the\n"
+"            document without hitting other parts of\n"
+"            the web page by mistake. Click Exit to return to the regular web page."
+msgstr ""
+"Nuestro plugin <b>PDF Embedder Premium</b> resuelve este problema con un modo de pantalla completa inteligente\n"
+"Cuando el documento es más pequeño que un ancho concreto, el documento se muestra solo como una miniatura con un botón grande de 'Ver en pantalla completa' para que el usuario haga clic cuando quiera ver tu documento.\n"
+"Esto abre el documento y asi tiene la total atención del navegador móvil, y el usuario se puede mover sobre el documento sin tocar por error otras partes de la página web. Para volver a la pagina web normal tiene que hacer clic en salir."
+
+#: pdf_embedder.php:118
+msgid ""
+"This free version of the plugin should work on most mobile browsers, but it will be cumbersome for users with small screens - it is difficult to position\n"
+"            the document entirely within the screen, and your users' fingers may catch the entire browser page when\n"
+"            they're trying only to move about the document..."
+msgstr "Esta versión gratuíta del plugin debería funcionar en la mayoría de los navegadores móviles pero será incómodo para los usuarios con pantallas pequeñas - es difícil  colocar  el documento completo en toda la pantalla y los usuarios desplazando sus dedos podrían pasar a pantalla competa cuando ellos simplemente intentaran desplazarse por el documento..."
+
+#: pdf_embedder.php:117
+msgid "Mobile-friendly embedding using PDF Embedder Premium"
+msgstr "Incrustado adaptable usando PDF Embedder Premium"
+
+#: pdf_embedder.php:79
+msgid "Download Button"
+msgstr "Botón de descarga"
+
+#: core/core_pdf_embedder.php:619
+msgid "Settings"
+msgstr "Ajustes"
+
+#: core/core_pdf_embedder.php:496
+msgid "Settings saved"
+msgstr "Ajustes guardados"
+
+#: core/core_pdf_embedder.php:450
+msgid "Unspecified error"
+msgstr "Error no específico"
+
+#: core/core_pdf_embedder.php:444
+msgid "Height must be \"max\" or an integer (number of pixels)"
+msgstr "La altura debe ser «max» o un número entero (número de píxeles)"
+
+#: core/core_pdf_embedder.php:443
+msgid "Width must be \"max\" or an integer (number of pixels)"
+msgstr "El ancho debe ser «max» o un número entero (número de píxeles)"
+
+#: core/core_pdf_embedder.php:390 pdf_embedder.php:134
+msgid "See our website <a href=\"%s\">wp-pdf.com</a> for more details and purchase options."
+msgstr "Consulta nuestra web <a href=\"%s\">wp-pdf.com</a> para más detalles y opciones de compra."
+
+#: core/core_pdf_embedder.php:386
+msgid "This means that your PDF is unlikely to be shared outside your site where you have no control over who views, prints, or shares it."
+msgstr "Esto significa que tu PDF no será compartido fuera de tu sitio donde no tienes control de quien lo ve, imprime, o lo comparte."
+
+#: core/core_pdf_embedder.php:383
+msgid ""
+"Our <b>PDF Embedder Premium Secure</b> plugin provides the same simple but elegant viewer for your website visitors, with the added protection that\n"
+"            it is difficult for users to download or print the original PDF document."
+msgstr "Nuestro plugin <b>PDF Embedder Premium Secure</b> ofrece el mismo simple pero elegante visor para los visitantes de tu web, con la protección añadida de que es difícil para los usuarios descargar o imprimir el documento PDF original."
+
+#: core/core_pdf_embedder.php:382
+msgid "Protect your PDFs using PDF Embedder Secure"
+msgstr "Protege tus PDFs usando PDF Embedder Secure"
+
+#: core/core_pdf_embedder.php:358
+msgid "You can override these defaults for specific embeds by modifying the shortcodes - see <a href=\"%s\" target=\"_blank\">instructions</a>."
+msgstr "Puedes anular estas opciones por defecto para incrustados específicos modificando los shortcodes - mira las <a href=\"%s\" target=\"_blank\">instrucciones</a>."
+
+#: core/core_pdf_embedder.php:340
+msgid "Toolbar always visible"
+msgstr "Barra de herramientas siempre visible"
+
+#: core/core_pdf_embedder.php:335 js/pdfemb-blocks-4.6.2.js:162
+msgid "Toolbar appears only on hover over document"
+msgstr "La barra de herramientas solo aparece al pasar el cursor por el documento"
+
+#: core/core_pdf_embedder.php:332 js/pdfemb-blocks-4.6.2.js:159
+msgid "Toolbar Hover"
+msgstr "Al pasar el cursor por la barra de herramientas"
+
+#: core/core_pdf_embedder.php:326
+msgid "Both"
+msgstr "Ambos"
+
+#: core/core_pdf_embedder.php:325
+msgid "Bottom"
+msgstr "Inferior"
+
+#: core/core_pdf_embedder.php:324
+msgid "Top"
+msgstr "Superior"
+
+#: core/core_pdf_embedder.php:322 js/pdfemb-blocks-4.6.2.js:145
+msgid "Toolbar Location"
+msgstr "Posición de la barra de herramientas"
+
+#: core/core_pdf_embedder.php:318
+msgid "Enter <b>max</b> or an integer number of pixels"
+msgstr "Introduce <b>max</b> o un número entero de píxeles"
+
+#: core/core_pdf_embedder.php:314 js/pdfemb-blocks-4.6.2.js:137
+msgid "Height"
+msgstr "Altura"
+
+#: core/core_pdf_embedder.php:310 js/pdfemb-blocks-4.6.2.js:129
+msgid "Width"
+msgstr "Ancho"
+
+#: core/core_pdf_embedder.php:308
+msgid "Default Viewer Settings"
+msgstr "Ajustes del visor por defecto"
+
+#: core/core_pdf_embedder.php:280
+msgid "Save Changes"
+msgstr "Guardar los cambios"
+
+#: core/core_pdf_embedder.php:252
+msgid "Mobile"
+msgstr "Móvil"
+
+#: core/core_pdf_embedder.php:251
+msgid "Main Settings"
+msgstr "Ajustes generales"
+
+#: core/core_pdf_embedder.php:242
+msgid ""
+"From the post editor, click Add Media, and then drag-and-drop your PDF file into the media library.\n"
+"                When you insert the PDF into your post, it will automatically embed using the plugin's viewer."
+msgstr ""
+"En el editor de entrada, haz clic en añadir medios, y después arrastra y suelta tu PDF en la biblioteca de medios.\n"
+"Cuando insertas el PDF en la entrada, automáticamente se incrustara usando el visor del plugin."
+
+#: core/core_pdf_embedder.php:241
+msgid "To use the plugin, just embed PDFs in the same way as you would normally embed images in your posts/pages - but try with a PDF file instead."
+msgstr "Para usar el plugin, solamente incrusta PDFs de la misma manera como lo harías normalmente con imágenes en tus entradas/páginas - en su lugar prueba con un PDF."
+
+#: core/core_pdf_embedder.php:239
+msgid "PDF Embedder setup"
+msgstr "Instalación de PDF Embedder"
+
+#. Plugin Name of the plugin
+#: core/core_pdf_embedder.php:214 core/core_pdf_embedder.php:219
+#: js/pdfemb-blocks-4.6.2.js:28
+msgid "PDF Embedder"
+msgstr "PDF Embedder"
+
+#: core/core_pdf_embedder.php:214 core/core_pdf_embedder.php:219
+msgid "PDF Embedder settings"
+msgstr "Ajustes de PDF Embedder"
+
+#: core/core_pdf_embedder.php:70
+msgid "PDF <span class=\"count\">(%s)</span>"
+msgid_plural "PDFs <span class=\"count\">(%s)</span>"
+msgstr[0] "PDF <span class=\"count\">(%s)</span>"
+msgstr[1] "PDFs <span class=\"count\">(%s)</span>"
+
+#: core/core_pdf_embedder.php:70
+msgid "Manage PDFs"
+msgstr "Gestionar PDFs"
+
+#: core/core_pdf_embedder.php:70
+msgid "PDFs"
+msgstr "PDFs"
+
+#: core/core_pdf_embedder.php:52
+msgid "View in Full Screen"
+msgstr "Ver en pantalla completa"
+
+#: core/core_pdf_embedder.php:51
+msgid "PDF page width or height are invalid"
+msgstr "La anchura o altura del PDF no son válidas"
+
+#: core/core_pdf_embedder.php:50
+msgid "Click here for more info"
+msgstr "Haz clic aquí para más información"
+
+#: core/core_pdf_embedder.php:49
+msgid "Error: URL to the PDF file must be on exactly the same domain as the current web page."
+msgstr "Error: La URL del archivo PDF debe estar exactamente en el mismo dominio que esta web."
+
+#: core/core_pdf_embedder.php:48
+msgid "Full Screen"
+msgstr "Pantalla completa"
+
+#: core/core_pdf_embedder.php:47
+msgid "Download PDF"
+msgstr "Descarga PDF"
+
+#: core/core_pdf_embedder.php:46 core/core_pdf_embedder.php:253
+msgid "Secure"
+msgstr "Seguro"
+
+#: core/core_pdf_embedder.php:45
+msgid "Zoom Out"
+msgstr "Alejar"
+
+#: core/core_pdf_embedder.php:44
+msgid "Zoom In"
+msgstr "Acercar"
+
+#: core/core_pdf_embedder.php:43
+msgid "Next page"
+msgstr "Próxima página"
+
+#: core/core_pdf_embedder.php:42
+msgid "Previous page"
+msgstr "Página anterior"
+
+#: core/core_pdf_embedder.php:41
+msgid "Zoom"
+msgstr "Zoom"
+
+#: core/core_pdf_embedder.php:40
+msgid "Page"
+msgstr "Página"
+
+#: core/core_pdf_embedder.php:39
+msgid "Loading..."
+msgstr "Cargando…"

@@ -1,0 +1,35 @@
+/*!  SHORTCODE ALERT
+----------------------------------------------------------*/
+
+.vl-pricing-table
+	position relative
+	padding 50px
+	border 1px solid $c8
+	text-align center
+	
+	.vl-price-header
+		border-bottom 1px solid $c8
+		padding 0 0 30px
+		.vl-price-name
+			text-transform uppercase
+		.vl-price-price
+			font-size 36px
+			line-height 1
+			margin-top 15px
+			color $c0
+			
+	.vl-price-features ul
+		list-style-type none
+		margin 0
+		padding 0
+		line-height 3
+		
+	&.featured::before
+		content '\f005'
+		position absolute
+		top 15px
+		right 15px
+		font-size 20px
+		line-height 1
+		color $c0
+		font-family $fa

@@ -1,0 +1,32 @@
+/*!  SHORTCODE OFFERS LIST
+----------------------------------------------------------*/
+
+.vl-offers-row
+	position relative
+	padding-top 15px
+	padding-bottom 15px
+	border-bottom 1px solid $c9
+	transition border-color 150ms $transition
+	&:first-child
+		border-top 1px solid $c9
+		
+	&:hover
+		border-bottom-color $c0
+		
+.vl-offers-row .vl-scalable-image
+	position fixed
+	display block
+	visibility hidden
+	line-height 0
+	z-index 10
+	pointer-events none
+	@media (max-width: 767px)
+		display none
+			
+.vl-offers-row .vl-offers-content
+	p:last-of-type
+		margin-bottom 0
+		
+@media (max-width: 767px)
+	.vl-offers-row .first-col
+		margin-bottom 10px

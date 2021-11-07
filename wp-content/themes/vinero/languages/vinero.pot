@@ -1,0 +1,1973 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Vinero\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-22 21:33+0000\n"
+"POT-Revision-Date: Thu Aug 18 2016 22:49:23 GMT+0300 (Russia TZ 2 Standard "
+"Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: VLThemes <plafon89@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../../..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: comments.php:8
+msgid "Comments"
+msgstr ""
+
+#: comments.php:10
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:10
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:10 templates/page-title/vinero-pagetitle-singlepost.php:8
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:31
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:49
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:50
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:55
+msgid "Leave a reply to"
+msgstr ""
+
+#: comments.php:56
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:60 woocommerce/single-product-reviews.php:64
+#: framework/setup/vinero-section-typekit.php:55
+msgid "Name"
+msgstr ""
+
+#: comments.php:61
+msgid "E-mail"
+msgstr ""
+
+#: functions.php:15
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:16
+msgid "Footer Menu"
+msgstr ""
+
+#: searchform.php:3 framework/customizer.php:181
+#: woocommerce/product-searchform.php:28
+msgid "Search"
+msgstr ""
+
+#: admin/dashboard.php:39
+#, php-format
+msgid "Getting started with %1$s v%2$s"
+msgstr ""
+
+#: admin/dashboard.php:40
+#, php-format
+msgid ""
+"Thanks for purchasing %1$s. We really appreciate your choice. If you like "
+"our theme and support, please rate it 5 stars. More information can be found "
+"below."
+msgstr ""
+
+#: admin/dashboard.php:41
+#, php-format
+msgid "Thank you for choosing %s, Cheers!"
+msgstr ""
+
+#: admin/dashboard.php:42
+msgid "Subscribe Us"
+msgstr ""
+
+#: admin/dashboard.php:43 admin/dashboard.php:48
+msgid "Get Help"
+msgstr ""
+
+#: admin/dashboard.php:44
+msgid "Documentation"
+msgstr ""
+
+#: admin/dashboard.php:49
+msgid ""
+"If you still have questions after reading the documentation, you can create "
+"a ticket. We will contact you ASAP."
+msgstr ""
+
+#: admin/dashboard.php:50
+#, php-format
+msgid ""
+"We love to hear your feedback - if you find any bugs or have suggestions for "
+"improvements please get in touch. Nearly all of the time we follow your "
+"advice and issue a rapid update to %s."
+msgstr ""
+
+#: admin/dashboard.php:51
+msgid "Changelog"
+msgstr ""
+
+#: admin/dashboard.php:52
+#, php-format
+msgid "Current v%s"
+msgstr ""
+
+#: admin/dashboard.php:53
+msgid ""
+"There seems to be a temporary problem retrieving the latest updates for this "
+"theme. You can always view your latest updates on the Themeforest."
+msgstr ""
+
+#: admin/dashboard.php:54
+msgid "Requirements"
+msgstr ""
+
+#: admin/dashboard.php:55
+msgid "Some Problems"
+msgstr ""
+
+#: admin/dashboard.php:56
+msgid "No Problems"
+msgstr ""
+
+#: admin/dashboard.php:57
+msgid "More Info"
+msgstr ""
+
+#: admin/dashboard.php:58 admin/dashboard.php:59
+#: admin/demo-import/demo-import.php:49
+msgid "Import Demo"
+msgstr ""
+
+#: admin/dashboard.php:60
+msgid "Before you begin, make sure all the required plugins are activated."
+msgstr ""
+
+#: admin/dashboard.php:61
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/customizer.php:57 framework/customizer.php:63
+#: framework/customizer.php:119
+msgid "General"
+msgstr ""
+
+#: framework/customizer.php:58
+msgid "General Settings"
+msgstr ""
+
+#: framework/customizer.php:70
+msgid "Preloader"
+msgstr ""
+
+#: framework/customizer.php:77
+msgid "Selection"
+msgstr ""
+
+#: framework/customizer.php:84
+msgid "Scrollbar"
+msgstr ""
+
+#: framework/customizer.php:91
+msgid "Site Border"
+msgstr ""
+
+#: framework/customizer.php:98 woocommerce/global/form-login.php:48
+#: woocommerce/myaccount/form-login.php:56
+msgid "Login"
+msgstr ""
+
+#: framework/customizer.php:113
+msgid "Header & Menu"
+msgstr ""
+
+#: framework/customizer.php:126
+msgid "Menu Settings"
+msgstr ""
+
+#: framework/customizer.php:133
+msgid "Socials"
+msgstr ""
+
+#: framework/customizer.php:147
+msgid "Sidebar"
+msgstr ""
+
+#: framework/customizer.php:162
+msgid "Pages"
+msgstr ""
+
+#: framework/customizer.php:167
+msgid "Blog"
+msgstr ""
+
+#: framework/customizer.php:174
+msgid "Archive"
+msgstr ""
+
+#: framework/customizer.php:188
+msgid "Single Post"
+msgstr ""
+
+#: framework/customizer.php:195 framework/setup/vinero-section-pages.php:265
+msgid "Error 404"
+msgstr ""
+
+#: framework/customizer.php:208
+msgid "Single Portfolio"
+msgstr ""
+
+#: framework/customizer.php:223
+msgid "WooCommerce"
+msgstr ""
+
+#: framework/customizer.php:240
+msgid "Footer"
+msgstr ""
+
+#: framework/customizer.php:254
+msgid "Elements"
+msgstr ""
+
+#: framework/customizer.php:259
+msgid "Blockquote"
+msgstr ""
+
+#: framework/customizer.php:266
+msgid "Buttons"
+msgstr ""
+
+#: framework/customizer.php:273
+msgid "Input Fields"
+msgstr ""
+
+#: framework/customizer.php:288
+msgid "Typography"
+msgstr ""
+
+#: framework/customizer.php:289
+msgid "Typography Settings"
+msgstr ""
+
+#: framework/customizer.php:294
+msgid "Text"
+msgstr ""
+
+#: framework/customizer.php:302
+msgid "Headings"
+msgstr ""
+
+#: framework/customizer.php:316
+msgid "Adobe Typekit"
+msgstr ""
+
+#: includes/vlthemes-actions.php:9
+msgid "Blog Sidebar"
+msgstr ""
+
+#: includes/vlthemes-actions.php:11
+msgid "Blog Sidebar Area"
+msgstr ""
+
+#: includes/vlthemes-actions.php:21
+msgid "Shop Sidebar"
+msgstr ""
+
+#: includes/vlthemes-actions.php:23
+msgid "Shop Sidebar Area"
+msgstr ""
+
+#: includes/vlthemes-actions.php:33
+#, php-format
+msgid "Footer Sidebar: %s Column"
+msgstr ""
+
+#: includes/vlthemes-actions.php:35
+msgid "Footer Sidebar Area"
+msgstr ""
+
+#: includes/vlthemes-filters.php:54
+msgid "Password:"
+msgstr ""
+
+#: includes/vlthemes-filters.php:55 woocommerce/single-product-reviews.php:69
+msgid "Submit"
+msgstr ""
+
+#: includes/vlthemes-filters.php:78
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/vlthemes-functions.php:152
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/vlthemes-functions.php:156
+#: templates/content/vinero-content-page.php:13
+#: templates/post/vinero-post-single.php:19
+#: woocommerce/myaccount/my-address.php:51
+msgid "Edit"
+msgstr ""
+
+#: includes/vlthemes-functions.php:162
+msgid "Reply"
+msgstr ""
+
+#: includes/vlthemes-functions.php:262 includes/vlthemes-functions.php:264
+msgid "Previous Project"
+msgstr ""
+
+#: includes/vlthemes-functions.php:267 includes/vlthemes-functions.php:269
+msgid "Next Project"
+msgstr ""
+
+#: includes/vlthemes-functions.php:328 includes/vlthemes-functions.php:346
+msgid "Prev"
+msgstr ""
+
+#: includes/vlthemes-functions.php:333 includes/vlthemes-functions.php:347
+#: woocommerce/myaccount/orders.php:114
+msgid "Next"
+msgstr ""
+
+#: includes/vlthemes-functions.php:354
+msgid "Load More"
+msgstr ""
+
+#: includes/vlthemes-functions.php:417
+msgid " min read"
+msgstr ""
+
+#: includes/vlthemes-functions.php:419
+msgid "1 min read"
+msgstr ""
+
+#: includes/vlthemes-menus.php:8
+msgid "Please register navigation from"
+msgstr ""
+
+#: includes/vlthemes-menus.php:8
+msgid "Appearance > Menus"
+msgstr ""
+
+#: includes/vlthemes-required-plugins.php:13
+msgid "Vinero Helper Plugin"
+msgstr ""
+
+#: includes/vlthemes-required-plugins.php:19
+msgid "Advanced Custom Fields PRO"
+msgstr ""
+
+#: includes/vlthemes-required-plugins.php:25
+#: admin/demo-import/demo-import.php:48
+msgid "One Click Demo Import"
+msgstr ""
+
+#: includes/vlthemes-required-plugins.php:30
+msgid "Slider Revolution"
+msgstr ""
+
+#: includes/vlthemes-required-plugins.php:36
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: includes/vlthemes-required-plugins.php:42
+msgid "Envato Market"
+msgstr ""
+
+#: includes/vlthemes-required-plugins.php:48
+msgid "Contact Form 7"
+msgstr ""
+
+#: includes/vlthemes-woo.php:15
+msgid "Cart"
+msgstr ""
+
+#: loop/loop-popular-news.php:17
+msgid "Popular News"
+msgstr ""
+
+#: loop/loop-recent-news.php:15
+msgid "Recent news"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:46
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:58
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:58
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:59
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:66
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: admin/demo-import/demo-import.php:12
+msgid "Demo Default"
+msgstr ""
+
+#: admin/widgets/requirements.php:52
+msgid "PHP Version:"
+msgstr ""
+
+#: admin/widgets/requirements.php:63
+#, php-format
+msgid "We recommend upgrade php version to at least %s."
+msgstr ""
+
+#: admin/widgets/requirements.php:72
+msgid "WP Memory Limit:"
+msgstr ""
+
+#: admin/widgets/requirements.php:82
+#, php-format
+msgid ""
+"For normal usage will be enough 128M, but for importing demo we recommend "
+"setting memory to at least %s."
+msgstr ""
+
+#: admin/widgets/requirements.php:85
+#, php-format
+msgid "Read more: %s"
+msgstr ""
+
+#: admin/widgets/requirements.php:85
+msgid "Increasing memory allocated to PHP."
+msgstr ""
+
+#: admin/widgets/requirements.php:95
+msgid "PHP Time Limit:"
+msgstr ""
+
+#: admin/widgets/requirements.php:105
+#, php-format
+msgid "We recommend setting max execution time to at least %s."
+msgstr ""
+
+#: admin/widgets/requirements.php:107
+#, php-format
+msgid "See more: %s"
+msgstr ""
+
+#: admin/widgets/requirements.php:107
+msgid "Increasing max execution to PHP"
+msgstr ""
+
+#: admin/widgets/requirements.php:116
+msgid "Child Theme:"
+msgstr ""
+
+#: admin/widgets/requirements.php:124
+msgid ""
+"We recommend use child theme to prevent loosing your customizations after "
+"theme update."
+msgstr ""
+
+#: framework/setup/vinero-section-elements.php:13
+msgid "Blockquote Typography"
+msgstr ""
+
+#: framework/setup/vinero-section-elements.php:46
+msgid "Button Typography"
+msgstr ""
+
+#: framework/setup/vinero-section-elements.php:71
+msgid "Primary Button"
+msgstr ""
+
+#: framework/setup/vinero-section-elements.php:76
+#: framework/setup/vinero-section-elements.php:94
+#: framework/setup/vinero-section-elements.php:112
+#: framework/setup/vinero-section-elements.php:130
+msgid "Color"
+msgstr ""
+
+#: framework/setup/vinero-section-elements.php:77
+#: framework/setup/vinero-section-elements.php:95
+#: framework/setup/vinero-section-elements.php:113
+#: framework/setup/vinero-section-elements.php:131
+msgid "Background"
+msgstr ""
+
+#: framework/setup/vinero-section-elements.php:89
+msgid "Primary Button Hover"
+msgstr ""
+
+#: framework/setup/vinero-section-elements.php:107
+msgid "Secondary Button"
+msgstr ""
+
+#: framework/setup/vinero-section-elements.php:125
+msgid "Secondary Button Hover"
+msgstr ""
+
+#: framework/setup/vinero-section-elements.php:150
+msgid "Input Typography"
+msgstr ""
+
+#: framework/setup/vinero-section-elements.php:176
+msgid "Label Typography"
+msgstr ""
+
+#: framework/setup/vinero-section-footer.php:14
+msgid "Footer Layout"
+msgstr ""
+
+#: framework/setup/vinero-section-footer.php:15
+msgid "Select footer layout"
+msgstr ""
+
+#: framework/setup/vinero-section-footer.php:21
+#: framework/setup/vinero-section-header.php:20
+#: framework/setup/vinero-section-pages.php:22
+#: framework/setup/vinero-section-pages.php:112
+#: framework/setup/vinero-section-pages.php:180
+msgid "Standard"
+msgstr ""
+
+#: framework/setup/vinero-section-footer.php:22
+msgid "Minimal"
+msgstr ""
+
+#: framework/setup/vinero-section-footer.php:30
+msgid "Fixed Footer"
+msgstr ""
+
+#: framework/setup/vinero-section-footer.php:31
+#: framework/setup/vinero-section-header.php:54
+msgid "Switch \"Enable\" if you want to activate fixed effect"
+msgstr ""
+
+#: framework/setup/vinero-section-footer.php:37
+#: framework/setup/vinero-section-header.php:60
+#: framework/setup/vinero-section-typekit.php:18
+#: framework/setup/vinero-section-woo.php:97
+msgid "Enable"
+msgstr ""
+
+#: framework/setup/vinero-section-footer.php:38
+#: framework/setup/vinero-section-header.php:61
+#: framework/setup/vinero-section-typekit.php:19
+#: framework/setup/vinero-section-woo.php:98
+msgid "Disable"
+msgstr ""
+
+#: framework/setup/vinero-section-footer.php:46
+msgid "Footer Background"
+msgstr ""
+
+#: framework/setup/vinero-section-footer.php:47
+msgid "Select background color for footer"
+msgstr ""
+
+#: framework/setup/vinero-section-footer.php:67
+msgid "Show Logo"
+msgstr ""
+
+#: framework/setup/vinero-section-footer.php:68
+msgid "Switch \"Show\" if you want to show logo"
+msgstr ""
+
+#: framework/setup/vinero-section-footer.php:74
+#: framework/setup/vinero-section-general.php:19
+#: framework/setup/vinero-section-general.php:40
+#: framework/setup/vinero-section-general.php:286
+#: framework/setup/vinero-section-header.php:103
+#: framework/setup/vinero-section-pages.php:88
+#: framework/setup/vinero-section-pages.php:156
+#: framework/setup/vinero-section-pages.php:221
+#: framework/setup/vinero-section-pages.php:245
+#: framework/setup/vinero-section-single-portfolio.php:20
+msgid "Show"
+msgstr ""
+
+#: framework/setup/vinero-section-footer.php:75
+#: framework/setup/vinero-section-general.php:20
+#: framework/setup/vinero-section-general.php:41
+#: framework/setup/vinero-section-general.php:287
+#: framework/setup/vinero-section-header.php:104
+#: framework/setup/vinero-section-pages.php:89
+#: framework/setup/vinero-section-pages.php:157
+#: framework/setup/vinero-section-pages.php:222
+#: framework/setup/vinero-section-pages.php:246
+#: framework/setup/vinero-section-single-portfolio.php:21
+msgid "Hide"
+msgstr ""
+
+#: framework/setup/vinero-section-footer.php:90
+msgid "Widget Columns"
+msgstr ""
+
+#: framework/setup/vinero-section-footer.php:91
+msgid "Select number of columns"
+msgstr ""
+
+#: framework/setup/vinero-section-footer.php:97
+msgid "One Column"
+msgstr ""
+
+#: framework/setup/vinero-section-footer.php:98
+msgid "Two Columns"
+msgstr ""
+
+#: framework/setup/vinero-section-footer.php:99
+msgid "Three Columns"
+msgstr ""
+
+#: framework/setup/vinero-section-footer.php:100
+msgid "Four Columns"
+msgstr ""
+
+#: framework/setup/vinero-section-footer.php:115
+msgid "Copyright"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:12
+msgid "Show \"Back to top\" button"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:13
+msgid "Switch \"Show\" if you want to show \"Back to Top\" button"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:33
+msgid "Show Preloader"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:34
+msgid "Switch \"Show\" if you want to show preloader"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:55
+msgid "Selection Text Color"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:56
+msgid ""
+"Select the text color, matches the portion of an element that is selected by "
+"a user"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:82
+msgid "Selection Background Color"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:83
+msgid ""
+"Select the text background color, matches the portion of an element that is "
+"selected by a user"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:115
+msgid "Authorization Logo"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:116
+msgid ""
+"If you want to change the logo of WordPress to your logo, you can use this "
+"options"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:126
+#: framework/setup/vinero-section-header.php:43
+msgid "Logo Height"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:127
+msgid "Enter logo height"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:144
+msgid "Logo Width"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:145
+msgid "Enter logo width"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:169
+msgid "Custom Scrollbar"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:170
+msgid "Switch \"YES\" if you want to configure the scrollbar"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:176
+msgid "Yes"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:177
+msgid "No"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:185
+msgid "Bar Background"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:186
+msgid "Select background color for scrollbar"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:212
+msgid "Bar Color"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:213
+msgid "Select color for scrollbar"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:241
+msgid "Bar Width"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:242
+msgid "Select the thickness of the scrollbar"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:280
+msgid "Show Border"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:281
+msgid "Switch \"Show\" if you want to customize the display of the border"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:295
+msgid "Border Color"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:296
+msgid "Choose the color of the border"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:319
+msgid "Border Width"
+msgstr ""
+
+#: framework/setup/vinero-section-general.php:320
+msgid "Enter the thickness of the border (in px)"
+msgstr ""
+
+#: framework/setup/vinero-section-header.php:13
+msgid "Header Layout"
+msgstr ""
+
+#: framework/setup/vinero-section-header.php:14
+msgid "Select header layout"
+msgstr ""
+
+#: framework/setup/vinero-section-header.php:21
+msgid "Fullscreen"
+msgstr ""
+
+#: framework/setup/vinero-section-header.php:22
+msgid "Aside"
+msgstr ""
+
+#: framework/setup/vinero-section-header.php:32
+msgid "Navbar Logo"
+msgstr ""
+
+#: framework/setup/vinero-section-header.php:33
+msgid "Choose a logo image to display for \"Navbar\""
+msgstr ""
+
+#: framework/setup/vinero-section-header.php:53
+msgid "Fixed Header"
+msgstr ""
+
+#: framework/setup/vinero-section-header.php:68
+msgid "Header Position"
+msgstr ""
+
+#: framework/setup/vinero-section-header.php:69
+msgid "Select header position"
+msgstr ""
+
+#: framework/setup/vinero-section-header.php:75
+msgid "Fixed"
+msgstr ""
+
+#: framework/setup/vinero-section-header.php:76
+msgid "Static"
+msgstr ""
+
+#: framework/setup/vinero-section-header.php:96
+msgid "Show Social"
+msgstr ""
+
+#: framework/setup/vinero-section-header.php:97
+msgid "Switch \"Show\" if you want to display \"Social Lists\""
+msgstr ""
+
+#: framework/setup/vinero-section-header.php:110
+msgid "Social List"
+msgstr ""
+
+#: framework/setup/vinero-section-header.php:111
+msgid "Here you can add social icon and url"
+msgstr ""
+
+#: framework/setup/vinero-section-header.php:118
+msgid "Social Link"
+msgstr ""
+
+#: framework/setup/vinero-section-header.php:123
+msgid "Icon"
+msgstr ""
+
+#: framework/setup/vinero-section-header.php:128
+msgid "Social URL"
+msgstr ""
+
+#: framework/setup/vinero-section-header.php:132
+msgid "Social Name"
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:15
+msgid "Blog Layout"
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:16
+#: framework/setup/vinero-section-pages.php:106
+#: framework/setup/vinero-section-pages.php:174
+msgid "Select a blog layout from the list below"
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:29
+msgid "Blog Title"
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:30
+msgid "Title for blog page"
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:32
+msgid "Recent News"
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:40
+msgid "Blog Subtitle"
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:41
+msgid "Subtitle for blog page"
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:43
+msgid "Read the latest news and stories."
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:52
+msgid "Blog Background Image"
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:63
+#: framework/setup/vinero-section-pages.php:131
+#: framework/setup/vinero-section-pages.php:197
+#: framework/setup/vinero-section-woo.php:56
+msgid "Type Pagination"
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:64
+#: framework/setup/vinero-section-pages.php:132
+#: framework/setup/vinero-section-pages.php:198
+#: framework/setup/vinero-section-woo.php:57
+msgid "Select the type of navigation below"
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:70
+#: framework/setup/vinero-section-pages.php:138
+#: framework/setup/vinero-section-pages.php:204
+#: framework/setup/vinero-section-woo.php:63
+msgid "Prev/Next buttons"
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:71
+#: framework/setup/vinero-section-pages.php:139
+#: framework/setup/vinero-section-pages.php:205
+#: framework/setup/vinero-section-woo.php:64
+msgid "Numeric"
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:72
+#: framework/setup/vinero-section-pages.php:140
+#: framework/setup/vinero-section-pages.php:206
+#: framework/setup/vinero-section-woo.php:65
+msgid "Load More Button"
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:73
+#: framework/setup/vinero-section-pages.php:141
+#: framework/setup/vinero-section-pages.php:207
+#: framework/setup/vinero-section-woo.php:66
+msgid "Infinite Scroll"
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:81
+#: framework/setup/vinero-section-pages.php:149
+#: framework/setup/vinero-section-pages.php:214
+msgid "Show/Hide Popular News"
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:82
+#: framework/setup/vinero-section-pages.php:150
+#: framework/setup/vinero-section-pages.php:215
+msgid "Switch \"Show\" if you want to show popular news."
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:105
+msgid "Archive Layout"
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:120
+msgid "Archive Background Image"
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:173
+msgid "Search Layout"
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:187
+msgid "Search Background Image"
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:238
+msgid "Show/Hide Recent News"
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:239
+msgid "Switch \"Show\" if you want to show recent news."
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:262
+msgid "Error Title"
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:263
+msgid "Enter a title for page 404"
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:274
+msgid "Error Subtitle"
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:275
+msgid "Enter a subtitle for page 404"
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:277
+msgid "Page not found"
+msgstr ""
+
+#: framework/setup/vinero-section-pages.php:285
+msgid "Error Background Image"
+msgstr ""
+
+#: framework/setup/vinero-section-sidebar.php:8
+msgid "Widget Title Typography"
+msgstr ""
+
+#: framework/setup/vinero-section-single-portfolio.php:13
+msgid "Show navigation"
+msgstr ""
+
+#: framework/setup/vinero-section-single-portfolio.php:14
+msgid "Switch \"Show\" if you want to show navigation"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:12
+msgid "Enable Typekit"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:26
+msgid "Typekit ID"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:41
+msgid "Typekit Fonts"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:42
+msgid "Here you can add typekit fonts"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:49
+msgid "Typekit Font"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:59
+msgid "CSS Name"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:63
+msgid "Variants"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:66
+msgid "100"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:67
+msgid "100italic"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:68
+msgid "200"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:69
+msgid "200italic"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:70
+msgid "300"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:71
+msgid "300italic"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:72
+msgid "regular"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:73
+msgid "italic"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:74
+msgid "500"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:75
+msgid "500italic"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:76
+msgid "600"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:77
+msgid "600italic"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:78
+msgid "700"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:79
+msgid "700italic"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:80
+msgid "800"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:81
+msgid "800italic"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:82
+msgid "900"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:83
+msgid "900italic"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:88
+msgid "Fallback"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:90
+msgid "Helvetica, Arial, sans-serif"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:91
+msgid "Georgia, serif"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:92
+#: framework/setup/vinero-section-typekit.php:93
+msgid "\"Comic Sans MS\", cursive, sans-serif"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:94
+msgid "\"Lucida Console\", Monaco, monospace"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:99
+msgid "Subsets"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:102
+msgid "Cyrillic"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:103
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:104
+msgid "Devanagari"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:105
+msgid "Greek"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:106
+msgid "Greek Extended"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:107
+msgid "Khmer"
+msgstr ""
+
+#: framework/setup/vinero-section-typekit.php:108
+msgid "Latin"
+msgstr ""
+
+#: framework/setup/vinero-section-typography.php:13
+msgid "H1 Typography"
+msgstr ""
+
+#: framework/setup/vinero-section-typography.php:36
+msgid "H2 Typography"
+msgstr ""
+
+#: framework/setup/vinero-section-typography.php:59
+msgid "H3 Typography"
+msgstr ""
+
+#: framework/setup/vinero-section-typography.php:83
+msgid "H4 Typography"
+msgstr ""
+
+#: framework/setup/vinero-section-typography.php:107
+msgid "H5 Typography"
+msgstr ""
+
+#: framework/setup/vinero-section-typography.php:130
+msgid "H6 Typography"
+msgstr ""
+
+#: framework/setup/vinero-section-typography.php:163
+msgid "Text Typography"
+msgstr ""
+
+#: framework/setup/vinero-section-woo.php:12
+msgid "Shop Title"
+msgstr ""
+
+#: framework/setup/vinero-section-woo.php:13
+msgid "Title for shop page"
+msgstr ""
+
+#: framework/setup/vinero-section-woo.php:23
+msgid "Shop Subtitle"
+msgstr ""
+
+#: framework/setup/vinero-section-woo.php:24
+msgid "Subtitle for shop page"
+msgstr ""
+
+#: framework/setup/vinero-section-woo.php:34
+msgid "Shop Background Image"
+msgstr ""
+
+#: framework/setup/vinero-section-woo.php:44
+msgid "The number of products displayed"
+msgstr ""
+
+#: framework/setup/vinero-section-woo.php:45
+msgid "Maximum products per page"
+msgstr ""
+
+#: framework/setup/vinero-section-woo.php:74
+msgid "Gutter between products"
+msgstr ""
+
+#: framework/setup/vinero-section-woo.php:90
+msgid "Catalog Mode"
+msgstr ""
+
+#: framework/setup/vinero-section-woo.php:91
+msgid "Switch \"Show\" if you want to show sidebar"
+msgstr ""
+
+#: includes/widgets/about.php:9
+msgid "Display Image, Text and Link."
+msgstr ""
+
+#: includes/widgets/about.php:11
+msgid "Vinero: About"
+msgstr ""
+
+#: includes/widgets/about.php:70 includes/widgets/socials.php:85
+#: includes/widgets/subscribe.php:64 includes/widgets/twitter.php:171
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/socials.php:9
+msgid "Display Social Links."
+msgstr ""
+
+#: includes/widgets/socials.php:11
+msgid "Vinero: Social Links"
+msgstr ""
+
+#: includes/widgets/subscribe.php:9
+msgid "Display MailChimp Subscribe Form."
+msgstr ""
+
+#: includes/widgets/subscribe.php:11
+msgid "Vinero: Subscribe"
+msgstr ""
+
+#: includes/widgets/subscribe.php:48
+msgid "Subscribe"
+msgstr ""
+
+#: includes/widgets/twitter.php:28
+msgid "right now"
+msgstr ""
+
+#: includes/widgets/twitter.php:30
+msgid " seconds ago"
+msgstr ""
+
+#: includes/widgets/twitter.php:32
+msgid "about 1 minute ago"
+msgstr ""
+
+#: includes/widgets/twitter.php:34
+msgid " minutes ago"
+msgstr ""
+
+#: includes/widgets/twitter.php:36
+msgid "about 1 hour ago"
+msgstr ""
+
+#: includes/widgets/twitter.php:38
+msgid " hours ago"
+msgstr ""
+
+#: includes/widgets/twitter.php:40
+msgid "yesterday"
+msgstr ""
+
+#: includes/widgets/twitter.php:42
+msgid " days ago"
+msgstr ""
+
+#: includes/widgets/twitter.php:44
+msgid "over a year ago"
+msgstr ""
+
+#: includes/widgets/twitter.php:55
+msgid "Display Twitter Feed Widget."
+msgstr ""
+
+#: includes/widgets/twitter.php:57
+msgid "Vinero: Twitter"
+msgstr ""
+
+#: includes/widgets/twitter.php:87
+msgid "Unable to load tweets. Please enter all required fields."
+msgstr ""
+
+#: includes/widgets/twitter.php:105
+msgid "Unable to load tweets."
+msgstr ""
+
+#: templates/content/vinero-content-none.php:3
+#: templates/content/vinero-content-none.php:6
+#: templates/content/vinero-content-none.php:12
+#: woocommerce/cart/cart-empty.php:28
+msgid "No Content"
+msgstr ""
+
+#: templates/content/vinero-content-none.php:4
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\" class=\"vl-link reverse\">"
+"Get started here</a>."
+msgstr ""
+
+#: templates/content/vinero-content-none.php:7
+msgid "Sorry, but nothing matched your search terms."
+msgstr ""
+
+#: templates/content/vinero-content-none.php:9
+msgid "We couldn`t find the page you were looking for."
+msgstr ""
+
+#: templates/content/vinero-content-none.php:10
+msgid "Back to Home"
+msgstr ""
+
+#: templates/content/vinero-content-none.php:13
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: templates/header/vinero-header-aside.php:30
+#: templates/header/vinero-header-fullscreen.php:31
+#: templates/header/vinero-header-standard.php:45
+msgid "Menu"
+msgstr ""
+
+#: templates/page-title/vinero-pagetitle-hero-archive.php:8
+msgid "Categories Archives"
+msgstr ""
+
+#: templates/page-title/vinero-pagetitle-hero-archive.php:13
+msgid "Author Archives"
+msgstr ""
+
+#: templates/page-title/vinero-pagetitle-hero-archive.php:19
+msgid "Tags Archives"
+msgstr ""
+
+#: templates/page-title/vinero-pagetitle-hero-archive.php:24
+msgid "Daily Archives"
+msgstr ""
+
+#: templates/page-title/vinero-pagetitle-hero-archive.php:29
+msgid "Monthly Archives"
+msgstr ""
+
+#: templates/page-title/vinero-pagetitle-hero-archive.php:34
+msgid "Yearly Archives"
+msgstr ""
+
+#: templates/page-title/vinero-pagetitle-hero-search.php:3
+msgid "Search Results"
+msgstr ""
+
+#: templates/page-title/vinero-pagetitle-singlepost.php:8
+msgid "0 Comments"
+msgstr ""
+
+#: templates/page-title/vinero-pagetitle-singlepost.php:8
+msgid "1 Comment"
+msgstr ""
+
+#: templates/post/vinero-post-masonry.php:26
+#: templates/post/vinero-post-standard.php:27
+msgid "Read More"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:33
+msgid "Return to shop"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:35 woocommerce/checkout/review-order.php:59
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:57
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:73
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:94 woocommerce/checkout/review-order.php:27
+#: woocommerce/checkout/review-order.php:106
+#: woocommerce/myaccount/my-orders.php:16
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37 woocommerce/checkout/review-order.php:26
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:80
+#: woocommerce/single-product/add-to-cart/simple.php:48
+#: woocommerce/single-product/add-to-cart/variable.php:52
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:39 woocommerce/cart/cart.php:97
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:40
+msgid "Remove"
+msgstr ""
+
+#: woocommerce/cart/cart.php:74
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:106
+msgid "X"
+msgstr ""
+
+#: woocommerce/cart/cart.php:108
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:132 woocommerce/checkout/form-coupon.php:37
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:138
+msgid "Update Shopping Cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:27
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:27
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:27
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:31
+msgid "Return to cart"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:33
+msgid "Billing details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:61
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:59
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:29
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:29
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:29
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:63
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:41
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your order."
+" You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:42
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction. Please attempt your purchase "
+"again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:33 woocommerce/myaccount/my-orders.php:75
+#: woocommerce/myaccount/orders.php:71
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:35
+msgid "My account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:41 woocommerce/checkout/thankyou.php:78
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:46
+msgid "Order number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:51
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:56
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:63
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/global/form-login.php:35 woocommerce/myaccount/form-login.php:44
+#: woocommerce/myaccount/form-login.php:84
+#: woocommerce/myaccount/form-lost-password.php:30
+msgid "Username"
+msgstr ""
+
+#: woocommerce/global/form-login.php:40 woocommerce/myaccount/form-login.php:48
+#: woocommerce/myaccount/form-login.php:98
+msgid "Password"
+msgstr ""
+
+#: woocommerce/global/form-login.php:51 woocommerce/myaccount/form-login.php:58
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:55 woocommerce/myaccount/form-login.php:62
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:33
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:29
+#: woocommerce/single-product/sale-flash.php:29
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:29
+#, php-format
+msgid "Hello %1$s (not %1$s? <a href=\"%2$s\" class=\"vl-link\">Log out</a>)"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:37
+#, php-format
+msgid ""
+"From your account dashboard you can view your <a href=\"%1$s\">recent "
+"orders</a>, manage your <a href=\"%2$s\">shipping and billing addresses</a> "
+"and <a href=\"%3$s\">edit your password and account details</a>."
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:62
+msgid "&infin;"
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:68
+msgid "Never"
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:76
+msgid "Download"
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:98 woocommerce/myaccount/orders.php:122
+msgid "Go shop"
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:100
+msgid "No downloads available yet."
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:53
+#: woocommerce/myaccount/payment-methods.php:79
+msgid "Add payment method"
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:59
+msgid ""
+"Sorry, it seems that there are no payment methods which support adding a new "
+"payment method. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:30
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:36
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:41
+#: woocommerce/myaccount/form-login.php:91
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:46
+msgid "Password change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:49
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:53
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:57
+msgid "Confirm new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:67
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:23
+#: woocommerce/myaccount/my-address.php:27
+#: woocommerce/myaccount/my-address.php:32
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:23
+#: woocommerce/myaccount/my-address.php:28
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:52
+msgid "Save address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:75
+#: woocommerce/myaccount/form-login.php:111
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:105
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:27
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:39
+msgid "Reset password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:27
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:30
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:34
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:47
+msgid "Save"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:41
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:70
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:13
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:14
+msgid "Date"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:15
+msgid "Status"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:30
+msgid "Recent orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:55 woocommerce/myaccount/orders.php:51
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#. 1: formatted order total 2: total order items
+#. 1: formatted order total 2: total order items
+#: woocommerce/myaccount/my-orders.php:67 woocommerce/myaccount/orders.php:63
+#, php-format
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:79 woocommerce/myaccount/orders.php:75
+msgid "View"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:83 woocommerce/myaccount/orders.php:79
+msgid "Cancel"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:110
+msgid "Previous"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:124
+msgid "No order has been made yet."
+msgstr ""
+
+#: woocommerce/myaccount/payment-methods.php:52
+#, php-format
+msgid "%1$s ending in %2$s"
+msgstr ""
+
+#: woocommerce/myaccount/payment-methods.php:73
+msgid "No saved methods found."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:29
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"the \"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:31
+msgid "Order ID"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:31
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:32
+msgid "Billing email"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:32
+msgid "Email you used during checkout."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:35
+msgid "Track"
+msgstr ""
+
+#: woocommerce/order/order-again.php:25
+msgid "Order again"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:31
+msgid "SKU: "
+msgstr ""
+
+#: woocommerce/single-product/meta.php:31
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:35
+msgid "Category: "
+msgid_plural "Categories: "
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:37
+msgid "Tag: "
+msgid_plural "Tags: "
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:28
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:49
+msgid "Your review is awaiting moderation."
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:28
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: includes/helper/infinity-load/infinity-load.php:22
+msgid "No More Posts"
+msgstr ""
+
+#: includes/helper/infinity-load/infinity-load.php:24
+msgid "Stop"
+msgstr ""
+
+#: includes/helper/infinity-load/infinity-load.php:25
+msgid "Do not Click"
+msgstr ""
+
+#: includes/helper/infinity-load/infinity-load.php:26
+msgid "Nothing Here"
+msgstr ""
+
+#: includes/helper/infinity-load/infinity-load.php:27
+msgid "Hey?"
+msgstr ""
+
+#: includes/helper/infinity-load/infinity-load.php:28
+msgid "What?"
+msgstr ""
+
+#: includes/helper/infinity-load/infinity-load.php:29
+msgid "Are you Crazy?"
+msgstr ""
+
+#: includes/helper/infinity-load/infinity-load.php:30
+msgid "OMG"
+msgstr ""
+
+#: includes/helper/infinity-load/infinity-load.php:31
+msgid "Unbelievable"
+msgstr ""
+
+#: includes/helper/infinity-load/infinity-load.php:32
+msgid "Get Lost!"
+msgstr ""
+
+#: includes/helper/infinity-load/infinity-load.php:54
+msgid "Loading..."
+msgstr ""
+
+#: includes/helper/infinity-load/infinity-load.php:55
+msgid "No more posts"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/simple.php:38
+#: woocommerce/single-product/add-to-cart/variable.php:33
+msgid "Availability"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:34
+msgid "Out of stock"
+msgstr ""
+
+#. Name of the theme
+msgid "Vinero"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Vinero is a unique portfolio WP Theme, focused on minimalism, elegance and "
+"simplicity. Perfect typography and unique elements that will help you create "
+"your own style."
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://vlthemes.com/vinero-wp"
+msgstr ""
+
+msgid "VLThemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/vlthemes"
+msgstr ""

@@ -1,0 +1,137 @@
+# Translation of Plugins - Duplicate Page - Development (trunk) in Galician
+# This file is distributed under the same license as the Plugins - Duplicate Page - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-28 10:53:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: gl_ES\n"
+"Project-Id-Version: Plugins - Duplicate Page - Development (trunk)\n"
+
+#: inc/admin-settings.php:54
+msgid "Please select which editor your are using. <strong>Default:</strong> Classic Editor"
+msgstr "Por favor, elixe qué editor estás usando. <strong>Por defecto:</strong> Editor clásico"
+
+#: inc/admin-settings.php:52
+msgid "Gutenberg Editor"
+msgstr "Editor Gutenberg"
+
+#: inc/admin-settings.php:51
+msgid "Classic Editor"
+msgstr "Editor Clásico"
+
+#: inc/admin-settings.php:47
+msgid "Choose Editor"
+msgstr "Elexir editor"
+
+#: duplicatepage.php:307
+msgid "Duplicate This as "
+msgstr "Duplicar esto como "
+
+#: inc/admin-settings.php:64
+msgid "Pending"
+msgstr "Pendente"
+
+#: inc/admin-settings.php:63
+msgid "Private"
+msgstr "Privado"
+
+#: inc/admin-settings.php:62
+msgid "Publish"
+msgstr "Publicar"
+
+#: inc/admin-settings.php:61
+msgid "Draft"
+msgstr "Borrador"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/mndpsingh287/"
+msgstr "https://profiles.wordpress.org/mndpsingh287/"
+
+#. Author of the plugin
+msgid "mndpsingh287"
+msgstr "mndpsingh287"
+
+#. Description of the plugin
+msgid "Duplicate Posts, Pages and Custom Posts using single click."
+msgstr "Duplica entradas, páxinas e entradas personalizadas cun só clic."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/duplicate-page/"
+msgstr "https://wordpress.org/plugins/duplicate-page/"
+
+#: duplicatepage.php:217 duplicatepage.php:233
+msgid "Duplicate This"
+msgstr "Duplicar"
+
+#. Plugin Name of the plugin
+#: duplicatepage.php:91
+msgid "Duplicate Page"
+msgstr "Duplicar páxina"
+
+#: duplicatepage.php:78
+msgid "Donate"
+msgstr "Doar"
+
+#: duplicatepage.php:77
+msgid "Settings"
+msgstr "Axustes"
+
+#: inc/admin-settings.php:82
+msgid "Add a suffix for duplicate or clone post as Copy, Clone etc. It will show after title."
+msgstr "Engade un sufixo para a entrada duplicada ou clonada tal como \"Copia\", \"Clon\", etc. Aparecerá inmediatamente despóis do título."
+
+#: inc/admin-settings.php:79
+msgid "Duplicate Post Suffix"
+msgstr "Sufixo de entrada duplicada"
+
+#: inc/admin-settings.php:73
+msgid "To Duplicate Edit Screen"
+msgstr "Á pantalla de edición do duplicado"
+
+#: inc/admin-settings.php:72
+msgid "To All Posts List"
+msgstr "Ao listado de tódalas entradas"
+
+#: inc/admin-settings.php:70
+msgid "Redirect to after click on <strong>Duplicate This Link</strong>"
+msgstr "Onde redirixir despóis de <strong>Duplicar</strong>"
+
+#: inc/admin-settings.php:66
+msgid "Please select any post status you want to assign for duplicate post. <strong>Default:</strong> Draft."
+msgstr "Por favor, selecciona o estado de entrada que queras asignar á mesma no momento de duplicar. <strong>Por defecto</strong> Borrador."
+
+#: inc/admin-settings.php:75
+msgid "Please select any post redirection, redirect you to selected after click on duplicate this link. <strong>Default:</strong> To current list."
+msgstr "Selecciona onde queres que redirixamos despóis de facer clic en duplicar esta entrada. <strong>Por defecto:</strong> Ao listado actual."
+
+#: inc/admin-settings.php:58
+msgid "Duplicate Post Status"
+msgstr "Estado de entrada duplicada"
+
+#: inc/admin-settings.php:35
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>Settings not saved.</strong></p><button class=\"notice-dismiss\" type=\"button\"><span class=\"screen-reader-text\">Dismiss this notice.</span></button></div>"
+msgstr "<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> <p><strong>Axustes non gardados.</strong></p><button class=\"notice-dismiss\" type=\"button\"> <span class=\"screen-reader-text\">Pechar esta notificación.</span></button></div> "
+
+#: inc/admin-settings.php:32
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>Settings saved.</strong></p><button class=\"notice-dismiss\" type=\"button\"><span class=\"screen-reader-text\">Dismiss this notice.</span></button></div>"
+msgstr "<div class=\"updated settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> <p><strong>Axustes gardados.</strong></p><button class=\"notice-dismiss\" type=\"button\"> <span class=\"screen-reader-text\">Pechar esta notificación.</span></button></div> "
+
+#: inc/admin-settings.php:16
+msgid "<strong>Saving Please wait...</strong>"
+msgstr "<strong>Gardando...</strong>"
+
+#: inc/admin-settings.php:11
+msgid "Buy PRO"
+msgstr "Conseguir a versión PRO"
+
+#: inc/admin-settings.php:11
+msgid "Duplicate Page Settings "
+msgstr "Axustes de duplicar páxina "

@@ -1,0 +1,252 @@
+/*!  TYPOGRAPHY
+----------------------------------------------------------*/
+
+.highlight
+	background-color $c0
+	color $c6
+
+p
+	margin-top 0
+	margin-bottom 30px
+
+p.large
+	font-size 36px
+	line-height 3.2rem
+	color $c0
+
+a
+	color inherit
+	transition color 300ms $transition
+	text-decoration none
+
+a:hover,
+a:focus,
+a:active
+	color inherit
+	text-decoration none
+	outline none
+	
+a:hover
+	color $c0
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6
+	padding 0
+	margin 0
+
+ul,
+ol
+	list-style-position inside
+	padding 0
+	margin 0
+
+ul
+	list-style-type disc
+
+hr
+	margin 30px 0
+	border none
+	border-bottom 1px solid $c7
+
+address
+	font-style italic
+	font-size 20px
+	line-height 1.9rem
+	margin 30px 0
+	color $c0
+
+blockquote
+	position relative
+	margin 30px 0
+	padding-left 50px
+	&::before
+		content '"'
+		position absolute
+		top 0
+		left 0
+		font-size 50px
+		line-height 1
+		
+blockquote *
+	margin 0 !important	
+
+cite
+	color $c0
+	display block
+	font-size 12px
+	font-style normal
+	text-transform uppercase
+	letter-spacing 2px
+	&::before
+		content '\2014'
+		padding-right 10px
+
+code
+	font-family Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
+	font-size 14px
+	background-color $c6
+	border solid 1px $c0
+	padding 4px 5px
+	color $c0
+	font-size 80%
+
+pre
+	font-family Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
+	font-size 14px
+	margin 30px 0
+	overflow auto
+	max-width 100%
+	padding 8px 10px
+	clear both
+	white-space pre-wrap
+	background-color $c6
+	border solid 1px $c0
+	color $c0
+
+form
+	max-width 100%
+
+label
+	display block
+	margin-bottom 5px
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="tel"],
+input[type="url"],
+input[type="search"],
+input[type="number"],
+textarea,
+select
+	display block
+	outline none
+	padding 8px 15px
+	margin 0
+	border none
+	box-shadow none
+	border-radius 0
+	background-color $c6
+	border 1px solid $c8
+	appearance none
+	width 100%
+	
+input[type='number']
+	-moz-appearance textfield
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button
+	appearance none
+
+select
+	background-image url('../img/select_bg.svg')
+	background-position calc(100% - 10px) 50%
+	background-repeat no-repeat 
+	background-size 10px
+	padding-right 30px
+	
+textarea
+	width 100%
+	max-width 100%
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="tel"],
+input[type="url"],
+input[type="search"],
+input[type="number"],
+textarea,
+select
+	+placeholder()
+		color $c1
+		opacity 1
+	&:focus
+		outline none
+		border-color $c0
+
+.vl-form-group,
+.form-row
+	position relative
+	display block
+	margin-bottom 30px
+	
+// SELECTIZE
+
+.select2-container--default
+	width 50% !important
+	
+.select2-dropdown,
+.select2-container--default .select2-selection--single,
+.select2-container--default .select2-search--dropdown .select2-search__field
+	border-color $c7
+	border-radius 0
+	height auto
+	outline none
+	
+
+.select2-container .select2-selection--single .select2-selection__rendered
+	padding 8px 30px 8px 10px
+	
+.select2-container--default .select2-selection--single .select2-selection__arrow
+	width 30px
+	height 100%
+	top 0
+	right 0	
+	background-image url('../img/select_bg.svg')
+	background-position calc(100% - 10px) 50%
+	background-repeat no-repeat 
+	background-size 10px
+	b
+		display none
+	
+.select2-container--default.select2-container--open .select2-selection--single
+	border-color $c0
+	
+
+.select2-container--default .select2-selection--single .select2-selection__rendered
+	color $c0
+
+.select2-container--default .select2-results__option[aria-selected=true],
+.select2-container--default .select2-results__option--highlighted[aria-selected]
+	color $c6
+	background-color $c0
+
+dl
+	margin 30px 0
+	
+dt
+	color $c0
+	font-weight 700
+	text-transform uppercase
+
+dd
+	padding 0
+	margin 0
+
+dd + dt
+	margin-top 10px
+
+table
+	width 100%
+	max-width 100%
+	margin 30px 0
+	border-collapse collapse
+	border-spacing 0
+	
+th
+	text-align left
+	font-weight 400
+	color $c0
+
+table
+	th,
+	td
+		padding 10px
+
+table, th, td
+	border 1px solid $c0

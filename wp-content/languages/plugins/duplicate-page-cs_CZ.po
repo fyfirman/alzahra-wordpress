@@ -1,0 +1,105 @@
+# Translation of Plugins - Duplicate Page - Development (trunk) in Czech
+# This file is distributed under the same license as the Plugins - Duplicate Page - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-02-09 07:19:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Plugins - Duplicate Page - Development (trunk)\n"
+
+#. Description of the plugin
+msgid "Duplicate Posts, Pages and Custom Posts using single click."
+msgstr "Duplikujte příspěvky, stránky a vlastní příspěvky jedním kliknutím."
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/mndpsingh287/"
+msgstr "https://profiles.wordpress.org/mndpsingh287/"
+
+#. Author of the plugin
+msgid "mndpsingh287"
+msgstr "mndpsingh287"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/duplicate-page/"
+msgstr "https://cs.wordpress.org/plugins/duplicate-page/"
+
+#: inc/admin-settings.php:82
+msgid "Add a suffix for duplicate or clone post as Copy, Clone etc. It will show after title."
+msgstr "Zde si můžete zvolit příponu, kterou plugin připojí k názvu duplikované položky. Může zůstat prázdné, nebo například: kopie."
+
+#: inc/admin-settings.php:79
+msgid "Duplicate Post Suffix"
+msgstr "Přípona duplikovaného obsahu"
+
+#: duplicatepage.php:217 duplicatepage.php:233
+msgid "Duplicate This"
+msgstr "Duplikovat toto"
+
+#. Plugin Name of the plugin
+#: duplicatepage.php:91
+msgid "Duplicate Page"
+msgstr "Duplikovat stránku"
+
+#: duplicatepage.php:78
+msgid "Donate"
+msgstr "Darovat"
+
+#: duplicatepage.php:77
+msgid "Settings"
+msgstr "Nastavení"
+
+#: inc/admin-settings.php:35
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>Settings not saved.</strong></p><button class=\"notice-dismiss\" type=\"button\"><span class=\"screen-reader-text\">Dismiss this notice.</span></button></div>"
+msgstr ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>Nastavení nebylo uloženo!</strong></p><button class=\"notice-dismiss\" type=\"button\"><span class=\"screen-reader-text\">Rozumím.</span></button></div>"
+
+#: inc/admin-settings.php:75
+msgid "Please select any post redirection, redirect you to selected after click on duplicate this link. <strong>Default:</strong> To current list."
+msgstr "Co se stane po kliknutí na tlačítko duplikovat. <strong>Výchozí:</strong> Zůstat kde jste byli"
+
+#: inc/admin-settings.php:70
+msgid "Redirect to after click on <strong>Duplicate This Link</strong>"
+msgstr "Kam přesměrovat potom, co se vytvoří <strong>duplikát</strong>"
+
+#: inc/admin-settings.php:66
+msgid "Please select any post status you want to assign for duplicate post. <strong>Default:</strong> Draft."
+msgstr "Když se vytvoří duplikát, je potřeba mu nastavit stav publikovaní. <strong>Výchozí:</strong> Koncept"
+
+#: inc/admin-settings.php:58
+msgid "Duplicate Post Status"
+msgstr "Stav duplikátu po vytvoření"
+
+#: inc/admin-settings.php:11
+msgid "Buy PRO"
+msgstr "Koupit PRO"
+
+#: inc/admin-settings.php:11
+msgid "Duplicate Page Settings "
+msgstr "Nastavení Duplicate Page"
+
+#: inc/admin-settings.php:72
+msgid "To All Posts List"
+msgstr "Seznam všech příspěvků"
+
+#: inc/admin-settings.php:32
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>Settings saved.</strong></p><button class=\"notice-dismiss\" type=\"button\"><span class=\"screen-reader-text\">Dismiss this notice.</span></button></div>"
+msgstr ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>Nastavení bylo uloženo.</strong></p><button class=\"notice-dismiss\" type=\"button\"><span class=\"screen-reader-text\">Rozumím.</span></button></div>"
+
+#: inc/admin-settings.php:16
+msgid "<strong>Saving Please wait...</strong>"
+msgstr "<strong>Ukládá se nastavení...</strong>"
+
+#: inc/admin-settings.php:73
+msgid "To Duplicate Edit Screen"
+msgstr "Otevřít duplikát pro úpravu"

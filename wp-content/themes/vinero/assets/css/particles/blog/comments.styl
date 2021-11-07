@@ -1,0 +1,129 @@
+/*!  COMMENTS
+----------------------------------------------------------*/
+
+.vl-comments
+	margin-top 50px
+	
+.vl-comments-holder
+	padding-right 8px
+	@media (max-width: 767px)
+		padding-right 0
+		
+.vl-comment-form-holder
+	padding-left 8px
+	@media (max-width: 767px)
+		padding-left 0
+	
+.vl-comment-form .form-submit
+	margin-bottom 0
+
+.comment + .comment-respond
+	margin-top 15px
+	
+.vl-comment-reply-title,
+.vl-comment-title
+	text-transform uppercase
+	
+#cancel-comment-reply-link
+	color $c2
+	font-size 14px
+	margin-left 10px
+	font-style italic
+	&:hover
+		color $c0	
+
+.comment-notes,
+.vl-comments-number,
+.logged-in-as
+	margin-bottom 30px
+	
+.moderate,
+.comments-closed
+	color $c0
+	display block
+	font-size 14px
+	margin-bottom 30px
+
+
+
+// COMMENT LIST
+
+.vl-comments-list,
+.vl-comments-list ul
+	list-style-type none
+	margin 0
+	padding 0
+	
+
+
+// COMMENT
+
+.vl-comments-list li
+	padding-top 2rem
+	&:first-child
+		padding-top 0
+		
+.vl-comments-list > li ul.children
+	padding-left 2rem
+
+.vl-comments-list > li ul.children > li
+	padding-top 2rem
+
+.vl-comment-left
+	float left
+	text-align center
+	
+	.vl-comment-avatar
+		height 50px
+		width 50px
+		
+
+.vl-comment-content
+	padding-left 80px
+	position relative
+	
+	.vl-comment-header-holder
+		height 50px
+		display flex
+		align-items center
+		
+		.vl-comment-author
+			line-height 1
+
+			&.comment-author::after
+				content '·'
+				margin-left 2px
+			
+		.vl-comment-date
+			margin-top 5px
+	
+	.vl-comment-text
+		margin-top 1rem
+		
+		.comment-edit-link
+			font-size 14px
+			color $c0
+			margin-right 15px
+			&:hover
+				color $c3
+				
+		.comment-reply-link
+			position absolute
+			top 0
+			right 0
+			padding 5px 10px
+			line-height 1
+			font-size 12px
+			text-transform uppercase
+			letter-spacing 2px
+			background-color $c8
+			color $c0
+
+
+@media (max-width: 767px)
+
+	.vl-comment-form-holder
+		margin-top 100px
+		
+	.vl-comments-list > li ul.children
+		padding-left 0
