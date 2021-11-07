@@ -19,11 +19,12 @@ CREATE TABLE `wp_revisr` (
   `event` varchar(42) NOT NULL,
   `user` varchar(60) DEFAULT NULL,
   UNIQUE KEY `id` (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 LOCK TABLES `wp_revisr` WRITE;
 /*!40000 ALTER TABLE `wp_revisr` DISABLE KEYS */;
+INSERT INTO `wp_revisr` VALUES (1,'2021-11-07 19:30:30','Successfully backed up the database.','backup','zhra.creative'),(2,'2021-11-07 19:30:30','Error staging files.','error','zhra.creative'),(3,'2021-11-07 19:30:30','There was an error committing the changes to the local repository.','error','zhra.creative'),(4,'2021-11-07 19:37:31','There was an error committing the changes to the local repository.','error','zhra.creative');
 /*!40000 ALTER TABLE `wp_revisr` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
